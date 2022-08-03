@@ -88,8 +88,8 @@
 		  ],
 		  "L" : [
 		    {
-		      "" : [""],
-		      "" : [""]
+		      "lavador" : ["personal lavador"	   ],
+		      "legislador" : ["personal legislador"]
 		    }
 		  ],
 		  "M" : [
@@ -101,12 +101,14 @@
 		  ],
 		  "N" : [
 		    {
-		      "niñ" : ["niñez", "infancia"]
+		      "niñ" : ["niñez", "infancia"  ],
+			  "notari" : ["personal notario"]
 		    }
 		  ],
 		  "O" : [
 		    {
-		      "orientador" : ["personal orientador"]
+		      "orientador" : ["personal orientador"],
+			  "obrer" : ["personal obrero"		   ]
 		    }
 		  ],
 		  "P" : [
@@ -119,13 +121,14 @@
 		  ],
 		  "Q" : [
 		    {
-		      "" : [""],
-		      "" : [""]
+		      "queser" : ["personal quesero"   ],
+		      "químic" : ["personal de química"]
 		    }
 		  ],
 		  "R" : [
 		    {
-		      "redactor" : ["redacción"]
+		      "redactor" : ["redacción"          ],
+			  "rector" : ["titulares de rectoría"]
 		    }
 		  ],
 		  "S" : [
@@ -173,14 +176,21 @@
 		  ],
 		  "Z" : [
 		    {
-		      "" : [""],
-		      "" : [""]
+		      "zapater" : ["personal zapatero"  ],
+		      "zoólog" : ["personal de zoología"]
 		    }
 		  ]
 		}
 	],
 	"bibliografia" : [ 
 		// A partir de aquí se encuentran las referencias de donde fue tomada la información para la elaborar este json
+		{
+			"nombre"      : "Desafíos de construir ciudadanía a través del lenguaje: lenguaje claro y lenguaje inclusivo. Análisis de la “Guía para el uso de un lenguaje no sexista e igualitario en la Honorable Cámara de Diputados de la Nación” de la Argentina",
+			"sitioWeb"    : "https://revistas.uvigo.es/index.php/AFH/article/download/2766/3233",
+			"autor"       : ["Ivana Astrid Basset"],
+			"año"         : "2021",
+			"numeroLista" : 14
+		},
 		{
 			"nombre"      : "Guía de uso del lenguaje inclusivo de género",
 			"sitioWeb"    : "https://repositorio.ciem.ucr.ac.cr/jspui/bitstream/123456789/192/1/RCIEM170.pdf",
@@ -215,13 +225,6 @@
 			"autor"       : ["Thainie Reyes", "Carmen Sanfeliz", "Verónica N. Vélez", " Mabel E. Valentín", "Janet Soltero", "Amanda Baerga"],
 			"año"         : "2020",
 			"numeroLista" : 32
-		},
-		{
-			"nombre"      : "Desafíos de construir ciudadanía a través del lenguaje: lenguaje claro y lenguaje inclusivo. Análisis de la “Guía para el uso de un lenguaje no sexista e igualitario en la Honorable Cámara de Diputados de la Nación” de la Argentina",
-			"sitioWeb"    : "https://revistas.uvigo.es/index.php/AFH/article/download/2766/3233",
-			"autor"       : ["Ivana Astrid Basset"],
-			"año"         : "2021",
-			"numeroLista" : 14
 		}
 	]
 }
