@@ -18,7 +18,11 @@
 		  "C" : [
 		    {
 		      "ciudadan" : ["ciudadanía"],
-		      "cientific" : ["comunidad científica"]
+		      "cientific" : ["comunidad científica"],
+              "camarero":["persona sirviente"],
+		      "camarera":["persona sirviente"],
+              "cazador":["persona que caza"],
+              "carpinter":["persona carpintera"]
 		    }
 		  ],
 		  "D" : [
@@ -26,45 +30,51 @@
 		      "doctor" : ["profesionales en medicina"],
 		      "director" : ["dirección"],
 			  "docent" : ["cuerpo docente"],
-			  "diplomátic" : ["cuerpo diplomático"]
+			  "diplomátic" : ["cuerpo diplomático"],
+              "director":["persona directiva"],
+              "doctor":["persona médica"]
 		    }
 		  ],
 		  "E" : [
 		    {
 		      "expert" : ["personas expertas"],
 		      "estudiant" : ["gremio estudiantil"],
-			  "elector" : ["personal electoral", "electorado"]
+			  "elector" : ["personal electoral", "electorado"],
+              "escritor":["persona escritora"]
 		    }
 		  ],
 		  "F" : [
 		    {
 		      "funcionari" : ["funcionariado", "personas que laboran"],
-		      "" : [""]
+		      "farmaceutic" : ["persona farmaceutica"]
 		    }
 		  ],
 		  "G" : [
 		    {
 		      "gerent" : ["gerencia"],
-		      "" : [""]
+		      "guardian" : ["persona que vigila"]
 		    }
 		  ],
 		  "H" : [
 		    {
 		      "hombr" : ["seres humanos","humanidad"],
-		      "habitant" : ["población"]
+		      "habitant" : ["población"],
+              "hospitalari":["persona que hospeda"]
 		    }
 		  ],
 		  "I" : [
 		    {
 		      "investigador" : ["cuerpo de investigación"],
-		      "interesad" : ["personas interesadas"]
+		      "interesad" : ["personas interesadas"],
+              "ingenier":["persona ingeniera"]
 		    }
 		  ],
 		  "J" : [
 		    {
 		      "jóven" : ["juventud"],
 		      "jef" : ["jefatura"],
-			  "juec" : ["judicadura"]
+			  "juec" : ["judicadura"],
+              "jinet":["persona que cabalga"]
 		    }
 		  ],
 		  "K" : [
