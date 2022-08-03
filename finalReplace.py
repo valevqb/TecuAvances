@@ -7,7 +7,7 @@ dictionary = {}; #diccionario de contenidos
 with open('data.json',encoding="utf-8") as file: #abre el archivo json con tildes
     data = json.load(file);
 
-    for neutral in data['withS']: #agrega los datos
+    for neutral in data['datos']: #agrega los datos
         dictionary[neutral['original']] = neutral['replacement'];
 
 texts = open ('prueba.txt', 'r');
