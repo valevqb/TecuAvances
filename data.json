@@ -1,80 +1,84 @@
 {
-	"datos" : [
+	"datos" : [ 
+				// A partir de aquí se encuentran los datos que van a ser utilizados para reemplazar palabras en los textos de manera que este presente menor cantidad de sesgos
+				// Se dividen por inicial según el abecedario y por "Palabra a reemplazar" : [posibles reemplazos]
 		{
 		  "A" : [
 		    {
-		      "alumn" : ["alumnado"],
-		      "amig" : ["amistades"],
-			  "asesor" : ["asesoría"],
-			  "agresor" : ["quienes agreden"]
+		      "alumn"         : ["alumnado"                  ],
+		      "amig"          : ["amistades"                 ],
+			  "asesor"        : ["asesoría"                  ],
+			  "agresor"       : ["quienes agreden"           ],
+			  "administrativ" : ["El personal administrativo"]
 		    }
 		  ],
 		  "B" : [
 		    {
 		      "beneficiari" : ["personas beneficiarias"],
-		      "" : [""]
+		      ""            : [""                      ]
 		    }
 		  ],
 		  "C" : [
 		    {
-		      "ciudadan" : ["ciudadanía"],
-		      "cientific" : ["comunidad científica"],
-              "camarero":["persona sirviente"],
-		      "camarera":["persona sirviente"],
-              "cazador":["persona que caza"],
-              "carpinter":["persona carpintera"]
+		      "ciudadan"  : ["ciudadanía"           ],
+		      "cientific" : ["comunidad científica" ],
+              "camarero"  : ["persona sirviente"    ],
+		      "camarera"  : ["persona sirviente"    ],
+              "cazador"   : ["persona que caza"     ],
+              "carpinter" : ["persona carpintera"   ]
 		    }
 		  ],
 		  "D" : [
 		    {
-		      "doctor" : ["profesionales en medicina"],
-		      "director" : ["dirección"],
-			  "docent" : ["cuerpo docente"],
-			  "diplomátic" : ["cuerpo diplomático"],
-              "director":["persona directiva"],
-              "doctor":["persona médica"]
+		      "doctor"     : ["profesionales en medicina"    ],
+		      "director"   : ["dirección"                    ],
+			  "docent"     : ["cuerpo docente"               ],
+			  "diplomátic" : ["cuerpo diplomático"           ],
+              "director"   : ["persona directiva"            ],
+              "doctor"     : ["persona médica"               ],
+			  "Diputad"    : ["Integrantes de la Cámara Baja"]
 		    }
 		  ],
 		  "E" : [
 		    {
-		      "expert" : ["personas expertas"],
-		      "estudiant" : ["gremio estudiantil"],
-			  "elector" : ["personal electoral", "electorado"],
-              "escritor":["persona escritora"]
+		      "expert"    : ["personas expertas"               ],
+		      "estudiant" : ["gremio estudiantil"              ],
+			  "elector"   : ["personal electoral", "electorado"],
+              "escritor"  : ["persona escritora"               ]
 		    }
 		  ],
 		  "F" : [
 		    {
-		      "funcionari" : ["funcionariado", "personas que laboran"],
-		      "farmaceutic" : ["persona farmaceutica"]
+		      "funcionari"  : ["funcionariado", "personas que laboran"],
+		      "farmaceutic" : ["persona farmaceutica"                 ]
 		    }
 		  ],
 		  "G" : [
 		    {
-		      "gerent" : ["gerencia"],
+		      "gerent"   : ["gerencia"          ],
 		      "guardian" : ["persona que vigila"]
 		    }
 		  ],
 		  "H" : [
 		    {
-		      "hombr" : ["seres humanos","humanidad"],
-		      "habitant" : ["población"],
-              "hospitalari":["persona que hospeda"]
+		      "hombr"       : ["seres humanos","humanidad","la persona"],
+		      "habitant"    : ["población"                ],
+              "hospitalari" : ["persona que hospeda"      ]
 		    }
 		  ],
 		  "I" : [
 		    {
 		      "investigador" : ["cuerpo de investigación"],
-		      "interesad" : ["personas interesadas"],
-              "ingenier":["persona ingeniera"]
+		      "interesad"    : ["personas interesadas"   ],
+              "ingenier"     : ["persona ingeniera"      ]
 		    }
 		  ],
 		  "J" : [
 		    {
-		      "jóven" : ["juventud"],
-		      "jef" : ["jefatura"],
-			  "juec" : ["judicadura"],
-              "jinet":["persona que cabalga"]
+		      "jóven" : ["juventud"           ],
+		      "jef"   : ["jefatura"           ],
+			  "juec"  : ["judicadura"         ],
+              "jinet" : ["persona que cabalga"]
 		    }
 		  ],
 		  "K" : [
@@ -91,15 +95,15 @@
 		  ],
 		  "M" : [
 		    {
-		      "músic" : ["artistas"],
+		      "músic" : ["artistas"     ],
 		      "mujer" : ["seres humanos"],
-			  "médic" : ["clase médica"]
+			  "médic" : ["clase médica" ]
 		    }
 		  ],
 		  "N" : [
 		    {
 		      "niñ" : ["niñez", "infancia"],
-		      "" : [""]
+		      ""    : [""                 ]
 		    }
 		  ],
 		  "O" : [
@@ -110,10 +114,10 @@
 		  ],
 		  "P" : [
 		    {
-		      "pintor" : ["artistas"],
-		      "pedagog" : ["especialistas en pedagogía"],
-			  "policí" : ["cuerpo policial"],
-			  "postulant" : ["quienes postulan"]
+		      "pintor"    : ["artistas"                  ],
+		      "pedagog"   : ["especialistas en pedagogía"],
+			  "policí"    : ["cuerpo policial"           ],
+			  "postulant" : ["quienes postulan"          ]
 		    }
 		  ],
 		  "Q" : [
@@ -125,32 +129,33 @@
 		  "R" : [
 		    {
 		      "redactor" : ["redacción"],
-		      "" : [""]
+		      ""         : [""         ]
 		    }
 		  ],
 		  "S" : [
 		    {
-		      "seleccionad" : ["personas seleccionadas"],
-		      "soldad" : ["tropa"]
+		      "seleccionad" : ["personas seleccionadas"                ],
+		      "soldad"      : ["tropa"                                 ],
+			  "solter"      : ["Persona que no ha contraído matrimonio"]
 		    }
 		  ],
 		  "T" : [
 		    {
-		      "tutor" : ["tutoría"],
-		      "técnic" : ["personal técnico"],
+		      "tutor"      : ["tutoría"                          ],
+		      "técnic"     : ["personal técnico"                 ],
 			  "trabajador" : ["personal", "personas trabajadoras"]
 		    }
 		  ],
 		  "U" : [
 		    {
 		      "usuari" : ["personal usuario"],
-		      "" : [""]
+		      ""       : [""                ]
 		    }
 		  ],
 		  "V" : [
 		    {
-		      "vecin" : ["familias del lugar"],
-		      "votant" : ["electorado"]
+		      "vecin"  : ["familias del lugar"],
+		      "votant" : ["electorado"        ]
 		    }
 		  ],
 		  "W" : [
@@ -179,41 +184,49 @@
 		  ]
 		}
 	],
-	"bibliografia" : [
+	"bibliografia" : [ 
+		// A partir de aquí se encuentran las referencias de donde fue tomada la información para la elaborar este json
 		{
-			"nombre" : "Guía de uso del lenguaje inclusivo de género",
-			"sitioWeb" : "https://repositorio.ciem.ucr.ac.cr/jspui/bitstream/123456789/192/1/RCIEM170.pdf",
-			"autor" : ["Lillyam Rojas","Marta Rojas"],
-			"año" : "2015",
-			"numeroLista" : 14
+			"nombre"      : "Guía de uso del lenguaje inclusivo de género",
+			"sitioWeb"    : "https://repositorio.ciem.ucr.ac.cr/jspui/bitstream/123456789/192/1/RCIEM170.pdf",
+			"autor"       : ["Lillyam Rojas","Marta Rojas"],
+			"año"         : "2015",
+			"numeroLista" : 15
 		},
 		{
-			"nombre" : "Guia lenguaje no excluyente",
-			"sitioWeb" : "https://library.fes.de/pdf-files/bueros/chile/19042.pdf",
-			"autor" : ["María Teresa Andruetto"],
-			"año" : "2019",
+			"nombre"      : "Guia lenguaje no excluyente",
+			"sitioWeb"    : "https://library.fes.de/pdf-files/bueros/chile/19042.pdf",
+			"autor"       : ["María Teresa Andruetto"],
+			"año"         : "2019",
 			"numeroLista" : 23
 		},
 		{
-			"nombre" : "Manual de Lenguaje Inclusivo de Género",
-			"sitioWeb" : "https://www.bce.fin.ec/images/Economia_genero/Manual_lenguaje_inclusivo_genero.pdf",
-			"autor" : ["Banco Central del Ecuador"],
-			"año" : "2020",
+			"nombre"      : "Manual de Lenguaje Inclusivo de Género",
+			"sitioWeb"    : "https://www.bce.fin.ec/images/Economia_genero/Manual_lenguaje_inclusivo_genero.pdf",
+			"autor"       : ["Banco Central del Ecuador"],
+			"año"         : "2020",
 			"numeroLista" : 28
 		},
 		{
-			"nombre" : "Guía de Lenguaje Inclusivo en el Ministerio Interior",
-			"sitioWeb" : "https://www.anep.edu.uy/sites/default/files/images/Archivos/publicaciones-direcciones/DDHH/genero/Gu%C3%ADa%20Lenguaje%20Inclusivo%20Ministerio%20del%20Interior.pdf",
-			"autor" : ["Nancy Chenlo"],
-			"año" : "2014",
+			"nombre"      : "Guía de Lenguaje Inclusivo en el Ministerio Interior",
+			"sitioWeb"    : "https://www.anep.edu.uy/sites/default/files/images/Archivos/publicaciones-direcciones/DDHH/genero/Gu%C3%ADa%20Lenguaje%20Inclusivo%20Ministerio%20del%20Interior.pdf",
+			"autor"       : ["Nancy Chenlo"],
+			"año"         : "2014",
 			"numeroLista" : 31
 		},
 		{
-			"nombre" : "Guías de la Redacción para promover un lenguaje de equidad",
-			"sitioWeb" : "https://poderjudicial.pr/Documentos/Informes/Guias-redaccion-para-promover-un-lenguaje-equidad.pdf",
-			"autor" : ["Thainie Reyes", "Carmen Sanfeliz", "Verónica N. Vélez", " Mabel E. Valentín", "Janet Soltero", "Amanda Baerga"],
-			"año" : "2020",
+			"nombre"      : "Guías de la Redacción para promover un lenguaje de equidad",
+			"sitioWeb"    : "https://poderjudicial.pr/Documentos/Informes/Guias-redaccion-para-promover-un-lenguaje-equidad.pdf",
+			"autor"       : ["Thainie Reyes", "Carmen Sanfeliz", "Verónica N. Vélez", " Mabel E. Valentín", "Janet Soltero", "Amanda Baerga"],
+			"año"         : "2020",
 			"numeroLista" : 32
+		},
+		{
+			"nombre"      : "Desafíos de construir ciudadanía a través del lenguaje: lenguaje claro y lenguaje inclusivo. Análisis de la “Guía para el uso de un lenguaje no sexista e igualitario en la Honorable Cámara de Diputados de la Nación” de la Argentina",
+			"sitioWeb"    : "https://revistas.uvigo.es/index.php/AFH/article/download/2766/3233",
+			"autor"       : ["Ivana Astrid Basset"],
+			"año"         : "2021",
+			"numeroLista" : 14
 		}
 	]
 }
