@@ -14,8 +14,7 @@
 		  ],
 		  "B" : [
 		    {
-		      "beneficiari" : ["personas beneficiarias"],
-		      ""            : [""                      ]
+		      "beneficiari" : ["personas beneficiarias"]
 		    }
 		  ],
 		  "C" : [
@@ -102,14 +101,12 @@
 		  ],
 		  "N" : [
 		    {
-		      "niñ" : ["niñez", "infancia"],
-		      ""    : [""                 ]
+		      "niñ" : ["niñez", "infancia"]
 		    }
 		  ],
 		  "O" : [
 		    {
-		      "" : [""],
-		      "" : [""]
+		      "orientador" : ["personal orientador"]
 		    }
 		  ],
 		  "P" : [
@@ -128,8 +125,7 @@
 		  ],
 		  "R" : [
 		    {
-		      "redactor" : ["redacción"],
-		      ""         : [""         ]
+		      "redactor" : ["redacción"]
 		    }
 		  ],
 		  "S" : [
@@ -148,8 +144,7 @@
 		  ],
 		  "U" : [
 		    {
-		      "usuari" : ["personal usuario"],
-		      ""       : [""                ]
+		      "usuari" : ["personal usuario"]
 		    }
 		  ],
 		  "V" : [
