@@ -1,9 +1,7 @@
 {
 	"datos" : [ 
-				// A partir de aquí se encuentran los datos que van a ser utilizados para reemplazar palabras en los textos de manera que este presente menor cantidad de sesgos
-				// Se dividen por inicial según el abecedario y por "Palabra a reemplazar" : [posibles reemplazos]
 		{
-		  "A" : [
+		  "A" :
 		    {
 		      "alumn"         : ["alumnado"                  ],
 		      "amig"          : ["amistades"                 ],
@@ -11,13 +9,13 @@
 			  "agresor"       : ["quienes agreden"           ],
 			  "administrativ" : ["El personal administrativo"]
 		    }
-		  ],
-		  "B" : [
+		  ,
+		  "B" :
 		    {
 		      "beneficiari" : ["personas beneficiarias"]
 		    }
-		  ],
-		  "C" : [
+		  ,
+		  "C" :
 		    {
 		      "ciudadan"  : ["ciudadanía"           ],
 		      "cientific" : ["comunidad científica" ],
@@ -26,8 +24,8 @@
               "cazador"   : ["persona que caza"     ],
               "carpinter" : ["persona carpintera"   ]
 		    }
-		  ],
-		  "D" : [
+		  ,
+		  "D" :
 		    {
 		      "doctor"     : ["profesionales en medicina"    ],
 		      "director"   : ["dirección"                    ],
@@ -37,153 +35,151 @@
               "doctor"     : ["persona médica"               ],
 			  "Diputad"    : ["Integrantes de la Cámara Baja"]
 		    }
-		  ],
-		  "E" : [
+		  ,
+		  "E" :
 		    {
 		      "expert"    : ["personas expertas"               ],
 		      "estudiant" : ["gremio estudiantil"              ],
 			  "elector"   : ["personal electoral", "electorado"],
               "escritor"  : ["persona escritora"               ]
 		    }
-		  ],
-		  "F" : [
+		  ,
+		  "F" :
 		    {
 		      "funcionari"  : ["funcionariado", "personas que laboran"],
 		      "farmaceutic" : ["persona farmaceutica"                 ]
 		    }
-		  ],
-		  "G" : [
+		  ,
+		  "G" :
 		    {
 		      "gerent"   : ["gerencia"          ],
 		      "guardian" : ["persona que vigila"]
 		    }
-		  ],
-		  "H" : [
+		  ,
+		  "H" :
 		    {
 		      "hombr"       : ["seres humanos","humanidad","la persona"],
 		      "habitant"    : ["población"                ],
               "hospitalari" : ["persona que hospeda"      ]
 		    }
-		  ],
-		  "I" : [
+		  ,
+		  "I" :
 		    {
 		      "investigador" : ["cuerpo de investigación"],
 		      "interesad"    : ["personas interesadas"   ],
               "ingenier"     : ["persona ingeniera"      ]
 		    }
-		  ],
-		  "J" : [
+		  ,
+		  "J" :
 		    {
 		      "jóven" : ["juventud"           ],
 		      "jef"   : ["jefatura"           ],
 			  "juec"  : ["judicadura"         ],
               "jinet" : ["persona que cabalga"]
 		    }
-		  ],
-		  "K" : [
+		  ,
+		  "K" :
 		    {
 		      "" : [""],
 		      "" : [""]
 		    }
-		  ],
-		  "L" : [
+		  ,
+		  "L" :
 		    {
 		      "lavador" : ["personal lavador"	   ],
 		      "legislador" : ["personal legislador"]
 		    }
-		  ],
-		  "M" : [
+		  ,
+		  "M" :
 		    {
 		      "músic" : ["artistas"     ],
 		      "mujer" : ["seres humanos"],
 			  "médic" : ["clase médica" ]
 		    }
-		  ],
-		  "N" : [
+		  ,
+		  "N" :
 		    {
 		      "niñ" : ["niñez", "infancia"  ],
 			  "notari" : ["personal notario"]
 		    }
-		  ],
-		  "O" : [
+		  ,
+		  "O" :
 		    {
 		      "orientador" : ["personal orientador"],
 			  "obrer" : ["personal obrero"		   ]
 		    }
-		  ],
-		  "P" : [
+		  ,
+		  "P" :
 		    {
 		      "pintor"    : ["artistas"                  ],
 		      "pedagog"   : ["especialistas en pedagogía"],
 			  "policí"    : ["cuerpo policial"           ],
 			  "postulant" : ["quienes postulan"          ]
 		    }
-		  ],
-		  "Q" : [
+		  ,
+		  "Q" :
 		    {
 		      "queser" : ["personal quesero"   ],
 		      "químic" : ["personal de química"]
 		    }
-		  ],
-		  "R" : [
+		  ,
+		  "R" :
 		    {
 		      "redactor" : ["redacción"          ],
 			  "rector" : ["titulares de rectoría"]
 		    }
-		  ],
-		  "S" : [
+		  ,
+		  "S" :
 		    {
 		      "seleccionad" : ["personas seleccionadas"                ],
 		      "soldad"      : ["tropa"                                 ],
 			  "solter"      : ["Persona que no ha contraído matrimonio"]
 		    }
-		  ],
-		  "T" : [
+		  ,
+		  "T" :
 		    {
 		      "tutor"      : ["tutoría"                          ],
 		      "técnic"     : ["personal técnico"                 ],
 			  "trabajador" : ["personal", "personas trabajadoras"]
 		    }
-		  ],
-		  "U" : [
+		  ,
+		  "U" :
 		    {
 		      "usuari" : ["personal usuario"]
 		    }
-		  ],
-		  "V" : [
+		  ,
+		  "V" :
 		    {
 		      "vecin"  : ["familias del lugar"],
 		      "votant" : ["electorado"        ]
 		    }
-		  ],
-		  "W" : [
+		  ,
+		  "W" :
 		    {
 		      "" : [""],
 		      "" : [""]
 		    }
-		  ],
-		  "X" : [
+		  ,
+		  "X" :
 		    {
 		      "" : [""],
 		      "" : [""]
 		    }
-		  ],
-		  "Y" : [
+		  ,
+		  "Y" :
 		    {
 		      "" : [""],
 		      "" : [""]
 		    }
-		  ],
-		  "Z" : [
+		  ,
+		  "Z" :
 		    {
 		      "zapater" : ["personal zapatero"  ],
 		      "zoólog" : ["personal de zoología"]
 		    }
-		  ]
 		}
 	],
 	"bibliografia" : [ 
-		// A partir de aquí se encuentran las referencias de donde fue tomada la información para la elaborar este json
 		{
 			"nombre"      : "Desafíos de construir ciudadanía a través del lenguaje: lenguaje claro y lenguaje inclusivo. Análisis de la “Guía para el uso de un lenguaje no sexista e igualitario en la Honorable Cámara de Diputados de la Nación” de la Argentina",
 			"sitioWeb"    : "https://revistas.uvigo.es/index.php/AFH/article/download/2766/3233",
