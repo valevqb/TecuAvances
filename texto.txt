@@ -1,1 +1,5 @@
 Estos son los personal zapatero favoritos de los alumnado.
+
+File name: prueba.txt
+Number of changes: 2
+Palabras reemplazadas: zapateros, alumnos
