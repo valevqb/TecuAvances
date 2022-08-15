@@ -54,7 +54,3 @@ contents = contents + "Palabras reemplazadas: " + ', '.join(changedWords);
 texts.write(contents);
 
 texts.close;
-
-
-
-
