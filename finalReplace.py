@@ -23,7 +23,7 @@ with open('data.json',encoding="utf-8") as file: #abre el archivo json con tilde
 print("Write the file name:");
 fileName = input();
 
-texts = open (fileName, 'r');
+texts = open (fileName, encoding="utf-8");
 
 contents = texts.read(); #contenido del texto
 contentsCopy = contents;
@@ -31,7 +31,6 @@ contentsCopy = contents;
 changedWords = [];
 replacesNum = 0;
 for word in contents.split(' '): #recorrer texto por palabras
-    #print(word);
     word2 = isLetter(word);
     #print(word2)
     for key in dictionary: #recorrer diccionario
@@ -43,7 +42,10 @@ for word in contents.split(' '): #recorrer texto por palabras
 
 texts.close;
 
-texts = open ('texto.txt', 'w');
+name = fileName.split('\\')
+name = name[-1]
+
+texts = open ('nuevos\\' + name[0:len(name)-4] + 'Cambio' + '.txt', 'w', encoding="utf-8");
 
 contents = contents + '\n\n' + 'File name: ' + fileName + '\nNumber of changes: ' + str(replacesNum) + '\n';
 contents = contents + "Palabras reemplazadas: " + ', '.join(changedWords);
