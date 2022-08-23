@@ -1,8 +1,6 @@
+from fileinput import filename
 import json
-import re
-
-data = {};
-dictionary = {}; #diccionario de contenidos
+import os
 
 #verifica contenido y elimina el reemplazo en donde no hay letras
 def isLetter(word):
@@ -13,46 +11,58 @@ def isLetter(word):
         counter += 1;
     return word;
 
-with open('data.json',encoding="utf-8") as file: #abre el archivo json con tildes
-    data = json.load(file);
+def runChanges (fileName):
+    data = {};
+    dictionary = {}; #diccionario de contenidos
 
-    for neutral in data['datos']: #agrega los datos
-        for abc in neutral:
-            dictionary = dict (dictionary,**neutral[abc])
+    with open('data.json',encoding="utf-8") as file: #abre el archivo json con tildes
+        data = json.load(file);
 
-print("Write the file name:");
-fileName = input();
+        for neutral in data['datos']: #agrega los datos
+            for abc in neutral:
+                dictionary = dict (dictionary,**neutral[abc])
 
-texts = open (fileName, encoding="utf-8");
+    #print("Write the file name:");
+    #fileName = input();
 
-contents = texts.read(); #contenido del texto
-contentsCopy = contents;
+    texts = open (fileName, encoding="utf-8");
 
-changedWords = [];
-replacesNum = 0;
-for word in contents.split(' '): #recorrer texto por palabras
-    word2 = isLetter(word);
-    #print(word2)
-    for key in dictionary: #recorrer diccionario
-        if(word2[0:len(word2)-2] == key and word2[0:len(word2)-2] != ""): #si la palabra es igual a la llave
-            changedWords.append(word2);
-            lists = dictionary[key];
-            replacesNum += 1;
-            contents = contents.replace(word2,lists[0]);
+    contents = texts.read(); #contenido del texto
+    contents = contents.lower();
 
-texts.close;
+    changedWords = [];
+    replacesNum = 0;
+    for word in contents.split(' '): #recorrer texto por palabras
+        word2 = isLetter(word);
+        #print(word2)
+        for key in dictionary: #recorrer diccionario
+            if(word2[0:len(word2)-2] == key and word2[0:len(word2)-2] != ""): #si la palabra es igual a la llave
+                changedWords.append(word2);
+                lists = dictionary[key];
+                replacesNum += 1;
+                contents = contents.replace(word2,lists[0]);
 
-name = fileName.split('\\')
-name = name[-1]
+    texts.close;
 
-texts = open ('nuevos\\' + name[0:len(name)-4] + 'Cambio' + '.txt', 'w', encoding="utf-8");
+    name = fileName.split('\\')
+    name = name[-1]
 
-contents = contents + '\n\n' + 'File name: ' + fileName + '\nNumber of changes: ' + str(replacesNum) + '\n';
-contents = contents + "Palabras reemplazadas: " + ', '.join(changedWords);
+    texts = open ('nuevos\\' + name[0:len(name)-4] + 'Cambio' + '.txt', 'w', encoding="utf-8");
 
-#print(contents);
-#print(contentsCopy);
+    contents = contents + '\n\n' + 'File name: ' + fileName + '\nNumber of changes: ' + str(replacesNum) + '\n';
+    contents = contents + "Palabras reemplazadas: " + ', '.join(changedWords);
 
-texts.write(contents);
+    #print(contents);
+    #print(contentsCopy);
 
-texts.close;
+    texts.write(contents);
+
+    texts.close;
+
+#Prueba 1
+CARPETA = 'C:\\Users\\valev\\Documents\\GitHub\\TecuAvances\\txt';
+
+listArc = os.listdir(CARPETA); #lee todos los archivos en la carpeta
+
+for list in listArc: #recorre uno a uno los archivos de la carpeta
+    runChanges('C:\\Users\\valev\\Documents\\GitHub\\TecuAvances\\txt\\'+list);
