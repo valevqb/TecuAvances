@@ -147,7 +147,8 @@
 		      "seleccionad" : ["personas seleccionadas"                ],
 		      "soldad"      : ["tropa"                                 ],
 			  "solter"      : ["persona que no ha contraído matrimonio"],
-			  "solicitant"  : ["quienes soliciten"					   ]
+			  "solicitant"  : ["quienes soliciten", "persona solicitante"],
+			  "sobrevivient" : ["persona sobreviviente"]
 		    }
 		  ,
 		  "T" :
@@ -166,7 +167,8 @@
 		    {
 		      "vecin"  : ["familias del lugar"],
 		      "votant" : ["electorado"        ],
-			  "viajer" : ["quienes viajan"	  ]
+			  "viajer" : ["quienes viajan"	  ],
+			  "voluntari" : ["voluntariado"]
 		    }
 		  ,
 		  "W" :
