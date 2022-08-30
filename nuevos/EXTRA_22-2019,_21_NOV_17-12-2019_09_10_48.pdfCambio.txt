@@ -334,11 +334,11 @@ proyectos agenda de seres humanos
 
 atención y prevención de la violencia 
 
-•  grupo de apoyo a seres humanos sobrevivientes de violencia intrafamiliar (3266♀ 
+•  grupo de apoyo a seres humanos persona sobreviviente de violencia intrafamiliar (3266♀ 
 
 2014-2018) 
 
-•  grupo terapéutico para seres humanos sobrevivientes de abuso sexual infantil y 
+•  grupo terapéutico para seres humanos persona sobreviviente de abuso sexual infantil y 
 
 otras personas personas personas personas personas violencias en la infancia ( 110 ♀ 2014-2018) 
 
@@ -363,7 +363,7 @@ otras personas personas personas personas personas violencias en la infancia ( 1
 
 •  servicio atención psicológica (psicoterapia) a seres humanos víctimas y 
 
-sobrevivientes de violencia (1294 ♀ 2014-2018) 
+persona sobreviviente de violencia (1294 ♀ 2014-2018) 
 
 •  coordinación red local interinstitucional de atención y prevención de la 
 
@@ -1848,6 +1848,6 @@ luis alfredo guillén sequeira                  licda. maría del rosario muñoz
 
 
 
-File name: C:\Users\valev\Documents\GitHub\TecuAvances\txt\EXTRA_22-2019,_21_NOV_17-12-2019_09_10_48.pdf.txt
-Number of changes: 58
-Palabras reemplazadas: funcionarias, políticas, mujeres, estudiantes, mujeres, mujeres, mujeres, mujeres, mujeres, usuarias, mujeres, mujeres, mujeres, hombres, mujeres, mujeres, mujeres, niñez, niñez, hombres, mujeres, niñez, niñez, amigos, niñez, niñez, otras, niñez, niñez, niñez, niñez, niñez, mujeres, funcionarias, mujeres, hombres, funcionarios, mujeres, diputados, mujeres, otros, mujeres, mujeres, hombres, funcionarios, técnicas, asesoría, funcionarios, técnicos, otras, otras, policías, otras, ciudadanía, ciudadanía, ciudadanía, ciudadanos, otras
+File name: C:\Users\tania\OneDrive\Documentos\GitHub\TecuAvances\txt\EXTRA_22-2019,_21_NOV_17-12-2019_09_10_48.pdf.txt
+Number of changes: 60
+Palabras reemplazadas: funcionarias, políticas, mujeres, estudiantes, mujeres, mujeres, mujeres, mujeres, mujeres, usuarias, mujeres, mujeres, sobrevivientes, mujeres, sobrevivientes, hombres, mujeres, mujeres, mujeres, niñez, niñez, hombres, mujeres, niñez, niñez, amigos, niñez, niñez, otras, niñez, niñez, niñez, niñez, niñez, mujeres, funcionarias, mujeres, hombres, funcionarios, mujeres, diputados, mujeres, otros, mujeres, mujeres, hombres, funcionarios, técnicas, asesoría, funcionarios, técnicos, otras, otras, policías, otras, ciudadanía, ciudadanía, ciudadanía, ciudadanos, otras

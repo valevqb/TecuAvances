@@ -674,7 +674,7 @@ en el 2015 se presentó otra declaración dentro del plazo mínimo que estable l
 (artículo 16 ley 7509). 
 14)el  análisis  de  la  multa,  además  que  es  improcedente  en  este  caso,  está  mal 
 aplicado, porque incluye el periodo 2013 y 2014, cuando ya existían declaraciones 
-tanto automáticas como voluntarias y vemos que la última declaración se presentó 
+tanto automáticas como voluntariado y vemos que la última declaración se presentó 
 en  el  2015.  de  acuerdo  a  la  norma  solo  podría  cobrase  el  periodo  2015,  y  no 
 completo, ya  que la declaración se presentó el 20 de mayo del  2015.  el cobro de 
 los  trimestres  restantes  del  2015  y  2016  no  es  un  problema  del  usuario,  ya  que 
@@ -3880,6 +3880,6 @@ coordinadora del subproceso
 
 
 
-File name: C:\Users\valev\Documents\GitHub\TecuAvances\txt\Ord12-2017_16-10-2018_14_39_16.pdf.txt
-Number of changes: 128
-Palabras reemplazadas: administrativas, administrativas, miembros, miembros, miembros, funcionarios, miembros, usuarios, vecinos, otros, miembros, técnicas, vecinos, otras, otros, otras, químicas, otros, vecinos, otros, otros, vecinos, otros, vecinos, vecinos, técnicos, vecinos, técnicos, vecinos, vecinos, vecinos, vecinos, técnicos, vecinos, vecinos, vecinos, vecinos, vecinos, vecinos, vecinos, vecinos, mujeres, miembros, mujeres, asesoría, otros, otros, ingeniería, ingeniería, ingeniería, vecinos, niños, jóvenes, niños, estudiantes, otras, vecinos, niños, vecinos, otras, otros, estudiantes, administrativos, estudiantes, estudiantes, otras, administrativas, políticas, otras, funcionarios, otros, seleccionados, otras, funcionarios, funcionarios, funcionarios, otros, funcionarios, otras, políticas, otras, habitantes, otras, otras, jóvenes, niñas, ingeniería, interesados, usuarios, otros, políticas, otros, ingeniería, usuarios, otros, habitantes, usuarios, técnicos, otros, técnicos, técnicas, técnicas, técnicos, otras, vecinos, interesados, vecinos, vecinos, funcionarios, ingenieros, vecinos, vecinos, técnicos, vecinos, niños, niñas, jefas, diputados, administrativas, habitantes, médicos, ciudadanos, asesores, funcionarios, funcionarios, funcionarios, funcionarios, funcionarios
+File name: C:\Users\tania\OneDrive\Documentos\GitHub\TecuAvances\txt\Ord12-2017_16-10-2018_14_39_16.pdf.txt
+Number of changes: 129
+Palabras reemplazadas: administrativas, administrativas, miembros, miembros, miembros, funcionarios, miembros, usuarios, voluntarias, vecinos, otros, miembros, técnicas, vecinos, otras, otros, otras, químicas, otros, vecinos, otros, otros, vecinos, otros, vecinos, vecinos, técnicos, vecinos, técnicos, vecinos, vecinos, vecinos, vecinos, técnicos, vecinos, vecinos, vecinos, vecinos, vecinos, vecinos, vecinos, vecinos, mujeres, miembros, mujeres, asesoría, otros, otros, ingeniería, ingeniería, ingeniería, vecinos, niños, jóvenes, niños, estudiantes, otras, vecinos, niños, vecinos, otras, otros, estudiantes, administrativos, estudiantes, estudiantes, otras, administrativas, políticas, otras, funcionarios, otros, seleccionados, otras, funcionarios, funcionarios, funcionarios, otros, funcionarios, otras, políticas, otras, habitantes, otras, otras, jóvenes, niñas, ingeniería, interesados, usuarios, otros, políticas, otros, ingeniería, usuarios, otros, habitantes, usuarios, técnicos, otros, técnicos, técnicas, técnicas, técnicos, otras, vecinos, interesados, vecinos, vecinos, funcionarios, ingenieros, vecinos, vecinos, técnicos, vecinos, niños, niñas, jefas, diputados, administrativas, habitantes, médicos, ciudadanos, asesores, funcionarios, funcionarios, funcionarios, funcionarios, funcionarios

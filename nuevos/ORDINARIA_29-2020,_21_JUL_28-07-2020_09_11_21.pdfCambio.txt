@@ -2822,7 +2822,7 @@ recursos de la junta de protección social (...)".
 personas beneficiarias  de  recursos  económicos  a  "hogar,  asilo  o  albergue  para  personas 
 adultas mayores: lugar donde vive un grupo de personas adultas mayores en forma 
 permanente, al cuidado de personal pagado por una organización sin fines de lucro 
-y  voluntarios,  donde  se  les  brindan  los  servicios  básicos  de  atención.  (...)  entidad 
+y  voluntariado,  donde  se  les  brindan  los  servicios  básicos  de  atención.  (...)  entidad 
 
 39  acta ordinaria 29-2020, 21 jul 2020 
 
@@ -3219,6 +3219,6 @@ lic. leslye rubén bojorges león               licda. maría del rosario muñoz
 
 
 
-File name: C:\Users\valev\Documents\GitHub\TecuAvances\txt\ORDINARIA_29-2020,_21_JUL_28-07-2020_09_11_21.pdf.txt
-Number of changes: 74
-Palabras reemplazadas: participantes, miembros, miembros, funcionarios, miembros, vecinos, vecinos, vecinos, vecinos, vecinos, doctores, vecinos, funcionarios, usuarios, funcionarios, otras, otros, otras, otros, otros, administrativas, vecinos, vecinos, ingeniería, ingeniería, otras, ingeniería, vecinos, vecinos, niños, vecinos, vecinos, niños, vecinos, vecinos, ciudadanía, niños, vecinos, vecinas, niños, vecinos, vecinos, usuarios, vecinos, vecinos, otras, vecinos, vecinos, niños, funcionarios, vecinos, miembros, vecinos, asesoría, vecinos, asesoría, ingeniería, ingeniería, vecinos, vecinos, miembros, miembros, otras, trabajadores, otros, beneficiarios, otros, ciudadanos, vecinos, usuarios, beneficiarios, miembros, usuarios, beneficiarios
+File name: C:\Users\tania\OneDrive\Documentos\GitHub\TecuAvances\txt\ORDINARIA_29-2020,_21_JUL_28-07-2020_09_11_21.pdf.txt
+Number of changes: 75
+Palabras reemplazadas: participantes, miembros, miembros, funcionarios, miembros, vecinos, vecinos, vecinos, vecinos, vecinos, doctores, vecinos, funcionarios, usuarios, funcionarios, otras, otros, otras, otros, otros, administrativas, vecinos, vecinos, ingeniería, ingeniería, otras, ingeniería, vecinos, vecinos, niños, vecinos, vecinos, niños, vecinos, vecinos, ciudadanía, niños, vecinos, vecinas, niños, vecinos, vecinos, usuarios, vecinos, vecinos, otras, vecinos, vecinos, niños, funcionarios, vecinos, miembros, vecinos, asesoría, vecinos, asesoría, ingeniería, ingeniería, vecinos, vecinos, miembros, miembros, otras, trabajadores, otros, voluntarios, beneficiarios, otros, ciudadanos, vecinos, usuarios, beneficiarios, miembros, usuarios, beneficiarios

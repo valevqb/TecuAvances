@@ -1628,7 +1628,7 @@ están planteadas una serie de obras de infraestructura y aprovisionamiento
 de  servicios  indispensables  para  la  respuesta  a  la  salud.  3.-  todas  las 
 necesidades  o  requerimientos  son  conocidos  por  autoridades  de  ccss, 
 autoridades personales del hsra, asociación pro hospital, junta de salud del 
-hsra, damas voluntarias hsra, integrantes de la Cámara Baja de la provincia y la población en 
+hsra, damas voluntariado hsra, integrantes de la Cámara Baja de la provincia y la población en 
 general  así  como  los  planteamientos  de  cómo  resolverlas.  proponemos: 
 que  las  autoridades  de  ccss  (directiva,  dirección  médica,  jefaturas  de 
 oficinas  centrales)  explique  y  rinda  un  informe  de  los  plazos  en  que  serán 
@@ -6314,6 +6314,6 @@ luis alfredo guillén sequeira                          licda. maría del rosari
 
 
 
-File name: C:\Users\valev\Documents\GitHub\TecuAvances\txt\ORDINARIA_34-2019,_20_AGO_27-08-2019_08_32_30.pdf.txt
-Number of changes: 92
-Palabras reemplazadas: miembros, directorio, directores, directorio, hombres, directores, mujeres, directores, ciudadanos, miembros, niños, niños, funcionarios, miembros, niños, ingeniería, usuarios, ingeniería, otros, otros, otras, otras, jefes, técnicos, otros, enfermería, otros, otras, otros, otras, doctores, otros, habitantes, otros, otros, otras, otros, niños, jóvenes, otros, ciudadanos, diputados, diputados, diputados, interesados, otros, diputados, diputados, otros, vecinos, otros, ciudadanía, ciudadanía, otros, otros, funcionarios, otros, otras, ciudadanos, habitantes, médicos, usuarios, médicas, otros, diputados, diputados, diputados, habitantes, diputados, habitantes, diputados, vecinos, diputados, otros, funcionarios, niños, niños, vecinos, vecinos, niñez, ciudadanos, otros, estudiantil, otros, otros, otras, químicos, químicos, vecinos, vecinos, otras, vecinos
+File name: C:\Users\tania\OneDrive\Documentos\GitHub\TecuAvances\txt\ORDINARIA_34-2019,_20_AGO_27-08-2019_08_32_30.pdf.txt
+Number of changes: 93
+Palabras reemplazadas: miembros, directorio, directores, directorio, hombres, directores, mujeres, directores, ciudadanos, miembros, niños, niños, funcionarios, miembros, niños, ingeniería, usuarios, ingeniería, otros, otros, otras, otras, jefes, técnicos, otros, enfermería, otros, otras, otros, otras, doctores, otros, habitantes, otros, otros, otras, otros, niños, jóvenes, otros, ciudadanos, diputados, diputados, diputados, interesados, otros, diputados, diputados, otros, vecinos, otros, ciudadanía, ciudadanía, otros, otros, funcionarios, otros, otras, ciudadanos, habitantes, médicos, usuarios, médicas, otros, diputados, diputados, diputados, habitantes, diputados, habitantes, diputados, vecinos, voluntarias, diputados, otros, funcionarios, niños, niños, vecinos, vecinos, niñez, ciudadanos, otros, estudiantil, otros, otros, otras, químicos, químicos, vecinos, vecinos, otras, vecinos

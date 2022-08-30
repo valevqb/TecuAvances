@@ -1195,7 +1195,7 @@ barranquilla, colombia. por último, quiero agradecer la participación personal
 presidentes  de  la  asociación  de  alcaldes  de  puerto  rico,  josé  "joe"  román,  y  a 
 carlos  molina  de  la  federación  de  alcaldes,  quienes  junto  a  los  asambleístas 
 municipales siempre han dicho presente en este evento. de igual forma agradecer, 
-a  los  auspiciadores,  colaboradores  y  voluntarios  los  cuales  hacen  posible  que  el 
+a  los  auspiciadores,  colaboradores  y  voluntariado  los  cuales  hacen  posible  que  el 
 evento se realice y resulte una experiencia inolvidable. con mi respeto y esperando 
 contar con su respaldo y apoyo. no olvide que espero estrechar su mano durante la 
 semana  del  20  al  23  de  agosto  2019.  ¡separa  la  fecha!  para  más  información  y 
@@ -3434,6 +3434,6 @@ luis alfredo guillén sequeira                          licda. maría del rosari
 
 
 
-File name: C:\Users\valev\Documents\GitHub\TecuAvances\txt\ORDINARIA_33-2019,_13_AGO_20-08-2019_10_16_24.pdf.txt
-Number of changes: 97
-Palabras reemplazadas: jóvenes, participantes, administrativas, miembros, funcionarios, miembros, vecinos, otras, vecinos, otras, vecinos, trabajadores, funcionarios, otros, trabajadores, otros, otras, hombros, interesados, trabajadores, trabajadores, trabajadores, trabajadores, políticos, electoral, trabajadores, estudiantes, médicos, trabajadores, funcionarios, electoral, policías, vecinos, vecinos, vecinos, usuarios, vecinos, vecinos, otros, vecinos, vecinos, vecinos, funcionarios, otras, invitados, invitados, invitados, invitados, mujeres, participantes, directores, otras, expertos, expertas, políticos, beneficiarias, ingenieros, enfermería, niñas, otros, otros, asesoría, técnicos, administrativos, administrativos, administrativas, ingenieros, técnicos, técnicas, técnicos, ingenieros, vecinos, vecinos, funcionarios, técnicos, administrativas, miembros, miembros, otros, otros, administrativos, legisladores, miembros, otras, miembros, niños, niñas, niñez, vecinos, otros, ciudadanos, vecinos, vecinos, miembros, niños, vecinos, niños
+File name: C:\Users\tania\OneDrive\Documentos\GitHub\TecuAvances\txt\ORDINARIA_33-2019,_13_AGO_20-08-2019_10_16_24.pdf.txt
+Number of changes: 98
+Palabras reemplazadas: jóvenes, participantes, administrativas, miembros, funcionarios, miembros, vecinos, otras, vecinos, otras, vecinos, trabajadores, funcionarios, otros, trabajadores, otros, otras, hombros, interesados, trabajadores, trabajadores, trabajadores, trabajadores, políticos, electoral, trabajadores, estudiantes, médicos, trabajadores, funcionarios, electoral, policías, vecinos, vecinos, vecinos, usuarios, vecinos, vecinos, otros, vecinos, vecinos, vecinos, funcionarios, otras, invitados, invitados, invitados, invitados, mujeres, participantes, directores, otras, expertos, expertas, políticos, voluntarios, beneficiarias, ingenieros, enfermería, niñas, otros, otros, asesoría, técnicos, administrativos, administrativos, administrativas, ingenieros, técnicos, técnicas, técnicos, ingenieros, vecinos, vecinos, funcionarios, técnicos, administrativas, miembros, miembros, otros, otros, administrativos, legisladores, miembros, otras, miembros, niños, niñas, niñez, vecinos, otros, ciudadanos, vecinos, vecinos, miembros, niños, vecinos, niños

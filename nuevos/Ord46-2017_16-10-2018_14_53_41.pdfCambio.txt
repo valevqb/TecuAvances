@@ -273,7 +273,7 @@ denominado  "yo  humano",  actividad  que  tiene  como  objetivo  formar  a  las
 comunidades  contribuyendo  a  mejorar  el  conocimiento  de  nuestro  cuerpo  y  la 
 importancia  de  cuidarle  de  manera  adecuada  para  evitar  el  aumento  de  la 
 morbilidad  y  la  mortalidad  en  todas  las  edades  de  la  población.  no  tendrá  costo 
-alguno,  sólo  se  solicitarán  donaciones  voluntarias,  con  el  fin  de  seguir recaudando 
+alguno,  sólo  se  solicitarán  donaciones  voluntariado,  con  el  fin  de  seguir recaudando 
 fondos  para  la  lucha  contra  el  cáncer  en  el  hospital  san  rafael  de  alajuela.  esta 
 exposición  se  llevará  a  cabo  desde  el  15  de  noviembre  de  2017  hasta  el  31  de 
 diciembre  en  el  centro  comercial  city  mall,  quien  coopera  con  ésta  gran 
@@ -3362,6 +3362,6 @@ msc. humberto soto herrera                 licda. maría del rosario muñoz gonz
 
 
 
-File name: C:\Users\valev\Documents\GitHub\TecuAvances\txt\Ord46-2017_16-10-2018_14_53_41.pdf.txt
-Number of changes: 63
-Palabras reemplazadas: administrativos, administrativas, miembros, niños, miembros, miembros, miembros, niños, vecinos, otras, vecinos, usuarios, otras, vecinos, vecinos, vecinos, policías, jóvenes, otros, otros, funcionarios, vecinos, vecinos, técnicos, técnicos, otros, otros, asesoría, asesores, otros, funcionarios, niños, jóvenes, niños, niñas, niñez, administrativos, usuarios, miembros, ingeniería, miembros, otras, miembros, miembros, interesadas, otros, estudiantes, estudiantes, estudiantes, miembros, otras, vecinos, técnicas, otros, vecinos, administrativos, ingenieros, vecinos, otros, vecinos, vecinos, vecinos, vecinos
+File name: C:\Users\tania\OneDrive\Documentos\GitHub\TecuAvances\txt\Ord46-2017_16-10-2018_14_53_41.pdf.txt
+Number of changes: 64
+Palabras reemplazadas: administrativos, voluntarias, administrativas, miembros, niños, miembros, miembros, miembros, niños, vecinos, otras, vecinos, usuarios, otras, vecinos, vecinos, vecinos, policías, jóvenes, otros, otros, funcionarios, vecinos, vecinos, técnicos, técnicos, otros, otros, asesoría, asesores, otros, funcionarios, niños, jóvenes, niños, niñas, niñez, administrativos, usuarios, miembros, ingeniería, miembros, otras, miembros, miembros, interesadas, otros, estudiantes, estudiantes, estudiantes, miembros, otras, vecinos, técnicas, otros, vecinos, administrativos, ingenieros, vecinos, otros, vecinos, vecinos, vecinos, vecinos

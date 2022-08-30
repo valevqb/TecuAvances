@@ -248,7 +248,7 @@ el proyecto se llama rescatando e integrando a la comunidad por medio del deport
  
 objetivo  crear  a  través  del  deporte  la  integración  y  el  rescate  de  nuestra 
 comunidad, mediante una estrategia de puertas abiertas a las ideas participativas, 
-que despierten el interés de la mayor cantidad de voluntarios comprometidos con el 
+que despierten el interés de la mayor cantidad de voluntariado comprometidos con el 
 proyecto.  
  
 objetivos específicos involucrar diferentes disciplinas del deporte, para atraer la 
@@ -1287,6 +1287,6 @@ presidente                                              secretaria del concejo
 
 
 
-File name: C:\Users\valev\Documents\GitHub\TecuAvances\txt\extra5-2017_16-10-2018_15_06_37.pdf.txt
-Number of changes: 39
-Palabras reemplazadas: rectores, funcionarios, participantes, jóvenes, vecinas, otros, jóvenes, otras, jóvenes, vecinos, jóvenes, niños, jóvenes, otros, jóvenes, otros, estudiantes, estudiantil, estudiantes, estudiantes, ingeniería, médicos, ingeniería, otros, estudiantil, estudiantes, docentes, estudiantil, otros, estudiantes, interesados, rectores, estudiantes, niños, jóvenes, ciudadanía, estudiantes, diputados, electoral
+File name: C:\Users\tania\OneDrive\Documentos\GitHub\TecuAvances\txt\extra5-2017_16-10-2018_15_06_37.pdf.txt
+Number of changes: 40
+Palabras reemplazadas: rectores, funcionarios, voluntarios, participantes, jóvenes, vecinas, otros, jóvenes, otras, jóvenes, vecinos, jóvenes, niños, jóvenes, otros, jóvenes, otros, estudiantes, estudiantil, estudiantes, estudiantes, ingeniería, médicos, ingeniería, otros, estudiantil, estudiantes, docentes, estudiantil, otros, estudiantes, interesados, rectores, estudiantes, niños, jóvenes, ciudadanía, estudiantes, diputados, electoral

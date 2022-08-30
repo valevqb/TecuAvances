@@ -2772,7 +2772,7 @@ tárcoles  y  de  la  cual,  la  municipalidad  de  alajuela  es  miembro  activ
 instituciones, organizaciones, empresas y público en general, pueden sumarse a la 
 estrategia,  registrando  sus  compromisos  de  sustitución,  por  medio  de  la  página 
 web:  www.zonalibredeplastico.org.  este  sitio  web  sirve  para  registrar  y  dar 
-seguimiento  a  los  compromisos  y  acciones  voluntarias  de  la  estrategia,  pero 
+seguimiento  a  los  compromisos  y  acciones  voluntariado  de  la  estrategia,  pero 
 también es  un  sitio  público  de  consulta  de  una  base  de  datos  a  nivel  nacional  de 
 proveedores y de productos renovables y compostables. 
 para  ello  y  con  el  fin  de  formar  parte  de  la  iniciativa,  este  subproceso  considera 
@@ -2785,7 +2785,7 @@ los consumidores finales.
 3.-  la  necesidad  urgente  de  tomar  medidas  que  mitiguen  en  el  mediano  plazo  el 
 grave  daño  de  las  bolsas  plásticas  sobre  nuestras  cuencas,  ríos,  mares  y 
 biodiversidad. 
-4.- que desde hace varios años organizaciones voluntarias de ciudadanía como las 
+4.- que desde hace varios años organizaciones voluntariado de ciudadanía como las 
 asociaciones  de desarrollo,  grupos  ambientalistas  y  algunos comercios  promueven 
 en  la  ciudadanía  la  utilización  de  bolsas  de  tela  o  de  uso  múltiple  en  procura  de 
 disminuir el consumo desmedido de bolsas plásticas de un solo uso. 
@@ -4318,6 +4318,6 @@ coordinadora del subproceso
 
 
 
-File name: C:\Users\valev\Documents\GitHub\TecuAvances\txt\Ord41-2017_16-10-2018_14_49_00.pdf.txt
-Number of changes: 101
-Palabras reemplazadas: administrativos, ingeniería, administrativas, miembros, miembros, miembros, miembros, funcionarios, miembros, ciudadanos, vecinos, miembros, otros, técnicos, técnicos, ciudadanas, ciudadanos, ciudadanía, estudiantes, miembros, miembros, habitantes, asesoría, asesoría, asesoría, asesoría, asesoría, otros, miembros, asesoría, asesoría, miembros, asesoría, asesoría, administrativas, administrativas, asesores, vecinos, asesoría, otros, técnicos, técnicos, vecinos, otros, niños, vecinos, vecinos, niños, niños, vecinos, directores, miembros, miembros, miembros, miembros, miembros, otros, otros, otros, funcionarios, asesoría, asesoría, vecinos, otros, ingenieros, asesoría, otros, administrativas, jóvenes, otros, ciudadanía, vecinos, funcionarios, políticas, otras, otras, políticas, usuarios, administrativos, administrativas, funcionarios, administrativos, funcionarios, políticas, otros, usuarios, políticas, ciudadanos, ciudadanía, otros, funcionarios, otros, políticas, administrativas, otras, interesados, otros, técnicas, niños, otras, amigos
+File name: C:\Users\tania\OneDrive\Documentos\GitHub\TecuAvances\txt\Ord41-2017_16-10-2018_14_49_00.pdf.txt
+Number of changes: 103
+Palabras reemplazadas: administrativos, ingeniería, administrativas, miembros, miembros, miembros, miembros, funcionarios, miembros, ciudadanos, vecinos, miembros, otros, técnicos, técnicos, ciudadanas, ciudadanos, ciudadanía, estudiantes, miembros, miembros, habitantes, asesoría, asesoría, asesoría, asesoría, asesoría, otros, miembros, asesoría, asesoría, miembros, asesoría, asesoría, administrativas, administrativas, asesores, vecinos, asesoría, otros, técnicos, técnicos, vecinos, otros, niños, vecinos, vecinos, niños, niños, vecinos, directores, miembros, miembros, miembros, miembros, miembros, otros, otros, otros, funcionarios, asesoría, asesoría, vecinos, otros, ingenieros, asesoría, otros, administrativas, jóvenes, otros, ciudadanía, vecinos, funcionarios, políticas, otras, otras, políticas, usuarios, administrativos, administrativas, funcionarios, administrativos, funcionarios, políticas, otros, usuarios, políticas, voluntarias, voluntarias, ciudadanos, ciudadanía, otros, funcionarios, otros, políticas, administrativas, otras, interesados, otros, técnicas, niños, otras, amigos

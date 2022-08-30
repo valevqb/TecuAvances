@@ -2078,7 +2078,7 @@ de  fracciones,  los  días  que  las  fracciones  no  tengan  reunión.  oficio
 préstamo de la sala de sesiones para realizar una feria de la salud el sábado 09 de marzo de 
 2019 de 7:30 a.m. a 4:00 p.m.  oficio n° ma-omm-007-2019: como es de su conocimiento 
 esta  dependencia  tiene  entre  sus  funciones  el  brindar  el  servicio  de  atención  psicológica 
-individual a personas víctimas y sobrevivientes de violencia intrafamiliar del cantón central 
+individual a personas víctimas y persona sobreviviente de violencia intrafamiliar del cantón central 
 de alajuela, manejando datos sensibles de la población usuaria. sin embargo, no se cuenta 
 actualmente  con  consultorios  donde  poder  brindar  este  servicio  y  donde  se  garantice  la 
 confidencialidad de la información. la oficina de la mujer cuenta actualmente con un espacio 
@@ -2092,7 +2092,7 @@ escucha de las conversaciones. actualmente esta oficina cuenta con tres psicólo
 que atienden casos, una trabajadora social de planta que también atiende población y quien 
 debe contar con las condiciones necesarias también para atender población que requiere sus 
 servicios  y  garantizar  que  la  información  va  a  ser  confidencial  y  resguardada  de  manera 
-correcta.  además  de  contar  con  el  apoyo  de  gremio estudiantil  y  profesionales  voluntarios  de 
+correcta.  además  de  contar  con  el  apoyo  de  gremio estudiantil  y  profesionales  voluntariado  de 
 psicología que atienden algunos casos. todas estas personas requieren para realizar de una 
 menara adecuada su trabajo las condiciones mínimas e instrumentos de trabajo y en estas 
 disciplinas el contar con un consultorio privado es uno de los instrumentos necesarios para 
@@ -3220,6 +3220,6 @@ luis alfredo guillén sequeira                          licda. maría del rosari
 
 
 
-File name: C:\Users\valev\Documents\GitHub\TecuAvances\txt\ORDINARIA_18-2019,_30_ABR_07-05-2019_08_42_55.pdf.txt
-Number of changes: 92
-Palabras reemplazadas: médicos, amigos, otros, vecinos, administrativas, miembros, funcionarios, miembros, otros, interesadas, técnicas, administrativos, administrativos, funcionarios, funcionarios, otras, otras, políticas, políticas, otros, interesados, diputados, otros, electoral, electoral, otros, otros, directores, ciudadanía, miembros, otros, estudiantes, miembros, miembros, miembros, miembros, miembros, otros, ciudadanos, otros, otros, miembros, otras, miembros, técnicos, otros, miembros, otros, otros, miembros, otros, usuarias, usuarias, estudiantes, mujeres, otras, mujeres, mujeres, mujeres, otros, técnicas, interesados, mujeres, vecinos, ingeniería, otros, funcionarios, otras, técnicos, otros, expertos, usuarios, otras, vecinos, otras, habitantes, técnicos, vecinos, asesores, usuarios, funcionarios, interesados, ingenieros, habitantes, médicos, vecinos, usuarios, vecinos, vecinos, otros, vecinos, vecinos
+File name: C:\Users\tania\OneDrive\Documentos\GitHub\TecuAvances\txt\ORDINARIA_18-2019,_30_ABR_07-05-2019_08_42_55.pdf.txt
+Number of changes: 94
+Palabras reemplazadas: médicos, amigos, otros, vecinos, administrativas, miembros, funcionarios, miembros, otros, interesadas, técnicas, administrativos, administrativos, funcionarios, funcionarios, otras, otras, políticas, políticas, otros, interesados, diputados, otros, electoral, electoral, otros, otros, directores, ciudadanía, miembros, otros, estudiantes, miembros, miembros, miembros, miembros, miembros, otros, ciudadanos, otros, otros, miembros, otras, miembros, técnicos, otros, miembros, otros, otros, miembros, sobrevivientes, otros, usuarias, usuarias, estudiantes, voluntarios, mujeres, otras, mujeres, mujeres, mujeres, otros, técnicas, interesados, mujeres, vecinos, ingeniería, otros, funcionarios, otras, técnicos, otros, expertos, usuarios, otras, vecinos, otras, habitantes, técnicos, vecinos, asesores, usuarios, funcionarios, interesados, ingenieros, habitantes, médicos, vecinos, usuarios, vecinos, vecinos, otros, vecinos, vecinos

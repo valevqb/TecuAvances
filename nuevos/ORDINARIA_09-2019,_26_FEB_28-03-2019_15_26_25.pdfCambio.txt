@@ -3364,7 +3364,7 @@ oficio n° ma-omm-008-2019 préstamo de la sala de sesiones para realizar una fe
 de la salud el sábado 09 de marzo de 2019 de 7:30 a.m. a 4:00 p.m.  oficio n° ma-
 omm-007-2019:  como  es  de  su  conocimiento  esta  dependencia  tiene  entre  sus 
 funciones el brindar el servicio de atención psicológica individual a personas víctimas 
-y sobrevivientes de violencia intrafamiliar del cantón central de alajuela, manejando 
+y persona sobreviviente de violencia intrafamiliar del cantón central de alajuela, manejando 
 datos sensibles de la población usuaria. sin embargo, no se cuenta actualmente con 
 consultorios  donde  poder  brindar  este  servicio  y  donde  se  garantice  la 
 confidencialidad de la información. la oficina de la mujer cuenta actualmente con un 
@@ -3387,7 +3387,7 @@ conversaciones. actualmente esta oficina cuenta con tres psicólogas de planta q
 quien  debe  contar  con  las  condiciones  necesarias  también  para  atender  población 
 que  requiere  sus  servicios  y  garantizar  que  la  información  va  a  ser  confidencial  y 
 resguardada de manera correcta. además de contar con el apoyo de gremio estudiantil y 
-profesionales  voluntarios  de  psicología  que  atienden  algunos  casos.  todas  estas 
+profesionales  voluntariado  de  psicología  que  atienden  algunos  casos.  todas  estas 
 personas requieren para realizar de una menara adecuada su trabajo las condiciones 
 mínimas e instrumentos de trabajo y en estas disciplinas el contar con un consultorio 
 privado es uno de los instrumentos necesarios para poder desarrollar su trabajo. 
@@ -3690,6 +3690,6 @@ luis alfredo guillén sequeira                          licda. maría del rosari
 
 
 
-File name: C:\Users\valev\Documents\GitHub\TecuAvances\txt\ORDINARIA_09-2019,_26_FEB_28-03-2019_15_26_25.pdf.txt
-Number of changes: 138
-Palabras reemplazadas: ciudadanos, otras, miembros, vecinos, otros, otros, otros, otras, administrativas, miembros, miembros, miembros, funcionarios, miembros, funcionarios, otras, administrativos, técnicos, técnicos, técnicos, otros, miembros, funcionarios, trabajadores, otros, usuarios, usuarios, otras, otros, usuarios, usuarios, funcionarios, usuarios, otras, miembros, otros, otros, otros, ciudadanos, vecinos, otros, otros, miembros, miembros, miembros, ciudadanos, niños, miembros, miembros, otras, otras, otras, miembros, niños, miembros, otros, otros, otros, otros, miembros, miembros, jefes, discapacitadas, miembros, miembros, miembros, miembros, ingenieros, ciudadanos, vecinos, técnicas, técnicas, funcionarios, técnicas, otras, técnicos, otros, otros, vecinos, usuarios, miembros, niños, jóvenes, vecinos, vecinos, técnicos, vecinos, vecinos, vecinos, vecinos, técnicos, vecinos, vecinos, funcionarios, miembros, vecinos, vecinos, vecinos, vecinos, vecinos, vecinos, vecinos, vecinos, vecinos, niños, niños, vecinos, vecinos, otros, interesados, miembros, estudiantes, docentes, otras, usuarios, otros, otros, otros, usuarias, usuarias, estudiantes, mujeres, otras, mujeres, mujeres, mujeres, otros, miembros, miembros, miembros, miembros, miembros, otros, miembros, miembros, miembros, políticos, miembros
+File name: C:\Users\tania\OneDrive\Documentos\GitHub\TecuAvances\txt\ORDINARIA_09-2019,_26_FEB_28-03-2019_15_26_25.pdf.txt
+Number of changes: 140
+Palabras reemplazadas: ciudadanos, otras, miembros, vecinos, otros, otros, otros, otras, administrativas, miembros, miembros, miembros, funcionarios, miembros, funcionarios, otras, administrativos, técnicos, técnicos, técnicos, otros, miembros, funcionarios, trabajadores, otros, usuarios, usuarios, otras, otros, usuarios, usuarios, funcionarios, usuarios, otras, miembros, otros, otros, otros, ciudadanos, vecinos, otros, otros, miembros, miembros, miembros, ciudadanos, niños, miembros, miembros, otras, otras, otras, miembros, niños, miembros, otros, otros, otros, otros, miembros, miembros, jefes, discapacitadas, miembros, miembros, miembros, miembros, ingenieros, ciudadanos, vecinos, técnicas, técnicas, funcionarios, técnicas, otras, técnicos, otros, otros, vecinos, usuarios, miembros, niños, jóvenes, vecinos, vecinos, técnicos, vecinos, vecinos, vecinos, vecinos, técnicos, vecinos, vecinos, funcionarios, miembros, vecinos, vecinos, vecinos, vecinos, vecinos, vecinos, vecinos, vecinos, vecinos, niños, niños, vecinos, vecinos, otros, interesados, miembros, estudiantes, docentes, otras, usuarios, otros, otros, sobrevivientes, otros, usuarias, usuarias, estudiantes, voluntarios, mujeres, otras, mujeres, mujeres, mujeres, otros, miembros, miembros, miembros, miembros, miembros, otros, miembros, miembros, miembros, políticos, miembros

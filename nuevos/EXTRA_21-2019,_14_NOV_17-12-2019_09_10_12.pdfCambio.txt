@@ -341,7 +341,7 @@ independencia
  
 recurso humano 
 1125 permanentes 
-5712 voluntarios 
+5712 voluntariado 
  
 
 nuestro equipo de trabajo (permanentes) 
@@ -894,7 +894,7 @@ a  caminar.    cuando  uno  está  en  un  hospital,  en  una  silla  de  ruedas
 ambulancia  de  la  que  ustedes  manejan  uno  se  da  cuenta  del  valor  que  tienen 
 ustedes  en  la  vida  de  nosotras personas  de  nuestras  familias,  de  nuestros  hijos,  de  los 
 quienes forman parte de la sociedad.  quisiera agradecerle a los funcionariado permanentes de 
-la cruz roja y a los voluntarios también por el trabajo que hacen, me imagino don 
+la cruz roja y a los voluntariado también por el trabajo que hacen, me imagino don 
 hugo  que  fue  usted  o  todos  quienes  hicieron  el  trabajo,  que  honor  saber  que 
 pueden venir aquí a decirnos con la frente en alto que el dinero que van a recibir,  
 nos demuestran con números que lo administran de buena manera.  eso habla bien 
@@ -1027,6 +1027,6 @@ luis alfredo guillén sequeira                  licda. maría del rosario muñoz
 
 
 
-File name: C:\Users\valev\Documents\GitHub\TecuAvances\txt\EXTRA_21-2019,_14_NOV_17-12-2019_09_10_12.pdf.txt
-Number of changes: 10
-Palabras reemplazadas: interesados, miembros, otros, habitantes, electoral, otros, miembros, funcionarios, ciudadanos, otros
+File name: C:\Users\tania\OneDrive\Documentos\GitHub\TecuAvances\txt\EXTRA_21-2019,_14_NOV_17-12-2019_09_10_12.pdf.txt
+Number of changes: 12
+Palabras reemplazadas: interesados, miembros, voluntarios, otros, habitantes, electoral, otros, miembros, funcionarios, voluntarios, ciudadanos, otros

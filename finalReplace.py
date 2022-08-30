@@ -41,6 +41,7 @@ def runChanges (fileName):
                 lists = dictionary[key];
                 replacesNum += 1;
                 contents = contents.replace(word2,lists[0]);
+    print(replacesNum)
 
     texts.close;
 
@@ -60,9 +61,11 @@ def runChanges (fileName):
     texts.close;
 
 #Prueba 1
-CARPETA = 'C:\\Users\\valev\\Documents\\GitHub\\TecuAvances\\txt';
+CARPETA = 'C:\\Users\\tania\\OneDrive\\Documentos\\GitHub\\TecuAvances\\txt';
+#CARPETA = 'C:\\Users\\valev\\Documents\\GitHub\\TecuAvances\\txt';
 
 listArc = os.listdir(CARPETA); #lee todos los archivos en la carpeta
 
 for list in listArc: #recorre uno a uno los archivos de la carpeta
-    runChanges('C:\\Users\\valev\\Documents\\GitHub\\TecuAvances\\txt\\'+list);
+    #runChanges('C:\\Users\\valev\\Documents\\GitHub\\TecuAvances\\txt\\'+list);
+    runChanges('C:\\Users\\tania\\OneDrive\\Documentos\\GitHub\\TecuAvances\\txt\\'+list);
