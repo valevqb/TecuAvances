@@ -1,6 +1,8 @@
 from fileinput import filename
 import json
 import os
+import matplotlib.pyplot as plt
+import numpy as np
 
 #verifica contenido y elimina el reemplazo en donde no hay letras
 def isLetter(word):
@@ -41,7 +43,7 @@ def runChanges (fileName):
                 lists = dictionary[key];
                 replacesNum += 1;
                 contents = contents.replace(word2,lists[0]);
-    print(replacesNum)
+    return(replacesNum)
 
     texts.close;
 
@@ -65,7 +67,11 @@ CARPETA = 'C:\\Users\\tania\\OneDrive\\Documentos\\GitHub\\TecuAvances\\txt';
 #CARPETA = 'C:\\Users\\valev\\Documents\\GitHub\\TecuAvances\\txt';
 
 listArc = os.listdir(CARPETA); #lee todos los archivos en la carpeta
+listaDeCambios = [];
+
 
 for list in listArc: #recorre uno a uno los archivos de la carpeta
     #runChanges('C:\\Users\\valev\\Documents\\GitHub\\TecuAvances\\txt\\'+list);
-    runChanges('C:\\Users\\tania\\OneDrive\\Documentos\\GitHub\\TecuAvances\\txt\\'+list);
+    listaDeCambios.append(runChanges('C:\\Users\\tania\\OneDrive\\Documentos\\GitHub\\TecuAvances\\txt\\'+list));
+listaDeCambios.sort()# = listaDeCambios.sort();
+print(listaDeCambios)
