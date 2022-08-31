@@ -73,5 +73,22 @@ listaDeCambios = [];
 for list in listArc: #recorre uno a uno los archivos de la carpeta
     #runChanges('C:\\Users\\valev\\Documents\\GitHub\\TecuAvances\\txt\\'+list);
     listaDeCambios.append(runChanges('C:\\Users\\tania\\OneDrive\\Documentos\\GitHub\\TecuAvances\\txt\\'+list));
-listaDeCambios.sort()# = listaDeCambios.sort();
-print(listaDeCambios)
+#listaDeCambios.sort()
+#print(listaDeCambios)
+
+
+#Se genera la gráfica
+y = listaDeCambios;
+x = [];
+
+for i in range (len(listaDeCambios)):
+    x.append(i+1)
+ 
+
+#print(len(x)) 
+#print(len(y))
+
+
+plt.plot(x,y);
+
+plt.show();
