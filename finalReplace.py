@@ -3,6 +3,7 @@ import json
 import os
 import matplotlib.pyplot as plt
 import numpy as np
+import operator
 
 #---------------------------------------------------------------------------------------------------------
 # Verifica contenido y elimina el reemplazo en donde no hay letras
@@ -78,9 +79,58 @@ def runChanges (fileName):
 
     texts.close;
 
+#---------------------------------------------------------------------------------------------------------
+# Genera gráfico
+#---------------------------------------------------------------------------------------------------------
+def generarGráfico (listaDeCambios):
+    #Se genera la gráfica
+    y                 = listaDeCambios; #Se cambia de lugar simplemente para más claridad a la hora de crear el gráfico
+    x                 = []; #Esta va a ser la lista de archivos modificados
+
+    #print("Lista de cambios: "+ str(y) +'\n') #Muestra la lista de cambios que se han realizado por documento
+
+    for i in range (len(listaDeCambios)):
+        x.append(i+1); #Básicamente es una especie de contador, es la cantidad de documentos procesados y en la gráfica se utiliza como la lista de documentos
+
+    #print(len(x)) 
+    #print(len(y))
+
+
+    plt.plot(x,y);
+
+    plt.show();
+
+#---------------------------------------------------------------------------------------------------------
+# Obtiene el promedio de cambios
+#---------------------------------------------------------------------------------------------------------
+def obtenerPromedioDeCambios (listaDeCambios):
+    
+    promedioDeCambios = 0 ; #Este será el promedio de cambios realizados en los archivos
+
+    for i in range (len(listaDeCambios)):
+        promedioDeCambios += listaDeCambios[i];  #Se suman todos lo cambios que se han efectuado en los documentos para luego sacar el promedio
+     
+    promedioDeCambios = promedioDeCambios/len(listaDeCambios); #se obtiene el promedio de cambios realizado por documento
+
+
+    return(promedioDeCambios)
+
+#---------------------------------------------------------------------------------------------------------
+# Top 10
+#---------------------------------------------------------------------------------------------------------
+def topDiez (listaDeArchivos, listaDeCambios):
+
+    diccionarioDeDatos         = {listaDeArchivos:listaDeCambios for (listaDeArchivos,listaDeCambios) in zip(listaDeArchivos,listaDeCambios)} # Genera un diccionario a partir de las 2 listas de archivos y datos
+    diccionarioDeDatosOrdenado = sorted(diccionarioDeDatos.items(),key=operator.itemgetter(1), reverse=True) # Genera una lista ordenada de mayor a menor basada en el diccionario anterior
+
+    for i in range (10):
+        print ("En "+str(i+1)+" lugar: "+ str(diccionarioDeDatosOrdenado[i][0])+" con: "+str (diccionarioDeDatosOrdenado[i][1])+ " cambios")
+
+#---------------------------------------------------------------------------------------------------------
+# Main o principal
+#---------------------------------------------------------------------------------------------------------
 #Prueba 1
 CARPETA = 'C:\\Users\\tania\\OneDrive\\Documentos\\GitHub\\TecuAvances\\txt';
-#CARPETA = 'C:\\Users\\valev\\Documents\\GitHub\\TecuAvances\\txt';
 
 listArc        = os.listdir(CARPETA); #lee todos los archivos en la carpeta
 #print("los archivos en la carpeta: ")
@@ -90,30 +140,16 @@ listaDeCambios = [];
 
 
 for list in listArc: #recorre uno a uno los archivos de la carpeta
-    #runChanges('C:\\Users\\valev\\Documents\\GitHub\\TecuAvances\\txt\\'+list);
+    
     listaDeCambios.append(runChanges('C:\\Users\\tania\\OneDrive\\Documentos\\GitHub\\TecuAvances\\txt\\'+list));
+
 #listaDeCambios.sort()
 #print(listaDeCambios)
 
 
-#Se genera la gráfica
-y                 = listaDeCambios; #Se cambia de lugar simplemente para más claridad a la hora de crear el gráfico
-x                 = []; #Esta va a ser la lista de archivos modificados
-promedioDeCambios = 0 ; #Este será el promedio de cambios realizados en los archivos
-
-#print("Lista de cambios: "+ str(y) +'\n') #Muestra la lista de cambios que se han realizado por documento
-
-for i in range (len(listaDeCambios)):
-    x.append(i+1); #Básicamente es una especie de contador, es la cantidad de documentos procesados y en la gráfica se utiliza como la lista de documentos
-    promedioDeCambios += listaDeCambios[i];  #Se suman todos lo cambios que se han efectuado en los documentos para luego sacar el promedio
- 
-promedioDeCambios = promedioDeCambios/len(listaDeCambios); #se obtiene el promedio de cambios realizado por documento
-
+promedioDeCambios = obtenerPromedioDeCambios(listaDeCambios);
 print("Promedio de cambios: "+ str(promedioDeCambios) +'\n')
-#print(len(x)) 
-#print(len(y))
 
+topDiez (listArc, listaDeCambios);
 
-plt.plot(x,y);
-
-plt.show();
+#generarGráfico (listaDeCambios);
