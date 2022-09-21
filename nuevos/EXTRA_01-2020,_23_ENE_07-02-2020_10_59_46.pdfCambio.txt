@@ -717,6 +717,6 @@ luis alfredo guillén sequeira                  licda. maría del rosario muñoz
 
 
 
-File name: C:\Users\tania\OneDrive\Documentos\GitHub\TecuAvances\txt\EXTRA_01-2020,_23_ENE_07-02-2020_10_59_46.pdf.txt
+File name: C:\Users\valev\Documents\GitHub\TecuAvances\Actas\EXTRA_01-2020,_23_ENE_07-02-2020_10_59_46.pdf.txt
 Number of changes: 6
 Palabras reemplazadas: funcionarios, funcionarios, miembros, políticas, técnicos, otros
