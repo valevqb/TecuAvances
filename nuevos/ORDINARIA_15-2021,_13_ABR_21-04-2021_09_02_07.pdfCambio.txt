@@ -350,6 +350,6 @@ lic. leslye rubén bojorges león                   licda. maría del pilar muñ
 
 
 
-File name: C:\Users\valev\Documents\GitHub\TecuAvances\Actas\ORDINARIA_15-2021,_13_ABR_21-04-2021_09_02_07.pdf.txt
+File name: Actas\ORDINARIA_15-2021,_13_ABR_21-04-2021_09_02_07.pdf.txt
 Number of changes: 2
 Palabras reemplazadas: funcionarios, funcionarios

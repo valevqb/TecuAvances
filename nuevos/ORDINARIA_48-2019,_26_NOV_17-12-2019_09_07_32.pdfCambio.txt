@@ -359,6 +359,6 @@ luis alfredo guillén sequeira                  licda. maría del rosario muñoz
 
 
 
-File name: C:\Users\valev\Documents\GitHub\TecuAvances\Actas\ORDINARIA_48-2019,_26_NOV_17-12-2019_09_07_32.pdf.txt
+File name: Actas\ORDINARIA_48-2019,_26_NOV_17-12-2019_09_07_32.pdf.txt
 Number of changes: 6
 Palabras reemplazadas: estudiantes, administrativas, miembros, miembros, funcionarios, miembros

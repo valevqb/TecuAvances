@@ -811,6 +811,6 @@ luis alfredo guillén sequeira            licda. maría del rosario muñoz gonz�
 
 
 
-File name: C:\Users\valev\Documents\GitHub\TecuAvances\Actas\EXTRA_04-2019,_21_FEB_21-05-2019_08_02_26.pdf.txt
+File name: txt\EXTRA_04-2019,_21_FEB_21-05-2019_08_02_26.pdf.txt
 Number of changes: 24
 Palabras reemplazadas: miembros, funcionarios, ingenieros, técnicos, asesoría, asesoría, técnicos, asesoría, asesoría, otras, políticas, ingeniería, vecinos, asesoría, asesoría, asesoran, técnicos, otros, otros, miembros, vecinos, vecinos, otras, funcionarios

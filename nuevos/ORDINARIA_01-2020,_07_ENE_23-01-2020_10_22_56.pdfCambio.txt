@@ -2261,6 +2261,6 @@ luis alfredo guillén sequeira                  licda. maría del rosario muñoz
 
 
 
-File name: C:\Users\valev\Documents\GitHub\TecuAvances\Actas\ORDINARIA_01-2020,_07_ENE_23-01-2020_10_22_56.pdf.txt
+File name: txt\ORDINARIA_01-2020,_07_ENE_23-01-2020_10_22_56.pdf.txt
 Number of changes: 53
 Palabras reemplazadas: funcionarios, miembros, administrativos, administrativas, otras, administrativos, técnicos, administrativos, ingenieros, ingenieros, funcionarios, ingenieros, ingenieros, ingenieros, otros, otras, ingenieros, ingenieros, ingenieros, ingenieros, ingenieros, ingenieros, ingenieros, ingenieros, ingenieros, administrativos, otros, ingenieros, habitantes, funcionarios, interesadas, otras, ingenieros, otras, técnicos, habitantes, vecinos, vecinos, discapacitados, discapacitados, técnicos, otras, técnicas, vecinos, miembros, miembros, otros, otros, otros, vecinos, ciudadanos, otros, otros

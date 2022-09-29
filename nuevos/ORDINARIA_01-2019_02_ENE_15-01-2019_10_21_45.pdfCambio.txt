@@ -938,6 +938,6 @@ luis alfredo guillén sequeira                          licda. maría del pilar 
 
 
 
-File name: C:\Users\valev\Documents\GitHub\TecuAvances\Actas\ORDINARIA_01-2019_02_ENE_15-01-2019_10_21_45.pdf.txt
+File name: txt\ORDINARIA_01-2019_02_ENE_15-01-2019_10_21_45.pdf.txt
 Number of changes: 25
 Palabras reemplazadas: otras, otros, habitantes, otras, niños, vecinos, habitantes, habitantes, habitantes, habitantes, funcionarios, estudiantes, solteros, vecinos, otros, estudiantes, solteros, vecinos, otros, ciudadanos, otras, vecinos, vecinos, otras, otras

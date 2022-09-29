@@ -1177,6 +1177,6 @@ presidente                                              secretaria del concejo
 
 
 
-File name: C:\Users\valev\Documents\GitHub\TecuAvances\Actas\extra6-2018_16-10-2018_14_13_15.pdf.txt
+File name: txt\extra6-2018_16-10-2018_14_13_15.pdf.txt
 Number of changes: 35
 Palabras reemplazadas: miembros, vecinos, vecinos, ciudadanía, vecinos, otros, otras, otras, vecinos, vecinos, vecinos, vecinos, otros, asesoría, vecinos, vecinos, otros, otros, mujeres, otras, directores, expertos, funcionarios, diputados, jóvenes, políticas, políticas, políticas, jóvenes, jefes, jóvenes, políticas, jóvenes, participantes, técnicos

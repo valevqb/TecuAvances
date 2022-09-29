@@ -1233,6 +1233,6 @@ luis alfredo guillén sequeira            licda. maría del rosario muñoz gonz�
 
 
 
-File name: C:\Users\valev\Documents\GitHub\TecuAvances\Actas\EXTRA_03-2020,_13_FEB_25-02-2020_08_37_24.pdf.txt
+File name: txt\EXTRA_03-2020,_13_FEB_25-02-2020_08_37_24.pdf.txt
 Number of changes: 32
 Palabras reemplazadas: beneficiarias, vecinos, técnicos, vecinos, otras, ciudadanos, vecinos, otros, vecinos, otros, administrativos, técnicos, administrativos, habitantes, funcionarios, escritorio, ciudadanos, estudiantes, interesadas, electoral, políticos, otros, ciudadanos, estudiantes, otras, otras, otras, estudiantes, estudiantes, ciudadanos, políticos, alumnos

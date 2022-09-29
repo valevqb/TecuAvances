@@ -743,6 +743,6 @@ coordinadora del subproceso
 
 
 
-File name: C:\Users\valev\Documents\GitHub\TecuAvances\Actas\extra21-2017_16-10-2018_15_13_22.pdf.txt
+File name: txt\extra21-2017_16-10-2018_15_13_22.pdf.txt
 Number of changes: 12
 Palabras reemplazadas: voluntarias, estudiantes, niños, ciudadanía, vecinos, miembros, funcionarios, otros, otros, otros, otras, otros

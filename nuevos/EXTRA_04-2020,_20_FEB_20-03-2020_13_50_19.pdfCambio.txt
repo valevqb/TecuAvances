@@ -770,6 +770,6 @@ luis alfredo guillén sequeira            licda. maría del rosario muñoz gonz�
 
 
 
-File name: C:\Users\valev\Documents\GitHub\TecuAvances\Actas\EXTRA_04-2020,_20_FEB_20-03-2020_13_50_19.pdf.txt
+File name: txt\EXTRA_04-2020,_20_FEB_20-03-2020_13_50_19.pdf.txt
 Number of changes: 15
 Palabras reemplazadas: funcionarios, diputados, ingenieros, niños, jóvenes, voluntarios, niños, funcionarios, funcionarios, vecinas, funcionarios, otros, electoral, habitantes, políticos

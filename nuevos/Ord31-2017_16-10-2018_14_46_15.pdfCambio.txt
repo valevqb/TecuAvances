@@ -3864,6 +3864,6 @@ presidente                                                secretaria del concejo
 
 
 
-File name: C:\Users\valev\Documents\GitHub\TecuAvances\Actas\Ord31-2017_16-10-2018_14_46_15.pdf.txt
+File name: txt\Ord31-2017_16-10-2018_14_46_15.pdf.txt
 Number of changes: 110
 Palabras reemplazadas: ciudadanos, interesados, administrativas, políticos, funcionarios, miembros, electoral, ciudadanos, miembros, otras, funcionarios, vecinos, vecinos, miembros, administrativas, asesoría, asesoría, niños, funcionarios, habitantes, ingenieros, habitantes, vecinos, vecinos, vecinos, otros, otros, administrativos, otros, otras, asesoría, funcionarios, otras, niños, estudiantil, niños, vecinos, otros, vecinos, otros, otros, hombres, mujeres, niños, niñas, funcionarios, usuarias, administrativos, vecinos, vecinas, vecinos, funcionarios, técnicos, técnicos, técnicos, otras, técnicos, rectoría, ingeniería, políticas, investigadores, ciudadanía, otros, otros, otras, usuarios, usuarios, usuarios, otras, técnicos, técnicas, técnicas, usuarios, usuarios, otras, otras, otros, vecinos, mujeres, mujeres, mujeres, mujeres, hombres, mujeres, mujeres, vecinos, administrativos, otras, funcionarios, niños, vecinos, otras, interesados, niños, ingenieros, otros, vecinos, vecinos, miembros, técnicos, otras, vecinos, vecinas, ciudadanos, vecinos, vecinos, técnicas, otros, otros, vecinos
