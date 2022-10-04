@@ -1,0 +1,264 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   Pasar_al_contenido_principal
+****** Hoy_en_el_TEC ******
+
+Viernes 12 de Agosto, 2022
+  |  
+Quiénes_Somos   |   Buscar  
+
+***** Menú *****
+    * Investigación
+    * Desarrollo_Humano
+    * Vida_Estudiantil
+    * Acción_Institucional
+    * Medio_Ambiente
+    * Emprendimiento
+    * Cultura_y_Deporte
+    * Opinión
+    * Buscar
+
+
+ Laboratorio de Sistemas Espaciales
+****** Grandes sueños, pequeños satélites en el CanSat Bootcamp ******
+    * Estudiantes de primer y segundo año del TEC  aprendieron a hacer y operar
+      satélites del tamaño de una lata de refresco
+    * Actividad sirvió para acrecentar el interés en temas espaciales e
+      impulsar la participación de mujeres en áreas de alta tecnología
+23 de Julio 2018 Por: Johan_Umaña_Venegas
+Vida_Estudiantil
+   Versión_para_imprimir    Descargar_PDF  Compartir por correo electrónico
+Comentarios
+ Compartir en Facebook  Compartir en Twitter        Compartir en WhatsApp
+[El_dron_cuenta_con_seis_hélices._]
+El lanzamiento se hizo en la cancha de fútbol del TEC, con ayuda de un dron
+facilitado por GoPato. El dispositivo encargado de liberar los CanSat también
+fue diseñado por los participantes del taller. Foto: Cortesía Adriana
+Chavarría.  
+
+El primer CanSat Bootcamp Costa Rica se realizó este fin de semana con 25
+estudiantes de primer y segundo año del Tecnológico de Costa Rica, provenientes
+de las diferentes sedes y centros académicos, quienes tuvieron su primer
+contacto con tecnología espacial. La organización estuvo a cargo del
+Laboratorio_de_Sistemas_Espaciales_(SETEC-Lab), del Tecnológico_de_Costa_Rica,
+y la empresa Imagine_XYZ.
+El evento se desarrolló en tres jornadas, con charlas sobre ciencia y
+tecnología, un taller para construir los CanSats –pequeños satélites con fines
+pedagógicos del tamaño de una lata de refresco– y el respectivo lanzamiento de
+los dispositivos.
+Así son los CanSats. Foto: Cortesía SETEC-Lab.
+“Yo nunca había tenido contacto con ningún tipo de componentes como los que se
+usaron en el taller, mucho menos programarlos o algo así. Fue una experiencia
+genial“, comentó Raquel Miranda, estudiante de Ingeniería en Computación en la
+Sede Regional del TEC en San Carlos.
+Además de garantizar la participación de estudiantes jóvenes, los organizadores
+decidieron asegurar la paridad de género y acentuar la importancia de la
+visibilización de las mujeres en los campos de ciencia y tecnología.
+El tema de la mujer en la ciencia fue ampliamente desarrollado por la Dra.
+Bárbara Bermúdez Reyes, invitada internacional del Bootcamp e investigadora del
+Centro de Investigación e Innovación en Ingeniería Aeronáutica de la
+Universidad Autónoma de Nuevo León, México.  
+La actividad estuvo patrocinada porIntely elBanco_Interamericano_de_Desarrollo_
+(BID). Asimismo, se contó con el apoyo de organizaciones internacionales que
+impulsan el desarrollo científico, como Global_Shapers, Unisec-México y Sulá
+Batsú.
+
+     [El_grupo_de_jóvenes_posa_en_la_pista_de_atletismo.]
+Los estudiantes participantes del CanSat Bootcamp son de primer y segundo año
+de carreras del TEC. Los acompañan investigadores del SETEC-Lab y miembros del
+grupo estudiantil TEC Space. Foto: Cortesía Adriana Chavarría. 
+
+**** Lanzamiento exitoso ****
+En el BootCamp los estudiantes se dividieron en cinco grupos dedicados a la
+contrucción de los CanSats. El domingo en la mañana fue la prueba final: cada
+aparato fue elevado a 50 metros de altura y debía transmitir cierta
+información.¡Todos funcionaron!
+La empresa de entregas a domicilio GoPato facilitó el dron especial con el que
+se realizó el lanzamiento de los CanSat.
+El dispositivo para liberar los satélites y los paracaídas también se
+desarrollaron en los talleres del sábado.
+El lanzamiento se hizo en compañía de niños y adultos aficionados a temas
+espaciales, quienes aprovecharon la oportunidad para hacer preguntas a
+estudiantes e investigadores del Tecnológico.  
+     [Espectadores_ven_caer_el_CanSat.]
+Los CanSat caían lentamenta gracias al paracaídas diseñado por los estudiantes,
+con ayuda de la especialista Bárbara Bermúdez. Foto: Cortesía Adriana
+Chavarría.
+
+**** Ejercicio con ‘satélites’ de verdad ****
+Ya que los CanSats no fueron diseñados para viajar al espacio exterior no se
+les puede llamar satélites de verdad, pero cada uno contó con sensores reales
+para medir temperatura, humedad, ubicación y otros factores; así como cámaras
+para registrar video. Esto los convierte en dispositivos ideales para
+mediciones ambientales o climáticas.
+“Los satélites cuentan con una misión científica, en la que miden temperatura,
+humedad, y tienen una cámara para poder detectar vegetación. Además, tienen
+módulo GPS para saber exactamente dónde están posicionados. Tienen módulo de
+radiofrecuencia que se conecta con una estación en tierra y así tenemos los
+datos de todo el experimento científico.
+“De hecho, como parte del evento se desarrolló un taller de ideas para que los
+estudiantes pudieran proponer en qué tipos de misiones creen que serían útiles
+estos dispositivos y a muchos les pareció que eran ideales para monitoreo
+climático“, explicó el ingeniero Esteban Martínez, investigador del SETEC-Lab.
+Además de los investigadores del SETEC-LAB, el evento contó con la ayuda de los
+miembros de TEC_Space, un grupo estudiantil de aficionados a las tecnologías
+espaciales.
+El CanSat BootCamp sirvió de preámbulo al hackatón femenino, que se
+desarrollará en Limón próximamente y el estará enfocado en tecnología
+aeroespacial.
+“La ganancia ha sido formación de recursos humanos, nos ha dejado experiencia
+tanto a estudiantes como profesores, y hasta a la organización. Además de que
+los estudiantes que estuvieron participando ahora hacen sus posgrados en temas
+aeroespaciales, ya sea con nosotros o en el extranjero, Entonces, eso es lo que
+nos ha dejado de ganancia. Esperemos que se regresen estos recursos humanos,
+que sería lo mejor, y seguir avanzando en el área aeroespacial y espacial en
+México, que todavía no estamos tan avanzados como Japón, Estados Unidos o los
+europeos, pero bueno ya estamos dando pasos más firmes”, contó Bermúdez, sobre
+la experiencia de su país en cerca de cinco años de organizar este tipo de
+eventos.
+
+**** El bootcamp en los ojos de los estudiantes ****
+Fotografías facilitadas por los estudiantes que acudieron al primer CanSat
+Bootcamp Costa Rica.
+ Previous Next
+ Previous Next
+
+ [El_módulo_cilíndrico_es_metálico_y_tiene_varios_brazos_robóticos.]
+Histórico:_el_primer_satélite_costarricense_funciona_en_el_espacio_y_hace
+contacto
+
+
+Proyecto_Irazú_fortaleció_capacidades_del_TEC_para_desarrollar_misiones
+espaciales
+
+
+¿Por_qué_es_importante_desarrollar_satélites_en_Centroamérica?
+
+ CanSat, SETEC-Lab, Sistemas_espaciales
+[Johan Umaña Venegas, Comunicador.]
+**** Johan_Umaña_Venegas ****
+johumana@tec.ac.cr
+Comunicador
+Licenciado en Comunicación Colectiva, con énfasis en Periodismo, Universidad de
+Costa Rica.
+View_the_discussion_thread.
+
+***** Relacionado *****
+**** Cartago_es_sede_de_la_más_reciente_antena_del_sistema_de_rastreo_de
+satélites_de_la_Agencia_Espacial_Europea ****
+29 de Junio 2022 Por: Johan_Umaña_Venegas
+ [La_antena_es_blanca_y_tiene_forma_de_cono_inverso.]
+**** Space_Apps_mostró_talento_y_soluciones_innovadoras_para_el_espacio_y_la
+tierra ****
+2 de Mayo 2017 Por: Noemy_Chinchilla_Bravo
+
+**** Alumno_de_Mecatrónica_se_encuentra_en_Países_Bajos_para_investigar_cómo
+perfeccionar_el_control_de_robots ****
+18 de Mayo 2017 Por: Johan_Umaña_Venegas
+
+**** Costa_Rica_albergará_destacado_congreso_latinoamericano_sobre_ciencias
+experimentales ****
+7 de Diciembre 2017 Por: Geovanni_Jiménez_Mata
+ [logo_del_congreso_]
+
+Oficina_de_Comunicación_y_Mercadeo
+Teléfono: (506)_2550-2218 / (506)_2550-9194
+Correo electrónico: comunicacionymercadeotec@tec.ac.cr
+    * Quiénes_Somos
+    * Contacto
+    * Secciones
+
+    * Facebook
+    * Twitter
+    * Instagram
+    * YouTube
+[logo TEC]

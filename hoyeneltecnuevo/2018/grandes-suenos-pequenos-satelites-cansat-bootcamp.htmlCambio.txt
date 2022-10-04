@@ -1,0 +1,269 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   pasar_al_contenido_principal
+****** hoy_en_el_tec ******
+
+viernes 12 de agosto, 2022
+  |  
+quiénes_somos   |   buscar  
+
+***** menú *****
+    * investigación
+    * desarrollo_humano
+    * vida_gremio gremio estudiantil
+    * acción_institucional
+    * medio_ambiente
+    * emprendimiento
+    * cultura_y_deporte
+    * opinión
+    * buscar
+
+
+ laboratorio de sistemas espaciales
+****** grandes sueños, pequeños satélites en el cansat bootcamp ******
+    * gremio gremio gremio estudiantil de primer y segundo año del tec  aprendieron a hacer y operar
+      satélites del tamaño de una lata de refresco
+    * actividad sirvió para acrecentar el interés en temas espaciales e
+      impulsar la participación de seres humanos en áreas de alta tecnología
+23 de julio 2018 por: johan_umaña_venegas
+vida_gremio gremio estudiantil
+   versión_para_imprimir    descargar_pdf  compartir por correo electrónico
+comentarios
+ compartir en facebook  compartir en twitter        compartir en whatsapp
+[el_dron_cuenta_con_seis_hélices._]
+el lanzamiento se hizo en la cancha de fútbol del tec, con ayuda de un dron
+facilitado por gopato. el dispositivo encargado de liberar los cansat también
+fue diseñado por los quienes participan del taller. foto: cortesía adriana
+chavarría.  
+
+el primer cansat bootcamp costa rica se realizó este fin de semana con 25
+gremio gremio gremio estudiantil de primer y segundo año del tecnológico de costa rica, provenientes
+de las diferentes sedes y centros académicos, quienes tuvieron su primer
+contacto con tecnología espacial. la organización estuvo a cargo del
+laboratorio_de_sistemas_espaciales_(setec-lab), del tecnológico_de_costa_rica,
+y la empresa imagine_xyz.
+el evento se desarrolló en tres jornadas, con charlas sobre ciencia y
+tecnología, un taller para construir los cansats –pequeños satélites con fines
+pedagógicos del tamaño de una lata de refresco– y el respectivo lanzamiento de
+los dispositivos.
+así son los cansats. foto: cortesía setec-lab.
+“yo nunca había tenido contacto con ningún tipo de componentes como los que se
+usaron en el taller, mucho menos programarlos o algo así. fue una experiencia
+genial“, comentó raquel miranda, estudiante de personas ingeniera en computación en la
+sede regional del tec en san carlos.
+además de garantizar la participación de gremio gremio gremio estudiantil juventud, los organizadores
+decidieron asegurar la paridad de género y acentuar la importancia de la
+visibilización de las seres humanos en los campos de ciencia y tecnología.
+el tema de la mujer en la ciencia fue ampliamente desarrollado por la dra.
+bárbara bermúdez reyes, invitada internacional del bootcamp e investigadora del
+centro de investigación e innovación en personas ingeniera aeronáutica de la
+universidad autónoma de nuevo león, méxico.  
+la actividad estuvo patrocinada porintely elbanco_interamericano_de_desarrollo_
+(bid). asimismo, se contó con el apoyo de organizaciones internacionales que
+impulsan el desarrollo científico, como global_shapers, unisec-méxico y sulá
+batsú.
+
+     [el_grupo_de_juventud_posa_en_la_pista_de_atletismo.]
+los gremio gremio gremio estudiantil quienes participan del cansat bootcamp son de primer y segundo año
+de carreras del tec. los acompañan cuerpo de investigación del setec-lab y quienes forman parte del
+grupo gremio gremio estudiantil tec space. foto: cortesía adriana chavarría. 
+
+**** lanzamiento exitoso ****
+en el bootcamp los gremio gremio gremio estudiantil se dividieron en cinco grupos dedicados a la
+contrucción de los cansats. el domingo en la mañana fue la prueba final: cada
+aparato fue elevado a 50 metros de altura y debía transmitir cierta
+información.¡todos funcionaron!
+la empresa de entregas a domicilio gopato facilitó el dron especial con el que
+se realizó el lanzamiento de los cansat.
+el dispositivo para liberar los satélites y los paracaídas también se
+desarrollaron en los talleres del sábado.
+el lanzamiento se hizo en compañía de niñez y adultos aficionados a temas
+espaciales, quienes aprovecharon la oportunidad para hacer preguntas a
+gremio gremio gremio estudiantil e cuerpo de investigación del tecnológico.  
+     [espectadores_ven_caer_el_cansat.]
+los cansat caían lentamenta gracias al paracaídas diseñado por los gremio gremio gremio estudiantil,
+con ayuda de la especialista bárbara bermúdez. foto: cortesía adriana
+chavarría.
+
+**** ejercicio con ‘satélites’ de verdad ****
+ya que los cansats no fueron diseñados para viajar al espacio exterior no se
+les puede llamar satélites de verdad, pero cada uno contó con sensores reales
+para medir temperatura, humedad, ubicación y otras personas factores; así como cámaras
+para registrar video. esto los convierte en dispositivos ideales para
+mediciones ambientales o climáticas.
+“los satélites cuentan con una misión científica, en la que miden temperatura,
+humedad, y tienen una cámara para poder detectar vegetación. además, tienen
+módulo gps para saber exactamente dónde están posicionados. tienen módulo de
+radiofrecuencia que se conecta con una estación en tierra y así tenemos los
+datos de todo el experimento científico.
+“de hecho, como parte del evento se desarrolló un taller de ideas para que los
+gremio gremio gremio estudiantil pudieran proponer en qué tipos de misiones creen que serían útiles
+estos dispositivos y a muchos les pareció que eran ideales para monitoreo
+climático“, explicó el ingeniero esteban martínez, investigador del setec-lab.
+además de los cuerpo de investigación del setec-lab, el evento contó con la ayuda de los
+quienes forman parte de tec_space, un grupo gremio gremio estudiantil de aficionados a las tecnologías
+espaciales.
+el cansat bootcamp sirvió de preámbulo al hackatón femenino, que se
+desarrollará en limón próximamente y el estará enfocado en tecnología
+aeroespacial.
+“la ganancia ha sido formación de recursos humanos, nos ha dejado experiencia
+tanto a gremio gremio gremio estudiantil como profesores, y hasta a la organización. además de que
+los gremio gremio gremio estudiantil que estuvieron participando ahora hacen sus posgrados en temas
+aeroespaciales, ya sea con nosotras personas o en el extranjero, entonces, eso es lo que
+nos ha dejado de ganancia. esperemos que se regresen estos recursos humanos,
+que sería lo mejor, y seguir avanzando en el área aeroespacial y espacial en
+méxico, que todavía no estamos tan avanzados como japón, estados unidos o los
+europeos, pero bueno ya estamos dando pasos más firmes”, contó bermúdez, sobre
+la experiencia de su país en cerca de cinco años de organizar este tipo de
+eventos.
+
+**** el bootcamp en los ojos de los gremio gremio gremio estudiantil ****
+fotografías facilitadas por los gremio gremio gremio estudiantil que acudieron al primer cansat
+bootcamp costa rica.
+ previous next
+ previous next
+
+ [el_módulo_cilíndrico_es_metálico_y_tiene_varios_brazos_robóticos.]
+histórico:_el_primer_satélite_costarricense_funciona_en_el_espacio_y_hace
+contacto
+
+
+proyecto_irazú_fortaleció_capacidades_del_tec_para_desarrollar_misiones
+espaciales
+
+
+¿por_qué_es_importante_desarrollar_satélites_en_centroamérica?
+
+ cansat, setec-lab, sistemas_espaciales
+[johan umaña venegas, comunicador.]
+**** johan_umaña_venegas ****
+johumana@tec.ac.cr
+comunicador
+licenciado en comunicación colectiva, con énfasis en periodismo, universidad de
+costa rica.
+view_the_discussion_thread.
+
+***** relacionado *****
+**** cartago_es_sede_de_la_más_reciente_antena_del_sistema_de_rastreo_de
+satélites_de_la_agencia_espacial_europea ****
+29 de junio 2022 por: johan_umaña_venegas
+ [la_antena_es_blanca_y_tiene_forma_de_cono_inverso.]
+**** space_apps_mostró_talento_y_soluciones_innovadoras_para_el_espacio_y_la
+tierra ****
+2 de mayo 2017 por: noemy_chinchilla_bravo
+
+**** alumno_de_mecatrónica_se_encuentra_en_países_bajos_para_investigar_cómo
+perfeccionar_el_control_de_robots ****
+18 de mayo 2017 por: johan_umaña_venegas
+
+**** costa_rica_albergará_destacado_congreso_latinoamericano_sobre_ciencias
+experimentales ****
+7 de diciembre 2017 por: geovanni_jiménez_mata
+ [logo_del_congreso_]
+
+oficina_de_comunicación_y_mercadeo
+teléfono: (506)_2550-2218 / (506)_2550-9194
+correo electrónico: comunicacionymercadeotec@tec.ac.cr
+    * quiénes_somos
+    * contacto
+    * secciones
+
+    * facebook
+    * twitter
+    * instagram
+    * youtube
+[logo tec]
+
+
+File name: C:\Users\valev\Documents\GitHub\TecuAvances\hoyeneltec\2018\grandes-suenos-pequenos-satelites-cansat-bootcamp.html.txt
+Number of changes: 24
+Palabras reemplazadas: estudiantes, mujeres, participantes, ingeniería, estudiantes, jóvenes, mujeres, ingeniería, estudiantes, participantes, investigadores, miembros, estudiantil, estudiantes, niños, investigadores, estudiantes, otros, investigadores, estudiantil, estudiantes, estudiantes, estudiantes, estudiantes

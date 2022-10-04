@@ -1,0 +1,272 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   Pasar_al_contenido_principal
+****** Hoy_en_el_TEC ******
+
+Viernes 12 de Agosto, 2022
+  |  
+Quiénes_Somos   |   Buscar  
+
+***** Menú *****
+    * Investigación
+    * Desarrollo_Humano
+    * Vida_Estudiantil
+    * Acción_Institucional
+    * Medio_Ambiente
+    * Emprendimiento
+    * Cultura_y_Deporte
+    * Opinión
+    * Buscar
+
+
+ "El covid-19 no resistiría en la cámara”
+****** Cámara hecha por el TEC para desinfectar mascarillas N95, pasa pruebas
+nacionales ******
+    * Dispositivo combina dos tipos de desinfección: luz ultravioleta y plasma
+ 
+    * En el mundo, solo Costa Rica estaría utilizando este tipo de tecnología,
+      hasta donde se tiene conocimiento
+ 
+    *  
+25 de Junio 2020 Por: Irina_Grajales_Navarrete
+Investigación
+   Versión_para_imprimir    Descargar_PDF  Compartir por correo electrónico
+Comentarios
+ Compartir en Facebook  Compartir en Twitter        Compartir en WhatsApp
+[La_imagen_muestra_el_dispositivo_creado_por_el_TEC._]
+Dentro de la cámara, el aire se convierte en plasma y se generan moléculas que
+desinfectan cualquier objeto que esté adentro: lentes, lapiceros y mascarillas
+N95, entre otros. (Fotografía: cortesía de plasma Innova). 
+
+El prototipo para desinfectar las mascarillas N95 con covid-19, desarrollado
+por científicos del Tecnológico_de_Costa_Rica (TEC) y la empresa privada Plasma
+Innova, pasó oficialmente todas las pruebas nacionales y ya está listo para su
+siguiente fase: pruebas en un laboratorio internacional certificado por la
+Organización_Mundial_de_la_Salud (OMS). 
+La investigación surge a raíz de una solicitud que le hizo la Caja
+Costarricense_del_Seguro_Social (CCSS) al TEC,  por medio de la carrera de
+Ingeniería_en_Mecatrónica de ayudar con la creación de equipo especializado, en
+caso de un desabastecimiento de suministros ante la pandemia que enfrenta el
+país. 
+ 
+   “Los insumos se agotan en el planeta. Somos un país pequeño y las compras
+que logramos hacer son insignificantes en comparación con el resto del mundo.
+Lo mejor que podemos hacer para asegurar el suministro en este momento es
+desinfectar las mascarillas que ya tenemos y reutilizarlas”, afirmó la
+coordinadora del proyecto y científica del TEC, Marta Vílchez. 
+Justamente, se trata de un prototipo que utiliza dos tipos de desinfección
+combinados: irradiación con luz ultravioleta y aire activado con plasma. 
+El primero de ellos, la irradiación con luz ultravioleta, es un método ya
+validado a nivel internacional. De esta manera, los científicos ticos ya
+conocen cuánto tiempo debe colocarse la mascarilla a la luz y a qué
+distancia. También es fácil de implementar.
+El segundo, el aire activado con plasma, es la novedad que tiene del
+dispositivo del TEC. 
+Pero, ¿cómo funciona el aire activado con plasma?. 
+Dentro de la cámara, el aire se convierte en plasma y se generan moléculas que
+purifican cualquier objeto que esté adentro: lentes, lapiceros y mascarillas
+N95, entre otros. 
+Una de esas moléculas es el ozono. “El ozono es una molécula inestable y
+reacciona muy bien con las grasas (justamente así es la envoltura que tienen
+los virus y bacterias); es decir, la tendencia del ozono al estar en contacto
+con el covid-19, sería romper su envoltura y matarlo. explicó la científica del
+TEC, Marta Vílchez.
+De acuerdo con Vílchez, el TEC escogió trabajar con Plasma Innova, al ser una
+empresa tica, con científicos ticos (muchos graduados en el TEC) y
+con amplio conocimiento en el manejo del ozono activado por plasma. 
+      Hasta donde tenemos conocimiento, en el mundo, solo Costa Rica estaría
+utilizando este tipo de tecnología para desinfectar mascarillas N95 con Covid-
+19”, señaló José Asenjo, ingeniero a cargo del proyecto en Plasma Innova. 
+
+     Pruebas 
+Para que el dispositivo pueda llegar a los centros de salud de Costa Rica, es
+necesaria la validación de tres pruebas. 
+ 
+   1. Integridad física (prueba nacional)
+La comprobación se realizó en el laboratorio de bacteriología del Hospital
+Nacional_de_Niños. “El dispositivo pasó la prueba y se validó que nuestro
+sistema de desinfección irradia por tiempos prolongados sin que la mascarilla
+se deforme”, indicó la coordinadora del proyecto y científica del TEC, Marta
+Vílchez.
+ 
+   1. Probar que realmente desinfecta (prueba nacional)
+La verificación se hizo en los laboratorios de la Facultad_de_Microbiología_de
+la_Universidad_de_Costa_Rica(UCR), donde se realizaron estudios muy
+prometedores con microorganismos sumamente resistentes, entre ellos: E. coli,
+Staphylococcus aureus, Salmonella, Listeria, Candida, Aspergillus y Bacillus. 
+“Con cada microorganismo utilizamos una concentración inicial de mil millones.
+Por ejemplo, usamos mil millones de E. coli”, explicó la Dra. María Laura
+Arias, directora del laboratorio de microbiología de aguas y alimentos de la
+UCR.
+Los microorganismos se colocaron en las mascarillas N95 y se probaron con
+distintos tiempos de exposición (uno, cinco y 20 minutos) dentro de la cámara
+del TEC. 
+Fotografía: Ruth Garita /TEC. 
+“El tiempo que mejor funcionó fue el de 20 minutos. En todos los casos, excepto
+con el Bacillus, la cantidad de microorganismos bajó a 100 o menos; es
+decir, bajaron de mil millones a 100. ¡Esto es una maravilla! Y, lo más
+importante, en ningún caso la mascarilla se deformó”, dice la Doctora.
+Ahora, ¿qué va a pasar con el Bacillus?
+El Bacillus, por su parte, bajó de mil millones a 100 mil. Esto ocurre porque
+el Bacillus es una bacteria esporulada, lo cual la hace muy resistente. 
+Sin embargo, “el covid-19 es un virus menos resistente que una bacteria
+esporulada. Entonces, a pesar de que no hemos evaluado el covid-19 como tal,
+con estos datos podemos inferir que el covid no resistiría en la cámara”,
+puntualizó.
+      “Este desarrollo es posible gracias a que nos hemos unido las
+universidades públicas, la industria privada y la Caja Costarricense de Seguro
+Social. Este es un logro que quedará en la historia como prueba de lo que se
+puede hacer en nuestro país”. afirmó la coordinadora del proyecto y científica
+del TEC, Marta Vílchez.
+   1. Probar que la cámara aniquila el virus (Prueba internacional) 
+La última etapa es probar que la cámara aniquila el virus. El problema es que
+en Costa Rica no hay cepas cultivadas de covid-19. 
+“Las cepas son manejadas en laboratorios internacionales certificados por
+la OMS. Aún no podemos adelantar información, pues estamos en negociaciones,
+pero esperamos pronto tener buenas noticias que informar al país”, puntualizó
+la científica del TEC. 
+
+ Mascarillas, N95, Covid-19, Desinfección, desinfectar, Dispositivo, Cámara,
+Plasma, Luz, Ultravioleta
+**** Irina_Grajales_Navarrete ****
+igrajales@tec.ac.cr
+Comunicadora
+Máster en Diplomacia, Universidad de Costa Rica. Licenciada en Comunicación y
+Bachiller en Periodismo, Universidad Federada de Costa Rica.
+Premio de Periodismo, la Huella del Jaguar 2019 del Minae y, Premio de
+periodismo Costa Rica Incluye 2018
+ 
+View_the_discussion_thread.
+
+***** Relacionado *****
+**** Investigadores_en_plasma_vuelven_a_representar_a_Costa_Rica_en_conferencia
+internacional ****
+28 de Septiembre 2017 Por: Irina_Grajales_Navarrete
+
+**** TEC_fue_sede_del_primer_taller_de_Plasmas_para_Fusión_en_Latinoamérica
+****
+5 de Diciembre 2019 Por: Irina_Grajales_Navarrete
+ [personas_en_laboratorio_de_plasmas_del_TEC_]
+**** Tico_es_seleccionado_entre_los_mejores_científicos_del_mundo_en_fusión
+nuclear ****
+17 de Enero 2018 Por: Irina_Grajales_Navarrete
+
+**** Observe_la_participación_del_científico_Iván_Vargas_en_el_TEDxSabana ****
+27 de Noviembre 2019 Por: Geovanni_Jiménez_Mata
+ [ivan-vargas-posando-junto-a-maquinas-]
+
+Oficina_de_Comunicación_y_Mercadeo
+Teléfono: (506)_2550-2218 / (506)_2550-9194
+Correo electrónico: comunicacionymercadeotec@tec.ac.cr
+    * Quiénes_Somos
+    * Contacto
+    * Secciones
+
+    * Facebook
+    * Twitter
+    * Instagram
+    * YouTube
+[logo TEC]

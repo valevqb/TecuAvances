@@ -1,0 +1,242 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   Pasar_al_contenido_principal
+****** Hoy_en_el_TEC ******
+
+Viernes 12 de Agosto, 2022
+  |  
+Quiénes_Somos   |   Buscar  
+
+***** Menú *****
+    * Investigación
+    * Desarrollo_Humano
+    * Vida_Estudiantil
+    * Acción_Institucional
+    * Medio_Ambiente
+    * Emprendimiento
+    * Cultura_y_Deporte
+    * Opinión
+    * Buscar
+
+
+****** Ingeniera tica dejará su marca en megaproyecto para producir
+electricidad en medio del océano ******
+19 de Mayo 2016 Por: Johan_Umaña_Venegas
+Vida_Estudiantil
+Investigación
+   Versión_para_imprimir    Descargar_PDF  Compartir por correo electrónico
+Comentarios
+ Compartir en Facebook  Compartir en Twitter        Compartir en WhatsApp
+
+     Comparación del tamaño que tendrá la mega estructura del Ocean Grazer
+     en comparación con un crucero. (Foto tomada de oceangrazer.com). 
+      
+    * Jeniffer Brenes, estudiante de Ingeniería Electrónica, viajará a Países
+      Bajos para desarrollar su tesis en una copasantía en la Universidad de
+      GroningenProyecto pretende instalar una plataforma gigante en medio del
+      océano para producir electricidad para unas 70.000 viviendas
+Ocean_Grazer es un proyecto ambicioso de la Universidad_de_Groningen, en Países
+Bajos, que pretende construir una estructura de 435 metros de diámetro y 255 de
+alto en medio del océano para producir y almacenar electricidad a partir de la
+energía cinética del oleaje.
+Ese megaproyecto tendrá una huella costarricense pues Jenifer Brenes,
+estudiante deIngeniería_en_ElectrónicadelTecnológico_de_Costa_Rica, se prepara
+para viajar en agosto a Europa para realizar su proyecto de graduación de
+licenciatura con el grupo de científicos que lo desarrollan.
+“Lo diferente de este proyecto es que está diseñado para adaptarse a los
+diferentes amplitudes y frecuencias del oleaje, porque muchos de los
+dispositivos que existen ahora pierden efectividad cuando baja la marea o
+disminuye la frecuencia de las olas”, explica Brenes respecto a lo innovador
+del ingenio.
+Esta alumna del TEC realizará su tesis de licenciatura en el cálculo de la
+energía cinética en el prototipo del Ocean Grazer:
+“Ya se tiene un prototipo a muy pequeña escala de lo que va a ser el proyecto
+real y ya está funcionando, pero no se sabe cuál es la eficiencia de ese
+dispositivo. Entonces se requiere saber qué tanto del movimiento de las olas -
+que es la energía cinética-, se está transfiriendo a la energía potencial, que
+es el sistema de bombeo; así que por ahora vamos a trabajar dos proyectos
+simultáneos y en mi caso voy a estar más dirigida a averiguar lo que es la
+energía cinética (...).
+“La energía cinética se va a averiguar con el procesamiento de imágenes. Ya el
+profesor, con ayuda del encargado de allá, instalaron una cámara de alta
+calidad, y ya está grabando videos y demás; entonces, vamos a procesar esos
+videos para obtener datos como la amplitud de las frecuencias y encontrar un
+algoritmo para definir la energía cinética“, argumentó la ingeniera.
+Las imágenes a las que se refiere Brenes están siendo tomadas por equipo que se
+colocó con ayuda del Dr. Mauricio Muñoz, profesor de laEscuela_de_Ingeniería
+Electrónicay nexo con la Universidad de Groningen para que Brenes y otros
+estudiantes desarrollen pasantías y trabajos de graduación en Países Bajos.
+ 
+[https://www.tec.ac.cr/hoyeneltec/sites/default/files/media/uploads/jenifer-
+brenes-ocean-grazer-tec.png]
+     Mauricio Muñoz y Jenifer Brenes, docente y alumna de la Escuela de
+     Ingeniería Electrónica. (Foto: Ruth Garita, OCM).
+**** Máxima innovación ****
+Ocean Grazer tiene la capacidad para producir 260 gigavatios hora al año, con
+lo que se puede sostener las necesidades de unos 70.000 hogares. A modo de
+ejemplo, ese dato se aproxima a la sexta parte de lo que genera anualmente el
+proyecto hidroeléctrico Reventazón.
+Aunque su enfoque principal es la energía olamotriz, la plataforma también
+contará con paneles solares y turbinas de viento, de forma que aproveche al
+máximo el potencial de energía renovable. 
+“Es un objeto que va a estar dentro del océano, va a cambiar la vida marina
+pero  se está tratando de hacer de forma que no se utilice agua salada y no se
+combine el agua dulce con el agua salada. También se están diseñando las bombas
+para que al momento de subir y bajar no generen ruido o vibraciones, ya que eso
+interferiría con la vida marina. El sistema es invasivo pero es ‘amigablemente’
+invasivo dentro del océano“, comentó Muñoz.
+Como bien lo explicó Brenes, Ocean Grazer presentará la novedad de que será más
+constante en el aprovechamiento de la energía motriz en el océano. También que
+se colocará mar adentro, con lo que, en comparación con otro tipo de
+tecnologías, se disminuiría la afectación tanto a la vida marina como a las
+poblaciones costeras.
+“Una de las ventajas es que la energía solar no se puede aprovechar durante
+todo el día, igual pasa con el viento que depende de la velocidad de las
+ráfagas. En cambio, con el océano el aprovechamiento es más constante”, ahondó
+Brenes.
+En Costa Rica, estudiantes de la Escuela_de_Ingeniería_Electromecánica del TEC
+también estudian la posibilidad de extraer energía del oleaje marino. El
+proyecto se llama e-Wave: Sistema Olamotriz de Generación Eléctrica.
+Vea: Estudiantes_de_Ingeniería_Electromecánica_desarrollan_proyecto_de
+generación_eléctrica_por_medio_de_las_olas
+Según Muñoz, ya se están haciendo los contactos para aprovechar la experiencia
+de Brenes en Países Bajos y el contacto con la Universidad de Groningen.
+**** Convenio en desarrollo ****
+Bennes será la segunda estudiante del TEC que viajará a realizar su tesis a
+Groningen. El año pasado viajó Jimmy Andrés Vargas, de Ingeniería en
+Mecatrónica, para trabajar en un proyecto que busca comprender los ojos de las
+mariposas para aplicar el conocimiento en sistemas de visión artificial y
+navegación.
+Además, según Muñoz, se espera que también viaje William Retana, de
+Electrónica, para sumarse al equipo de trabajo del proyecto de mariposas.
+Vea: Proyecto_de_graduación_estudia_ojo_de_la_mariposa
+“Jennifer es el punto de entrada para que más estudiantes en un futuro logren
+generar ese tránsito bidireccional entre las dos universidades. Con Jimmy
+Andrés ya tenemos esa experiencia pero es en otro departamento, en otro grupo
+de investigadores”, agregó Muñoz.
+Con tanto tránsito hacia Groningen es natural que ya se esté trabajando en un
+convenio de intercambio de estudiantes con la universidad europea. Según el
+docente, ya existe un borrador del mismo y se está en revisión por parte de
+ambas casas de enseñanza superior. Se espera que se logre concretar el acuerdo
+este año.
+“La Universidad de Groningen está ranqueada entre las mejores 100 del mundo,
+así que el que va a ganar muchísimo es el Tecnológico. Pero la Universidad de
+Groningen también va a ganar porque ellos no tienen facultad de ingeniería y se
+van a llevar el conocimiento que podemos aportar nosotros en esa área. Es un
+complemento, una situación ganar-ganar”, acotó Muñoz.
+[Johan Umaña Venegas, Comunicador.]
+**** Johan_Umaña_Venegas ****
+johumana@tec.ac.cr
+Comunicador
+Licenciado en Comunicación Colectiva, con énfasis en Periodismo, Universidad de
+Costa Rica.
+View_the_discussion_thread.
+
+***** Relacionado *****
+**** Aplicación_médica_española_con_sello_tico ****
+16 de Septiembre 2014 Por: Redacción
+**** Investigación_en_transporte_de_sedimentos_en_Río_la_Estrella_se_fortalece
+gracias_al_programa_de_movilidad_estudiantil ****
+18 de Septiembre 2014 Por: Redacción
+**** Éxito_en_Japón:_proyecto_MUSA_ganó_en_importante_competencia_astronáutica
+****
+4 de Diciembre 2019 Por: Geovanni_Jiménez_Mata
+ [grupo-de-proyecto-musa-celebrando-en-japon-]
+**** Los_estudiantes_y_la_investigación:_una_relación_de_mutuo_beneficio ****
+23 de Noviembre 2020 Por: Fernando_Montero_Bolaños
+ [Imagen_de_un_tope_de_caballos_en_Liberia,_Guanacaste.]
+
+Oficina_de_Comunicación_y_Mercadeo
+Teléfono: (506)_2550-2218 / (506)_2550-9194
+Correo electrónico: comunicacionymercadeotec@tec.ac.cr
+    * Quiénes_Somos
+    * Contacto
+    * Secciones
+
+    * Facebook
+    * Twitter
+    * Instagram
+    * YouTube
+[logo TEC]

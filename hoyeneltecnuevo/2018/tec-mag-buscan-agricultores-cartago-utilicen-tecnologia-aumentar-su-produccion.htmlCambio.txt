@@ -1,0 +1,296 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   pasar_al_contenido_principal
+****** hoy_en_el_tec ******
+
+viernes 12 de agosto, 2022
+  |  
+quiénes_somos   |   buscar  
+
+***** menú *****
+    * investigación
+    * desarrollo_humano
+    * vida_estudiantil
+    * acción_institucional
+    * medio_ambiente
+    * emprendimiento
+    * cultura_y_deporte
+    * opinión
+    * buscar
+
+
+ entidades inician plan piloto con cebolleros
+****** tec y mag buscan que agricultores de cartago utilicen tecnología para
+aumentar su producción ******
+    * los primeros resultados revelan una reducción del 55% en el uso de
+      plaguicidas 
+27 de julio 2018 por: noemy_chinchilla_bravo
+desarrollo_humano
+   versión_para_imprimir    descargar_pdf  compartir por correo electrónico
+comentarios
+ compartir en facebook  compartir en twitter        compartir en whatsapp
+[imagen_de_un_hombre_trabajando_en_el_cultivo_de_cebolla.]
+santiago vega víquez, agricultor de la zona norte de cartago, utilizó los
+sensores “watermark” y  “waterscout sm 100”, en su cultivo de cebolla y los
+resultados han sido positivos. foto ruth garita/ocm.
+
+de acuerdo con el ministerio_de_agricultura_y_ganadería_(mag), los agricultores
+de la zona norte de cartago tienen un bajo índice de producción. eso está
+vinculado principalmente a factores climáticos, como lo es el agua.
+ante ello, eltecnológico_de_costa_rica_(tec)y el mag buscan cambiar este
+panorama y convertir a la agricultura de la zona en un área más
+competitiva tanto en precios como en producción. 
+para tal fin, el ing. adrián chavarría vidal, investigador de laescuela_de
+personas ingeniera_agrícolajunto con eling. jairo gonzález zúñiga, director de la
+oficina regional del mag, ubicada en tierra blanca, cartago, se dieron a la
+tarea de poner en práctica el manejo eficiente del agua, por medio de una
+tecnología, en un cultivo de cebolla.
+este manejo, lo hacen con dos sensores: el “watermark” que mide la succión de
+agua en el suelo y el “waterscout sm 100”, que estima el contenido de humedad
+volumétrica que existe.
+estos instrumentos se están utilizando específicamente, en un cultivo de
+cebolla de 1460 m2, en tierra blanca de cartago, cuyo propietario es santiago
+vega víquez, quien tiene aproximadamente 12 años de sembrar.
+**** ¿cómo funcionan? ****
+primeramente, el “watermark” y el “waterscout sm 100” se saturan con agua, al
+menos 24 horas antes de su instalación, luego se llevan al campo donde se
+realiza un orificio en el suelo y se instalan dentro del suelo de manera que
+tengan un buen contacto.
+para comenzar a medir con el sensor “watermark” se debe dejar pasar de ocho a
+12 horas, para que se estabilice con el suelo. lo que mide es la succión que
+ejerce el suelo sobre el agua y de esta manera, es retenida. pero, además,
+representa la succión que tiene que ejercer la planta, para absorber el agua.
+con respecto al sensor “waterscout sm 100”, el procedimiento es semejante para
+la instalación, pero su medida corresponde, al porcentaje de humedad
+volumétrica que hay en el suelo; es decir informa sobre la cantidad de agua que
+existe.
+estos sensores quedan introducidos durante todo el periodo del cultivo,
+permitiendo así, que todos los días se puedan realizar mediciones a diferentes
+horas del día, de la humedad y de la succión de agua en el suelo; no obstante,
+en cultivos de periodo corto, estos sensores pueden servir para varias
+cosechas. cabe destacar que no solo se pueden utilizar en cultivos de cebolla,
+sino también en papa, zanahoria, entre otras personas personas.
+para hacer la lectura de estos dos sensores, se utiliza elwatermark electronic
+meter, el cual es un dispositivo que funciona con una pilarecargable, la cual
+activa los sensores que están en equilibrio con el suelo, por medio de
+electricidad.
+[infografia]
+     "gracias a estos instrumentos, los agricultores pueden tomar mejores
+     decisiones en la programación del riego, en cuándo y cuánto aplicar;
+     ya que el exceso de agua y la falta de esta es dañino para los
+     cultivos. normalmente, el daño se ve expresado en la caída de la
+     producción, entre otras personas cosas”, ing. adrián chavarría, escuela de
+     personas ingeniera agrícola.
+**** un cultivo más eficiente ****
+según el ingeniero chavarría, con los ajustes a la agricultura tradicional,
+mediante la utilización de los sensores y las buenas prácticas en la
+agricultura,  el siembro de cebolla es más eficiente en el uso del recurso agua
+(protección del recurso hídrico), en la nutrición y en la disminución de plagas
+y enfermedades. esto se ha manifestado en la robustez de la plantación, lo cual
+es un pronóstico de alta producción según los agricultores de la zona.
+un ejemplo de ello, es el productor  de cebolla,santiago vega víquez, de la
+zona norte de cartago, quien tiene  12 años de sembrar, con la metodología
+tradicional.
+vega, actualmente cuenta con un terreno de aproximadamente 2300 m2. en dicho
+terreno, se ha dedicado el tiempo mencionado a producir cebolla mediante la
+agricultura tradicional.  él indica que lo realizado hasta el día de hoy, con
+respecto a la agricultura, le ha provocado una desestabilidad económica y por
+este motivo tomó la decisión de incursionar en nuevas tecnologías aplicadas a
+la agricultura.
+ 
+
+
+ 
+debido a lo anterior, tomó las recomendaciones e innovaciones propuestas por
+los personas expertas para procurar la mejora en sus condiciones económicas mediante la
+eficiencia en el uso de los recursos y  la obtención de un producto saludable.
+vega explicó que  evaluará la iniciativa a un año plazo. “en estos tres meses
+de desarrollo de la plantación he podido constatar el cambio radical del
+crecimiento y desarrollo de la plantación actual respecto a las anteriores”.
+ 
+     **** "nunca había pensado en hacer ajustes a la agricultura
+     tradicional como lo es en las diferencias de densidades de siembra,
+     tamaño de las eras y otras personas personas, y mucho menos, en hacer cambios radicales
+     como lo es el riego con sensores, fertiriego y otras personas personas. estoy muy
+     agradecido con el tec y el mag, por el apoyo brindado”, santiago
+     vega, agricultor de la zona norte de cartago.   ****
+****  más cambios ****
+según chavarría, esta iniciativa va más allá de un control en la humedad de los
+cultivos, sino que también busca obtener un producto saludable y de calidad,
+amigable con el ambiente.  lo anterior se da por la fuerte disminución en la
+aplicación de pesticidas y el no uso de herbicida.
+ el ingeniero jairo gonzález del mag, manifestó, que en este proyecto, se ha
+racionalizado un 55%, el uso de los plaguicidas.
+     ****   ****
+     **** “hemos venido desarrollando toda una nueva tecnología de
+     bioinsumos que son nobles con el ambiente, es un paquete de
+     microorganismos que están en la misma finca y lo que hacemos en
+     potenciarlos, para devolverlos al suelo”, ingeniero jairo gonzález,
+     mag.   ****
+entre los cambios están:
+    * cambios en las densidades de siembra
+    * modificación del tamaño de las eras.
+    * aplicación de mulch que es un acolchado utilizado en la agricultur, es la
+      cubierta protectora que se extiende sobre el suelo.
+    * instalación de un sistema de riego por goteo, con su equipo de
+      fertirriego.
+    * modificación de las cantidades nutricionales que se acostumbraba
+      normalmente a aplicar en la zona, para cubrir las necesidades de cada
+      planta, según la producción esperada.
+    * establecimiento de un nuevo programa de nutrición vegetal.
+    * aplicación de microorganismos para ejercer un control biológico de plagas
+      y enfermedades aplicados por medio del equipo de riego.
+    * aplicación de abonos orgánicos y de fertilizantes inorgánicos, por medio
+      del sistema de riego.
+    * utilización de productos que no afecte las abejas, para aquellas plagas
+      que atacan el follaje.
+“de estas innovaciones, las que consisten en prácticas de cultivo  realizadas
+por los agricultores tienen un ciclo de control semanal”, destacó chavarría
+vidal.
+“lo que queremos es demostrar a los productores agrícolas, que la tecnología de
+bajo costo (a mediano plazo) aplicada en la agricultura sí es posible y muy
+funcional, de tal forma que impacte positivamente la zona norte de cartago y
+que ocurra una  extensión a todo el país, respecto a la agricultura de
+precisión,  procurando de esta manera, la estabilidad económica y
+sostenibilidad de los agricultores", concluyó el ingeniero chavarría.
+ 
+ 
+
+ escuela_de_personas ingeniera_agrícola, cebolla, innovación, tecnología, mag, sensores
+[noemy chinchilla bravo, comunicadora.]
+**** noemy_chinchilla_bravo ****
+nchinchilla@tec.ac.cr
+comunicadora
+licenciada en relaciones públicas y bachiller en periodismo, universidad
+autónoma de centro américa.
+view_the_discussion_thread.
+
+***** relacionado *****
+**** agronegocios_continúa_con_acciones_para_lograr_sistemas_alimentarios
+sostenibles ****
+31 de julio 2018 por: noemy_chinchilla_bravo
+ [dos_estudiantes_esperando_que_le_sirvan_almuerzo_en_el_restaurante
+institucional_del_tec.]
+**** biotecnología_impacta_en_el_desarrollo_de_comunidades_rurales ****
+18 de julio 2017 por: kenneth_mora_pérez
+ [miembros_de_coopeproguata_en_laboratorio_del_tec]
+**** hackathon_de_la_nasa,_este_fin_de_semana_en_el_tec ****
+26 de abril 2017 por: noemy_chinchilla_bravo
+
+**** ¿cómo_mejorar_la_productividad_agrícola_a_través_de_la_transferencia
+tecnológica? ****
+27 de junio 2019 por: jorge_quesada_araya
+ [agricultor_con_su_cosecha]
+
+oficina_de_comunicación_y_mercadeo
+teléfono: (506)_2550-2218 / (506)_2550-9194
+correo electrónico: comunicacionymercadeotec@tec.ac.cr
+    * quiénes_somos
+    * contacto
+    * secciones
+
+    * facebook
+    * twitter
+    * instagram
+    * youtube
+[logo tec]
+
+
+File name: C:\Users\valev\Documents\GitHub\TecuAvances\hoyeneltec\2018\tec-mag-buscan-agricultores-cartago-utilicen-tecnologia-aumentar-su-produccion.html.txt
+Number of changes: 6
+Palabras reemplazadas: otros, otras, ingeniería, expertos, otros, otros

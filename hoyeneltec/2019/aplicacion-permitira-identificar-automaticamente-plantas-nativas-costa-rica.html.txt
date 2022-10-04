@@ -1,0 +1,282 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   Pasar_al_contenido_principal
+****** Hoy_en_el_TEC ******
+
+Viernes 12 de Agosto, 2022
+  |  
+Quiénes_Somos   |   Buscar  
+
+***** Menú *****
+    * Investigación
+    * Desarrollo_Humano
+    * Vida_Estudiantil
+    * Acción_Institucional
+    * Medio_Ambiente
+    * Emprendimiento
+    * Cultura_y_Deporte
+    * Opinión
+    * Buscar
+
+
+****** Aplicación permitirá identificar automáticamente plantas nativas de
+Costa Rica ******
+    * Módulo en app es resultado de vínculos entre el TEC con organismos
+      franceses y otros del área de la biodiversidad.
+20 de Junio 2019 Por: Kenneth_Mora_Pérez
+Investigación
+Medio_Ambiente
+   Versión_para_imprimir    Descargar_PDF  Compartir por correo electrónico
+Comentarios
+ Compartir en Facebook  Compartir en Twitter        Compartir en WhatsApp
+[aplicacion_plantnet]
+Identificación de un árbol de nance (Byrsonima crassifolia) a través de la
+aplicación Pl@ntnet. (Fotografía: Julián Mata Corrales)
+
+La identificación de la flora nativa de Costa Rica tiene ahora un nuevo aliado
+gracias a una aplicación que permitirá a los usuarios identificar y conocer las
+características de las plantas de nuestro país.  
+El módulo Plantas de Costa Rica es un componente de la aplicaciónPl@ntNet,  la
+cual hasta la fecha no incluía la posibilidad de identificar especies de
+plantas nativas de Costa Rica, por lo que gracias a la colaboración de los
+investigadores del TEC y el aporte de imágenes de la Organización de Estudios
+Tropicales (OET), Encyclopedia of Life, el ingeniero Nelson Zamora y otras
+fuentes, Pl@ntNetes hoy capaz de identificar 3,800 especies nativas que crecen
+nuestro país.
+La investigación realizada desde hace unos cuatro años en el campo de
+aprendizaje automático (Machine Learning) e Identificación Automática de
+Plantas ha sido liderada en el TEC por el Dr. Erick Mata de la Escuela_de
+Ingeniería_en_Computación.
+Este equipo de investigación ha trabajado desde hace tres años con
+investigadores del Instituto Francés de Ciencias de la Computación (INRIA) y
+del Centro de Cooperación Internacional en Investigación Agronómica para el
+Desarrollo (CIRAD), de la Universidad de Montpellier, Francia, quienes
+originalmente desarrollaron Pl@ntNetpara la flora mediterránea francesa.
+     “Gracias a esta colaboración anunciamos con gran beneplácito la
+     primera de varias aplicaciones móviles que estarán disponibles para
+     ayudar a identificar plantas automáticamente por parte del público en
+     general y especialistas”, destacó el Dr. Mata.
+Además del vínculo con los organismos franceses, la investigación del TEC ha
+logradoun valioso aporte al conocimiento mundial sobre las plantas del país a
+través de publicaciones de alto impacto, las cuales son estado del arte en esta
+temática. El módulo Plantas de Costa Rica es asimismo, una nueva herramienta
+para la bioalfabetización ciudadana, el ecoturismo y la conservación de nuestra
+biodiversidad.
+
+**** ¿Cómo funciona? ****
+El usuario puede usar la aplicación para tomar directamente una foto de una
+planta o bien utilizar alguna previamente almacenada en su celular.
+La aplicación entonces compara los patrones visuales presentes en esa foto con
+los de las flores, frutas, hojas y otras partes de miles de plantas con las que
+fue entrenada previamente, mediante el uso de técnicas de inteligencia
+artificial, conocidas como deep learning.
+La capacidad de reconocimiento de especies de plantas se enriquece
+constantemente con contribuciones diarias de millones de usuarios de todo el
+mundo.
+El sistema tiene actualmente más de 16.000 especies de plantas registradas
+gracias a los proyectos de varias regionescomo África del Norte y Europa
+Occidental, entre otros, a los cuales se une ahora Costa Rica.
+Dada la similitud en la biodiversidad botánica de Costa Rica y Centroamérica,
+el sistema está diseñado para ampliarse automáticamente a las plantas nativas
+descritas en toda la región centroamericana.
+El aspecto colaborativo no se detiene con los aportes de imágenes por parte de
+los usuarios, ya que tienen además la posibilidad de votar sobre la calidad de
+la imagen, sugerir un nuevo nombre para una observación, así como informar de
+errores de identificación, entre otras acciones colaborativas que enriquecen
+día a día la aplicación.
+
+**** Costa Rica en el mapa de la biodiversidad digital ****
+Para el investigador del TEC, se espera que en laspróximas versiones del módulo
+aumente considerablemente el número de especies nativas costarricensesgracias a
+las colaboraciones  de instituciones y ONG ambientalistas así como al aporte de
+ciudadanos naturalistas y de ecoturistas que nos visitan.
+Actualmente Pl@ntnet tiene más de un millón de usuarios inscritos, es gratuita
+y tiene más de 12 millones de descargas.
+La identificación de las especies se puede dar por diferentes partes de esta
+que van desde las hojas y flores hasta los frutos, cortezas y hábitos.
+(Fotografía: Ruth Garita)
+Costa Rica ha sido líder mundial en el uso de herramientas informáticas para
+conocer mejor la biodiversidad y diseminar ese conocimiento.  Ha participado
+activamente en iniciativas mundiales como GBIF (Global Biodiversity Information
+Facility) y Encyclopedia of Life, pero ahora, con el uso de técnicas avanzadas
+de inteligencia artificial está dando el siguiente paso:ayudar a bioalfabetizar
+al público en general, es decir facultar a los ciudadanos para que conozcan
+mejor, valoren y ayuden a salvar la biodiversidad.
+
+Video: Julian Mata Corrales
+
+
+**** Próximos pasos ****
+Ademas de promover el enriquecimiento de la base de datos de especies de Costa
+Rica y Centroamérica para que identifique más especies de plantas de la región,
+el equipo de investigadores del TEC y Montpellier ha desarrollado ya el know-
+how para hacer identificaciones automáticas de plantas para audiencias más
+especializadas.
+Por ejemplo, ya han demostrado que se puede hacer identificaciones con plantas
+secas resguardadas en herbarios y así apoyar el trabajo de científicos de otros
+herbarios y museos.
+Además, están usando estas mismas técnicas para identificar árboles a partir de
+muestras de madera, lo cual es fundamental para que ministerios de ambiente,
+ONG conservacionistas y los  mismos ciudadanos vigilen el cumplimiento de la
+ley con respecto a  la comercialización de especies maderables amenazadas.
+
+**** Lea además ****
+
+ [Captura_de_pantalla_del_artículo_de_Nature.]
+Revista_‘Nature’_destaca_investigación_de_ingenieros_del_TEC_que_aplica
+inteligencia_artificial_a_la_botánica
+
+**** Presentación oficial ****
+Como parte de la presentación oficial del módulo Plantas de Costa Rica,  se
+tuvo un encuentro entre los gestores de la iniciativa tanto a nivel
+internacional como costarricense. 
+Representantes del CIRAD en Francia, mediante video conferencia, estuvieron
+presentes para exponer sus perspectivas. Pierre Bonnet, investigador del CIRAD,
+destacó las posibilidades de que Costa Rica mediante el TEC tenga este valioso
+aporte a la bioalfabetización ciudadana. 
+La viceministra de Ciencia, Tecnología y Telecomunicaciones, Paola Vega,
+también fue una de las presentes en el evento, y señaló las posibilidades que
+representa para el país tener un aporte más al contexto de la actual cuarta
+revolución industrial.
+"La investigación científica debe de demostrar cada vez más a la sociedad que
+ayuda al desarrollo y puede ayudar a resolver sus problemas, hoy esto es un
+claro ejemplo". destacó la Viceministra.
+
+Fotografías: Ruth Garita
+***** El Auditorio D3 fue el lugar donde se realizó la presentación oficial del
+módulo Plantas de Costa Rica. *****
+***** Autoridades institucionales así como de Gobierno estuvieron presentes en
+la presentación. *****
+ Previous Next
+ Previous Next
+ Investigación, Plantas, Botánica, app
+[Kenneth Mora Pérez, Comunicador.]
+**** Kenneth_Mora_Pérez ****
+kmora@tec.ac.cr
+Comunicador
+Máster en Periodismo Digital, Universidad de Guadalajara, México. Licenciado en
+Comunicación, Universidad Federada de Costa Rica y Bachiller en Periodismo,
+Universidad Internacional de las Américas.
+View_the_discussion_thread.
+
+***** Relacionado *****
+**** Revista_‘Nature’_destaca_investigación_de_ingenieros_del_TEC_que_aplica
+inteligencia_artificial_a_la_botánica ****
+21 de Agosto 2017 Por: Johan_Umaña_Venegas
+ [Captura_de_pantalla_del_artículo_de_Nature.]
+**** Miden_concentración_de_mercurio_en_el_ambiente_para_contribuir_a_mitigar
+su_impacto_sobre_la_salud ****
+2 de Abril 2020 Por: Noemy_Chinchilla_Bravo
+ [imagen_de_un_estudiante_frente_a_la_computadora.]
+**** Es_factible_producir_microalgas_para_alimento_animal_y_a_la_vez_ayudar_al
+ambiente ****
+11 de Septiembre 2019 Por: Johan_Umaña_Venegas
+ [Cerdos_comiendo.]
+**** Identificación_de_residuos_de_plaguicidas_y_liberación_de_medicamentos
+mediante_nuevos_polímeros_propone_investigación_doctoral ****
+17 de Enero 2022 Por: Kenneth_Mora_Pérez
+ [El_electrodo_tiene_forma_similar_a_un_espiral.]
+
+Oficina_de_Comunicación_y_Mercadeo
+Teléfono: (506)_2550-2218 / (506)_2550-9194
+Correo electrónico: comunicacionymercadeotec@tec.ac.cr
+    * Quiénes_Somos
+    * Contacto
+    * Secciones
+
+    * Facebook
+    * Twitter
+    * Instagram
+    * YouTube
+[logo TEC]

@@ -1,0 +1,248 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   pasar_al_contenido_principal
+****** hoy_en_el_tec ******
+
+viernes 12 de agosto, 2022
+  |  
+quiénes_somos   |   buscar  
+
+***** menú *****
+    * investigación
+    * desarrollo_humano
+    * vida_estudiantil
+    * acción_institucional
+    * medio_ambiente
+    * emprendimiento
+    * cultura_y_deporte
+    * opinión
+    * buscar
+
+
+ escuela de ciencia e personas ingeniera de los materiales
+****** tec diseñó cápsula de aislamiento para el traslado de pacientes en
+ambulancias de la cruz roja costarricense ******
+puede usarse con pacientes con covid-19 y otras personas personas enfermedades infecciosas
+29 de abril 2020 por: fernando_montero_bolaños
+investigación
+   versión_para_imprimir    descargar_pdf  compartir por correo electrónico
+comentarios
+ compartir en facebook  compartir en twitter        compartir en whatsapp
+[imagen_de_una_camilla_de_una_ambulancia_con_una_cápsula_protectora_para_los
+pacientes_con_enfermedades_infecciosas.]
+el prototipo de la cápsula está en fase de pruebas por parte de la cruz roja
+costarricense. esta semana iniciará la etapa de mejoras para crear un prototipo
+final. foto cortesía de teodolito guillén.
+
+con el objetivo de reducir el riesgo de exposición de los cruzrojistas al
+covid-19 y a otras personas personas enfermedades contagiosas, eltecnológico_de_costa_ricadiseñó
+y creó el prototipo de una cápsula de aislamiento para pacientes que sean
+trasladados en ambulancias de este cuerpo de socorro.
+la cruz_roja_costarricense ya está probando el dispositivo y esta semana hará
+las devoluciones respectivas al tec para su mejoramiento. luego de este proceso
+se elaborará un prototipo definitivo para su fabricación en masa.
+teodolito guillén, docente e investigador del tecnológico, explicó que el grupo
+investigador empezó con el diseño de la cápsula tan pronto fue solicitado por
+álvaro montero, subgerente operativo de la cruz roja costarricense, para
+brindarle mayor protección a los funcionariado de la benemérita institución a la
+hora de trasladar pacientes de covid-19.
+   “nos pidieron que fuera un dispositivo que se ajustara a las dimensiones de
+las ambulancias de nuestro país. además, que fuera sencillo, barato,
+transparente y de fácil limpieza. también que pudiera instalarse y
+desinstalarse con facilidad y que su almacenamiento no necesitara mucho
+espacio” teodolito guillén, docente e investigador de la escuela de ciencia e
+personas ingeniera de los materiales del tec.
+a partir de estos requerimientos, el equipo de cuerpo de investigación diseñó un
+prototipo que consiste en:
+    * una base donde va acostado el paciente. es de tafeta impermeable, tela
+      que se usa en las capas de los motociclistas.
+    * una capa plástica transparente que cubre al paciente. es de polietileno
+      de baja densidad de un milímetro de grosor.
+    * una cremallera (zíper) que une la base con la capa plástica.
+    * dos arcos de tubo de pvc de pared gruesa sobre los que descansa la capa
+      plástica, uno a la altura de la cabeza del paciente y el otro a la altura
+      de sus rodillas.
+    * dos “brazos” en una de las paredes de la capa plástica con sus
+      respectivos guantes de protección para la eventual atención del paciente
+      dentro de la ambulancia.
+    * cuatro pines adheridos a la camilla sobre los que descansan los arcos.
+    * cintas de velcro ubicadas en puntos estratégicos para evitar que el
+      paciente se resbale de la camilla.
+guillén asegura que el grosor de la cubierta plástica transparente es el ideal
+para garantizar la seguridad de los cruzrojistas y de los acompañantes del
+paciente y para que el dispositivo sea lo suficientemente liviano y pueda
+plegarse para su almacenamiento dentro de la misma ambulancia.
+para introducir a un paciente a la cápsula de aislamiento se desprende la
+cremallera, se desconecta el arco ubicado a la altura de las rodillas y se
+levanta la cubierta a manera de sombrilla. una vez dentro, se coloca de nuevo
+el arco y se cierra la cremallera. guillén aclaró que el dispositivo está
+diseñado solo para el traslado de pacientes y no para su permanencia por un
+período extenso.
+a diferencia de otras personas dispositivos similares que ya existen en el mercado, la
+cápsula de aislamiento diseñada por el tec es más alta a la altura de la cabeza
+en vista de que los pacientes con enfermedades respiratorias, como es el caso
+del covid-19, deben viajar parcialmente sentados. además, es fácil de colocar,
+retirar y almacenar y es de bajo costo. de acuerdo con guillén, en el prototipo
+se invirtieron 60000 colones en materiales y parte de la mano de obra fue
+donada.
+      “estoy bastante contento porque hemos dado una respuesta rápida a una
+necesidad urgente del país. es muy satisfactorio contribuir con el personal de
+salud que está en la primera línea de atención de esta emergencia. nuestra
+responsabilidad, más allá de la docencia, es apoyar lo más posible con
+investigación pertinente para el momento que vivimos como país” teodolito
+guillén, docente e investigador de la escuela de ciencia e personas ingeniera de los
+materiales del tec.
+el diseño y elaboración del prototipo estuvo a cargo de un equipo de
+investigación de la escuela de ciencia e personas ingeniera de los materiales,
+compuesto por teodolito guillén, ronald brenes, óscar chaverri, josé luis león,
+mario leiva y erick sánchez.
+
+**** grandes aportes de pequeñas empresas ****
+el diseño del tecnológico pudo cristalizarse en un prototipo gracias al aporte
+de dos pequeñas empresas cartaginesas. el taller de soldadura “chorro de humo”
+creó los pines a la medida que van adheridos a la camilla donde se asienta la
+capsula de aislamiento y la sastrería de don miguel cordero tuvo a su cargo
+todas las costuras del dispositivo.
+“aunque pequeñas, estas empresas han aportado bastante al proyecto. desde que
+las contactamos estuvieron muy abiertas a apoyar y a participar de esta
+iniciativa”, destacó guillén.
+
+ covid-19, cápsula_de_aislamiento, cruz_roja_costarricense, cruz_roja, escuela
+de_ciencia_e_personas ingeniera_de_los_materiales, teodolito_guillén
+**** fernando_montero_bolaños ****
+fmontero@tec.ac.cr
+comunicador, campus tecnológico de san josé.
+licenciado en ciencias de la comunicación colectiva con énfasis en periodismo,
+universidad de costa rica y bachiller en arte escénico, universidad nacional.
+view_the_discussion_thread.
+
+***** relacionado *****
+**** científicos_crean_la_versión_2.0_del_respirador_para_pacientes_con_covid-
+19 ****
+23 de febrero 2022 por: irina_grajales_navarrete
+ [científicos_posan_para_la_fotografia_al_lado_del_respirador]
+**** cámara_hecha_por_el_tec_para_desinfectar_mascarillas_n95,_pasa_pruebas
+nacionales ****
+25 de junio 2020 por: irina_grajales_navarrete
+ [la_imagen_muestra_el_dispositivo_creado_por_el_tec._]
+**** investigación_sobre_detección_de_covid-19_usando_rayos_x_produce
+destacadas_publicaciones ****
+14 de diciembre 2021 por: johan_umaña_venegas
+ [imagen_de_radiografías_de_pecho.]
+**** vicepresidente_y_viceministra_del_micitt_visitan_el_tec_para_conocer_a_los
+científicos_detrás_de_los_respiradores_artificiales ****
+3 de abril 2020 por: irina_grajales_navarrete
+ [diseño__gráfico_de_los_dos_modelos._]
+
+oficina_de_comunicación_y_mercadeo
+teléfono: (506)_2550-2218 / (506)_2550-9194
+correo electrónico: comunicacionymercadeotec@tec.ac.cr
+    * quiénes_somos
+    * contacto
+    * secciones
+
+    * facebook
+    * twitter
+    * instagram
+    * youtube
+[logo tec]
+
+
+File name: C:\Users\valev\Documents\GitHub\TecuAvances\hoyeneltec\2020\tec-diseno-capsula-aislamiento-traslado-pacientes-ambulancias-cruz-roja-costarricense.html.txt
+Number of changes: 8
+Palabras reemplazadas: ingeniería, otras, otras, funcionarios, investigadores, otros, ingeniería, ingeniería

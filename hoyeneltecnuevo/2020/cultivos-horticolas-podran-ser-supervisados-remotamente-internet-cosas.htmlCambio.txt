@@ -1,0 +1,295 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   pasar_al_contenido_principal
+****** hoy_en_el_tec ******
+
+viernes 12 de agosto, 2022
+  |  
+quiénes_somos   |   buscar  
+
+***** menú *****
+    * investigación
+    * desarrollo_humano
+    * vida_estudiantil
+    * acción_institucional
+    * medio_ambiente
+    * emprendimiento
+    * cultura_y_deporte
+    * opinión
+    * buscar
+
+
+ investigación y desarrollo realizado en el doctorado en personas ingeniera
+****** cultivos hortícolas podrán ser supervisados remotamente con internet de
+las cosas ******
+modelo utiliza herramientas tecnológicas de fácil uso y bajo costo para la toma
+de decisiones
+ 
+patente de sensorpara medios hidropónicos salinos es parte de los resultados de
+investigación persona médica
+5 de noviembre 2020 por: kenneth_mora_pérez
+emprendimiento
+investigación
+   versión_para_imprimir    descargar_pdf  compartir por correo electrónico
+comentarios
+ compartir en facebook  compartir en twitter        compartir en whatsapp
+[persona_con_tablet_tomando_datos_y_análisis_de_plantas_en_invernadero]
+el invernadero de tec fue el espacio experimental utilizado por la
+investigadora para las mediciones realizadas en los  cultivos hidropónicos de
+hortalizas.imagen ilustrativa. freepik
+
+la dinámica de atención de los cultivos agrícolas es una de las tareas que
+conlleva presencia constante de quienes se encargan de sembrar alimentos o
+plantas, tanto en campos abiertos como en ambientes protegidos.
+una de estas tareas es la vigilancia y análisis de las cantidades necesarias
+para el crecimiento de los productos como abonos, fertilizantes y agua.
+[forma figurativa de un cerebro]este artículo forma parte de una serie de
+publicaciones especiales con motivo del boletín_informativo_del_doctorado
+académico_en_personas ingeniera..
+justamente, el uso del agua para fines agrícolas es un tema central en
+cualquier debate sobre los recursos hídricos y la seguridad alimentaria. datos
+del_banco_mundial señalan que, en promedio, en la agricultura se ocupa el 70 %
+del agua que se extrae en el mundo y las actividades agrícolas representan una
+proporción aún mayor del "uso agotador del agua" debido a la evapotranspiración
+de los cultivos.
+teniendo en cuenta este panorama, arys_carrasquilla, docente del tecnológico_de
+costa_rica_(tec) y egresada del programa de doctorado_académico_en_personas ingeniera,
+diseñó un modelo que tiene como objetivo mejorar la producción hortícola.
+tomando en consideración que tradicionalmente los agricultores solo conocen y
+ponen en práctica la horticultura en campo abierto, la dra. carrasquilla,
+desarrolló un modelo para que tanto agricultores como cuerpo de investigación puedan
+utilizar herramientas tecnológicas de fácil uso y bajo costo para la toma de
+decisiones. esto mediante la medición y procesamiento de diversas variables
+ambientales obtenidas de forma remota por medio de internet de las cosas (idc).
+[recoleccion]el drenaje de las plantas dispuestas en el invernadero del tec,
+utilizan un método que combina mediciones manuales y automáticas.fotografía
+cortesía de arys carrasquilla.
+
+**** investigación persona médica aplicada ****
+ la dra. carrasquilla es docente en la carrera de personas ingeniera mecatrónica. foto:
+archivo tec.
+carrasquilla se vinculó como estudiante del doctorado en personas ingeniera y parte de
+la primera generación de este programa, en la cohorte de octubre de 2015. a
+partir de eso, inició de lleno la investigación, tanto documental como
+experimental.
+esta última fue realizada en el campo agrícola del campus cartago a partir del
+2017 mediante una pasantía supervisada, la cual incluyó pruebas en siembras del
+invernadero que se ubica en este lugar.
+específicamente se hizo en los cultivos hidropónicos dispuestos en bolsas de
+sustrato de coco, en los cuales se analizan datos como el ph (acidez o
+alcalinidad), la conductividad eléctrica o capacidad de transmisión de
+corriente en el agua, así como el drenaje de estos cultivos.
+los análisis se realizaron in situ así como de manera remota, utilizando un
+sensor que midiera estos elementos. sin embargo, carrasquilla se encontró con
+el inconveniente de la destrucción constante de estos dispositivos, por lo que
+creó uno mucho más resistente y con capacidades mejoradas.
+
+**** un novedoso sensor ****
+el sensor para medios altamente salinos creado por la investigadora, es un
+controlador de lógica difusa, metodología que proporciona una conclusión a
+partir de información de entrada que puede ser imprecisa, “con ruido” o
+incompleta.
+la recopilación de los datos (ph, conductividad y drenaje) mediante el sensor,
+pueden tener estas características; por ello, mediante esta lógica y la
+transmisión de esta información a la nube utilizando una tarjeta sim, se
+brindan capacidades para que puedan ser analizados por los cuerpo de investigación desde
+cualquier parte del mundo, sin necesidad de estar presente en el lugar.
+estos datos son claves para tomar las decisiones de agua y nutrientes que deben
+ser dados, lo que permite el uso exacto de estos recursos sin desperdicio o
+exceso alguno.
+además de ser más resistente a las condiciones a que es expuesto, el sensor
+creado es dos veces más barato que los que se pueden conseguir en el mercado,
+los cuales rondan entre 300 y 400 dólares, según destacó la doctora en
+personas ingeniera.
+     "se analizó e investigó que el dispositivo era totalmente novedoso,
+     por lo que se decidió desarrollar el proceso y los requerimientos
+     para tener una patente del sensor", señaló la dra. carrasquilla.
+     [infografía proceso]fuente: investigación persona médica: modelo integrado
+     para la toma de decisiones en procesos naturales por medio de
+     internet de las cosas. diseño: yolanda ortega h.
+
+**** nueva patente en estudio ****
+de la mano del centro_de_vinculación_del_tec y como resultado de sus
+investigaciones, la docente formalizó la solicitud de patente de un sensor de
+conductividad resistente a medios altamente salinos. esta fue analizada tomando
+en consideración el estado del arte que rodea la propuesta, así como
+dispositivos similares disponibles en el mercado.
+estas consideraciones encontraron como resultado preliminar la novedad del
+sensor, por lo que se gestionó la solicitud de patente, -conocida también como
+pct- ante el registro nacional.
+esta patente se encuentra en la fase de análisis por parte del perito
+correspondiente.
+
+contenido relacionado:
+
+ [elementos_de_investigación_en_folder_]
+investigaciones_fortalecen_la_propiedad_intelectual_e_innovación_universitaria
+
+**** impacto académico ****
+como parte de otras personas productos derivados de esta investigación, se publicaron 11
+artículos científicos realizados por la investigadora durante el transcurso de
+su programa persona médica.
+como efecto adicional, se ha logrado que otras personas cuerpo de investigación del mundo tomen
+como referencia lo desarrollado por carrasquilla, consiguiendo tan solo en el
+último año,_24_citas_de_referencia_en_google_scholar.
+     “después de haber publicado, aun se tienen resultados que se siguen
+     consolidando en artículos”. dra. arys carrasquilla.
+asimismo, la investigadora destacó la participación que ha tenido en redes de
+investigación internacional y la búsqueda fondos especiales que permitirán
+aportar en capacitaciones y, además, tener la posibilidad de generar una
+segunda etapa de investigación (pruebas en campos abiertos y otras personas) que
+generarían, más artículos y otras personas proyectos derivados.
+el doctorado en personas ingeniera, es un programa conjunto entre el tec y la
+universidad de costa rica (ucr), que apoya e impulsa el desarrollo científico-
+tecnológico mediante la formación de cuerpo de investigación en el área de la
+personas ingeniera, con el fin de brinda soluciones a problemas de la sociedad en
+general y del sector productivo, con compromiso ético y profesional en todas
+sus aristas.
+      descargar_investigación_persona médica_completa
+**** vea también: ****
+
+ [el_ingeniero_con_su_hijo,_en_coche,_a_la_par_de_un_venado.]
+el_primer_ingeniero_doctorado_por_el_tec_sigue_creando_inteligencia_artificial,
+ahora_en_japón
+
+ [imagen_de_la_antena_y_el_transistor._]
+‘el_doctorado_en_personas ingeniera_brinda_un_espacio_a_nuestro_talento_humano_para_el
+desarrollo_de_proyectos_innovadores’
+
+ [dos_narvales_en_el_océano]
+internet_de_las_cosas_estará_disponible_bajo_el_agua_gracias_a_iniciativa_tica
+
+ doctorado_académico_en_personas ingeniera, investigación, internet_de_las_cosas
+[kenneth mora pérez, comunicador.]
+**** kenneth_mora_pérez ****
+kmora@tec.ac.cr
+comunicador
+máster en periodismo digital, universidad de guadalajara, méxico. licenciado en
+comunicación, universidad federada de costa rica y bachiller en periodismo,
+universidad internacional de las américas.
+view_the_discussion_thread.
+
+***** relacionado *****
+**** science_disrupt_emite_podcast_con_investigación_del_tec ****
+5 de octubre 2017 por: kenneth_mora_pérez
+ [science_disrupt]
+**** tico_estará_en_el_consejo_científico_más_importante_del_mundo_en_fusión
+nuclear ****
+19 de junio 2018 por: noemy_chinchilla_bravo
+ [imagen_de_un_hombre_en_un_laboratorio_de_plasma.]
+**** aplicaciones_de_personas ingeniera_en_la_nube_son_plasmadas_en_libro_de_springer
+nature ****
+29 de mayo 2020 por: kenneth_mora_pérez
+ [mano_con_celular_y_nube]
+**** tec_crea_primer_capítulo_ieee_de_la_sociedad_de_ciencias_nucleares_y
+plasma_en_latinoamérica ****
+7 de marzo 2017 por: sofía_solano_gómez
+ [equipo_que_conforma_el_laboratorio_de_plasmas_para_energía_de_fusión_y
+aplicaciones_del_tec._(foto:_ruth_garita/ocm)]
+
+oficina_de_comunicación_y_mercadeo
+teléfono: (506)_2550-2218 / (506)_2550-9194
+correo electrónico: comunicacionymercadeotec@tec.ac.cr
+    * quiénes_somos
+    * contacto
+    * secciones
+
+    * facebook
+    * twitter
+    * instagram
+    * youtube
+[logo tec]
+
+
+File name: C:\Users\valev\Documents\GitHub\TecuAvances\hoyeneltec\2020\cultivos-horticolas-podran-ser-supervisados-remotamente-internet-cosas.html.txt
+Number of changes: 16
+Palabras reemplazadas: ingeniería, doctoral, investigadores, doctoral, ingeniería, ingeniería, investigadores, doctoral, otros, doctoral, otros, investigadores, otros, otros, ingeniería, investigadores

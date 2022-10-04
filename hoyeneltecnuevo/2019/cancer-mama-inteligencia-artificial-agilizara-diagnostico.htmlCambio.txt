@@ -1,0 +1,252 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   pasar_al_contenido_principal
+****** hoy_en_el_tec ******
+
+viernes 12 de agosto, 2022
+  |  
+quiénes_somos   |   buscar  
+
+***** menú *****
+    * investigación
+    * desarrollo_humano
+    * vida_estudiantil
+    * acción_institucional
+    * medio_ambiente
+    * emprendimiento
+    * cultura_y_deporte
+    * opinión
+    * buscar
+
+
+ tecnología aplicada a la salud
+****** cáncer de mama: inteligencia artificial agilizará el diagnóstico ******
+    * gremio estudiantil e cuerpo de investigación del tec demostraron la viabilidad de
+      utilizar sistemas de deep learning para asistir a especialistas en el
+      diagnóstico 
+ 
+    * se prepara un plan piloto para probar la tecnología con especialistas del
+      hospital max peralta, cartago
+2 de septiembre 2019 por: johan_umaña_venegas
+investigación
+   versión_para_imprimir    descargar_pdf  compartir por correo electrónico
+comentarios
+ compartir en facebook  compartir en twitter        compartir en whatsapp
+[imágenes_de_células_con_formas_varias.]
+en la investigación se usó un banco de casi 8.000 imágenes de histologías de
+tumores, tomadas en pacientes de estados unidos.  imágenes: cortesía i. calvo.
+
+en costa rica, como en el mundo, el cáncer es la segunda causa de muerte; y
+entre los distintos tipos el de mama está entre los de mayor incidencia. tan
+solo en el primer semestre de este 2019, 188 costarricenses murieron por un
+tumor maligno de mama, siendo esta, por sí misma, la sétima causa de muerte en
+el país, según datos_del_inec.  
+motivo más que suficiente para llamar la atención de profesionales y
+gremio estudiantil de todas las áreas del conocimiento, incluso la computación.
+bajo estas circunstancias fue que un estudio de alumnado e cuerpo de investigación del
+tecnológico_de_costa_rica_(tec) se centró en el diagnóstico asistido por
+computadora y consiguió demostrar la utilidad de aplicar personal técnico
+computacionales de avanzada para agilizar la identificación de tumores malignos
+de mama.
+la investigación, realizada en conjunto con especialistas de la universidad
+rovira_i_virgili(urv), de españa, se valió de una base de datos de cerca de
+8.000 imágenes de tejido de tumores de pecho, para demostrar que una
+arquitectura de deep learning relativamente sencilla serviría para diferenciar
+con gran exactitud los tejidos cancerígenos.
+estos resultados fueron publicados por los gremio estudiantil iván calvo y erick
+múñoz, y el máster saúl calderón, en un artículo conjunto con especialistas de
+la urv que se presentó en lalatin_america_high_performance_computing_conference
+(carla). 
+“logramos como mejor resultado un 96% de exactitud en identificación, mientras
+que otras personas personas personas estudios llegaban a un 94 o 95% como mejor resultado. eso nos deja
+bastante satisfechos de que las estrategias aplicadas fueron las adecuadas”,
+resaltó calvo, quien desarrolló el estudio como parte de su pasantía en la urv
+y proyecto de graduación para el tec.
+calvo agregó que el gran avance de esta investigación es comprobar que se
+pueden alcanzar excelentes resultados con arquitecturas más sencillas,
+comparables con el “estado del arte” de las arquitecturas más complejas y
+modernas del mundo.  
+el deep learning, o aprendizaje profundo, una técnica de inteligencia
+artificial en la que se le “enseña” a las computadoras a desarrollar una tarea
+específica utilizando bases de datos gigantescas. en este caso, se usan miles
+de imágenes para que el sistema aprenda a diferenciar los tumores malignos.
+mientras más parámetros, más compleja es la arquitectura necesaria para aplicar
+esta técnica y, por tanto, los costos. lo que los cuerpo de investigación del tec
+comprobaron es que aplicando un filtro a las imágenes se puede mejorar la
+exactitud en arquitecturas sencillas, como la llamada squeezenet. 
+“mientras menos parámetros, menos memoria consume la arquitectura y menos
+tiempo se requiere para entrenarla, y encontramos que una variante de la
+arquitectura que es muy liviana, si le aplicamos un filtro previo, tiene un
+resultado muy similar al que presenta una arquitectura que es el estado del
+arte", detalla por su parte calderón. 
+   “esta arquitectura liviana es unas 15 o 20 veces más rápida, entonces puede
+correr fácilmente en un dispositivo como un celular o una computadora
+embebida”. msc saúl calderón, especialista en computación
+ [imagen_de_rayos_x.]
+computación_avanzada_ayudará_a_médicos_a_detectar_trastornos_de_crecimiento_a
+través_de_radiografías_ 
+
+**** aplicación en costa rica ****
+este avance significa que es posible obtener resultados muy precisos con equipo
+de cómputo no tan sofisticado ni costoso. condiciones ideales para aplicarlo en
+un país de escasos recursos como costa rica. 
+motivo por el que calderón y otras personas personas personas personas expertas ya desarrollan un proyecto piloto
+para demostrar su aplicabilidad con especialistas de la caja costarricense de
+seguro social (ccss).
+para eso, los especialistas y gremio estudiantil del tec trabajarán con el dr. josé
+luis quirós, especialista en anatomía patológica del hospital max peralta, en
+cartago. 
+gerardo corela y martín vargas, dos alumnado del curso de personas ingeniera de
+software, ya se encuentran desarrollando el sistema que se colocará en la web. 
+quirós ofrecerá las imágenes y su experiencia para validar los resultados del
+sistema. 
+“el proyecto permitiría tener una herramienta de soporte, con consulta de
+identificación, para lograr que los datos sean más reproducibles.en ocasiones
+varias personas miran una misma imagen y tienen criterios distintos, pero con
+este proyecto tendríamos una base objetiva de evaluación”, comentó quirós.
+con esta innovadora iniciativa se pretende demostrar la utilidad de esta
+tecnología, que serviría para asistir todo tipo de diagnóstico. incluso,
+apuntan los especialistas, se podría implementar el sistema directamente en las
+máquinas que toman las imágenes,  para agilizar aún más el proceso.
+“permite el trabajo interdisciplinario, permite que aparezcan otras personas personas iniciativas
+y se mejoren para ir abordando de mejor manera la aplicación de la inteligencia
+artificial en el diagnóstico de enfermedades”, agregó quirós.
+      “es un proyecto que es pionero, que puede permitir abrir el campo para
+estudiar el cáncer desde otras personas personas perspectivas, tener herramientas de ayuda que
+permitan estandarizar los diagnósticos". dr. josé luis quirós, especialista en
+anatomía patológica
+ computación, inteligencia_artificial, deep_learning, cáncer_de_mama
+[johan umaña venegas, comunicador.]
+**** johan_umaña_venegas ****
+johumana@tec.ac.cr
+comunicador
+licenciado en comunicación colectiva, con énfasis en periodismo, universidad de
+costa rica.
+view_the_discussion_thread.
+
+***** relacionado *****
+**** revista_‘nature’_destaca_investigación_de_ingenieros_del_tec_que_aplica
+inteligencia_artificial_a_la_botánica ****
+21 de agosto 2017 por: johan_umaña_venegas
+ [captura_de_pantalla_del_artículo_de_nature.]
+**** inteligencia_artificial_podría_facilitar_el_uso_de_radiografías_de_pecho
+para_diagnosticar_covid-19 ****
+6 de agosto 2020 por: johan_umaña_venegas
+ [imágenes_de_ragiografias.]
+**** el_primer_ingeniero_doctorado_por_el_tec_sigue_creando_inteligencia
+artificial,_ahora_en_japón ****
+9 de noviembre 2020 por: johan_umaña_venegas
+ [el_ingeniero_con_su_hijo,_en_coche,_a_la_par_de_un_venado.]
+**** alumno_de_mecatrónica_se_encuentra_en_países_bajos_para_investigar_cómo
+perfeccionar_el_control_de_robots ****
+18 de mayo 2017 por: johan_umaña_venegas
+
+
+oficina_de_comunicación_y_mercadeo
+teléfono: (506)_2550-2218 / (506)_2550-9194
+correo electrónico: comunicacionymercadeotec@tec.ac.cr
+    * quiénes_somos
+    * contacto
+    * secciones
+
+    * facebook
+    * twitter
+    * instagram
+    * youtube
+[logo tec]
+
+
+File name: C:\Users\valev\Documents\GitHub\TecuAvances\hoyeneltec\2019\cancer-mama-inteligencia-artificial-agilizara-diagnostico.html.txt
+Number of changes: 15
+Palabras reemplazadas: estudiantes, investigadores, alumnos, investigadores, técnicas, estudiantes, otros, investigadores, otros, expertos, estudiantes, alumnos, ingeniería, otras, otras

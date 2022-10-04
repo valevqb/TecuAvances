@@ -1,0 +1,262 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   pasar_al_contenido_principal
+****** hoy_en_el_tec ******
+
+viernes 12 de agosto, 2022
+  |  
+quiénes_somos   |   buscar  
+
+***** menú *****
+    * investigación
+    * desarrollo_humano
+    * vida_estudiantil
+    * acción_institucional
+    * medio_ambiente
+    * emprendimiento
+    * cultura_y_deporte
+    * opinión
+    * buscar
+
+
+ proyecto irazú
+****** satélite tico será lanzado al espacio el 2 de abril a bordo de un falcon
+9 de spacex ******
+    * el satélite pasó todas las pruebas y ya lo tiene la agencia japonesa de
+      exploración aeroespacial, que se encargará de llevarlo al espacio
+    * el lanzamiento será a bordo de un cohete de la compañía spacex y se
+      transmitirá en vivo
+6 de marzo 2018 por: johan_umaña_venegas
+investigación
+   versión_para_imprimir    descargar_pdf  compartir por correo electrónico
+comentarios
+ compartir en facebook  compartir en twitter        compartir en whatsapp
+[despegue_del_cohete_falcon_9.]
+el primer satélite de costa rica viajará a bordo de un cohete falcon 9, de la
+compañía spacex, el próximo 2 de abril. fotografía con fines ilustrativos,
+tomada de wikimedia_commons.
+
+el proyecto irazú ya tiene fecha de vuelo: el próximo 2 de abril despegará
+hacia el espacio la misión espacial con el primer satélite de costa rica y
+centroamérica a bordo.
+la organización, a cargo dellaboratorio_de_sistemas_especiales_del_tec(setec-
+lab) deltecnológico_de_costa_rica(tec) y laasociación_centroamericana_de
+aeronáutica_y_del_espacio(acae), comunicó este martes 6 de marzo que el
+satélite pasó todas las pruebas a las que fue sometido –en japón– y está listo
+para ser enviado al espacio en poco menos de un mes.
+[el satélite es un cubo de 10 centímetros de ancho.]el satélite después de
+haber sido ensamblado. foto: cortesía zona franca el coyol.
+desde el 21 de febrero el aparato se le entregó a la agencia_japonesa_de
+exploración_aeroespacial(jaxa), que se encargará de enviarlo al espacio, junto
+a otras personas satélites y equipo de abastecimiento para la estación_espacial
+internacional (iss, en inglés), el 2 de abril.
+el lanzamiento estará a cargo de la empresa estadounidense spacex, que lo hará
+con el famoso cohetefalcon_9.
+esto significa que los costarricenses podremos observar el despegue en vivo,
+pues spacex transmite –a través de youtube– todos sus lanzamientos.
+“nosotras personas estamos muy orgullosos de poder demostrar que en costa rica existe la
+capacidad de hacer sistemas espaciales que cumplan sin problemas los rigurosos
+estándares de la agencia japonesa de exploración aeroespacial para lanzar un
+satélite al espacio.
+“con esto cumplimos la misión del tec de ser punta de lanza del desarrollo
+tecnológico del país“, comentó adolfo chaves, coordinador del setec-lab.
+
+**** desde cabo cañaveral ****
+ “el satélite va a ser lanzado desde cabo cañaveral, a bordo del cohete falcon
+9 de la empresa spacex (...), y para nosotras personas es un gran honor poder
+anunciarles que ya estamos listos para hacer historia muy pronto”. carlos
+alvarado, presidente acae
+**** relevancia nacional ****
+
+**** misión histórica ****
+el proyecto irazú pondrá un satélite tipo cubesat en órbita alrededor de la
+tierra, para ser utilizado en la comunicación entre una estación experimental
+en san carlos y la estación de monitoreo en el campus central del tec, en
+cartago.
+el objetivo es medir el nivel de crecimiento de árboles y con ello establecer
+una aproximación de la tasa de fijación de carbono de los bosques
+costarricenses.
+la carcasa fue construída por el instituto_nacional_de_aprendizaje (ina) y los
+sistemas del satélite fueron desarrollados y probados en las instalaciones del
+setec-lab.
+mientras que el ensamblaje, también a cargo de personas ingeniera del tec, se realizó
+en un cuarto limpio facilitado por la empresa moog medical, ubicada en la zona
+franca el coyol, en alajuela.
+en noviembre de 2017 se realizaron las pruebas finales del satélite, en
+elinstituto_tecnológico_de_kyushu(conocido como kyutech), de japón:
+[transmisión vía skype.]a la izquierda carlos alvarado, presidente de acae. a
+la derecha marcos hernández (tec), takashi yamaguchi y mengu cho (kyutech), y
+juan josé rojas (tec). foto: johan umaña / ocm. 
+“para explicarles por qué el satélite tenía que venir a japón para ser probado,
+les voy a contar una de las pruebas personal técnico: el satélite va a enfrentar
+cambios drásticos de temperatura, de los 80 grados centígrados en menos de 90
+minutos, esto genera un desgaste enorme para el satélite. aquí en el kyutech
+existen las facilidades y el conocimiento para asegurarse de que el satélite va
+a aguantar esas condiciones y que el sistema de operación en órbita va a seguir
+funcionando“, comentó el ing. marcos hernández.
+hernández explicó los detalles de la fase de pruebas en una transmisión en
+vivo, desde japón, este martes 6 de marzo, junto al ingeniero juan josé rojas y
+los especialistas japoneses mengu cho y takashi yamaguchi, del kyutech.
+rojas es docente del tecnológico y se encuentra en japón desarrollando su
+doctorado, mientras que hernández es egresado del tec y está realizando
+estudios de maestría.
+“les envío un saludo de parte del kyutech. hoy es un momento histórico, no
+solamente para los costarricenses sino también para todos los centroamericanos,
+un momento para la posteridad”, dijo el dr. cho en su saludo al país.
+después de haber sido lanzado, el satélite ingresará en la última fase del
+proyecto irazú. los astronautas de la estación espacial internacional se
+encargarán de liberarlo al espacio y el aparato tendrá la misma órbita que la
+iss.
+el paso final será realizar el primer contacto con el satélite y activarlo para
+que se conecte con la estación remota de san carlos y empiece a transmitir la
+información a la base en cartago.
+
+**** primer contacto con el #satélitecr ****
+
+vea también:
+
+ [tres_fotógrafos_frente_a_los_personas ingeniera,_separados_por_un_vidrio._los
+investigadores_visten_de_bata_de_laboratorio.]
+primer_satélite_tico_viaja_a_japón_para_las_pruebas_finales
+
+ [esteban_martínez_posa_junto_a_instrumentos_musicales.]
+‘se_siente_como_el_primer_hombre_en_la_luna’:_uno_de_los_jóvenes_que_ensambló
+el_primer_satélite_de_centroamérica_cuenta_su_historia
+
+ [el_satélite_en_primer_plano,_con_otras personas_equipos_al_fondo._]
+estudiantes_e_investigadores_del_tec_trabajan_para_poner_a_punto_los_sistemas
+del_primer_satélite_costarricense
+
+ satélitecr, proyecto_irazú, setec-lab
+[johan umaña venegas, comunicador.]
+**** johan_umaña_venegas ****
+johumana@tec.ac.cr
+comunicador
+licenciado en comunicación colectiva, con énfasis en periodismo, universidad de
+costa rica.
+view_the_discussion_thread.
+
+***** relacionado *****
+**** 'poster'_sobre_el_primer_satélite_tico_fue_reconocido_en_reunión_mundial
+de_astronáutica ****
+15 de mayo 2017 por: johan_umaña_venegas
+ [marco_gómez_junto_al_póster_sobre_el_satélite_tico._]
+**** alumno_de_mecatrónica_se_encuentra_en_países_bajos_para_investigar_cómo
+perfeccionar_el_control_de_robots ****
+18 de mayo 2017 por: johan_umaña_venegas
+
+**** científica_intenta_mejorar_los_efectos_saludables_de_compuestos_presentes
+en_el_vino,_la_cerveza_y_el_arroz ****
+19 de abril 2017 por: johan_umaña_venegas
+ [laura_calvo,_de_pie,_frente_a_unas_máquinas_en_el_laboratorio.]
+**** ‘se_siente_como_el_primer_hombre_en_la_luna’:_uno_de_los_jóvenes_que
+ensambló_el_primer_satélite_de_centroamérica_cuenta_su_historia ****
+8 de noviembre 2017 por: johan_umaña_venegas
+ [esteban_martínez_posa_junto_a_instrumentos_musicales.]
+
+oficina_de_comunicación_y_mercadeo
+teléfono: (506)_2550-2218 / (506)_2550-9194
+correo electrónico: comunicacionymercadeotec@tec.ac.cr
+    * quiénes_somos
+    * contacto
+    * secciones
+
+    * facebook
+    * twitter
+    * instagram
+    * youtube
+[logo tec]
+
+
+File name: C:\Users\valev\Documents\GitHub\TecuAvances\hoyeneltec\2018\satelite-tico-sera-lanzado-espacio-2-abril-bordo-falcon-9-spacex.html.txt
+Number of changes: 3
+Palabras reemplazadas: otros, ingenieros, técnicas

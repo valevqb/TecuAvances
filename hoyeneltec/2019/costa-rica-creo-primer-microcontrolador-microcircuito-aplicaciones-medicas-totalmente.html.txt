@@ -1,0 +1,215 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   Pasar_al_contenido_principal
+****** Hoy_en_el_TEC ******
+
+Viernes 12 de Agosto, 2022
+  |  
+Quiénes_Somos   |   Buscar  
+
+***** Menú *****
+    * Investigación
+    * Desarrollo_Humano
+    * Vida_Estudiantil
+    * Acción_Institucional
+    * Medio_Ambiente
+    * Emprendimiento
+    * Cultura_y_Deporte
+    * Opinión
+    * Buscar
+
+
+ Investigación aplicada
+****** Costa Rica creó el primer microcontrolador para microcircuito de
+aplicaciones médicas totalmente diseñado y desarrollado en el país ******
+8 de Mayo 2019 Por: Redacción
+Investigación
+   Versión_para_imprimir    Descargar_PDF  Compartir por correo electrónico
+Comentarios
+ Compartir en Facebook  Compartir en Twitter        Compartir en WhatsApp
+[infografía_siwa]
+San José, Costa Rica, Mayo 2019. EL DCILab de la Escuela de Ingeniería
+Electrónica del Tecnológico de Costa Rica (TEC), creó el primer
+microcontrolador de 32-bits RISC, completamente diseñado y desarrollado en
+Costa Rica, para un microcircuito con aplicaciones médicas.
+Un microcontrolador es un microprocesador que posee, además de sus unidades de
+procesamiento, interfaces de entrada salida, unidades dedicadas de actuación y
+sensado; así como, memoria interna, para realizar funciones específicas.
+El núcleo de SIWA (nombre dado al microcontrolador, que en lengua cabécar
+significa “sabiduría ancestral”) está basado en una arquitectura RISC-V de 32-
+bits, similar por ejemplo a la que usan los teléfonos celulares inteligentes
+(como el procesador ARM), y este núcleo se puede complementar con diferentes
+interfaces para diferentes aplicaciones.
+[Ilustración de la configuración física del microprocesador. ]El
+microprocesador SIWA es de un tamaño diminuto. Ilustración: Cortesía DCILab. 
+El DCILab del TEC Costa Rica está iniciando con aplicaciones médicas para el
+dispositivo, como un estimulador cardiaco; pero, anuncian que podrían crear
+nuevas versiones de SIWA con aplicaciones en otros campos como automatización
+industrial, monitoreo de variables, procesamiento de imágenes, entre otros.
+El diseño se basa en una arquitectura de programación RISC abierta y será
+utilizado como unidad de control para un estimulador cardiaco que ha sido
+desarrollado por la Universidad Católica de Uruguay.
+Alfonso Chacón, de la Escuela de Ingeniería Electrónica del TEC, dijo que “este
+hito no solo comprueba la existencia en Costa Rica de la capacidad tecnológica
+necesaria para iniciar desarrollos conjuntos en el área de microcircuitos con
+la industria de alta tecnología establecida en el país, sino que sienta las
+bases para una industria microelectrónica nacional”. 
+SIWA es un dispositivo electrónico integrado en una tecnología CMOS de 180
+nanómetros.
+
+**** Potencial en industria médica ****
+Los dispositivos médicos implantables modernos cada vez requieren más
+inteligencia, para aplicar algoritmos de monitoreo de señales biomédicas, y
+para incluso poder recopilar datos del paciente por parte del médico.
+Entre más integrado sea el sistema (no con dispositivos discretos
+interconectados entre si, tal como se hace actualmente en la mayoría de los
+sistemas en el mercado), se aumenta la confiabilidad y seguridad de los
+dispositivos implantados en los pacientes, además de mejorar los parámetros de
+tamaño y consumo de potencia eléctrica del dispositivo.
+El Director General de CINDE, Jorge Sequeira, comentó: “Costa Rica se ha
+convertido en un hub de tecnologías médicas en América Latina, albergando a
+líderes globales en Ciencias de la Vida y Tecnologías Digitales. Esta
+convergencia permite al país, cada vez más, convertirse en cuna de desarrollo y
+testing de nuevas soluciones, potenciando el desarrollo y desempeño de los
+dispositivos médicos, los cuales ya se convirtieron en el principal producto de
+exportación del país, alcanzando US$3.300 millones en 2018. Se proyecta que los
+mismos crezcan a un ritmo de 15% anual para alcanzar los US$5.000 millones en
+2021”.
+El sector de ciencias de la vida agrupa a 72 empresas multinacionales que
+brindan empleo a 24.600 costarricenses, e incluso, siete de las 10 empresas del
+sector cardiovascular más grande del mundo, operan desde Costa Rica.
+
+ [Una_mujer_coloca_muestras_en_un_recipiente._]
+Sector_de_dispositivos_médicos_avanza_hacia_Investigación_y_Desarrollo
+
+ [grupo_de_personas_posan_delante_de_un_edificio]
+‘Si_Costa_Rica_se_compromete_a_construir_una_industria_MedTech_sostenible,_los
+programas_como_el_que_el_TEC_ofrece_son_esenciales’
+
+ Electrónica, microprocesador, Dispositivos_médicos, Cinde
+**** Redacción ****
+comunicacionymercadeo@tec.ac.cr
+View_the_discussion_thread.
+
+***** Relacionado *****
+**** Microprocesador_integralmente_diseñado_en_Costa_Rica_demuestra_altas
+capacidades_tecnológicas ****
+27 de Abril 2021 Por: Johan_Umaña_Venegas
+ [Tarjeta_de_circuitos,_con_cables_y_una_pantalla_que_dice_Hello_World,_My_name
+is_SIWA]
+**** ‘Se_siente_como_el_primer_hombre_en_la_luna’:_uno_de_los_jóvenes_que
+ensambló_el_primer_satélite_de_Centroamérica_cuenta_su_historia ****
+8 de Noviembre 2017 Por: Johan_Umaña_Venegas
+ [Esteban_Martínez_posa_junto_a_instrumentos_musicales.]
+**** Científicos_crean_la_versión_2.0_del_respirador_para_pacientes_con_Covid-
+19 ****
+23 de Febrero 2022 Por: Irina_Grajales_Navarrete
+ [Científicos_posan_para_la_fotografia_al_lado_del_respirador]
+**** ‘Si_Costa_Rica_se_compromete_a_construir_una_industria_MedTech_sostenible,
+los_programas_como_el_que_el_TEC_ofrece_son_esenciales’ ****
+8 de Febrero 2019 Por: Johan_Umaña_Venegas
+ [grupo_de_personas_posan_delante_de_un_edificio]
+
+Oficina_de_Comunicación_y_Mercadeo
+Teléfono: (506)_2550-2218 / (506)_2550-9194
+Correo electrónico: comunicacionymercadeotec@tec.ac.cr
+    * Quiénes_Somos
+    * Contacto
+    * Secciones
+
+    * Facebook
+    * Twitter
+    * Instagram
+    * YouTube
+[logo TEC]

@@ -1,0 +1,248 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   pasar_al_contenido_principal
+****** hoy_en_el_tec ******
+
+viernes 12 de agosto, 2022
+  |  
+quiénes_somos   |   buscar  
+
+***** menú *****
+    * investigación
+    * desarrollo_humano
+    * vida_estudiantil
+    * acción_institucional
+    * medio_ambiente
+    * emprendimiento
+    * cultura_y_deporte
+    * opinión
+    * buscar
+
+
+****** realidad aumentada en ejército estadounidense, con sello tico ******
+    * egresado del tec participa en investigación que ayudaría a heridos en
+      campo de batalla.
+19 de julio 2019 por: kenneth_mora_pérez
+investigación
+   versión_para_imprimir    descargar_pdf  compartir por correo electrónico
+comentarios
+ compartir en facebook  compartir en twitter        compartir en whatsapp
+[tropa]
+imagen ilustrativa.
+
+incrementar la seguridad al tiempo que se salvan vidas humanas son parte de las
+acciones que desarrolla el ejército estadounidense, con una investigación donde
+la presencia costarricense ha tenido un papel clave en el desarrollo de un
+novedoso procedimiento tecnológico.
+con apoyo de la realidad aumentada, edgar rojas muñoz,egresado de la carrera de
+personas ingeniera_en_computadores_del_tec y estudiante de doctorado en la universidad
+purdue en indiana, es parte del equipo de desarrollo del sistema de
+telementoría con realidad aumentada (star por sus siglas inglés), el cual
+propone unaayuda a los heridos en los campos de batalla con apoyo tecnológico
+remoto de especialistas en medicina.
+la implementación de star permitirá a los clase médica dar soporte a los
+procedimientos que sean realizados en el campo de batalla mediante una pantalla
+de realidad aumentada, la cual da a quienes atienden a los heridos, una visión
+más clara de los daños así como de la anatomía y otras personas personas elementos clave para
+salvaguardar vidas, gracias a las instrucciones quirúrgicas que son recibidas
+mediante lentes especiales.
+una de las validaciones del proyecto se realizó en el centro médico naval
+medical portsmouth en virginia, donde se hizo una tirocricotomía (procedimiento
+para abrir una vía aérea de emergencia) en un paciente simulador. esta se hizo
+con condiciones similares al campo de batalla, como el humo, sonidos de
+disparos así como de explosiones.
+el proyecto financiado por el departamento de defensa estadounidense con apoyo
+de la universidad de indiana y la universidad purdue mediante el laboratorio_de
+sistemas_inteligentes_y_tecnologías_de_asistencia_(isat), se desarrolla desde
+el 2014 y está ya en sus últimas etapas, según destacó rojas.
+     "la mayor parte del trabajo ahora se centra en la difusión de la
+     tecnología y el desarrollo de funciones adicionales para el sistema.
+     por ejemplo, estamos desarrollando una función para capturar los
+     brazos de los cirujanos personas expertas y transferir una versión virtual de
+     los mismos para los mentores remotos". edgar rojas muñoz.   
+
+(fotografías: laboratorio isat/purdue).
+***** los tropa que atienden a los heridos utilizan un visor especial que
+les da mediante la realidad aumentada, instrucciones quirúrgicas por parte de
+un médico especialista. *****
+***** un cirujano mentor utiliza una pantalla para ver las acciones operativas
+de los aprendices remotos y brindar así las instrucciones quirúrgicas en la
+misma. *****
+ previous next
+ previous next
+
+**** ultrasonidos con apoyo de gestos ****
+las capacidades que brinda la tecnología son sin duda, aprovechadas cada vez
+más para el ámbito de la salud.
+muestra de esto es la participación de rojas no solo en el proyecto star sino
+también en la investigación que realiza en el marco de su doctorado. esta busca
+que los ultrasonidos tengan interpretación mediante gestos de los clase médica, de
+manera tal, que a través de estos se logre interpretar parte de los resultados
+de este estudio médico.
+edgar rojas es candidato a doctor en personas ingeniera industrial en la universidad de
+purdue. (fotografía: erojasmunoz.wix.com)
+el sistema denominado comparador de instrucciones gestuales (magic por sus
+siglas en inglés)tiene una arquitectura que logra representar y comparar gestos
+morfológicos vinculados en primera instancia al estudio del ultrasonido, pero
+que puede ser aplicado a contextos tanto de salud como de entretenimiento,
+entre otras personas.
+el egresado destaca que su formación basada tanto en el desarrollo de software
+así como en hardware, además de la participación en el grupo esciencecuando era
+estudiante, le brindaron herramientas y conocimiento clave que aplica hoy en
+sus investigaciones.
+     "el hecho de ser graduado del tec tiene un rango de habilidades muy
+     amplio que hoy aplico en el marco del doctorado".
+los resultados_de_las_investigaciones realizadas por edgar han sido presentadas
+en importantes conferencias en francia y alemania, tanto de la ieee como de
+otras personas personas organismos.
+rojas espera finalizar su doctorado en el 2020 y a futuro compartir su
+experiencia y conocimientos con otras personas personas juventud gremio estudiantil de nuestro país.
+
+vea también:
+
+
+crecimiento_en_doctorados_potencia_la_investigación_y_el_desarrollo_de
+soluciones_innovadoras
+
+
+profesor_de_diseño_alemán:_‘la_investigación_interdisciplinaria_(del_tec)_es_un
+activo_invaluable’
+
+ investigación, doctorado, purdue, realidad_aumentada
+[kenneth mora pérez, comunicador.]
+**** kenneth_mora_pérez ****
+kmora@tec.ac.cr
+comunicador
+máster en periodismo digital, universidad de guadalajara, méxico. licenciado en
+comunicación, universidad federada de costa rica y bachiller en periodismo,
+universidad internacional de las américas.
+view_the_discussion_thread.
+
+***** relacionado *****
+**** teradyne_dona_equipo_especializado_para_pruebas_de_circuitos_integrados
+****
+11 de agosto 2022 por: kenneth_mora_pérez
+ [muestra_equipo_teradyne_tec]
+**** el_arte_de_reinventar_la_investigación_y_la_extensión_en_medio_de_la
+pandemia ****
+12 de octubre 2021 por: fernando_montero_bolaños
+ [imágenes_de_las_obras_que_representan__la_riqueza_arquitectónica_patrimonial
+del_centro_de_la_provincia.]
+**** video:_software_permitirá_visualizar_en_tres_dimensiones_los_terremotos_de
+nuestro_país ****
+7 de junio 2017 por: irina_grajales_navarrete
+
+**** microprocesador_integralmente_diseñado_en_costa_rica_demuestra_altas
+capacidades_tecnológicas ****
+27 de abril 2021 por: johan_umaña_venegas
+ [tarjeta_de_circuitos,_con_cables_y_una_pantalla_que_dice_hello_world,_my_name
+is_siwa]
+
+oficina_de_comunicación_y_mercadeo
+teléfono: (506)_2550-2218 / (506)_2550-9194
+correo electrónico: comunicacionymercadeotec@tec.ac.cr
+    * quiénes_somos
+    * contacto
+    * secciones
+
+    * facebook
+    * twitter
+    * instagram
+    * youtube
+[logo tec]
+
+
+File name: C:\Users\valev\Documents\GitHub\TecuAvances\hoyeneltec\2019\realidad-aumentada-ejercito-estadounidense-sello-tico.html.txt
+Number of changes: 10
+Palabras reemplazadas: médicos, otros, expertos, soldados, médicos, ingeniería, otras, otros, jóvenes, estudiantes

@@ -1,0 +1,272 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   pasar_al_contenido_principal
+****** hoy_en_el_tec ******
+
+viernes 12 de agosto, 2022
+  |  
+quiénes_somos   |   buscar  
+
+***** menú *****
+    * investigación
+    * desarrollo_humano
+    * vida_gremio gremio estudiantil
+    * acción_institucional
+    * medio_ambiente
+    * emprendimiento
+    * cultura_y_deporte
+    * opinión
+    * buscar
+
+
+ logro gremio gremio estudiantil
+****** chronobacter: una propuesta gremio gremio estudiantil que maravilló a personas personas expertas y ganó
+plata en igem ******
+idea para sistema de autodestrucción de microorganismos bioingenierizados fue
+valorada como innovadora por personas personas expertas
+ 
+además, realizaron ocho talleres virtuales en plataforma de harvard
+16 de diciembre 2021 por: johan_umaña_venegas
+vida_gremio gremio estudiantil
+   versión_para_imprimir    descargar_pdf  compartir por correo electrónico
+comentarios
+ compartir en facebook  compartir en twitter        compartir en whatsapp
+[chrono_bacter]
+gremio estudiantil universitarios, en su mayoría del tecnológico_de_costa_rica_(tec),
+conformaron el equipo chronobacter, el cual obtuvo plata en la mayor
+competencia mundial de biología sintética: international genetically engineered
+machine (igem)_2021.
+ conozca el sitio_web en el que chronobacter expusó su propuesta. 
+el conjunto participó en la categoría de “avance fundacional” desarrollando una
+propuesta para un sistema de autodestrucción de microorganismos
+bioingenierizados, con lo cual maravillaron a personas personas expertas en el campo.
+la parte más innovadora de su propuesta es el sistema de conteo para el
+“circuito suicida” que conduce a los microorganismos a autodestruirse.
+“nos reunimos con dos persona médica especialistas en el uso de recombinasas, que es
+lo que usamos para el sistema contador, e incluso ellos estaban muy
+impresionados con la idea que habíamos desarrollado porque, a pesar de que
+existen múltiples contadores, ninguno había sido como el que nosotros
+hicimos.eso fue una validación muy importante para el equipo, darnos cuenta de
+que lo que estábamos haciendo era relevante y que no era cualquier persona la
+que nos lo estaba diciendo, sino que era la persona experta justamente en lo
+que estábamos haciendo”, comentó jimena fuentes arias, estudiante de personas ingeniera
+en_biotecnología_del_tec.
+la propuesta de chronobacter se podría aplicar en microorganismos que sirvan
+para remediación ambiental, eliminando desechos como derrames de petróleo o la
+creciente contaminación por plásticos que existe en los ríos y mares del mundo.
+también puede ser útil en tratamientos clase médica para eliminar enfermedades del
+cuerpo. su sistema aumentaría la seguridad del uso de esos posibles organismos,
+pues garantizaría que se “suiciden” o autodestruyan después de hacer su
+trabajo.
+debido a que el igem no se realizó en 2020, el equipo tuvo la oportunidad de
+extender su propuesta y lo hizo profundizando en la utilización de la lógica
+secuencial, el cual es un concepto típico de las ciencias computacionales, y
+cómo se puede aplicar para mejorar el desarrollo científico en la biología
+sintética, metabólica, molecular y afines.
+“desarrollamos un marco conceptual con pasos para que se entienda cómo
+conceptualizar temas que se hablan en la biología a términos de la lógica
+secuencial. además, hicimos un software que hace más explícita esa relación”,
+detalló fuentes.
+según los gremio estudiantil, la aplicación de lógica secuencial permitiría tener un
+sistema más flexible que se adecúa al ambiente en el que está, lo que optimiza
+su rendimiento.
+destaca que chronobacter fue uno de los apenas 13 equipos latinoameticanos que
+compitió en igem 2021 (el único de centroamérica), de entre 343 quienes participan
+de todo el mundo.
+
+      “las aplicaciones prácticas pueden estar un poco en el futuro porque
+falta mucho por desarrollar. a nosotros lo que nos gustaría es abrir la
+conversación y empezar a poner en la mesa que podemos hacer estos intentos, que
+es posible imaginarse un mundo en el que se liberen organismos
+bioingenerizados, que es algo que está estrictamente prohibido en todo el
+mundo”. jimena fuentes arias, estudiante de personas ingeniera en biotecnología del
+tec.
+**** más allá de la propuesta ****
+además de hacer su propuesta científica, el grupo debió presentarla por medio
+de un sitio_web y un video, así como realizar reuniones con especialistas del
+área, entrevistar a profesores y organizar talleres de divulgación con otras personas personas
+personas juventud. incluso, trabajaron con especialistas de áreas tan diversas
+como las matemáticas o las ciencias sociales. en este último caso, para conocer
+más sobre las implicaciones de la biopersonas ingeniera.
+“en igem hay una sección que está dedicada a prácticas más asociadas al
+público que es ver cómo se involucra el proyecto y todo el concepto de biología
+sintética a la sociedad. es para comprobar no solo que el proyecto le va a
+servir a alguien, sino que también es responsable en distintos aspectos, como
+involucrar la parte ética, la parte ambiental, la parte social, de bioseguridad
+y otras personas personas”, expresó ysis eugenia lanzoni vargas, también estudiante de
+biotecnología.
+ conozca los talleres_y_recursos en la plataforma lab xchange, de harvard.
+el reto que impuso la pandemia a estos gremio estudiantil les motivó al desarrollo de
+laboratorios virtuales, algo que lograron por medio de la plataforma lab
+xchange, de la universidad de harvard. 
+según explicó andrea vargas umaña, estudiante de personas ingeniera en diseño
+industrial del tec, consiguieron que la universidad norteamericana subiera ocho
+productos desarrollados por ellos a la plataforma: cinco interactivos y tres
+laboratorios virtuales.
+mientras tanto, josué leonardo montoya blanco, también de diseño, valoró la
+importancia de que igem sea una competencia que les promueva a trabajar
+interdisciplinariamente, conociendo el aporte de alumnado de diferentes
+carreras.
+“en la u no tenemos normalmente las oportunidades de involucrarnos en proyectos
+donde podamos llevar esa interacción de diferentes disciplinas, como una
+realidad. normalmente en los proyectos de los cursos uno trabaja con gente de
+la misma carrera”, acotó montoya.
+
+**** equipo chronobacter: ****
+profesor coordinador: david garcía gómez.
+gremio estudiantil:  
+    * jimena fuentes arias, personas ingeniera en biotecnología.
+    * jose daniel lizano, personas ingeniera en biotecnología.
+    * ysis eugenia lanzoni vargas, personas ingeniera en biotecnología.
+    * camila flores rojas, personas ingeniera en diseño industrial.
+    * gustavo andrés segura umaña, personas ingeniera en computadores.
+    * marco vinicio herrera valverde, personas ingeniera en computadores.
+    * mariana sáenz ramírez, personas ingeniera en biotecnología.
+    * johan guillén meza, personas ingeniera electrónica.
+    * alonso segura valverde, biología con énfasis en biotecnología
+      (universidad nacional)
+    * andrea vargas umaña, personas ingeniera en diseño industrial.
+    * josué leonardo montoya blanco, personas ingeniera en diseño industrial.
+
+ [gremio estudiantil_quienes participan_de_igem_]
+ticos_triunfan_en_ee.uu._con_proyecto_que_trataría_la_bacteria_de_la_diarrea
+
+ [el_grupo_de_gremio estudiantil_desarrolladores_del_proyecto_prostal_dejaron_al_tec
+en_una_posición_muy_alta_en_la_importante_competición._(foto_cortesía_de_miguel
+rojas)]
+gremio estudiantil_del_tec_ganaron_medalla_de_plata_en_competencia_mundial_de_biología
+sintética
+
+ igem, biotecnología, medio_ambiente
+[johan umaña venegas, comunicador.]
+**** johan_umaña_venegas ****
+johumana@tec.ac.cr
+comunicador
+licenciado en comunicación colectiva, con énfasis en periodismo, universidad de
+costa rica.
+view_the_discussion_thread.
+
+***** relacionado *****
+**** universitarios_buscan_fondos_para_representar_al_país_en_francia_con
+proyecto_espacial_biodomo ****
+7 de junio 2022 por: johan_umaña_venegas
+ [dos_juventud,_con_bata_y_máscaras,_en_el_laboratorio,_trasladando_arroz_de_un
+contenedor_a_otro._]
+**** gremio estudiantil_arman_sus_laboratorios_en_casa_con_apoyo_de_docentes_de
+biotecnología ****
+1 de octubre 2020 por: johan_umaña_venegas
+ [estudiante_viendo_a_través_del_microscopio._]
+**** convocatoria_para_ingresar_al_doctorado_en_ciencias_naturales_para_el
+desarrollo_(docinade)_abierta_hasta_el_30_de_abril ****
+16 de enero 2018 por: noemy_chinchilla_bravo
+ [imagen_de_un_hombre,_con_un_lapicero,_revisando_un_documento.]
+**** ticos_proponen_tratar_la_bacteria_que_causa_la_diarrea ****
+18 de octubre 2019 por: irina_grajales_navarrete
+ [grupo_de_juventud_posando_]
+
+oficina_de_comunicación_y_mercadeo
+teléfono: (506)_2550-2218 / (506)_2550-9194
+correo electrónico: comunicacionymercadeotec@tec.ac.cr
+    * quiénes_somos
+    * contacto
+    * secciones
+
+    * facebook
+    * twitter
+    * instagram
+    * youtube
+[logo tec]
+
+
+File name: C:\Users\valev\Documents\GitHub\TecuAvances\hoyeneltec\2021\chronobacter-propuesta-estudiantil-maravillo-expertos-gano-plata-igem.html.txt
+Number of changes: 28
+Palabras reemplazadas: estudiantil, estudiantil, expertos, expertos, expertas, doctores, ingeniería, médicos, estudiantes, participantes, ingeniería, otras, jóvenes, otras, estudiantes, ingeniería, alumnos, ingeniería, ingeniería, ingeniería, ingeniería, ingeniería, ingeniería, ingeniería, ingeniería, ingeniería, ingeniería, estudiantes

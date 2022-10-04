@@ -1,0 +1,217 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   Pasar_al_contenido_principal
+****** Hoy_en_el_TEC ******
+
+Viernes 12 de Agosto, 2022
+  |  
+Quiénes_Somos   |   Buscar  
+
+***** Menú *****
+    * Investigación
+    * Desarrollo_Humano
+    * Vida_Estudiantil
+    * Acción_Institucional
+    * Medio_Ambiente
+    * Emprendimiento
+    * Cultura_y_Deporte
+    * Opinión
+    * Buscar
+
+
+****** Plantean desarrollo de dispositivos para evitar las muertes en cuna
+******
+2 de Noviembre 2015 Por: Johan_Umaña_Venegas
+Vida_Estudiantil
+   Versión_para_imprimir    Descargar_PDF  Compartir por correo electrónico
+Comentarios
+ Compartir en Facebook  Compartir en Twitter        Compartir en WhatsApp
+
+     Estudiantes de Ingeniería en Electrónica desarrollaron dispositivos
+     que miden la temperatura, frecuencia cardiaca y respiración de los
+     lactantes. Incluso, algunos “sacuden” la cuna para despertar al bebé
+     en caso de que no esté respirando bien. (Foto: OCM.)
+    * Los aparatos se conectan a Internet y envían alertas a dispositivos
+      móviles
+El talento de los estudiantes de Ingeniería Electrónica del TEC se puso del
+lado de los más indefensos. Alumnos del Laboratorio de Diseño Lógico
+expusieron, recientemente, sus avances en el desarrollo de dispositivos para
+prevenir el síndrome_de_muerte_infantil_súbita, también conocido como muerte en
+cuna.
+Los futuros ingenieros crearon aparatos que miden factores como la posición del
+bebé, respiración, temperatura y frecuencia cardiaca, a fin de encontrar
+patrones extraños y alertar a los padres de algún posible peligro.
+“Nosotros tomamos varios de los factores, de los más importantes, y los
+implementamos en el circuito. Lo que hacemos es censar la temperatura del bebé,
+no la de ambiente; la de la posición; la concentración de CO2, para saber si
+está respirando su propio aire o hay humo en el ambiente, así como la
+frecuencia respiratoria.
+“Implementamos un circuito que nos alerta cuando cualquiera de los censores
+está en alarma y también lo hicimos en una pantalla para que le esté mostrando
+a los padres en qué estado se encuentra, y una aplicación para el teléfono”,
+explicó Dayana Sánchez, quien -junto a Allan Carmona y Gabriel Madrigal- expuso
+los alcances de su investigación en los pasillo de la  Escuela_de_Ingeniería
+Electrónica.
+Se habla de supuestos factores de los fallecimientos de bebés, pues, según
+investigaron los mismos alumnos, el “síndrome de muerte súbita infantil” aún
+representa un misterio para la medicina y no se sabe con exactitud sus causas.
+“Es un sistema de monitoreo porque el problema es un niño que está en la cuna,
+deja de respirar y se muere. Entonces, lo que hacemos es unsistema de
+recolección de datos, que son procesados localmente en un sistema electrónico y
+luego son transmitidos a celulares. Hay información local, alarmas locales e
+incluso hay algunos proyectos en los que la cuna vibra para poder despertar al
+niño para que no se le olvide respirar”, explicó el ingeniero José Alberto
+Díaz, docente a cargo.
+Pero estos aparatos van más allá. Según enfatizó Díaz, los proyectos siguen la
+tendencia delInternet de las Cosas por lo que se conectan a la Web y envían
+alertas vía dispositivos móviles (celulares o tabletas).
+Las aplicaciones que desarrollaron los alumnos del laboratorio se enfocan en
+monitorear los signos vitales de los bebés y prevenir algunos factores de
+riesgo, como el humo o la temperatura.
+Algunos hacen algo más, como el proyecto de Johan Arrieta, Melissa Fonseca y
+Jafet Chavez, el cual permite a los padres controlar remotamente ciertas
+aplicaciones del dispositivo y accionar las alertas o controlar las mediciones:
+“Puede tanto enviar datos al circuito, como recibirlos. Con la aplicación se
+pueden activar alarmas y desactivarlas”, ahondó Fonseca.
+Humanizar los circuitos.
+Díaz, quien guió a estos estudiantes del Laboratorio de Diseño Lógico, explicó
+que la escogencia del tema no fue antojadizo, pues conlleva la intención de
+“humanizar la ingeniería” y elaborar un ejercicio didáctico que a la vez
+relaciona a los jóvenes con problemáticas sociales.
+“El niño es tierno, es sensible, la electrónica es fría. Ese matrimonio hace
+que el proyecto se vea muy sensible, es humanizar la ingeniería”, comentó Díaz.
+[Melissa Fonseca (izq.) y Johan Arrieta explican cómo su dispositivo se conecta
+a Internet para enviar alertas sobre riesgos para el lactante. Además, puede
+ser controlado remotamente, con el celular.]
+     Melissa Fonseca (izq.) y Johan Arrieta explican cómo su dispositivo
+     se conecta a Internet para enviar alertas sobre riesgos para el
+     lactante. Además, puede ser controlado remotamente, con el celular.
+     (Foto: OCM.)
+[La actividad se llevó a cabo en la entrada a la Escuela de Ingeniería en
+Electrónica, donde los estudiantes se dedicaron a informar a los transeúntes
+sobre la muerte súbita en lactantes y demostrar sus propuestas para evitarla.]
+ 
+     La actividad se llevó a cabo en la entrada a la Escuela de Ingeniería
+     en Electrónica, donde los estudiantes se dedicaron a informar a los
+     transeúntes sobre la muerte súbita en lactantes y demostrar sus
+     propuestas para evitarla.(Foto:OCM.)
+ 
+[Johan Umaña Venegas, Comunicador.]
+**** Johan_Umaña_Venegas ****
+johumana@tec.ac.cr
+Comunicador
+Licenciado en Comunicación Colectiva, con énfasis en Periodismo, Universidad de
+Costa Rica.
+View_the_discussion_thread.
+
+***** Relacionado *****
+**** Rodeo_Interuniversitario_tendrá_diversión_y_mucha_adrenalina ****
+31 de Agosto 2015 Por: Noemy_Chinchilla_Bravo
+
+**** Fundador_de_WikiLeaks_brindará_videconferencia_“El_impacto_de_WikiLeaks_en
+Centroamérica” ****
+25 de Septiembre 2015 Por: Noemy_Chinchilla_Bravo
+
+**** Festival_Armando_Vázquez_conmemorará_la_lucha_estudiantil_de_los_años
+ochenta ****
+15 de Octubre 2015 Por: Geovanni_Jiménez_Mata
+
+**** Asista_a_la_conferencia:_“El_estado_de_la_ciencia,_la_tecnología_y_la
+innovación” ****
+2 de Noviembre 2015 Por: Johnny_Gómez_Aguilar
+
+
+Oficina_de_Comunicación_y_Mercadeo
+Teléfono: (506)_2550-2218 / (506)_2550-9194
+Correo electrónico: comunicacionymercadeotec@tec.ac.cr
+    * Quiénes_Somos
+    * Contacto
+    * Secciones
+
+    * Facebook
+    * Twitter
+    * Instagram
+    * YouTube
+[logo TEC]

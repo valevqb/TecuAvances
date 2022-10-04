@@ -1,0 +1,251 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   pasar_al_contenido_principal
+****** hoy_en_el_tec ******
+
+viernes 12 de agosto, 2022
+  |  
+quiénes_somos   |   buscar  
+
+***** menú *****
+    * investigación
+    * desarrollo_humano
+    * vida_estudiantil
+    * acción_institucional
+    * medio_ambiente
+    * emprendimiento
+    * cultura_y_deporte
+    * opinión
+    * buscar
+
+
+****** estudiante del tec diseña y crea prototipo de robot trepador de árboles
+******
+1 de julio 2020 por: fernando_montero_bolaños
+investigación
+medio_ambiente
+   versión_para_imprimir    descargar_pdf  compartir por correo electrónico
+comentarios
+ compartir en facebook  compartir en twitter        compartir en whatsapp
+[robot_escalando_un_árbol_curvo]
+el robot facilita la extracción de muestras de árboles muy altos y en sitios
+peligrosos.fotomontaje cortesía de josé miguel ortega.
+
+la extracción de muestras de árboles muy altos o ubicados en terrenos quebrados
+será más fácil, rápida y segura, gracias al diseño y creación de un prototipo
+de robot trepador de árboles desarrollado por josé miguel ortega, estudiante de
+personas ingeniera_mecatrónica del tecnológico_de_costa_rica.
+el dispositivo es capaz de moverse hacia toda dirección y puede cargar
+herramientas de hasta 3 kilogramos. además, puede adherirse a troncos entre los
+10 y 80 centímetros de diámetro de diversas especies forestales y utiliza un
+sistema de ahorro de energía mientras no está en movimiento.
+ortega explica que, actualmente, el muestreo de árboles en bosques primarios y
+secundarios en costa rica es un proceso complicado y peligroso porque la
+persona debe subir a grandes alturas y utilizar una herramienta de corte tipo
+tijera que se coloca al final de una extensa varilla desarmable que tiene sus
+limitaciones.
+“comúnmente, los bosques presentan topografía irregular, exponiendo a
+condiciones de riesgo a quienes realizan el muestreo, ya que al manejar la
+herramienta en este tipo de terrenos tienen altas probabilidades de tener un
+accidente”, resaltó el estudiante.
+ortega también señala que la forma tradicional de toma de muestras tiene
+dificultades de visualización debido a las alturas, a las ramas y a las formas
+de los troncos de los árboles que, en ocasiones, obstaculizan la trayectoria de
+la herramienta. “esto hace que el procedimiento sea ineficiente. a veces se
+cortan muestras infructuosas y hay que repetir el proceso, lo que hace perder
+mucho tiempo y energía”, agregó.
+   “este es un ejemplo de cómo el trabajo interdisciplinario aúna fortalezas de
+varios campos para trabajar en el logro de un mismo objetivo, que no se
+lograría si cada disciplina trabaja individualmente.” ana abdelnour, directora
+de la dirección de proyectos de la vicerrectoría de investigación y extensión
+del tec.     [robot escalando un árbol con una carga de tres kilogramos]en esta
+prueba el robot está llevando una carga de 3 kilogramos. foto cortesía de josé
+miguel ortega.
+parte de la inspiración de ortega para el diseño del prototipo provino de la
+forma en la que algunos animales escalan los árboles. “se trata de imitar las
+técnicas de escalada de ardillas, monos e insectos. de hecho, a veces me
+quedaba admirando la agilidad de las ardillas del tec para brincar de rama en
+rama”, recordó.
+ortega es un entusiasta de la robótica y de las posibilidades que ofrece esta
+disciplina para crear herramientas que faciliten las tareas de las personas.
+“en costa rica la robótica en el campo forestal es un tema
+prácticamente desconocido y existen muchas tareas manuales en las que se pueden
+implementar sistemas robóticos que ayuden a realizarlas, entre ellas el
+muestreo de árboles”, destacó.
+de acuerdo con el estudiante, uno de los principales retos que tuvo que superar
+fue la escasa información existente. explica que, si bien se han desarrollado
+algunos prototipos de robots similares en países como japón, china y estados
+unidos, ninguno reúne las características que se necesitan para solucionar el
+problema del muestreo de árboles, objetivo final de su proyecto de
+investigación. adicionalmente, tuvo que enfrentar el desafío de desarrollar el
+prototipo con un presupuesto limitado y en un plazo de 6 meses.
+
+**** ventajas ****
+ [josé miguel ortega haciendo una prueba del robot en un árbol.]josé miguel
+ortega aprovechó la gran cantidad de árboles que hay en el campus central del
+tec en cartago para hacer pruebas del prototipo. foto cortesía de josé miguel
+ortega.
+cassia soto, docente e investigadora de la escuela_de_personas ingeniera_forestal del
+tec, resaltó la importancia de contar con este robot para facilitar las labores
+de los personas ingeniera forestales en sus tareas de estudio, protección y manejo de
+los ecosistemas boscosos. “en los bosques tropicales los árboles pueden
+alcanzar más de 50 metros de altura y, en ocasiones, es necesario llegar a las
+hojas, flores o frutos que se encuentran en la parte superior”, explicó.
+de acuerdo con soto, la recolección de muestras de los árboles se realiza,
+generalmente, con una podadora de extensión que tiene un límite de altura y que
+es pesada y difícil de manipular. tomando en cuenta esta realidad y que otras personas
+métodos muestreo también son complejos, limitantes y peligrosos, señala que el
+robot trepador ofrecería las siguientes ventajas para esta labor:
+    * llegar a cualquier parte del árbol.
+    * precisión en el corte de la muestra.
+    * mayor seguridad para las personas que toman la muestra.
+además, considera que el robot puede mejorarse para sujetar la muestra en vez
+de dejarla caer para que no sufra daños, como sucede con los demás métodos de
+corte. “también podría colocarse sensores en el robot para tomar medidas del
+árbol a lo largo de su desplazamiento”, agregó.
+de acuerdo con soto, los personas ingeniera forestales extraen muestras de los árboles
+para:
+    * identificar especies.
+    * tomar fotografías que permitan a otras personas conocer la especie.
+    * realizar estudios de variabilidad genética, reflectancia foliar y
+      composición química, entre otras personas.
+    * guardar muestras botánicas en los herbarios.
+    * recolectar frutos para la reproducción en viveros.
+    * guardar semillas en bancos especializados para proteger la biodiversidad.
+
+**** prueba de desplazamiento del robot ****
+
+ robot_trepador_árboles, personas ingeniera_mecatrónica, personas ingeniera_forestal,
+vicerrectoría_de_investigación_y_extensión, vie
+**** fernando_montero_bolaños ****
+fmontero@tec.ac.cr
+comunicador, campus tecnológico de san josé.
+licenciado en ciencias de la comunicación colectiva con énfasis en periodismo,
+universidad de costa rica y bachiller en arte escénico, universidad nacional.
+view_the_discussion_thread.
+
+***** relacionado *****
+**** "costa_rica_puede_convertirse_en_un_líder_mundial_de_sostenibilidad" ****
+7 de noviembre 2018 por: kenneth_mora_pérez
+ [montañas_de_talamanca]
+**** tec_prohíbe_el_uso_de_glifosato_en_sus_propiedades ****
+21 de junio 2019 por: kenneth_mora_pérez
+ [vista_aerea_del_campus]
+**** país_estrena_tecnología_que_permitirá_visualizar_los_sismos_en_3d ****
+7 de junio 2017 por: irina_grajales_navarrete
+
+**** video:_software_permitirá_visualizar_en_tres_dimensiones_los_terremotos_de
+nuestro_país ****
+7 de junio 2017 por: irina_grajales_navarrete
+
+
+oficina_de_comunicación_y_mercadeo
+teléfono: (506)_2550-2218 / (506)_2550-9194
+correo electrónico: comunicacionymercadeotec@tec.ac.cr
+    * quiénes_somos
+    * contacto
+    * secciones
+
+    * facebook
+    * twitter
+    * instagram
+    * youtube
+[logo tec]
+
+
+File name: C:\Users\valev\Documents\GitHub\TecuAvances\hoyeneltec\2020\estudiante-tec-disena-crea-prototipo-robot-trepador-arboles.html.txt
+Number of changes: 7
+Palabras reemplazadas: ingenieros, otros, ingenieros, otros, otros, ingeniería, ingeniería

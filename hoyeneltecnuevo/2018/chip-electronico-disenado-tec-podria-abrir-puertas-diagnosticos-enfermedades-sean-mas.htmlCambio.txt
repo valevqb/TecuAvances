@@ -1,0 +1,244 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   pasar_al_contenido_principal
+****** hoy_en_el_tec ******
+
+viernes 12 de agosto, 2022
+  |  
+quiénes_somos   |   buscar  
+
+***** menú *****
+    * investigación
+    * desarrollo_humano
+    * vida_estudiantil
+    * acción_institucional
+    * medio_ambiente
+    * emprendimiento
+    * cultura_y_deporte
+    * opinión
+    * buscar
+
+
+****** chip electrónico, diseñado en el tec, podría abrir puertas, para que
+diagnósticos de enfermedades sean más rápidos ******
+    * el chip electrónico fue diseñado y validado en su totalidad en el
+      laboratorio de diseño de circuitos integrados de la escuela de personas ingeniera
+      electrónica del tec (dcilab).
+    * actualmente se encuentra en la etapa de pruebas del primer prototipo de
+      la interfaz de medición del sistema, para poder implementarlo en la
+      detección de anomalías celulares.
+18 de octubre 2018 por: noemy_chinchilla_bravo
+desarrollo_humano
+investigación
+   versión_para_imprimir    descargar_pdf  compartir por correo electrónico
+comentarios
+ compartir en facebook  compartir en twitter        compartir en whatsapp
+[imagen_de_un_chip_electrónico]
+el chip electrónico fue diseñado y validado en su totalidad en el laboratorio
+de diseño de circuitos integrados de la escuela de personas ingeniera electrónica del
+tec (dcilab). foto cortesía de renato rimolo.
+ 
+ 
+
+muchos sabemos, que el diagnóstico temprano de enfermedades se vuelve
+imperativo para su tratamiento. y el tecnológico_de_costa_rica_(tec), en su
+afán de contribuir con la sociedad está desarrollando un chip electrónico que
+podría abrir puertas, para acelerar los procesos de estudios de muestras
+celulares, de una manera rápida y económica, usando una técnica llamada
+“espectroscopía por impedancia eléctrica”.
+con esta técnica, los análisis puede ser más rápidos porque se pueden
+paralelizar y se realizan en corto tiempo. la técnica es más flexible porque no
+es destructiva sobre las muestras y permite analizar las mismas en diferentes
+momentos del tiempo; es potencialmente más económica, porque no se requiere
+preprocesamiento de las muestras (como con marcadores), es posible
+la reutililzación de muestras y puede sustituir otras personas personal técnico más complejas y
+costosas. 
+dicho chip, fue creado y diseñado por los cuerpo de investigación: ronny garcía, alfonso
+chacón, renato rimolo y josé miguel barboza, todos de la escuela_de_personas ingeniera
+electrónica del tec. en las diferentes etapas del proyecto han participado
+estudiantes de grado y posgrado. en la fase actual de validación colabora el
+estudiante de licenciatura en personas ingeniera electrónica, francisco román acuña y
+el estudiante de la maestría académica en electrónica, luis alberto chavarría
+zamora.
+pero ¿qué es un chip electrónico? un chip electrónico o circuito integrado es
+un elemento muy pequeño, fabricado con un material semiconductor, que contiene
+numerosos elementos electrónicos interconectados tales como transistores. estos
+circuitos permiten desarrollar diversas funciones en aparatos electrónicos. por
+lo general, se protegen con una cápsula de cerámica o de plástico que dispone
+de interconexiones metálicas que permiten comunicarlos con el mundo exterior
+por medio de señales eléctricas.
+imagen del chip electrónico o circuito integrado, diseñado y desarrollado por
+cuerpo de investigación del tec. se protege con una cápsula de cerámica o de
+plástico que dispone de interconexiones metálicas que permiten comunicarlos con
+el mundo exterior por medio de señales eléctricas. foto: steven moya
+barrientos /ocm .
+**** ¿cómo funcionaría el chip electrónico para la caracterización de muestras
+biológicas? ****
+el dispositivo creado en el tec utilizará un sensor el cual inyecta corrientes
+eléctricas bajas a una muestra de materiales biológicos, como tejidos o
+cultivos celularesy envía las señales eléctricas resultantes a un sistema de
+medición con el objetivo de generar una firma espectral de impedancia (un
+gráfico de resistencia al paso de corriente eléctrica de la muestra contra
+frecuencia), en donde se puede indicar, por ejemplo, si la muestra contiene
+anomalías celulares.
+el desarrollo del sistema implica el proceso de diseño y verificación del
+circuito integrado (conjunto de conductores y otras personas elementos eléctricos
+interconectados por los que pasa la corriente eléctrica), su fabricación, el
+diseño e implementación de la plataforma de interconexión y el desarrollo del
+ambiente de pruebas de laboratorio, los cuales fueron generados en su totalidad
+en el laboratorio_de_circuitos_integrados_(dcilab), de la escuela de
+electrónica del tec.
+plataforma de prueba  del circuito integrado. foto: steven moya barrientos /
+ocm .
+actualmente se encuentra en la etapa de pruebas del primer prototipo físico de
+la interfaz de medición del sistema para poder adaptarlo posteriormente a
+diversas aplicaciones prácticas.
+**** importancia de su creación ****
+según el investigador, ronny garcía, el aporte de este tipo de proyectos no se
+limita a la técnica particular desarrollada, en este caso la espectroscopia por
+impedancia eléctrica, sino que muestra la capacidad que tenemos como país para
+generar tecnologías autóctonas, ya que el proceso diseño y validación de
+circuitos integrados es complejo y muy pocas universidades a nivel
+latinoamericano se encuentran en capacidad de realizarlo de manera integral.
+ “costa rica está en un nivel, donde ya no se puede pensar en solamente usar la
+tecnología, sino también en desarrollarla. nos encontramos en una etapa en la
+que podemos desarrollar nuestros propios sistemas electrónicos de medición y
+procesamiento integrados totalmente a la medida, de acuerdo a las necesidades
+de nuestro país y pensando en productos tecnológicos propios”.
+equipo investigador que desarrolló el circuito integrado, de izquierda a
+derecha: ronny garcía, alfonso chacón, jose miguel barboza retana, renato
+rimolo,  luis alberto chavarría y francisco acuña . foto: steven moya
+barrientos /ocm .
+  chip_electrónico, enfermedades, escuela_de_personas ingeniera_electrónica
+[noemy chinchilla bravo, comunicadora.]
+**** noemy_chinchilla_bravo ****
+nchinchilla@tec.ac.cr
+comunicadora
+licenciada en relaciones públicas y bachiller en periodismo, universidad
+autónoma de centro américa.
+view_the_discussion_thread.
+
+***** relacionado *****
+**** estudiante_trabaja_en_herramienta_para_analizar_el_comportamiento_del
+índice_de_pérdida_del_arroz_en_costa_rica ****
+2 de julio 2020 por: noemy_chinchilla_bravo
+ [imagen_de_granos_de_arroz]
+**** genfores_se_alía_con_empresa_privada_para_ampliar_infraestructura_de
+invernaderos_y_aumentar_capacidad_de_producción ****
+13 de abril 2021 por: noemy_chinchilla_bravo
+ [imagen_de_un_invernadero_en_donde_se_encuentran_dos_personas_junto_a_los
+sembradíos]
+**** rutinas_de_trabajo_podrán_ser_mejoradas_mediante_realidad_virtual ****
+9 de diciembre 2019 por: kenneth_mora_pérez
+ [persona_en_oficina_utilzando_lentes_de_realidad_virtual]
+**** genfores_sigue_a_la_vanguardia_internacional_en_el_mejoramiento_genético
+de_especies_tropicales ****
+1 de agosto 2019 por: noemy_chinchilla_bravo
+ [imagen_de_varias_personas_estudiando_la_genética_de_las_plantas]
+
+oficina_de_comunicación_y_mercadeo
+teléfono: (506)_2550-2218 / (506)_2550-9194
+correo electrónico: comunicacionymercadeotec@tec.ac.cr
+    * quiénes_somos
+    * contacto
+    * secciones
+
+    * facebook
+    * twitter
+    * instagram
+    * youtube
+[logo tec]
+
+
+File name: C:\Users\valev\Documents\GitHub\TecuAvances\hoyeneltec\2018\chip-electronico-disenado-tec-podria-abrir-puertas-diagnosticos-enfermedades-sean-mas.html.txt
+Number of changes: 7
+Palabras reemplazadas: ingeniería, ingeniería, otras, técnicas, investigadores, ingeniería, otros

@@ -1,0 +1,261 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   Pasar_al_contenido_principal
+****** Hoy_en_el_TEC ******
+
+Viernes 12 de Agosto, 2022
+  |  
+Quiénes_Somos   |   Buscar  
+
+***** Menú *****
+    * Investigación
+    * Desarrollo_Humano
+    * Vida_Estudiantil
+    * Acción_Institucional
+    * Medio_Ambiente
+    * Emprendimiento
+    * Cultura_y_Deporte
+    * Opinión
+    * Buscar
+
+
+****** Archibus será el software para la administración de los activos
+institucionales ******
+19 de Octubre 2018 Por: Noemy_Chinchilla_Bravo
+Acción_Institucional
+   Versión_para_imprimir    Descargar_PDF  Compartir por correo electrónico
+Comentarios
+ Compartir en Facebook  Compartir en Twitter        Compartir en WhatsApp
+[Imagen_de_un_hombre_brindando_un_curso_sobre_la_utilización_de_una_herramienta
+a_funcionarios_del_TEC.]
+La capacitación sobre el manejo del software: Archibus fue dirigida por el
+Gerente de Desarrollo de Negocios para Latinoamérica Norte, arquitecto César
+Martínez. Foto: Steven Moya Barrientos /OCM .
+ 
+ 
+ 
+
+Con el fin de mantener bajo control los activos, recibir informes confiables,
+medir rendimientos y tener un panorama global de los activos institucionales en
+el TEC, se impartió una capacitación sobre el manejo del software: Archibus.
+La capacitación fue dirigida por el Gerente de Desarrollo de Negocios
+para Latinoamérica Norte de Archibus, arquitecto César Martínez y participaron
+funcionarios de la  Oficina_de_Ingeniería, de la Escuela_de_Arquitectura_y
+Urbanismo y del Departamento_de_Administración_de_Mantenimiento, además de
+profesores de la Escuela_de_Ingeniería_Electromecánica.
+En la capacitación participaron funcionarios de la  Oficina de Ingeniería, de
+la Escuela de Arquitectura y Urbanismo y del Departamento de Administración de
+Mantenimiento, además de profesores de la Escuela de Ingeniería
+Electromecánica. Foto: Steven Moya Barrientos /OCM .
+Archibus es una herramienta informática que ayuda a obtener  el perfil de  los
+activos desde el punto de vista operativo y financiero. Sus aplicaciones 
+integradas  están diseñadas para mejorar la eficiencia operativa y ayudar a
+tomar  las mejores decisiones estratégicas sobre los equipos. Esta herramienta
+permite la visualización, planificación, análisis y creación de informes y así
+obtener el mejor conocimiento operativo y mejor control sobre los costos.
+Además, ayuda a mantener un inventario preciso de los activos muebles y
+equipos.
+Martínez señala que este tipo de software, son generadores de conciencia porque
+brindamejores prácticas para  administrar y ahorrar de manera eficiente los
+recursos.
+      
+     “Hay mucha energía en el TEC , lo más importante es tener la cabeza
+     fría, que definan qué quieren a donde van y lo más importante es
+     tener el compromiso”, César Martínez, Archibus. 
+Pero, ¿cómo funciona la herramienta?Archibus es una plataforma cliente-
+servidor orientada a internet, con lo cual los usuarios sólo necesitarán un
+navegador web y una conexión de internet para acceder al sistema. El sistema
+contiene los siguientes dominios y funciones:
+Imagen cortesía de Jorge Mario Tobón, representante local de la herramienta
+Archibus.
+Asimismo, funciona de manera colaborativa a través de un esquema basado en
+roles en el cual cada uno tiene permisos y accesos solo a las funciones
+específicas.
+Imagen cortesía de Jorge Mario Tobón, representante local de la herramienta
+Archibus.
+Según el ingeniero Manuel Centeno, director del Departamento_de_Administración
+de_Mantenimientodel TEC y participante de la capacitación, la iniciativa ha
+sido excelente.  
+      
+     “Tenemos un plan piloto con el que vamos a iniciar y nos va ayudar
+     mucho”, Ing. Manuel Centeno, director de Administración de
+     Mantenimiento TEC. 
+**** Beneficios ****
+Según Jorge Mario Tobón, representante local de la herramienta, el TEC obtendrá
+los siguientes beneficios: minimiza el gasto innecesario del capital, mejora el
+proceso de toma de decisiones estratégicas, optimiza los niveles de servicio y
+eficiencia operativa, le permite controlar los activos con eficacia,
+estandariza y automatiza los procesos, crea informes con coherencia y
+rapidez. Además señala,  que al mismo tiempo, se podrán administrar las
+solicitudes que tengan las salas de reuniones u otros espacios de las
+infraestructuras.
+ 
+     "Nos enfocamos en la prevención para que la universidad
+     siga funcionando, que siga cumpliendo  con su misión institucional,
+     para que no afecte la calidad de los servicios que ofrece", Jorge
+     Mario Tobón, representante local de Archibus. 
+Según el vicerrector de Administración del TEC,  Humberto Villalta,“Archibus 
+nos viene a implementar un modelo  de gestión muy diferente  a lo que venimos
+haciendo  en la parte de infraestructura y sistemas, este software, además de
+llevar registros contables a nivel  financiero, trazabilidad a nivel de
+edificios  y en forma rápida, entre otros, va a facilitar el trabajo, para
+poder hacer una mejor gestión" .
+**** Extensión ****
+Por su parte, el ingeniero Luis Gómez Gutiérrez, docente de la carrera_de
+Ingeniería_en_Mantenimiento_Industrial y coordinador de este proyecto, mencionó
+que esta herramienta además de apoyar para la toma de decisiones
+institucionales también sirve en la enseñanza de los cursos de la carrera  y la
+extensión universitaria.
+“Lo que pretendemos es llevar  el mensaje  porque hay un componente de
+extensión académica  que es que los estudiantes aprendan de la disciplina  y lo
+empiecen  a implementar. Esa es una de las partes visionales de la Institución,
+que es llevar el conocimiento nuevo a las empresas del país en los trabajos de
+graduación", puntualizó Gómez .
+Un ejemplo de ello, es Joaquín Montero, estudiante de la carrera de Ingeniería
+en  Mantenimiento Industrial  quien quiere implementar el software: Archibus,
+como proyecto de graduación, en la  Oficina Central de Bomberos de Costa Rica.
+     “Me siento muy feliz de ver cómo el TEC ha ido trabajando en el
+     modelo de gestión de activos, para mí, es una universidad pionera y
+     ejemplar. Archibus, es una herramienta inspiradora  y gracias a ella
+     me permitirá aplicar mis conocimientos en mi trabajo de graduación,
+     el cuál lo realizaré en Bomberos de Costa Rica", Joaquín Montero,
+     estudiante. 
+Cabe recordar  que en el 2016, representantes de Archibus en compañía de la
+empresa Mecsoft, otorgaron una licencia al TEC para el uso de la solución
+tecnológica Archibus. 
+Esta herramienta se puede visualizar desde los dispositivos móviles. Foto:
+Steven Moya Barrientos /OCM .
+ 
+
+
+ARCHIBUS_será_un_aliado_para_la_gestión_de_mantenimiento_del_Campus
+
+ Escuela_de_Ingeniería_en_Mantenimiento_Industrial, Archibus, Capacitación
+[Noemy Chinchilla Bravo, Comunicadora.]
+**** Noemy_Chinchilla_Bravo ****
+nchinchilla@tec.ac.cr
+Comunicadora
+Licenciada en Relaciones Públicas y Bachiller en Periodismo, Universidad
+Autónoma de Centro América.
+View_the_discussion_thread.
+
+***** Relacionado *****
+**** Nuevas_Salas_de_Audiencias_del_TEC_servirán_para_fortalecer_procesos_de
+denuncias_de_acoso_y_evitar_revictimización ****
+31 de Marzo 2022 Por: Johan_Umaña_Venegas
+
+**** Logros_institucionales_en_la_gestión_del_mantenimiento_serán_parte_de
+campaña_informativa ****
+20 de Octubre 2020 Por: Noemy_Chinchilla_Bravo
+ [imagen_aérea_del_Campus_Central_de_TEC]
+**** Software_Archibus:_un_impacto_positivo_para_la_gestión_de_las
+instalaciones_del_TEC ****
+27 de Octubre 2020 Por: Noemy_Chinchilla_Bravo
+ [Imagen_de_una_persona_con_un_celular_en_la_mano_mostrando_la_herramienta
+Archibus.]
+**** Rector_del_TEC:_‘Gracias_al_compromiso_de_la_Comunidad_Institucional,
+logramos_salir_adelante’ ****
+18 de Diciembre 2020 Por: Johan_Umaña_Venegas
+ [El_rector_con_la_bandera_de_Costa_Rica,_en_su_escritorio.]
+
+Oficina_de_Comunicación_y_Mercadeo
+Teléfono: (506)_2550-2218 / (506)_2550-9194
+Correo electrónico: comunicacionymercadeotec@tec.ac.cr
+    * Quiénes_Somos
+    * Contacto
+    * Secciones
+
+    * Facebook
+    * Twitter
+    * Instagram
+    * YouTube
+[logo TEC]

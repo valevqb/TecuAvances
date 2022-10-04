@@ -1,0 +1,289 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   Pasar_al_contenido_principal
+****** Hoy_en_el_TEC ******
+
+Viernes 12 de Agosto, 2022
+  |  
+Quiénes_Somos   |   Buscar  
+
+***** Menú *****
+    * Investigación
+    * Desarrollo_Humano
+    * Vida_Estudiantil
+    * Acción_Institucional
+    * Medio_Ambiente
+    * Emprendimiento
+    * Cultura_y_Deporte
+    * Opinión
+    * Buscar
+
+
+ Nuevo satélite con sello costarricense
+****** TEC se asocia con Universidad de George Washington para lanzamiento de
+una nueva misión espacial ******
+    * MIT y Academia Naval de Estados Unidos también colaboran en proyecto de
+      satélite para investigación, que será lanzado con ayuda de NASA.
+    * El TEC aportará la misión científica, que servirá para monitorear el
+      humedal de Palo Verde, y el sistema de navegación
+25 de Octubre 2018 Por: Johan_Umaña_Venegas
+Investigación
+   Versión_para_imprimir    Descargar_PDF  Compartir por correo electrónico
+Comentarios
+ Compartir en Facebook  Compartir en Twitter        Compartir en WhatsApp
+[Ilustración_de_un_satélite_Cube_Sat_tipo_3U,_con_la_Tierra_de_fondo.]
+Este será el primer proyecto de un satélite estudiantil para la Universidad_de
+George_Washington.Se trata de un Cube Sat tipo 3U, en comparación . Imagen:
+Cortesía GWU.
+
+El Tecnológico_de_Costa_Rica_(TEC) se asoció con la prestigiosa Universidad_de
+George_Washington (GWU, en inglés), Estados Unidos, para participar en una
+nueva misión espacial.
+El proyecto consiste en el diseño de un satélite tipo CubeSat 3U, de tres
+módulos (30 centímetros de largo, por 10 de ancho y 10 de lado), en el que GWU
+probará un novedoso sistema de navegación.
+El TEC aportará la misión científica y el sistema de control de navegación del
+dispositivo.
+Cuando esté en el espacio, el dispositivo será utilizado para monitorear las
+condiciones ambientales de los humedales costarricenses y la afectación que
+están sufriendo por el cambio climático, puntualmente el de Palo Verde, en
+Guanacaste.
+Este proyecto es liderado por el costarricense Jonathan Kolbeck, quien se formó
+en el extranjero y trabaja como investigador en GWU.  
+Será lanzado al espacio por laAdministración_Nacional_de_la_Aeronáutica_y_del
+Espacio(NASA), pues resultó_ganador_de_la_octava_ronda_del_CubeSat_Launch
+Initiative, en la que la famosa agencia premia a las mejores ideas de las
+escuelas y universidades de Estados Unidos con el transporte, sin costo, de
+satélites tipo CubeSat dedicados a la investigación científica y el desarrollo
+de nuevas tecnologías.
+“Es un proyecto bastante importante a nivel institucional, ya que seríamos los
+primeros de la región (sin contar la Academia Naval) en tener nuestro propio
+laboratorio de CubeSats. También sería el primer CubeSat hecho por una
+universidad de Washington DC“, comentó Kolbeck.
+
+
+Director_de_proyecto_GW_Sat:_‘Conozco_muy_bien_al_equipo_del_TEC_y_sé_que_son
+muy_capaces’
+
+**** Entre líderes mundiales en tecnología ****
+Junto a GWU y el TEC, en el proyecto también participan otras instituciones que
+son líderes mundiales  en el desarrollo tecnológico, como lo son el
+Massachusetts_Institute_of_Technology (MIT) y la Academia_Naval_de_Estados
+Unidos (USNA, en inglés).
+Tareas por organización en el GW Sat:   
+    * GWU: Diseño y ensamblaje del satélite, desarrollo e implementación de
+      sistema de propulsión.
+    * TEC: Prototipo del sistema de monitoreo de humedales; sistema de
+      comunicación, y diseño de sistema de orientación, navegación y control
+      del satélite.
+    * MIT: Instrumento para calcular la orientación del satélite basado en la
+      posición de las estrellas (StarTracker).
+    * USNA: Pruebas y certificación del satélite.
+    * NASA: Lanzamiento al espacio.
+“El TEC ha demostrado que en Costa Rica existe la capacidad para desarrollar
+proyectos espaciales, y gracias a esto hemos logrado entrar en un segundo
+proyecto satelital. Este proyecto se enmarca en la filosofía del Laboratorio de
+Sistemas Espaciales de trabajar en proyectos cooperativos de primer nivel, con
+socios internacionales con intereses comunes, en que logremos compartir costos
+y conocimientos para mejorar el uso de recursos e impacto de nuestros
+proyectos.  
+“Ahora el TEC seguirá trabajando con socios de primer nivel en proyectos
+espaciales, enmarcados en nuestras áreas de especialización”, acotó Adolfo
+Chaves, coordinador del Laboratorio_de_Sistemas_Espaciales_del_TEC (SETEC-Lab).
+Según el convenio, los especialistas del TEC trabajarán activamente en el
+diseño de los sistemas de comunicación y orientación del satélite, y viajarán a
+Estados Unidos para ayudar en el ensamblaje del aparato.
+Se espera que para 2019 el satélite esté listo para la fase de pruebas y, una
+vez que se supere esa etapa, la NASA definirá una fecha para el lanzamiento al
+espacio.
+     [Imagen_de_cientos_de_aves_volando_sobre_el_humedal.]
+El humedal de Palo Verde es un espacio crecial para decenas de especies que
+allí habitan. Foto: Tomada de ticotimes.com.
+
+**** Continuación del plan espacial ****
+El Laboratorio de Sistemas Espaciales del TEC se creó paralelo al desarrollo
+del_Proyecto_Irazú, que sirvió para lanzar al espacio el primer satélite de
+Costa Rica y Centroamérica.
+Ese dispositivo espacial aún se encuentra en órbita alrededor de la Tierra, en
+contacto con la estación de comunicaciones que se encuentra en el Campus
+Central del TEC, en Cartago.
+Precisamente la misión científica del Proyecto Irazú consistió en comprobar la
+utilidad de un satélite tipo CubeSat para un sistema “Store & Forward”, que
+recibe los datos de una estación remota, los almacena y los envía a una
+estación de comunicaciones.
+En este caso, la estación remota se ubica en San Carlos y mide el crecimiento
+de árboles de melina en una plantación forestal, que serán útiles para estimar
+la tasa de fijación de carbono en los bosques costarricenses.
+De esta forma, el proyecto del GW Sat será la continuación de la línea de
+investigación de adopción de tecnología espacial para la protección del medio
+ambiente.
+Comprobado el sistema, esta vez los investigadores se plantean una
+investigación más ambiciosa, pues se pasará a monitorear las variables
+ambientales en el humedal de Palo Verde, de Guanacaste, en unas condiciones de
+terreno más difíciles.
+Además, el satélite se diseñará con una cámara que apuntará hacia el parque
+nacional, para tomar imágenes desde el espacio que ayuden a estimar la dinámica
+de los humedales.
+El satélite recibirá la información de los sensores en el humedal, y los
+transmitirá a la estación de comunicación, gracias a un sistema desarrollado
+por ingenieros y estudiantes del Tecnológico.
+"Nuestros estudiantes y profesores están especializados en el diseño del
+sistema de comunicación del dispositivo, capacidad ya demostrada en el Proyecto
+Irazú. Además, diseñamos el sistema de control, el otra área de desarrollo del
+laboratorio, donde tenemos personal especializado en el tema. Así, nuestro
+equipo demuestra la capacidad del TEC para poder desarrollarnos en estas áreas
+de especialidad“, argumentó Chaves.
+Al igual que con el Proyecto Irazú, esta iniciativa promoverá el avance
+científico y tecnológico del TEC, así como la formación de nuevos especialistas
+costarricenses en tecnologías espaciales.
+También, según Chaves, se mantiene el claro objetivo del SETEC-Lab de utilizar
+tecnologías espaciales para impactar positivamente en la resolución de
+problemas terrestres en el marco de los Objetivos_para_el_Desarrollo_Sostenible
+de_las_Naciones_Unidas, en este caso ligados a la Acción por el clima (objetivo
+13), Vida de los ecosistemas terrestres (objetivos 15), Alianzas para lograr
+los objetivos (objetivo 17); además de la promoción del desarrollo del área
+espacial, enfocándose también en los temas de Educación de calidad (objetivo 5)
+e Industria, innovación e infraestructura (objetivo 9).
+
+
+Proyecto_Irazú_fortaleció_capacidades_del_TEC_para_desarrollar_misiones
+espaciales
+
+ [Ilustración_de_varios_satélites_alrededor_de_la_Tierra.]
+CubeSats:_investigador_tico_colabora_con_MIT_en_análisis_de_compactos_sistemas
+de_propulsión_espacial
+
+ SETEC-Lab, GW_Sat, Sistemas_espaciales, Proyecto_Irazú, NASA, MIT
+[Johan Umaña Venegas, Comunicador.]
+**** Johan_Umaña_Venegas ****
+johumana@tec.ac.cr
+Comunicador
+Licenciado en Comunicación Colectiva, con énfasis en Periodismo, Universidad de
+Costa Rica.
+View_the_discussion_thread.
+
+***** Relacionado *****
+**** ‘Se_siente_como_el_primer_hombre_en_la_luna’:_uno_de_los_jóvenes_que
+ensambló_el_primer_satélite_de_Centroamérica_cuenta_su_historia ****
+8 de Noviembre 2017 Por: Johan_Umaña_Venegas
+ [Esteban_Martínez_posa_junto_a_instrumentos_musicales.]
+**** Satélite_tico_será_lanzado_al_espacio_el_2_de_abril_a_bordo_de_un_Falcon_9
+de_SpaceX ****
+6 de Marzo 2018 Por: Johan_Umaña_Venegas
+ [Despegue_del_cohete_Falcon_9.]
+**** Primer_satélite_tico_viaja_a_Japón_para_las_pruebas_finales ****
+23 de Octubre 2017 Por: Johan_Umaña_Venegas
+ [Tres_fotógrafos_frente_a_los_ingenieros,_separados_por_un_vidrio._Los
+investigadores_visten_de_bata_de_laboratorio.]
+**** #SatéliteCR:_Especialistas_quedan_a_la_expectativa_para_realizar_la
+primera_conexión_espacial ****
+5 de Abril 2018 Por: Johan_Umaña_Venegas
+ [Un_cohete_expulsando_fuego_y_humo_en_su_despegue._]
+
+Oficina_de_Comunicación_y_Mercadeo
+Teléfono: (506)_2550-2218 / (506)_2550-9194
+Correo electrónico: comunicacionymercadeotec@tec.ac.cr
+    * Quiénes_Somos
+    * Contacto
+    * Secciones
+
+    * Facebook
+    * Twitter
+    * Instagram
+    * YouTube
+[logo TEC]

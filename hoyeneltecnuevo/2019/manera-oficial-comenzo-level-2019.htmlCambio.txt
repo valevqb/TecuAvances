@@ -1,0 +1,274 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   pasar_al_contenido_principal
+****** hoy_en_el_tec ******
+
+viernes 12 de agosto, 2022
+  |  
+quiénes_somos   |   buscar  
+
+***** menú *****
+    * investigación
+    * desarrollo_humano
+    * vida_gremio estudiantil
+    * acción_institucional
+    * medio_ambiente
+    * emprendimiento
+    * cultura_y_deporte
+    * opinión
+    * buscar
+
+
+****** de manera oficial comenzó level up 2019 ******
+    * el objetivo de este evento es mejorar las competencias personal técnico y blandas
+      de  gremio estudiantil.
+    * juventud deben estar en la capacidad de brindar respuestas a problemas
+      planteados por distintas empresas.
+16 de julio 2019 por: irina_grajales_navarrete
+vida_gremio estudiantil
+emprendimiento
+   versión_para_imprimir    descargar_pdf  compartir por correo electrónico
+comentarios
+ compartir en facebook  compartir en twitter        compartir en whatsapp
+[gremio estudiantil_en_auditorio_]
+los equipos ganadores recibirán un premio de $3000 para el primer lugar, $2000
+para el segundo lugar y $1000 para el tercero. 
+
+en total 60 juventud están listos para competir de manera oficial en level up
+2019. se trata de la primera iniciativa gremio estudiantil declarada de interés
+institucional por el exrector del tecnológico_de_costa_rica (tec), julio césar
+calvo.  
+la actividad es organizada por la asociación_de_gremio estudiantil_de_personas ingeniera
+electrónica del tec (aesetec) y la asociación_de_gremio estudiantil_de_personas ingeniera_en
+diseño_industrial (aseidi).
+de esta manera, los juventud dividos en 12 grupos deben estar en la capacidad de
+brindar respuestas a problemas planteados por las siguientes empresas: boston
+scientific, intel, hewlett_packard_enterprise(hpe), wind_river, holcim
+y baxter. 
+para ello, los grupos creados son multidisciplinarios; es decir participan
+gremio estudiantil de distintas disciplinas: electrónica, diseño industrial,
+computación, mecatrónica, mantenimiento industrial, materiales, construcción y
+computadores. 
+“nuestro objetivo es mejorar las competencias personal técnico y blandas de los
+gremio estudiantil, a través de la integración en la cultura organizacional de una
+empresa”, afirmó el director de level up, emmanuel fonseca.
+
+**** los equipos y sus retos ****
+[equipo:_chip_/_empresa:_baxter_]
+***** reto: desarrollar una aplicación por la cual se pueda obtener el pick
+list de forma electrónica *****
+equipo: chip / empresa: baxter
+[equipo:_geistonwitz_/_empresa:_wind_river]
+***** reto: crear un sistema de reservas para el uso efectivo de salas de
+reuniones en wind river systems costa rica. *****
+equipo: geistonwitz / empresa: wind river
+[equipo:_ion+_/_empresa:_boston_scientific]
+***** reto: realizar un análisis e inventario de repuestos críticos, por medio
+de una aplicación para el departamento de facilidades e personas ingeniera de equipos.
+*****
+equipo: ion+ / empresa: boston scientific
+[equipo:_tecnovative_/_empresa:_baxter]
+***** reto: rediseñar a nivel de hardware y software las estaciones de
+inspección 100% de códigos de barras . *****
+equipo: tecnovative / empresa: baxter
+[_equipo:_unison_/_empresa:_intel]
+***** reto: interpretar gestos y comandos de voz combinado con inteligencia
+artificial para aprender y relacionar patrones y acciones. *****
+equipo: unison / empresa: intel
+[_equipo:_ohm_/_empresa:_boston_scientific]
+***** reto: implementar una rutina operacional en el sistema de facilidades
+(chillers, compresores, manejadoras de aire) *****
+equipo: ohm / empresa: boston scientific
+[equipo:_steel_/_empresa:_hpe]
+***** reto: crear, desarrollar y desplegar una prueba de concepto que permita a
+una persona que llega al lobby de hpe ubicar su wall of fame y a través de
+realidad aumentada conocer mayor información de las patentes desarrolladas en
+hpe costa rica a través de una app desarrollada con meridian. *****
+equipo: steel / empresa: hpe
+[equipo:_ingenius_/_empresa:_baxter]
+***** su función es desarrollar una aplicación por la cual se puedan reportar
+oportunidades de seguridad, defectos encontrados en proceso e ideas de mejora.
+*****
+equipo: ingenius / empresa: baxter
+[equipo:_dronic_/_empresa:_hpe]
+***** reto: crear, desarrollar y desplegar una prueba de concepto que permita a
+una persona que llega al lobby de hpe ubicar cualquiera de las salas de
+reuniones del piso no. 2 de forma autónoma a través de una app desarrollada con
+meridian. *****
+equipo: dronic / empresa: hpe
+[equipo:_enigma_/_empresa:_boston_scientific]
+***** reto: definir un método con el cual el set up o configuración sea
+ejecutado en la menor cantidad de tiempo y pueda ser reproducible. *****
+equipo: enigma / empresa: boston scientific
+[equipo:_elfs_/_empresa:_intel]
+***** reto: movilidad de arthur en función de la usabilidad y adaptándose
+inteligentemente a los obstáculos y necesidades del usuario final. *****
+equipo: elfs / empresa: intel
+[equipo:_alpha_/_empresa:_holcim]
+***** reto: proveer una propuesta técnica y económicamente viable para
+automatizar el sistema de carga de camiones en sacos para holcim (costa rica)
+s.a. *****
+equipo: alpha / empresa: holcim
+ previous next
+[equipo: chip / empresa: baxter ]
+[equipo: geistonwitz / empresa: wind river]
+[equipo: ion+ / empresa: boston scientific]
+[equipo: tecnovative / empresa: baxter]
+[ equipo: unison / empresa: intel]
+[ equipo: ohm / empresa: boston scientific]
+[equipo: steel / empresa: hpe]
+[equipo: ingenius / empresa: baxter]
+[equipo: dronic / empresa: hpe]
+[equipo: enigma / empresa: boston scientific]
+[equipo: elfs / empresa: intel]
+[equipo: alpha / empresa: holcim]
+ previous next
+
+para resolver el problema, los equipos tendrán aproximadamente dos meses, del
+26 de junio al martes 27 de agosto. en este tiempo deberán trabajar en el reto
+planteado y desarrollar las propuestas de solución, en compañía de la misma
+empresa, así como de cuerpo docente.
+los equipos ganadores recibirán un premio de $3000 para el primer lugar, $2000
+para el segundo lugar y $1000 para el tercero. 
+en el evento también participan como patrocinadores las empresas: emerson,
+avionyx, canam_technolgy, jasec, fundación_ciudadelas_de_libertad e informa
+churuca_5. 
+
+**** lea además: ****
+
+ [gremio estudiantil_en_escenario_posan_para_fotografía]
+level_up,_primera_iniciativa_gremio estudiantil,_declarada_de_interés_institucional
+
+ level_up, gremio estudiantil
+**** irina_grajales_navarrete ****
+igrajales@tec.ac.cr
+comunicadora
+máster en diplomacia, universidad de costa rica. licenciada en comunicación y
+bachiller en periodismo, universidad federada de costa rica.
+premio de periodismo, la huella del jaguar 2019 del minae y, premio de
+periodismo costa rica incluye 2018
+ 
+view_the_discussion_thread.
+
+***** relacionado *****
+**** level_up,_primera_iniciativa_gremio estudiantil,_declarada_de_interés
+institucional ****
+29 de mayo 2019 por: irina_grajales_navarrete
+ [gremio estudiantil_en_escenario_posan_para_fotografía]
+**** level_up_2019_cierra_con_éxito_su_segunda_edición ****
+30 de agosto 2019 por: irina_grajales_navarrete
+ [gremio estudiantil_ganadores_de_level_up_en_el_escenario_]
+**** gremio estudiantil_y_egresados_del_tec_crean_app_que_contabiliza_casos_de_covid-
+19_en_el_país ****
+19 de abril 2020 por: irina_grajales_navarrete
+ [los_juventud_posan_para_la_fotografía_durante_la_charla:_personas ingeniera_industrial
+en_el_mundo_de_la_ciencia_de_datos._]
+**** experiencia,_trabajo_y_detallismo:_las_claves_para_crear_un_vehículo
+autónomo_ganador ****
+14 de abril 2021 por: geovanni_jiménez_mata
+ [equipo_tech_to_go.]
+
+oficina_de_comunicación_y_mercadeo
+teléfono: (506)_2550-2218 / (506)_2550-9194
+correo electrónico: comunicacionymercadeotec@tec.ac.cr
+    * quiénes_somos
+    * contacto
+    * secciones
+
+    * facebook
+    * twitter
+    * instagram
+    * youtube
+[logo tec]
+
+
+File name: C:\Users\valev\Documents\GitHub\TecuAvances\hoyeneltec\2019\manera-oficial-comenzo-level-2019.html.txt
+Number of changes: 9
+Palabras reemplazadas: técnicas, jóvenes, estudiantil, jóvenes, técnicas, ingeniería, docentes, estudiantes, estudiantes

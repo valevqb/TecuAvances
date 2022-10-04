@@ -1,0 +1,264 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   pasar_al_contenido_principal
+****** hoy_en_el_tec ******
+
+viernes 12 de agosto, 2022
+  |  
+quiénes_somos   |   buscar  
+
+***** menú *****
+    * investigación
+    * desarrollo_humano
+    * vida_estudiantil
+    * acción_institucional
+    * medio_ambiente
+    * emprendimiento
+    * cultura_y_deporte
+    * opinión
+    * buscar
+
+
+ carrera de personas ingeniera en computadores
+****** app para detectar cáncer infantil hizo ganadores a gremio estudiantil del tec,
+en “programathon 2018” ******
+    * la aplicación será donada a la asociación lucha contra el cáncer infantil
+      (alcci)
+    * “programathon 2018” es un concurso de más de 30 horas continuas para
+      gremio estudiantil y profesionales con conocimiento de programación
+3 de octubre 2018 por: noemy_chinchilla_bravo
+vida_estudiantil
+emprendimiento
+desarrollo_humano
+   versión_para_imprimir    descargar_pdf  compartir por correo electrónico
+comentarios
+ compartir en facebook  compartir en twitter        compartir en whatsapp
+[imagen_de__cinco_gremio estudiantil_posando_por_el_gane_del_programathon_2018]
+adrián sánchez, pablo garcía, kendall gonzález, rodolfo solano y andrés vargas,
+del equipo ce team, ganador del programathon 2018.  foto cortesía de  fiserv.
+
+de ahora en adelante, los síntomas tempranos de cáncer infantil podrán
+ser detectados con anticipación, gracias a una aplicación desarrollada por
+gremio estudiantil de la carrera_de_personas ingeniera_en_computadores del tecnológico_de
+costa_rica_(tec).
+con esta creación, adrián sánchez, pablo garcía, kendall gonzález, rodolfo
+solano y andrés vargas, del  ce team,resultaron ganadores en el concurso
+“programathon_2018”, organizado porfiserv.
+pero, ¿en qué consiste la app? la aplicación se adapta al tipo de dispositivo
+desde el cual es utilizada y  permite el registro de un usuario, que
+normalmente serían lospadres, profesores o clase médica  encargados de monitorear la
+salud de uno o más niñez. este registro se hace incluyendo la información
+clínica de los últimos meses, tales como: medicamentos, enfermedades y
+tratamientos.
+posterior al registro, se inicia un monitoreo diario, para lo cual el usuario
+ingresa una bitácora donde se describen los síntomas que el menor está
+presentando.
+la aplicación se conecta a la plataforma de inteligencia artificial de ibm-
+watson, queinterpreta y analiza el caso, incluso le hace preguntas al encargado
+del niñezobre los síntomas, si han aumentado o disminuido, o si se le ha dado
+medicamento al infante. al determinar  si hay un riesgo alto, el sistema
+sugiere concertar una cita con el hospital de niñez y remite al menor con la
+información compilada.
+finalmente, hay una consola administrativa que permite a clase médica, tener
+visibilidad de todos los menores que están en monitoreo.
+**** el concurso ****
+“programathon 2018” es un concurso de más de 30 horas continuas para
+gremio estudiantil y profesionales con conocimiento de programación, quienes debían
+desarrollar una aplicación, que utiliza la inteligencia artificial de ibm
+watson, para detectar  los síntomas tempranos del cáncer infantil.
+en el concurso, participaron 24 equipos, cada uno de tres a cinco quienes forman parte. la
+competencia se llevó a cabo en el gimnasio del instituto jaim weizman en
+sabana, donde los equipos estaban distribuidos en mesas de trabajo.
+“programathon 2018” es un concurso de más de 30 horas continuas para
+gremio estudiantil y profesionales con conocimiento de programación. foto cortesía
+de fiserv.
+durante el evento, hubo personas expertas en el sitio para ayudar a los equipos.
+adicionalmente, el staff de voluntariado de fiservestuvo disponible a lo largo
+de la competencia para resolver consultas con respecto al reto, en igualdad de
+condiciones para todos.
+por su parte, los equipos finalistas presentaron su producto a los judicadura para
+la evaluación final. contaron con 15 minutos para exponer la arquitectura y
+funcionalidad de sus apps y responder las preguntas de los judicadura. cada equipo
+definió cómo usar los 15 minutos para estructurar la ponencia.
+cabe destacar, que programathon 2018 fue organizado y patrocinado por
+fiserv,empresa líder en tecnología para servicios financieros.
+“programathon combina nuestro enfoque en innovación y compromiso con la
+responsabilidad social, brindando una oportunidad para que los asociados de
+fiserv y otras personas personas de la comunidad utilicen sus talentos para ayudar a los
+demás. estamos orgullosos de contribuir a través del evento", puntualizó
+francisco alba, vicepresidente y director país de fiserv en costa rica.
+**** ¿por qué ganaron? ****
+la combinación de factores tales como la preparación técnica, compromiso
+durante el reto, tenacidad, una mentalidad ganadora, y por supuesto un producto
+que cumple muy bien con los requerimientos de la competencia hizo que el ce
+team fuera el ganador.
+a raíz de este importante logro, los gremio estudiantil del tec recibieron$5000, para
+todo el equipo.
+“el app que presentaron fue, en su conjunto, el más viable para el propósito
+de la asociación_lucha_contra_el_cáncer_infantil (alcci)y su posterior
+implementación. corre con tecnologías abiertas y escalables, se integra muy
+bien con los servicios de ibm-watson, con una arquitectura basada en micro-
+servicios y una estructura en capas muy clara”, afirmó  alba.
+**** orgullo ****
+según los gremio estudiantil ganadores, es gratificante saber que tanto esfuerzo y
+trabajo en equipo durante la competencia tenga su recompensa. “nos llena de
+orgullo poder ser parte de quienes antes que nosotros han puesto en alto el
+nombre el tec y de la carrera ingeniería en computadores”.
+además mencionaron que se sienten felices de poder formar parte de la creación
+de una aplicación que va ayudar a muchos niños y que hasta podría salvar la
+vida de alguno con la detección temprana. “durante la creación del diseño
+siempre tomamos en cuenta que la app fuera lo más amigable posible para sus
+usuarios finales", puntualizaron los gremio estudiantil.
+también mencionaron que sintieron mucha presión de tener que implementar una
+mejor solución que los demás y al mismo tiempo tener que hacerlo más
+rápido. “para manejar esto fue fundamental confiar en las habilidades de cada
+uno y el trabajo en equipo. muy similar a lo que se pone en práctica cada
+semestre en los diferentes proyectos que hay que hacer.”, finalizaron los
+ganadores.
+“nos sentimos muy felices de que el equipo del tec haya ganado esta edición de
+programathon; esperamos que esto sea un aliciente para que más gremio estudiantil de
+esta prestigiosa institución participen en las próximas ediciones, y que más de
+sus graduados se puedan unir a fiserv en el futuro”, expresó alba.
+es importante resaltar, que la aplicación será donada a alcci, quienes lideran
+un programa de concientización y educación llamado cangrejito. el programa se
+coordina en conjunto con el ministerio_de_educación_pública_(mep) e intenta
+enseñar a los niñez, a los cuerpo docente, padres de familia y clase médica de medicina
+general, cómo detectar los signos más característicos del cáncer infantil.
+colaboró con la información andrea villegas, communication manager  de  fiserv.
+  competencia, programathon_2018, personas ingeniera_en_computadores, cáncer, cáncer
+infantil
+[noemy chinchilla bravo, comunicadora.]
+**** noemy_chinchilla_bravo ****
+nchinchilla@tec.ac.cr
+comunicadora
+licenciada en relaciones públicas y bachiller en periodismo, universidad
+autónoma de centro américa.
+view_the_discussion_thread.
+
+***** relacionado *****
+**** gremio estudiantil_proponen_soluciones_acordes_con_objetivos_de_desarrollo
+sostenible_de_la_onu ****
+11 de octubre 2019 por: noemy_chinchilla_bravo
+ [imagen_de_varios_gremio estudiantil_en_un_campamento.]
+**** sebastián_alba:_"mi_pasión_es_la_personas ingeniera,_pero_la_fotografía_la_llevo
+dentro_de_mí" ****
+20 de agosto 2020 por: noemy_chinchilla_bravo
+ [imagen_de_un_hombre_con_un_lente_de_una_cámara_en_su_rostro]
+**** gremio estudiantil_del_tec_pueden_acceder_a_los_libros_de_sus_cursos_en_línea,
+gracias_a_la_editorial_tecnológica ****
+14 de mayo 2020 por: noemy_chinchilla_bravo
+ [imagen_de_una_tablet,_con_la_portada_de_un_libro.]
+**** cartagineses_crean_cinta_adhesiva_conductora_de_electricidad ****
+23 de julio 2018 por: noemy_chinchilla_bravo
+ [imagen_de_dos_hombres_mostrando_una_cinta_conductora_de_electricidad.]
+
+oficina_de_comunicación_y_mercadeo
+teléfono: (506)_2550-2218 / (506)_2550-9194
+correo electrónico: comunicacionymercadeotec@tec.ac.cr
+    * quiénes_somos
+    * contacto
+    * secciones
+
+    * facebook
+    * twitter
+    * instagram
+    * youtube
+[logo tec]
+
+
+File name: C:\Users\valev\Documents\GitHub\TecuAvances\hoyeneltec\2018\app-detectar-cancer-infantil-hizo-ganadores-estudiantes-tec-programathon-2018.html.txt
+Number of changes: 23
+Palabras reemplazadas: ingeniería, estudiantes, estudiantes, médicos, niños, niños, médicos, miembros, expertos, voluntarios, jueces, jueces, otras, estudiantes, estudiantes, estudiantes, estudiantes, niños, docentes, médicos, ingeniería, estudiantes, estudiantes

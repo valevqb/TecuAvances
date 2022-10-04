@@ -1,0 +1,228 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   Pasar_al_contenido_principal
+****** Hoy_en_el_TEC ******
+
+Viernes 12 de Agosto, 2022
+  |  
+Quiénes_Somos   |   Buscar  
+
+***** Menú *****
+    * Investigación
+    * Desarrollo_Humano
+    * Vida_Estudiantil
+    * Acción_Institucional
+    * Medio_Ambiente
+    * Emprendimiento
+    * Cultura_y_Deporte
+    * Opinión
+    * Buscar
+
+
+ Ayuda para atención de pacientes con COVID-19
+****** TEC trabaja en la creación de respiradores artificiales ******
+Se trata de dos prototipos de respiradores más económicos y de rápida
+fabricación que se donarán a la C.C.S.S.
+25 de Marzo 2020 Por: Kenneth_Mora_Pérez
+Acción_Institucional
+Investigación
+   Versión_para_imprimir    Descargar_PDF  Compartir por correo electrónico
+Comentarios
+ Compartir en Facebook  Compartir en Twitter        Compartir en WhatsApp
+[modelo_gráfico_de_respirado_artificial]
+Modelo gráfico del prototipo original creado por grupo de investigación de la
+Escuela de Producción Industrial.  Imagen creada por Ignacio Mora Watson.
+
+Uno de los principales problemas que han enfrentado muchos países en la lucha
+contra el COVID-19 es la falta de respiradores para los afectados por este
+virus que contabiliza_ya_casi_20_mil_muertes.
+Para evitar esto y previendo un aumento en las atenciones hospitalarias que
+requerirán el uso de estos dispositivos, la Caja Costarricense de Seguro Social
+(C.C.S.S) ha iniciado un proceso de adquisición de 90 respiradores que
+ingresarán en las próximas dos semanas y otros 80 que lo harán en mes y medio,
+según detalló Román Macaya, presidente ejecutivo de la C.C.S.S.
+Con el fin de reducir los tiempos de respuesta y evitar muertes por falta de
+estos aparatos, grupos de investigación del Tecnológico_de_Costa_Rica_
+(TEC)trabajan en la creación de respiradores artificiales que permitirán ayudar
+en el abastecimiento de estas máquinas con prototipos de fácil acceso y
+creación.
+Una de las propuestas es impulsada por la Escuela_de_Ingeniería_en_Producción
+Industrial con un diseño totalmente original de un respirador mecánico, el
+cual, sería creado con piezas de bajo costo basado en la impresión 3D y
+materiales acrílicos.
+Parte del equipo visitó inclusive ya el Centro Nacional de Rehabilitación
+(Cenare), donde recibió elementos guías para la implementación efectiva de los
+dispositivos en este recinto que ha sido adecuado exclusivamente para la
+atención de pacientes con COVID-19.
+ 
+   “Estamos haciendo todo un gran esfuerzo institucional por tener la máxima
+cantidad de ventiladores mecánicos para lo que prevemos puede ser un incremento
+en los casos que se están dando”. Román Macaya, Presidente Ejecutivo C.C.S.S.
+Otra de las propuestas que impulsa el TEC es un respirador que se basa en un
+conjunto neumático de pistones y adaptadores especiales que presionan la bolsa
+que produce el oxigeno, con la capacidad de controlar la presión de aire que se
+la da al paciente.
+El modelo está basado en un prototipo de origen inglésque ya existe a nivel
+comercial y que de igual manera, tiene la ventaja de ser de bajo costo y ser
+fabricado en poco tiempo.
+Para la creación, el grupo de docentes de la Escuela_de_Ingeniería_en
+Materiales y la Maestría_en_Dispositivos_Médicosha recibido insumos de empresas
+patrocinadorasademás de estipular ya protocolos que se adelantan a la
+emergencia.
+“Se sabe que para que estos equipos sean producidos para uso en hospitales se
+requiere de varios protocolos a seguir, sin embargo, no podemos esperar a que
+tengamos todos los protocolos para iniciar el diseño e implementación. Es mejor
+tener un prototipo ya probado y en espera de los protocolos para acortar el
+tiempo en caso de una emergencia” indicó el ingeniero Adrián Quesada, docente
+de la Escuela de Ciencia e Ingeniería de los Materiales y parte del grupo
+investigador.
+     Multimedia: ¿Cómo funciona el respirador?
+La idea de estos grupos y sus prototipos serán donados a la Caja para que sean
+distribuidos en hospitales y clínicas de todo el país.
+Según el ingeniero Luis Paulino Méndez, rector del Tecnológico, el desarrollo
+de tecnología para la aplicación de la prueba de detección del COVID-19, la
+producción de equipo y materiales, sin depender de suministros extranjeros, es
+uno de los campos a priorizar por el TEC, tanto en la investigación y aporte en
+el corto plazo ante el llamado que el Gobierno y la sociedad requiere
+actualmente.
+[prototipo pi]Modelo del prototipo que controla la respiración del paciente.
+Imagen cortesía de Adrián Quesada.
+ 
+
+**** Vea también: ****
+
+ [La_Imagen_muestra_los_personas_rociándose_gel_antibacterial._]
+No_prepare_alcohol_en_gel_casero,_aconseja_científica_del_TEC
+
+ [Uma_mujer_trabajando_en_una_computadora_portátil.]
+Cuide_su_salud_mental_organizando_su_tiempo_laboral_y_personal_en_el
+teletrabajo
+
+ Covid-19, Salud, Investigación
+[Kenneth Mora Pérez, Comunicador.]
+**** Kenneth_Mora_Pérez ****
+kmora@tec.ac.cr
+Comunicador
+Máster en Periodismo Digital, Universidad de Guadalajara, México. Licenciado en
+Comunicación, Universidad Federada de Costa Rica y Bachiller en Periodismo,
+Universidad Internacional de las Américas.
+View_the_discussion_thread.
+
+***** Relacionado *****
+**** Bienestar_mediante_la_promoción_de_la_salud_ante_el_COVID-19 ****
+18 de Mayo 2020 Por: Kenneth_Mora_Pérez
+ [persona_haciendo_estiramientos]
+**** Aplicaciones_de_ingeniería_en_la_nube_son_plasmadas_en_libro_de_Springer
+Nature ****
+29 de Mayo 2020 Por: Kenneth_Mora_Pérez
+ [MANO_CON_CELULAR_Y_NUBE]
+**** Costa_Rica_creará_alternativas_de_mascarillas_para_la_protección_personal
+****
+15 de Abril 2020 Por: Kenneth_Mora_Pérez
+ [mascara_protectora_completa_de_cara]
+**** Adaptaciones_por_teletrabajo_y_estrategias_de_seguridad_en_la_construcción
+durante_COVID-19_serán_discutidos_en_webinars ****
+20 de Abril 2020 Por: Kenneth_Mora_Pérez
+ [dos_hombres_en_construcción_sosteniendo_plano]
+
+Oficina_de_Comunicación_y_Mercadeo
+Teléfono: (506)_2550-2218 / (506)_2550-9194
+Correo electrónico: comunicacionymercadeotec@tec.ac.cr
+    * Quiénes_Somos
+    * Contacto
+    * Secciones
+
+    * Facebook
+    * Twitter
+    * Instagram
+    * YouTube
+[logo TEC]

@@ -1,0 +1,235 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   Pasar_al_contenido_principal
+****** Hoy_en_el_TEC ******
+
+Viernes 12 de Agosto, 2022
+  |  
+Quiénes_Somos   |   Buscar  
+
+***** Menú *****
+    * Investigación
+    * Desarrollo_Humano
+    * Vida_Estudiantil
+    * Acción_Institucional
+    * Medio_Ambiente
+    * Emprendimiento
+    * Cultura_y_Deporte
+    * Opinión
+    * Buscar
+
+
+ Plataforma es parte de las acciones ante la situación del COVID-19
+****** TEC implementa nuevo Sistema de Actas de Calificaciones ******
+Automatización de proceso reducirá trámites presenciales y uso de papel.
+ 
+Estudiantes recibirán notificación electrónica una vez que el acta haya sido
+reportada por el docente.
+12 de Agosto 2020 Por: Kenneth_Mora_Pérez
+Acción_Institucional
+Vida_Estudiantil
+   Versión_para_imprimir    Descargar_PDF  Compartir por correo electrónico
+Comentarios
+ Compartir en Facebook  Compartir en Twitter        Compartir en WhatsApp
+[mano_en_computadora_con_sistema_de_actas]
+El nuevo sistema de actas brinda un listado completo de los cursos que imparte
+cada docente, así como de los estudiantes que los conforman. Fotografía:
+Kenneth Mora / TEC
+
+La mejora y desarrollo de los sistemas digitales que realiza el Tecnológico_de
+Costa_Rica_(TEC)es constante. Muestra de esto es la implementación del nuevo
+Sistema_de_Actas_de_Calificaciones.
+Con nuevas facilidades y beneficios para docentes, personal de apoyo y
+estudiantes, el Sistema tiene como principal ventaja, el acceso desde cualquier
+parte del mundo, sin necesidad de un servidor virtual o VPN.
+Tradicionalmente, el reporte se hacía mediante un dictado de notas del docente
+con la asistencia del personal de apoyo. Sin embargo, ahora el profesor tiene
+la posibilidad de realizar el reporte respectivo directamente en el sistema.
+Esto se realiza mediante laautenticación que exige el sistema con las
+credenciales institucionales correspondientes y la firma digital, lo que
+permite dar validez al documento que contiene el acta oficial de
+calificaciones.
+Los docentes pueden, asimismo, acceder a la lista de estudiantes que compone su
+curso, digitar las calificaciones de los estudiantes, confeccionar el acta,
+firmarla y enviarla al Departamento_de_Admisión_y_Registro_(DAR), logrando una
+automatización completa del proceso de cierre de cada periodo lectivo.
+El sistema también permite gestionar todas las opciones necesarias para hacer
+el reporte del acta oficial de calificaciones: aprobaciones, incompletos,
+abandono de cursos, así como reprobado por ausencias.
+Además, utiliza una escala de calificación que redondea automáticamente la nota
+aprobada (numérica o alfabética). Para esto, el Consejo Institucional del TEC
+realizó las modificaciones correspondientes a la reglamentación respectiva con
+el fin de implementar de manera plena las capacidades de este Sistema.
+     Una vez que el docente registre el acta oficial, el sistema enviará
+     al estudiante la notificación de la calificación asignada mediante
+     correo electrónico, garantizando así el derecho del estudiante a
+     informarse y solicitar revisión cuando así proceda.
+Por otra parte, permite a los directores y coordinadores académicos un
+seguimiento completo de la entrega de actas, a través de datos estadísticos en
+tiempo real.
+Según detalló Ana Catalina Arias del DAR, por semestre, se registran unas 3200
+actas, lo que significaba hasta 5000 hojas. Sin embargo, con el nuevo
+sistema se elimina este gasto de papel.De esta manera, un proceso institucional
+más está alineado con los objetivos de sostenibilidad ambiental que tiene el
+Tecnológico.
+El sistema fue realizado por el Departamento_de_Tecnologías_de_Información_y
+Comunicación_(DATIC) que, mediante un equipo de desarrolladores liderados por
+los ingenieros Erick Richmond y Natalia Morales, logró la implementación de
+esta plataforma como parte de las acciones institucionales ante la situación
+causada por el COVID-19.
+
+**** Aprenda a usar el Sistema ****
+El ingreso al sistema de actas se realiza mediante la dirección: tec-
+appsext.itcr.ac.cr/Actas/Login/Index,o bien mediante el apartado"Docentes"_del
+sitio_web_del_TEC.
+Este será habilitado según los periodos establecidos en el Calendario
+Institucional.
+Como parte del impulso para el uso del sistema, elDATIC ha brindado
+capacitaciones a docentes y directores de diversas escuelas y áreas académicas.
+A la fecha se han capacitado 475 profesores así como 60 superiores jerárquicos.
+Además, ha realizado webinars y tutoriales que facilitan el proceso para cada
+uno de estos perfiles, los cuales pueden ser visualizados en los enlaces
+detallados a continuación.
+    * Webinar:_Uso_del_Sistema_de_Actas_para_Profesores
+    * Webinar:_Uso_del_Sistema_de_Actas_para_Superiores_Jerárquicos
+    * Tutoriales_de_firma_digital
+
+
+**** VEA TAMBIÉN: ****
+
+
+Firma_digital_será_un_aliado_para_disminuir_el_uso_de_papel
+
+ [persona_frente_a_computadora_conectada_a_internet]
+¿Cómo_usar_responsablemente_el_Internet?
+
+ Actas_de_calificaciones, Admisión_y_Registro, DATIC, Covid-19
+[Kenneth Mora Pérez, Comunicador.]
+**** Kenneth_Mora_Pérez ****
+kmora@tec.ac.cr
+Comunicador
+Máster en Periodismo Digital, Universidad de Guadalajara, México. Licenciado en
+Comunicación, Universidad Federada de Costa Rica y Bachiller en Periodismo,
+Universidad Internacional de las Américas.
+View_the_discussion_thread.
+
+***** Relacionado *****
+**** Rector_del_TEC:_‘Gracias_al_compromiso_de_la_Comunidad_Institucional,
+logramos_salir_adelante’ ****
+18 de Diciembre 2020 Por: Johan_Umaña_Venegas
+ [El_rector_con_la_bandera_de_Costa_Rica,_en_su_escritorio.]
+**** Vinculación_a_pesar_de_la_pandemia ****
+19 de Mayo 2020 Por: Fernando_Montero_Bolaños
+ [Captura_de_pantalla_de_una_sesión_de_la_Semana_de_Vinculación_con_la
+Industria]
+**** ¿Cómo_canalizar_o_minimizar_la_ansiedad_en_tiempos_de_distanciamiento
+físico? ****
+28 de Mayo 2020 Por: Noemy_Chinchilla_Bravo
+ [Imagen_de_un_hombre_de_espalda_con_las_manos_sobre_la_cabeza.]
+**** Aislamiento_social_provoca_trastornos_en_el_sueño_de_las_personas ****
+28 de Abril 2020 Por: Noemy_Chinchilla_Bravo
+ [imagen_de_una_mujer_con_su_cabeza_bajo_la_almohada.]
+
+Oficina_de_Comunicación_y_Mercadeo
+Teléfono: (506)_2550-2218 / (506)_2550-9194
+Correo electrónico: comunicacionymercadeotec@tec.ac.cr
+    * Quiénes_Somos
+    * Contacto
+    * Secciones
+
+    * Facebook
+    * Twitter
+    * Instagram
+    * YouTube
+[logo TEC]

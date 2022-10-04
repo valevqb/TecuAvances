@@ -1,0 +1,214 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   Pasar_al_contenido_principal
+****** Hoy_en_el_TEC ******
+
+Viernes 12 de Agosto, 2022
+  |  
+Quiénes_Somos   |   Buscar  
+
+***** Menú *****
+    * Investigación
+    * Desarrollo_Humano
+    * Vida_Estudiantil
+    * Acción_Institucional
+    * Medio_Ambiente
+    * Emprendimiento
+    * Cultura_y_Deporte
+    * Opinión
+    * Buscar
+
+
+****** Descargue #VotanteInformadoCR, app oficial del Tribunal Supremo de
+Elecciones, elaborada en el TEC ******
+26 de Enero 2018 Por: Geovanni_Jiménez_Mata
+Desarrollo_Humano
+   Versión_para_imprimir    Descargar_PDF  Compartir por correo electrónico
+Comentarios
+ Compartir en Facebook  Compartir en Twitter        Compartir en WhatsApp
+[diferentes_fotos_de_la_aplicacion_]
+La aplicación está disponible para los sistemas operativos IOS y Android.
+(Capturas de pantalla de la app).
+
+Muchas aplicaciones, páginas web y demás opciones existen para enterarse sobre
+los planes de gobierno y aspectos importantes sobre las elecciones
+presidenciales del país. No obstente está la oficial: #VotanteInformadoCR.
+Ese es el nombre de la app para dispositivos móviles desarrollada por
+profesionales de Tecnológico de Costa Rica (TEC), a solicitud del mismo
+Tribunal Supremo de Elecciones (TSE). Los másteres Jeff Schmidt, María Estrada
+e Ivonne Madrigal fueron sus principales gestores.
+Desde finales del año anterior, usuarios tanto del sistemaAndroid como de IOS,
+pueden descargar esta aplicación gratuita, que se constituye como una opción
+concreta para informarse sobre diversos aspectos de los candidatos
+presidenciales y a diputados de las votaciones del próximo 4 de febrero.
+*** Mi lugar de votación  ***
+ “Mi lugar de votación” es el primer módulo con el que cuenta la aplicación. En
+este, el usuario solamente debe escribir su número de cédula para confirmar el
+lugar en donde debe ejercer el voto. Incluye hasta la opción de la ubicación
+por medio de mapa satelital.
+*** Candidatos ***
+Si lo que desea es conocer los planes de gobierno e información de los
+aspirantes a presidente y diputados, en la sección “Candidatos” está disponible
+un resumen de la posición y propuestas de cada partido con respecto a temas de
+relevancia nacional como ambiente y energía, derechos humanos, economía,
+transportes y seguridad. Asimismo, contiene un enlace al plan de gobierno
+completo de los partidos políticos que lo brindaron. Además, este espacio
+cuenta con un repaso del currículo y trayectoria de cada candidato.
+*** Fechas importantes  ***
+En “Fechas importantes”, se presenta un calendario con las principales
+actividades relativas a este proceso electoral –desde octubre de 2017 con el
+inicio de trámites para empadronar hasta la posible segunda ronda que tendría
+lugar en abril-.
+*** Preguntas frecuentes ***
+“Preguntas frecuentes” es la división de la app en donde el usuario podrá
+encontrar respuestas a dudas generales, sobre requisitos e incluso fecha y
+horario de votación.
+*** Denuncias ***
+Finalmente, la opción de presentar quejas o poner en evidencia alguna situación
+anómala en el proceso electoral está presente también en #VotanteInformadoCR.
+Solamente debe dirigirse a la sección “Denuncias”, llenar algunos datos y
+describir el caso, incluida la posibilidad de adjuntar una imagen.
+Al ser la única aplicación oficial del TSE, #VotanteInformadoCR está conectada
+directamente con los servidoresde dicho organismo. Por esa razón, el día
+domingo 4 de febrero -minutos después de las 7 de la noche- en la app se
+habilitará una opción para ver los resultados de las votaciones en directo.
+La elaboración de este trabajo, constituye un hecho de gran importancia para la
+Institución y fue gestado por medio del Centro de Investigación en Computación
+(CIC), en el marco del grupo de investigación Go Touch y en conjunto con la
+Escuela de Diseño Industrial.
+La app estará disponibleen caso de haber una segunda ronda electoral y se
+seguirá utilizando en futuros procesos como las elecciones municipales de 2020
+y las nacionales de 2022.
+Descargue la aplicación haciendo_clic_aquí (usuarios de Android). En caso de
+IPhone, pueden encontrarla buscando #VotanteInformadoCR
+Para más información sobre este tema, puede escribir a los correos
+electrónicos: jschmidt@tec.ac.cr, mestrada@tec.ac.cr o imadrigal@tec.ac.cr
+  Apps, GoTouch, Centro_de_Investigación_en_Computación, TSE, Elecciones
+presidenciales
+[Geovanni Jiménez Mata, Comunicador.]
+**** Geovanni_Jiménez_Mata ****
+gjimenez@tec.ac.cr
+Comunicador
+Bachiller en Periodismo, Universidad San Judas Tadeo.
+View_the_discussion_thread.
+
+***** Relacionado *****
+**** TEC_desarrolló_y_donó_a_hospitales_cápsula_protectora_para_intubación_por
+Covid-19 ****
+15 de Abril 2020 Por: Geovanni_Jiménez_Mata
+ [Personas_probando_la_cápsula_protectora.]
+**** “¿El_amor_lo_permite?”_concientiza_sobre_la_agresión_en_la_pareja ****
+8 de Junio 2017 Por: Telka_Guzmán_Alvarado
+
+**** Niños_del_albergue_“Pueblito”_dan_sus_primeros_pasos_en_ingeniería ****
+19 de Octubre 2017 Por: Geovanni_Jiménez_Mata
+ [maestra_enseñando_a_niño_]
+**** Informe_del_Estado_de_la_Nación_destacó_avances_y_señaló_falencias_en_el
+tema_ambiental_del_país ****
+15 de Noviembre 2017 Por: Geovanni_Jiménez_Mata
+ [personas_sembrando_arboles_en_el_tec_]
+
+Oficina_de_Comunicación_y_Mercadeo
+Teléfono: (506)_2550-2218 / (506)_2550-9194
+Correo electrónico: comunicacionymercadeotec@tec.ac.cr
+    * Quiénes_Somos
+    * Contacto
+    * Secciones
+
+    * Facebook
+    * Twitter
+    * Instagram
+    * YouTube
+[logo TEC]

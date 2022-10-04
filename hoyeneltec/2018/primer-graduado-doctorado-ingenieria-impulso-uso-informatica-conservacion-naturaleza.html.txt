@@ -1,0 +1,262 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   Pasar_al_contenido_principal
+****** Hoy_en_el_TEC ******
+
+Viernes 12 de Agosto, 2022
+  |  
+Quiénes_Somos   |   Buscar  
+
+***** Menú *****
+    * Investigación
+    * Desarrollo_Humano
+    * Vida_Estudiantil
+    * Acción_Institucional
+    * Medio_Ambiente
+    * Emprendimiento
+    * Cultura_y_Deporte
+    * Opinión
+    * Buscar
+
+
+ Investigación científica
+****** Primer graduado del Doctorado en Ingeniería impulsó uso de la
+informática para la conservación de la naturaleza ******
+    * José Mario Carranza será el primer graduado del Doctorado Académico en
+      Ingeniería, que desarrollan en conjunto el TEC y la UCR
+    * Su investigación se centró en la identificación de especies de  plantas
+      utilizando visión por computadora
+5 de Diciembre 2018 Por: Johan_Umaña_Venegas
+Investigación
+   Versión_para_imprimir    Descargar_PDF  Compartir por correo electrónico
+Comentarios
+ Compartir en Facebook  Compartir en Twitter        Compartir en WhatsApp
+[José_Mario_Carranza_con_una_toga_negra_y_un_ribete_rojo.]
+José Mario Carranza viajará a Japón para trabajar, por lo que no estará en la
+próxima graduación del TEC, así que en el Doctorado le dieron una toga de forma
+simbólica. Foto: Johan Umaña / OCM.
+
+Es innegable que la computación se ha vuelto casi omnipresente en nuestra vida
+cotidiana y cada día se profundizan más las aplicaciones que se pueden dar en
+todos los campos. Uno de estos es la conservación de la naturaleza, donde los
+servicios de georeferenciación y de conteo de plantas y animales son cada vez
+más relevantes.
+Sin embargo, la utilización de la tecnología para identificar especies sigue
+siendo un campo aún incipiente, en tanto que es una tarea complicada y
+meticulosa.
+Esa es la ambiciosa meta que se propuso José Mario Carranza cuando empezó el
+Doctorado_Académico_en_Ingeniería, un programa innovador en la región y que
+desarrollan en conjunto el Tecnológico_de_Costa_Rica_(TEC) y la Universidad_de
+Costa_Rica_(UCR).
+El resultado es más que favorable: Carranza se convirtió en el primer graduado
+del Doctorado tras defender con éxito la tesis de su investigación, el pasado
+28 de noviembre.
+En el proceso se acumularon los logros, con siete artículos publicados en
+revistas científicas ubicadas en índices de primer nivel (cuatro de ellos en
+Scopus), reconocimientos regionales y globales, y hasta una referencia en la
+prestigiosa revista Nature.
+¿El tema? La identificación de especies de plantas utilizando la visión por
+computadora.
+Puede sonar simple pero no lo es. Solo en Costa Rica se calcula que hay más de
+10.000 especies de plantas y las diferencias entre una hoja y otra muchas veces
+son imperceptibles a simple vista. Sin tomar en cuenta la variedad que puede
+existir en la forma en que se toman las fotografías.
+Para conseguir avanzar en este campo, es necesario acudir a términos como
+Inteligencia Artificial, Deep Learning, Redes Neuronales y otros propios de la
+tecnología de punta y las técnicas más avanzadas en computación. También, se
+requieren de vastas bases de datos.
+“Mi investigación es encontrar patrones visuales en imágenes y con base en esos
+patrones visuales poder identificar especies de plantas. No es un trabajo
+fácil, porque las especies se parecen mucho entre ellas y dentro de una misma
+especie, muchas veces las fotos engañan y hacen parecer que son de otras
+especies“, detalla Carranza.
+Para el nuevo doctor, su investigación tiene múltiples aplicaciones para la
+protección de la naturaleza:  
+“Es importante porque la identificación de plantas nos ayuda a un montón de
+cosas, como hacer inventarios de especies en un lugar, saber si una planta está
+en peligro de extinción o si animales están en peligro de extinción,
+relacionados a alguna especie de planta. Nos ayuda a pagar por servicios
+ambientales...
+“Los usos son muchísimos, si nosotros le proporcionamos al ciudadano común y
+corriente un app con la cual puede identificar plantas con solo tomar una foto,
+le estamos haciendo un favor a todo el mundo. Además, tiene que ver con
+apreciar la naturaleza y apreciar la biodiversidad”, argumenta el ingeniero.
+Asimismo, los resultados de la investigación de Carranza consolidan el
+liderazgo del TEC y de Costa Rica en la informática para la conservación, a la
+vez que da un impulso a futuros estudios.
+“Ahora el reto que tenemos a nivel mundial es ¿qué hacemos con la generación de
+tanto conocimiento? Y precisamente, José Mario en su investigación fue capaz de
+reunir esa información y darle todo una aplicación desde el punto de vista del
+uso de las ciencias de la computación, de la matemática, generando incluso
+conocimiento nuevo para la comunidad científica. Eso nos tiene que llenar de
+orgullo”, adujo el Dr. Dagoberto Arias, quien fue parte del comité evaluador.
+   En Costa Rica tenemos una ventaja competitiva en el área de la informática
+para la conservación, porque tenemos altísima biodiversidad, tenemos taxónomos
+muy buenos, tenemos expertos en esa área, y hay informáticos muy interesados en
+la naturaleza, lo cual no sucede en todo lado. José Mario Carranza
+**** Un Doctorado para generar ciencia ****
+Carranza, quien también estudió el bachillerato y maestría en el TEC, aprobó
+con honores la examinación final de su investigación.
+Para el Doctorado en Ingeniería tener a su primer graduado significa la
+constatación de un proceso, que tiene como principal objetivo,  incentivar y
+mejorar la investigación científica en el país.
+“Tenemos una población bastante pequeña, con apenas 23 estudiantes, pero es uno
+de los programas que más produce en cuanto a artículos científicos y productos
+académicos que la sociedad requiere. Para eso está creado el programa“, explicó
+el Dr. Teodolito Guillén, coordinador del programa académico.
+La alta exigencia del Doctorado, que pide a sus estudiantes publicaciones
+científicas en revistas de primer nivel y realizar una pasantía en un centro de
+investigación en el extranjero, propicia la creación de conocimiento científico
+innovador, no solo para Costa Rica, sino que también a nivel internacional.
+“Cuando un país produce doctores quiere decir que está invirtiendo en
+investigación, investigación que está validada a nivel mundial, porque cada
+artículo que fue publicado fue validado por científicos a nivel global y eso
+quiere decir que lo que estamos haciendo se ve a nivel global.
+“Nosotros necesitamos investigar por muchas razones, pero lo más importante es
+para producir nuestras propias cosas.Costa Rica siempre consume tecnología y
+otras cosas de otros lados, pero nosotros tenemos el talento y la gente para
+poder producir nosotros, nuestras propias cosas y tener una huella a nivel
+científico”, sentenció Carranza.
+
+ [Captura_de_pantalla_del_artículo_de_Nature.]
+Revista_‘Nature’_destaca_investigación_de_ingenieros_del_TEC_que_aplica
+inteligencia_artificial_a_la_botánica
+
+
+Proyecto_para_identificar_plantas_costarricenses_por_computadora_es_reconocido
+como_mejor_paper_a_nivel_latinoamericano
+
+
+TEC_destaca_en_cumbre_mundial_por_innovaciones_en_informática_para_la
+conservación
+
+ Doctorado_Académico_de_Ingeniería, Informática_para_la_Conservación,
+Inteligencia_Artificial
+[Johan Umaña Venegas, Comunicador.]
+**** Johan_Umaña_Venegas ****
+johumana@tec.ac.cr
+Comunicador
+Licenciado en Comunicación Colectiva, con énfasis en Periodismo, Universidad de
+Costa Rica.
+View_the_discussion_thread.
+
+***** Relacionado *****
+**** Inteligencia_artificial_se_marca_como_protagonista_en_la_cuarta_revolución
+industrial ****
+25 de Mayo 2018 Por: Kenneth_Mora_Pérez
+ [inteligencia_artificial_]
+**** Alumno_de_Mecatrónica_usa_inteligencia_artificial_para_mejorar_la
+captación_de_energía_de_las_olas ****
+30 de Enero 2018 Por: Johan_Umaña_Venegas
+ [Se_aprecia_como_el_diámetro_del_Ocean_Grazer_sería_del_largo_de_tres
+cruceros.___]
+**** El_primer_ingeniero_doctorado_por_el_TEC_sigue_creando_Inteligencia
+Artificial,_ahora_en_Japón ****
+9 de Noviembre 2020 Por: Johan_Umaña_Venegas
+ [El_ingeniero_con_su_hijo,_en_coche,_a_la_par_de_un_venado.]
+**** Alumno_de_Mecatrónica_se_encuentra_en_Países_Bajos_para_investigar_cómo
+perfeccionar_el_control_de_robots ****
+18 de Mayo 2017 Por: Johan_Umaña_Venegas
+
+
+Oficina_de_Comunicación_y_Mercadeo
+Teléfono: (506)_2550-2218 / (506)_2550-9194
+Correo electrónico: comunicacionymercadeotec@tec.ac.cr
+    * Quiénes_Somos
+    * Contacto
+    * Secciones
+
+    * Facebook
+    * Twitter
+    * Instagram
+    * YouTube
+[logo TEC]

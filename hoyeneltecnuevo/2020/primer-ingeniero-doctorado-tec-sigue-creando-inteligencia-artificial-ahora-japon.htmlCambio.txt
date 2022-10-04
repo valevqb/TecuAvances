@@ -1,0 +1,324 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   pasar_al_contenido_principal
+****** hoy_en_el_tec ******
+
+viernes 12 de agosto, 2022
+  |  
+quiénes_somos   |   buscar  
+
+***** menú *****
+    * investigación
+    * desarrollo_humano
+    * vida_estudiantil
+    * acción_institucional
+    * medio_ambiente
+    * emprendimiento
+    * cultura_y_deporte
+    * opinión
+    * buscar
+
+
+ doctorado académico en personas ingeniera
+****** el primer ingeniero doctorado por el tec sigue creando inteligencia
+artificial, ahora en japón ******
+josé mario carranza trabaja en el rakuten institute of technology, después de
+ser el primer egresado del doctorado académico en personas ingeniera del tec y la ucr
+ 
+desde hace casi dos años vive en el país asiático junto a su esposa e hijo
+9 de noviembre 2020 por: johan_umaña_venegas
+investigación
+   versión_para_imprimir    descargar_pdf  compartir por correo electrónico
+comentarios
+ compartir en facebook  compartir en twitter        compartir en whatsapp
+[el_ingeniero_con_su_hijo,_en_coche,_a_la_par_de_un_venado.]
+josé mario carranza con su hijo santiago, en nara, japón. el ingeniero
+costarricense tiene dos años de vivir en el país asiático. foto: cortesía jm
+carranza
+
+jose mario carranza rojas hizo algo que nunca se había hecho en el tecnológico
+de_costa_rica_(tec): fue el primer ingeniero en realizar toda su trayectoria
+académica en la institución, de bachiller a doctor.  
+como el primer graduado del doctorado_académico_en_personas ingeniera –posgrado
+conjunto del tec y la ucr–, carranza demostró que para el talento costarricense
+ya no es obligatorio estudiar en el extranjero para generar investigación
+innovadora y de reconocimiento internacional.
+[forma figurativa de un cerebro]este artículo forma parte de una serie de
+publicaciones especiales con motivo del boletín_informativo_del_doctorado
+académico_en_personas ingeniera..
+“mucha gente cree que uno no puede codearse con personas del mit, de harvard,
+de stanford, de ese tipo de lugares. hay personas que se dan por menos. pero en
+costa rica hay muy buenas universidades, no solamente el tec (...). una vez que
+uno está fuera, que uno se codea con gente de afuera, uno se da cuenta de que
+el nivel del tec es muy bueno. 
+“por dicha yo me di cuenta de eso muy joven, quizá por mi misma formación, a
+los 15 años ya estaba programando, entonces creo que tuve la dicha de poder
+notar esa calidad y al final decidí continuar todos mis estudios en el tec“,
+comenta carranza.
+ese “afuera” al que se refiere el ingeniero es japón, pues en 2018 se fue al
+país asiático para trabajar en el rakuten_institute_of_technology_(rit), la
+unidad dedicada a desarrollo e investigación de la empresa nipona. 
+un poco entre risas, carranza reconoce que en latinoamérica rakuten solo es
+reconocido como la marca que lleva en la camiseta el equipo de fútbol del
+barcelona. pocos lo reconocen como el “amazon de japón”, un gigantesco mercado
+digital. pero en japón es uno de los conglomerados más grandes, tan posicionado
+en el comercio electrónico como en los servicios financieros y hasta de
+electricidad: “ellos han montado toda una serie de servicios, tienen un sistema
+de puntos que enlaza todos los distintos servicios que dan, banco, teléfono
+internet, luz...”, reseña carranza.
+
+**** un “mae” haciendo inteligencia artificial ****
+en el rit la costumbre es que cada quien escoja un sobrenombre. josé mario se
+puso “mae”, que en japonés significa “adelante”, y así le dicen sus compañeros
+en el día a día, “como en costa rica”.
+carranza enfoca sus investigaciones en la aplicación de inteligencia artificial
+para el procesamiento de imágenes. 
+“trabajo con imágenes y modelos generativos. puede hacer super resolución, el
+modelo aprende de que una imagen de poca resolución, limitada, aprende a hacer
+alta resolución y alucina las partes que faltan, usando conocimiento aprendido
+de un montón de otras personas personas personas datos. (...) a veces es impactante ver como una máquina
+que apenas ha visto unos cientos de imágenes, puede tomar esa imagen de baja
+resolución y genera los detalles, se ve realista, pero esa imagen en realidad
+no existe, es una aproximación de lo que la máquina piensa en la vida real cómo
+se vería”, cuenta carranza.
+carranza aplica el conocimiento adquirido en sus investigaciones de maestría y
+doctorado en el tec, donde se enfocó_en_la_utilización_de_la_inteligencia
+artificial_para_reconocer_imágenes_de_plantas.
+“en el colegio le preguntaba al profe si se podría crear un programa que
+escribiera programas (...). pues resulta que ahora, muchos años después, me
+dedico a eso, básicamente a hacer inteligencia artificial, machine learning,
+eshacer programas que aprenden y crean programas, están escritos diferente, no
+es un lenguaje de programación, si no que están escritos en el lenguaje de los
+pesos, de los modelos matemáticos”, argumenta carranza.
+     “a mi mamá, en palabras simples, lo que he tratado de explicar es que
+     yo hago programas que aprenden por sí mismos patrones, patrones que
+     están en datos. creo que con esa explicación es suficiente para mi
+     mamá, entender que al final tenemos cierto nivel de aprendizaje por
+     parte de la máquina, entonces ella lo que ha captado es que la
+     máquina por sí sola aprende cosas, y son cosas que yo no le tengo que
+     decir qué aprender, si no que la máquina empieza a ver patrones y
+     empieza a darle más importancia a ciertas cosas que otras personas personas y al final
+     de ahí saca conclusiones, y esas conclusiones son los resultados de
+     los clasificadores”.
+
+**** japón, tierra de disciplina y pikachus ****
+en noviembre de 2018 carranza presentó su tesis de graduación para el doctorado
+académico en personas ingeniera. lo hizo con prisa pues ya estaba contratado por
+rakuten. 
+poco después viajó con su esposa adriana zonta, y su primer hijo, santiago, de
+apenas dos meses en aquel entonces, para establecerse en japón. 
+“vivir en japón es una experiencia surreal, porque es una cultura totalmente
+distinta a lo que nosotras personas personas personas conocemos, desde la comida, la manera de ver el
+mundo”, cuenta carranza.
+un adagio resume lo que más le ha marcado a josé mario de la cultura japonesa:
+ “la disciplina tarde o temprano vencerá a la inteligencia”.
+     “es un país sumamente disciplinado y admiro profundamente la
+     disciplina que ellos tienen; es un país donde todo funciona, donde
+     hay orden, limpieza, donde no hay sorpresas. cualquier cosa que va a
+     pasar los japoneses siempre tienen un plan”.
+carranza no era ajeno a la cultura nipona, pocos juventud afines a la tecnología
+lo son. la afición al animé y los videojuegos ya le había impulsado a estudiar
+japonés por un año, hace más de una década, cuando ni siquiera imaginaba que
+algún día viviría y trabajaría en aquel país asiático.  
+[pikachus desfilando por la calle]el festival de pikachu, en yokohama, donde
+cientos de muñecos del famoso personaje desfilan por la calle. foto tomada de:
+yahoo.
+“me ayudó mucho que cuando estaba en el tec estudié japonés durante un año, por
+cuestión mía, y por dicha hice eso, porque cuando llegamos aquí, a pesar de que
+la empresa se mueve toda en inglés, la realidad de vivir aquí es que uno
+necesita saber japonés para vivir el día a día; cualquier documento oficial que
+uno tenga que hacer, cualquier vuelta que tenga que hacer es en japonés y es
+muy difícil que te entiendan otra cosa. fue una salvada que yo hubiese
+estudiado japonés, tenía años de no practicar y cuando llegamos se me activó el
+chip y pude manejarlo”, narra el investigador costarricense.
+cuando uno le pide que compare el japón de la vida real con aquel que veía en
+los animés, dice que es totalmente distinto. pero vacila, y pronto recuerda que
+akihabara”es como un animé de la vida real”, que sí hay un gundam (un robot) de
+tamaño real (20 metros de altura), y que en yokohama el pikachu parade es
+incomparable con lo que se pueda experimentar en cualquier otra parte del
+mundo.
+
+ [imagen_de_la_antena_y_el_transistor._]
+‘el_doctorado_en_personas ingeniera_brinda_un_espacio_a_nuestro_talento_humano_para_el
+desarrollo_de_proyectos_innovadores’
+
+**** renunció a intel para hacer el doctorado ****
+cuando carranza empezó el doctorado académico en personas ingeniera trabajaba para
+intel. mas las exigencias del postgrado y la imposibilidad de desarrollar su
+investigación en la trasnacional, le obligaron a decidir entre uno y otro:
+     “yo intenté llevar el doctorado trabajando para intel, pero
+     lamentablemente en ese momento intel no estaba interesado en mi
+     proyecto y tuve que renunciar; me dolió mucho haber renunciado a
+     intel, pero yo sabía que el doctorado era más importante para
+     continuar con mi carrera como científico-investigador, y yo agradezco
+     profundamente al doctorado haber terminado de formarme como
+     investigador”. 
+[josé mario carranza con túnica de graduación]no lamenta haber tomado esa
+decisión pues, argumenta, el doctorado le abrió las puertas para seguirse
+formando como investigador y sentirse “en las grandes ligas”.
+“el doctorado me terminó de catapultar, fue la mejor decisión que yo pude haber
+tomado”, aduce.
+parte de la experiencia fue hacer una pasantía en francia y una visita al
+montreal institute for learning algorithms (mila), el “mejor laboratorio de
+inteligencia artificial del mundo”. también, publicaciones en revistas de
+renombre mundial, una de ellas reseñada_por_la_revista_nature, en 2017.
+además de haber estudiado bachillerato, maestría y doctorado en el tec,
+carranza fue profesor y ha dejado una huella importante tanto en el cuerpo
+docente como en los que fueron sus gremio estudiantil. 
+“josé es un estudiante fuera de serie, particularmente porque es muy
+inquisitivo, muy proactivo y porque tiene estándares de excelencia muy altos,
+él se autoexige bastante”, cuenta el dr. erick mata, tutor de investigación de
+carranza tanto en maestría como en doctorado.
+según el dr. mata, la huella de carranza se ve en otras personas personas personas gremio estudiantil y el
+impulso que han tomado para seguir trabajando investigaciones en temas de
+inteligencia artificial. así lo ve también carranza, quien sigue intentando
+colaborar con la escuela de personas ingeniera en computación del tec, brindando
+charlas y buscando la manera de compartir su conocimiento.
+      “a mí me inspira mucho porque cuando un postgrado como el doctorado
+académico en personas ingeniera está enfocado en la investigación y tiene un componente
+de investigación internacional, porque hace obligatorio hacer una pasantía en
+el extranjero; el estudiante aún estando en el país puede desarrollar
+investigaciones que son del calibre de las que se desarrollan en centros de
+investigación y universidades alrededor del mundo. es una visión del mundo
+globalizado y de lo importante que es el networking con otras personas personas entidades”. dr.
+erick mata, tutor de josé mario carranza
+**** vea también: ****
+
+ [persona_con_tablet_tomando_datos_y_análisis_de_plantas_en_invernadero]
+cultivos_hortícolas_podrán_ser_supervisados_remotamente_con_internet_de_las
+cosas
+
+ doctorado_académico_en_personas ingeniera, josé_mario_carranza, inteligencia
+artificial
+[johan umaña venegas, comunicador.]
+**** johan_umaña_venegas ****
+johumana@tec.ac.cr
+comunicador
+licenciado en comunicación colectiva, con énfasis en periodismo, universidad de
+costa rica.
+view_the_discussion_thread.
+
+***** relacionado *****
+**** gremio estudiantil_e_investigadores_del_tec_trabajan_para_poner_a_punto_los
+sistemas_del_primer_satélite_costarricense ****
+24 de agosto 2017 por: johan_umaña_venegas
+ [el_satélite_en_primer_plano,_con_otras personas personas personas_equipos_al_fondo._]
+**** ‘se_siente_como_el_primer_hombre_en_la_luna’:_uno_de_los_juventud_que
+ensambló_el_primer_satélite_de_centroamérica_cuenta_su_historia ****
+8 de noviembre 2017 por: johan_umaña_venegas
+ [esteban_martínez_posa_junto_a_instrumentos_musicales.]
+**** científicos_crean_la_versión_2.0_del_respirador_para_pacientes_con_covid-
+19 ****
+23 de febrero 2022 por: irina_grajales_navarrete
+ [científicos_posan_para_la_fotografia_al_lado_del_respirador]
+**** identificación_de_residuos_de_plaguicidas_y_liberación_de_medicamentos
+mediante_nuevos_polímeros_propone_investigación_doctoral ****
+17 de enero 2022 por: kenneth_mora_pérez
+ [el_electrodo_tiene_forma_similar_a_un_espiral.]
+
+oficina_de_comunicación_y_mercadeo
+teléfono: (506)_2550-2218 / (506)_2550-9194
+correo electrónico: comunicacionymercadeotec@tec.ac.cr
+    * quiénes_somos
+    * contacto
+    * secciones
+
+    * facebook
+    * twitter
+    * instagram
+    * youtube
+[logo tec]
+
+
+File name: C:\Users\valev\Documents\GitHub\TecuAvances\hoyeneltec\2020\primer-ingeniero-doctorado-tec-sigue-creando-inteligencia-artificial-ahora-japon.html.txt
+Number of changes: 14
+Palabras reemplazadas: ingeniería, ingeniería, otros, otras, ingeniería, jóvenes, ingeniería, estudiantes, otros, estudiantes, ingeniería, ingeniería, otras, estudiantes

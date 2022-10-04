@@ -1,0 +1,239 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   pasar_al_contenido_principal
+****** hoy_en_el_tec ******
+
+viernes 12 de agosto, 2022
+  |  
+quiénes_somos   |   buscar  
+
+***** menú *****
+    * investigación
+    * desarrollo_humano
+    * vida_estudiantil
+    * acción_institucional
+    * medio_ambiente
+    * emprendimiento
+    * cultura_y_deporte
+    * opinión
+    * buscar
+
+
+ ingeniero costarricense
+****** director de proyecto gw sat: ‘conozco muy bien al equipo del tec y sé
+que son muy capaces’ ******
+    * experto explica el componente innovador del sistema de propulsión que se
+      probará en el gw sat
+25 de octubre 2018 por: johan_umaña_venegas
+investigación
+   versión_para_imprimir    descargar_pdf  compartir por correo electrónico
+comentarios
+ compartir en facebook  compartir en twitter        compartir en whatsapp
+jonathan kolbeck lidera el proyecto gw sat. foto: cortesía j. kolbeck.
+
+jonathan kolbeck se crió en costa rica y luego partió del país para desarrollar
+su sueño de alcanzar las estrellas. ahora es el director de un proyecto muy
+importante para la universidad_de_george_washington_(gwu): el primer satélite
+de la institución.
+este proyecto, llamado gwu, consiste en el desarrollo y lanzamiento al espacio
+de un satélite tipo cubesat 3u (del tamaño de tres cubos de 10 centímetros de
+lado) y servirá para probar un innovador sistema de propulsión para este tipo
+de dispositivos.
+con esta misión, kolbeck y su equipo podrían revolucionar el uso de cubesats en
+el mundo, pues al dotarlos de un sistema de propulsión se podría incrementar
+sustancialmente tanto su vida útil, como las aplicaciones comerciales y
+científicas para las que podrían ser usados.
+este trabajo lo podrá ejecutar con varios compatriotas, pues el tecnológico_de
+costa_rica_(tec) firmó un convenio con gwu para ser parte del proyecto de
+lanzamiento del gw sat y aportar la misión científica y sistema de navegación
+del mismo.
+
+ [ilustración_de_un_satélite_cube_sat_tipo_3u,_con_la_tierra_de_fondo.]
+tec_se_asocia_con_universidad_de_george_washington_para_lanzamiento_de_una
+nueva_misión_espacial
+
+a continuación, un extracto de la entrevista con kolbeck:  
+    * ¿qué representa este proyecto para la universidad george washington?
+considero que es un proyecto bastante importante a nivel institucional, ya que
+seríamos los primeros de la región (sin contar la academia naval) en tener
+nuestro propio laboratorio de cubesats. también sería el primer cubesat hecho
+por una universidad de washington dc.   
+    * en un plano más personal, ¿qué representa este proyecto en su carrera
+      profesional?
+es un proyecto muy interesante, y como ‘project manager’ estoy aprendiendo
+mucho, ya que, aunque sea un cubesat, es un proyecto bastante complicado. hay
+muchas partes interconectadas, y si uno cambia algo, todo el resto de
+componentes se ven afectados de una u otra manera, ya sea por espacio, poder
+disponible, o peso.
+    * el concepto que probarán por parte de gwu es el de un sistema de
+      propulsión a base de titanio. ¿puede explicar un poco más de esto? ¿qué
+      tiene de innovador?
+el sistema ya lo hemos volado dos veces y está listo para volar en otra misión,
+a inicios del 2019. no obstante, sería la primera vez que ponemos 12 de estos
+motores en un solo cubesat. la idea es proveer control nativo en tres ejes al
+cubesat; es decir, que tengamos control total sobre los tres ejes de rotación y
+la translación. además, queremos usar el sistema para compensar el ‘drag
+atmosférico’, que es la resistencia de la atmósfera.
+aunque estemos en el espacio, en órbitas leo (low earth orbit), todavía hay una
+cantidad de atmósfera presente que no es nula, y estas moléculas de aire frenan
+al cubesat y queremos usar los motores para compensar esto y no perder altitud.
+el sistema se basa en descargas de arcos catódicos (prácticamente como soldar
+con electrodo pero en vacío) con el fin de producir empuje. el motor utiliza un
+metal como ‘combustible’, aunque aquì el lenguaje español se presta para
+malentendidos, porque no hay ‘combustión’ en sí. la palabra en inglés correcta
+es ‘propellant’. en nuestro caso, usamos titanio y níquel. todavía no hemos
+decidido cuál usar, ya que como tienen propiedades diferentes (densidad, etc),
+tienen pros y contras.
+es un sistema poco convencional, pero como dije anteriormente, ya lo hemos
+volado en otras personas misiones.
+    * ¿qué puede implicar para los sistemas de pequeños satélites actuales un
+      tipo de propulsión como el que propone en su diseño?¿se puede decir que
+      es revolucionario?
+el sistema ayudaría a extender la vida útil de los cubesats, ya que podrían
+compensar los efectos atmosféricos y mantenerse en órbita por más tiempo. esto
+significa que se pueden obtener más datos, ya sea para fines científicos o
+comerciales.
+    * ¿por qué pensó en el equipo del tec para formar parte de la misión?   
+conozco muy bien al equipo del tec y sé que son muy capaces y que nos pueden
+ayudar con varias facetas del proyecto.
+
+ [ilustración_de_varios_satélites_alrededor_de_la_tierra.]
+cubesats:_investigador_tico_colabora_con_mit_en_análisis_de_compactos_sistemas
+de_propulsión_espacial
+
+ gw_sat, setec-lab, sistemas_espaciales, cubesats
+[johan umaña venegas, comunicador.]
+**** johan_umaña_venegas ****
+johumana@tec.ac.cr
+comunicador
+licenciado en comunicación colectiva, con énfasis en periodismo, universidad de
+costa rica.
+view_the_discussion_thread.
+
+***** relacionado *****
+**** tec_se_asocia_con_universidad_de_george_washington_para_lanzamiento_de_una
+nueva_misión_espacial ****
+25 de octubre 2018 por: johan_umaña_venegas
+ [ilustración_de_un_satélite_cube_sat_tipo_3u,_con_la_tierra_de_fondo.]
+**** cartago_es_sede_de_la_más_reciente_antena_del_sistema_de_rastreo_de
+satélites_de_la_agencia_espacial_europea ****
+29 de junio 2022 por: johan_umaña_venegas
+ [la_antena_es_blanca_y_tiene_forma_de_cono_inverso.]
+**** cubesats:_investigador_tico_colabora_con_mit_en_análisis_de_compactos
+sistemas_de_propulsión_espacial ****
+8 de agosto 2018 por: johan_umaña_venegas
+ [ilustración_de_varios_satélites_alrededor_de_la_tierra.]
+**** un_centenar_de_noticias:_el_primer_satélite_tico_es_protagonista_en_el
+continente ****
+6 de abril 2018 por: johan_umaña_venegas
+ [captura_de_pantalla_de_la_noticia_de_univisión,_en_la_que_se_ve_una
+fotografía_del_cohete_falcon_9.]
+
+oficina_de_comunicación_y_mercadeo
+teléfono: (506)_2550-2218 / (506)_2550-9194
+correo electrónico: comunicacionymercadeotec@tec.ac.cr
+    * quiénes_somos
+    * contacto
+    * secciones
+
+    * facebook
+    * twitter
+    * instagram
+    * youtube
+[logo tec]
+
+
+File name: C:\Users\valev\Documents\GitHub\TecuAvances\hoyeneltec\2018\director-proyecto-gw-sat-conozco-muy-bien-equipo-tec-se-son-muy-capaces.html.txt
+Number of changes: 1
+Palabras reemplazadas: otras

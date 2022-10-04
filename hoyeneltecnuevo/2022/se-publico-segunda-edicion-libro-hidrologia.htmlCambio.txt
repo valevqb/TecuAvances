@@ -1,0 +1,254 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   pasar_al_contenido_principal
+****** hoy_en_el_tec ******
+
+viernes 12 de agosto, 2022
+  |  
+quiénes_somos   |   buscar  
+
+***** menú *****
+    * investigación
+    * desarrollo_humano
+    * vida_estudiantil
+    * acción_institucional
+    * medio_ambiente
+    * emprendimiento
+    * cultura_y_deporte
+    * opinión
+    * buscar
+
+
+ editorial tecnológica de costa rica
+****** se publicó segunda edición del libro hidrología ******
+el objetivo de esta obra es ayudar a analizar los problemas relacionados con
+estas labores y proveer una guía para el planeamiento y el manejo de los
+recursos hidráulicos
+13 de junio 2022 por: noemy_chinchilla_bravo
+investigación
+   versión_para_imprimir    descargar_pdf  compartir por correo electrónico
+comentarios
+ compartir en facebook  compartir en twitter        compartir en whatsapp
+[imagen_de_varios_libros_sobre_hidrología]
+la versión impresa de este ejemplar tiene un valor de 25 mil colones. la
+editorial tecnológica de costa rica brinda el servicio de entrega de libros
+casa a casa, los martes y jueves, sin costo adicional y dentro del gam. foto
+cortesía de alejandro garita pereira.
+
+la hidrología cubre todas las fases del agua en la tierra, es una materia de
+gran importancia para el ser humano y su ambiente.
+dada la importancia de esa rama de las ciencias que estudia el agua, el m.sc.
+máximo villón béjar, pensionado del tecnológico_de_costa_rica_(tec), se tomó la
+tarea de crear la segunda edición del libro "hidrología".
+el objetivo de esta obra es ayudar a analizar los problemas relacionados con
+estas labores y proveer una guía para el planeamiento y el manejo de los
+recursos hidráulicos.
+de acuerdo con el autor del libro, esta nueva obra (publicación n°
+42) representa un granito de arena más en la tarea de seguir compartiendo
+conocimientos desarrollados, ya que los conocimientos que no se comparten se
+pierden.
+   "con esta publicación se espera que tanto los gremio estudiantil, como los
+profesionales en el campo de la hidrología, puedan entenderla y aplicarla, en
+forma más sencilla, en el desarrollo de sus trabajos”. m.sc. máximo villón
+béjar, autor del libro
+dicho libro fue publicado por la editorial_tecnológica_de_costa_rica y lo podrá
+encontrar de manera impresa.
+**** historia del libro ****
+la segunda edición de hidrología expone con sencillez los distintos temas y las
+prácticas que se desarrollan, a pesar de la complejidad que presentan.
+de esta forma, mediante la teoría y los problemas resueltos, el lector podrá
+comprender con plenitud la materia. asimismo, se incluyen problemas propuestos
+y un anexo en el cual se describen prácticas con el uso de la aplicación qgis.
+entre otras personas aspectos, el libro analiza:
+    * capítulo 1: conceptos básicos, incluyendo la definición de hidrología, su
+      importancia, y su enfoque a los problemas hidrológicos.
+    * capítulo 2: la cuenca hidrológica, su delimitación, el cálculo de las
+      curvas características y los índices representativos.
+    * capítulo 3: hidrología estadística, uso de la estadística y su
+      importancia en los cálculos hidrológicos.
+    * capítulo 4: precipitación, las formas de precipitación, su clasificación,
+      su medición, su cálculo, el estudio de una tormenta, el cálculo de la
+      intensidad máxima, su estimación y el cálculo de la precipitación de
+      diseño.
+    * capítulo 5: escurrimiento, los factores que afectan al escurrimiento
+      superficial, su medición, el análisis de los datos de caudales, y sus
+      curvas representativas.
+    * capítulo 6_ hidrogramas, el análisis de un hidrograma, el hidrograma
+      unitario, su construcción, la curva s, los hidrogramas unitarios
+      sintéticos y el cálculo de la precipitación en exceso.
+    * capítulo 7: caudales máximos, los diferentes métodos que existen para su
+      cálculo, métodos empíricos, método del número de curva, métodos
+      estadísticos.
+    * capítulo 8: evaporación, su definición, los factores que la afectan, la
+      evapotranspiración y el balance hidrológico.
+    * capítulo 9: agua subterránea, su definición, la distribución del agua en
+      el subsuelo, su clasificación, las constantes hidrogeológicas, el
+      movimiento del agua a través del suelo, y la hidráulica de pozos.
+    * anexo: aplicaciones de qgis para el desarrollo de cálculos hidrológicos:
+    * apéndice donde se muestran algunos cuadros estadísticos que se utilizan
+      para los cálculos.
+**** acerca de su autor ****
+máximo villón béjar es pensionado del tec. es post catedrático, paso 3, y
+laboró 38 años en la escuela de personas ingeniera agrícola del tec.
+ha sido profesor en el departamento de manejo de cuencas catie, por cuatro
+años. también por dos años en la universidad nacional agraria "la molina",
+programa de personas ingeniera agrícola, departamento de recursos de agua y tierra, en
+lima, perú, entre otras personas.
+**** publicación ****
+una vez más, la editorial_tecnológica_de_costa_rica brindó el apoyo para la
+publicación de la obra: hidrología.
+para felipe abarca fedullo, director de la editorial tecnológica de costa rica,
+con la publicación de esta obra la editorial se siente muy complacida en
+ofrecer al público la nueva obra de don máximo villón, uno de sus autores más
+reconocidos.
+      “desde hace muchos años él ha depositado su confianza en nosotras personas, al
+entregarnos para edición gran cantidad de sus obras. nos sentimos muy
+agradecidos y a la vez responsables de ofrecer una mejora continua en cada uno
+de los procesos que llevamos a cabo, para que nuestros libros estén a la altura
+del mercado nacional e internacional”. felipe abarca fedullo, director de la
+editorial tecnológica de costa rica
+según mariela romero zúñiga, editora técnica del libro, trabajar con villón
+siempre es una gran experiencia, ya que es un profesional entregado a su
+trabajo y sobre todo comprometido con las personas que a lo largo del mundo lo
+admiran y se benefician con cada una de sus publicaciones.
+      “esta segunda edición de hidrología implicó un enorme esfuerzo de
+actualización por parte del autor, así como muchos meses de revisiones, cambios
+y mejoras en la parte editorial, siempre con el propósito de llevar al público
+un producto de calidad que trascienda las fronteras y sea una herramienta útil
+para esta área del conocimiento. en definitiva, es una gran satisfacción ver
+concluido este proyecto y espero que en pocos meses tengamos disponible un
+nuevo libro de don max”. mariela romero zúñiga, editora técnica del libro .
+cabe destacar que la versión impresa de este ejemplar tiene un valor de 25 mil
+colones. la editorial tecnológica de costa rica brinda el servicio de entrega
+de libros casa a casa, los martes y jueves, sin costo adicional y dentro del
+gam.
+
+ hidrología, editorial_tecnológica
+[noemy chinchilla bravo, comunicadora.]
+**** noemy_chinchilla_bravo ****
+nchinchilla@tec.ac.cr
+comunicadora
+licenciada en relaciones públicas y bachiller en periodismo, universidad
+autónoma de centro américa.
+view_the_discussion_thread.
+
+***** relacionado *****
+**** nuevo_libro_nos_acerca_a_conocer_la_ecología_de_las_aves_y_su_conservación
+****
+5 de abril 2022 por: noemy_chinchilla_bravo
+ [imagen_de_dos_libros,_en_la_portada_muestra_la_imagen_de_un_pájaro.]
+**** país_estrena_tecnología_que_permitirá_visualizar_los_sismos_en_3d ****
+7 de junio 2017 por: irina_grajales_navarrete
+
+**** academia_nacional_de_ciencias_incorpora_nuevos_académicos ****
+23 de julio 2019 por: kenneth_mora_pérez
+ [juramentacion_nuevos_miembros]
+**** revista_tec_empresarial_estrena_5_nuevos_artículos_científicos ****
+18 de mayo 2022 por: noemy_chinchilla_bravo
+ [imagen_de_unas_manos_sobre_un_escritorio._portada_de_la_revista_tec
+empresarial.]
+
+oficina_de_comunicación_y_mercadeo
+teléfono: (506)_2550-2218 / (506)_2550-9194
+correo electrónico: comunicacionymercadeotec@tec.ac.cr
+    * quiénes_somos
+    * contacto
+    * secciones
+
+    * facebook
+    * twitter
+    * instagram
+    * youtube
+[logo tec]
+
+
+File name: C:\Users\valev\Documents\GitHub\TecuAvances\hoyeneltec\2022\se-publico-segunda-edicion-libro-hidrologia.html.txt
+Number of changes: 5
+Palabras reemplazadas: estudiantes, otros, ingeniería, ingeniería, otros

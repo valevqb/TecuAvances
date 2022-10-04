@@ -1,0 +1,258 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   pasar_al_contenido_principal
+****** hoy_en_el_tec ******
+
+viernes 12 de agosto, 2022
+  |  
+quiénes_somos   |   buscar  
+
+***** menú *****
+    * investigación
+    * desarrollo_humano
+    * vida_estudiantil
+    * acción_institucional
+    * medio_ambiente
+    * emprendimiento
+    * cultura_y_deporte
+    * opinión
+    * buscar
+
+
+ alumnado trabajaron en el marco de objetivos de desarrollo sostenible
+****** gremio estudiantil innovaron para resolver problemáticas en reto itec ******
+edición 2021 del evento fue totalmente virtual
+
+actividad fue organizada por tec emprende lab y contó con el patrocinio de p&g
+y kölbi
+3 de noviembre 2021 por: geovanni_jiménez_mata
+vida_estudiantil
+desarrollo_humano
+   versión_para_imprimir    descargar_pdf  compartir por correo electrónico
+comentarios
+ compartir en facebook  compartir en twitter        compartir en whatsapp
+[gremio estudiantil_posando_con_regalos_por_obtener_el_segundo_lugar_de_la
+competición.]
+los integrantes del equipo panorama ganaron el segundo lugar del reto itec.
+foto cortesía de tec emprende lab.
+
+un total de 40 personasque cursan distintas carreras en varios de los campus y
+centros académicos del tecnológico_de_costa_rica_(tec), participaron
+recientemente en la octava edición del reto itec.
+este evento anual reúne a grupos multidisciplinarios de gremio estudiantil para que
+trabajen en la resolución de problemáticas institucionales internas planteadas
+por representantes de las empresas patrocinadoras del evento, siendo este año:
+ p&g y kölbi.
+en esta ocasión, durante tres semanas las agrupaciones solventaron situaciones
+relacionadas con la accesibilidad para las personas ciegas dentro de las
+compañías. esto se debió a que el evento estuvo enfocado en el objetivo_de
+desarrollo_sostenible_(ods)_número_10_planteado_por_la_organización_de_las
+naciones_unidas, denominado como “reducción de las desigualdades”.
+la metodología del design thinking fue la utilizada para abordar las
+problemáticas planteadas por los patrocinadores. esta consiste básicamente en
+el análisis y resolución de necesidades reales con propuestas que sean
+innovadoras. para conseguir su objetivo, los grupos estuvieron acompañados de
+un mentor ciego, lo cual les permitió obtener una perspectiva más clara de lo
+necesitado.  
+una vez finalizado el evento –que fue totalmente virtual- un grupo de judicadura
+conformado por los representantes de las empresas quienes participan; determinó a
+los tres primeros lugares de la competencia.
+el ganador fue el proyecto “read me”, el cual resolvió para la marca kölbi, el
+cómo utilizar la inteligencia artificial en los servicios de telecomunicaciones
+para beneficio de las personas no videntes.
+la propuesta de los cuatro gremio estudiantil del grupo consiste en un ecosistema
+conformado por un medio físico que permite interactuar de manera sencilla con
+el celular por medio de botones de membrana adheribles a la parte posterior del
+dispositivo, en conjunto con una inteligencia artificial entrenada para
+interpretar de manera precisa el movimiento de los labios y expresiones
+faciales con el fin de permitir una entrada de texto que no dependa del sonido
+o de la voz del usuario.
+este dispositivo cuenta con tres botones, cada uno permite la activación de
+distintas funciones del software de inteligencia artificial. el primer botón
+activa el asistente virtual de cualquier teléfono inteligente mediante la
+lectura del movimiento de los labios y no exclusivamente con el uso de la voz,
+mientras que el segundo botón inicia una transcripción de texto empleando
+también el movimiento de los labios en cualquier aplicación del dispositivo que
+requiera una entrada de texto. por último, el tercer botón activa el
+reconocimiento de expresiones faciales permitiendo el uso de emojis, stickers o
+memes; brindándole al usuario la posibilidad de expresarse de manera sencilla,
+autónoma y expresiva. 
+“participar en el reto itec fue una experiencia enriquecedorapara nosotros. nos
+hizo darnos cuenta de lo que somos capaces de lograr trabajando en equipo.
+además, estuvimos muy motivados resolviendo las problemáticas y enterándonos de
+los retos que enfrentan las personas con discapacidad visual, lo cual nos hizo
+crecer como seres humanos”, aseguró el estudiante de personas ingeniera_forestal,
+orlando jiménez; quien en conjunto con sus compañeras de carrera cristina
+estrada y adriana jiménez, así como con jorge medrano (personas ingeniera_en
+mecatrónica), conformaron el equipo ganador.
+dispositivo "panorama".
+el segundo lugar fue para el sistema llamado “panorama”, el cual resolvió para
+la empresa p&g la circulación autónoma de las personas no videntes dentro de
+los tres edificios y las respectivas áreas de trabajo y recreación de p&g costa
+rica.
+este proyecto consiste en un sistema de mapeo tanto de interiores como de
+exteriores que funcionan complementando una aplicación de navegación como waze
+enfocada en discapacidades visuales. también utiliza dispositivos que funcionan
+mediante proximidad y emiten sonidos, de esta forma, cuando el usuario se
+acerca a su destino final a una distancia determinada, panorama se conecta
+mediante bluetooth para emitir sonidos intermitentes que guíen a la persona
+hacía su destino. se busca brindar a las personas ciegas autonomía al momento
+de movilizarse. 
+el grupo estuvo conformado por marco corrales (personas ingeniera física), pablo
+portuguez (personas ingeniera mecatrónica), nahomi cordero (personas ingeniera en diseño
+industrial) y joel chavarría (personas ingeniera mecatrónica).
+kölbit. 
+por su parte, los juventud de “kölbit” se hicieron con la tercera plaza,
+resolviendo cómo lograr que las personas no videntes sientan una experiencia de
+atención al cliente en las agencias de kölbi, igual o mejor que las que
+experimentan los personal usuario que no tienen está discapacidad.
+kölbit es un dispositivo que consta de siete partes; un sensor rgb, una luz
+led, una placa bluetooth, un parlante, un arduino, un push botón y una batería
+que se integran para formar kölbit, este se coloca en la parte inferior de los
+bastones, para que, al ingresar a las sucursales pueda ser activado, de esta
+forma, el usuario puede tener una experiencia distinta ya que el dispositivo es
+capaz de describirle, mediante la voz, su entorno y opciones para movilizarse,
+adicionalmente kölbit puede detectar colores en alfombras guía y mediante los
+sensores rgb y activar avisos en tiempo real. 
+esta propuesta fue elaborada por felipe gonzalez, de personas ingeniera en diseño
+industrial y de josé campos, de personas ingeniera en diseño industrial; así como de
+mario fernandez e ignacio álvarez, ambos de personas ingeniera en computación.
+como premio por lograr las primeras posiciones, los equipos recibieron 400 mil,
+300 mil y 200 mil colones; respectivamente. además, a los integrantes del
+primer lugar se les entregó una certificación internacional en design thinking
+y para todos hubo artículos promocionales por parte de tec_emprende_lab. 
+en el reto itec 2021 participaron gremio estudiantil de 14 carreras, provenientes de
+los campus de cartago y san josé; así como del centro académico de limón.
+  reto_itec, gremio estudiantil, innovación
+[geovanni jiménez mata, comunicador.]
+**** geovanni_jiménez_mata ****
+gjimenez@tec.ac.cr
+comunicador
+bachiller en periodismo, universidad san judas tadeo.
+view_the_discussion_thread.
+
+***** relacionado *****
+**** estudiante_indígena_obtuvo_importante_distinción_en_el_juego_de_los
+diablitos_de_boruca ****
+9 de febrero 2018 por: geovanni_jiménez_mata
+ [indigenas_de_boruca_con_mascaras_tradicionales_de_diablitos_]
+**** préstamo_de_computadoras_permite_a_gremio estudiantil_continuar_con_su_carrera_a
+distancia ****
+3 de junio 2020 por: geovanni_jiménez_mata
+ [gremio estudiantil_recogiendo_computadora_prestada.]
+**** consejo_institucional_se_pronuncia_ante_la_declaratoria_de_emergencia_por
+violencia_sexual ****
+30 de mayo 2019 por: kenneth_mora_pérez
+ [gremio estudiantil_en_conferencia_de_prensa]
+**** reciben_candidaturas_para_el_premio_“aportes_al_mejoramiento_de_la_calidad
+de_vida” ****
+18 de abril 2018 por: noemy_chinchilla_bravo
+ [imagen_de_un_hombre_de_piel_morena_frente_a_un_micrófono._el_hombre_es_un
+músico_limonense.]
+
+oficina_de_comunicación_y_mercadeo
+teléfono: (506)_2550-2218 / (506)_2550-9194
+correo electrónico: comunicacionymercadeotec@tec.ac.cr
+    * quiénes_somos
+    * contacto
+    * secciones
+
+    * facebook
+    * twitter
+    * instagram
+    * youtube
+[logo tec]
+
+
+File name: C:\Users\valev\Documents\GitHub\TecuAvances\hoyeneltec\2021\estudiantes-innovaron-resolver-problematicas-reto-itec.html.txt
+Number of changes: 14
+Palabras reemplazadas: alumnos, estudiantes, estudiantes, jueces, participantes, estudiantes, ingeniería, jóvenes, usuarios, ingeniería, ingeniería, ingeniería, estudiantes, estudiantes

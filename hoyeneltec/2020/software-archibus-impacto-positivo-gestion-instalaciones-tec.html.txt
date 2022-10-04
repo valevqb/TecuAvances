@@ -1,0 +1,252 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   Pasar_al_contenido_principal
+****** Hoy_en_el_TEC ******
+
+Viernes 12 de Agosto, 2022
+  |  
+Quiénes_Somos   |   Buscar  
+
+***** Menú *****
+    * Investigación
+    * Desarrollo_Humano
+    * Vida_Estudiantil
+    * Acción_Institucional
+    * Medio_Ambiente
+    * Emprendimiento
+    * Cultura_y_Deporte
+    * Opinión
+    * Buscar
+
+
+****** Software Archibus: un impacto positivo para la gestión de las
+instalaciones del TEC ******
+    * Es una herramienta informática que ayuda a obtener el perfil de los
+      activos desde el punto de vista operativo y financiero
+27 de Octubre 2020 Por: Noemy_Chinchilla_Bravo
+Acción_Institucional
+   Versión_para_imprimir    Descargar_PDF  Compartir por correo electrónico
+Comentarios
+ Compartir en Facebook  Compartir en Twitter        Compartir en WhatsApp
+[Imagen_de_una_persona_con_un_celular_en_la_mano_mostrando_la_herramienta
+Archibus.]
+Esta herramienta posee módulos y aplicaciones que pueden apoyar diferentes
+procesos institucionales, como planificación y gestión de espacios, gestión de
+activos, entre otros.  Foto: Steven Moya Barrientos /TEC.
+
+Contar con un ordenamiento de la información sobre las instalaciones y generar
+datos sobre la gestión y los activos institucionales, son parte de los
+beneficios que ha obtenido el Tecnológico_de_Costa_Rica_(TEC), con la
+implementación del software Archibus.
+Archibus es una herramienta informática que ayuda a obtener el perfil de los
+activos desde el punto de vista operativo y financiero. También permite la
+visualización, planificación, análisis y creación de informes y así obtener el
+mejor conocimiento y control sobre los costos. Además, ayuda a mantener un
+inventario preciso de los activos muebles y equipos.
+Pero, ¿cómo llegó esta herramienta al TEC?  Desde el 2012, el ingeniero Luis
+Gómez Gutiérrez, docente de la Escuela_de_Ingeniería_Electromecánica, tuvo la
+iniciativa de investigar sobre este software, con el objetivo de que el TEC
+tuviera un mayor control de la información sobre sus instalaciones.
+Luis Gómez Gutiérrezy Jeferson Ilama Coto recibieron una capacitación en el
+2018 sobre el uso de Archibus. Foto: Steven Moya Barrientos /TEC.
+Gómez se puso en contacto con el representante de Archibus en Costa Rica y para
+el 2014, el TEC recibió por parte de ellos, en compañía de la empresa Mecsoft,
+una licencia para el uso de esta solución tecnológica.
+La licencia tuvo un costo que rondó los trescientos mil dólares y se enfocó
+en el programa Archibus in Education.
+Según el ingeniero Gómez, al ser una herramienta de clase mundial, es muy
+utilizado por empresas y organizaciones de reconocimiento mundial .
+"Esta tecnología ha permitido un sistema de gestión de mayor eficiencia para la
+administración de la infraestructura del Campus, para convertirlo cada vez más
+en un campus inteligente”.
+Posterior a ello, el ingeniero recibió una capacitación sobre este tema en la
+casa matriz de Archibus, en Boston, y ahí conoció que este software lo que hace
+es integrar todas las operaciones en una sola herramienta.
+A raíz de lo anterior, se propuso la implementación de un plan piloto de
+gestión de instalaciones de cuatro edificios seleccionados.
+****  ¿Cómo funciona  Archibus?  ****
+Es una plataforma cliente- servidor orientada a internet, con lo cual los
+usuarios solo necesitarán un navegador web y una conexión a internet, para
+ingresar al sistema y realizar las solicitudes de los servicios de
+mantenimiento.
+Funciona de manera colaborativa mediante un esquema basado en roles, en el cual
+cada uno cuenta con permisos  solo para las funciones específicas de
+las dependencias a su cargo. Se ubica en la dirección electrónica https://
+teccr.asc-hs.com/archibus/login.axvw y puede ser accesada incluso desde fuera
+del TEC.
+Esta tecnología posee módulos y aplicaciones que pueden apoyar diferentes
+procesos institucionales, como planificación y gestión de espacios, activos
+y cartera de inmuebles; no obstante, se ha iniciado con los de mantenimiento,
+gestión de espacios y control de activos por ser de mayor importancia en este
+momento, para la Vicerrectoría_de_Administración del TEC.
+Con respecto a las solicitudes de mantenimiento, cada usuario puede seleccionar
+el edificio que tiene asignado, especificar el tipo de servicio que necesita
+y señalar la ubicación, ya que esta plataforma cuenta con los planos
+constructivos actualizados de los edificios de esta Casa de Enseñanza Superior.
+El sistema no es solamente para gestión de mantenimiento sino también para
+gestión de la infraestructura. Foto: Ruth Garita Flores/TEC.
+Posteriormente, en el Departamento_de_Administración_de_Mantenimiento_(DAM) se
+hará una revisión de la solicitud y se procederá a planear su ejecución con el
+personal y los recursos requeridos, todo esto en forma automatizada. Al
+solicitante le llegará vía correo electrónico una confirmación de su solicitud
+y podrá dar seguimiento e incluso evaluar la calidad del servicio recibido
+mediante una encuesta de satisfacción.
+   “Lo que pretendemos es llevar un mejor control de todo el costo de
+mantenimiento a la Administración y además darle información a través de datos
+y de indicadores para que haga un análisis y tome decisiones”. Ingeniero Luis
+Gómez, coordinador de Archibus.
+El ingeniero Gómez acota que este sistema no es solamente para gestión de
+mantenimiento sino también para gestión de la infraestructura, por cuanto
+se cuenta con el apoyo de la Oficina_de_Ingeniería, que ha ido alimentando el
+software con planos constructivos actualizados de la Institución, para que
+queden registrados y, con ello, tener un mejor control de los activos.
+Por su parte, el equipo de trabajo responsable de la implementación está
+conformado por los ingenieros: Luis Gómez, coordinador; Gonzalo Varela, de la
+Vicerrectoría de Administración; Luis Gerardo Mata, director de la Oficina de
+Ingeniería; y Manuel Centeno, director del DAM. Además, se cuenta con el apoyo
+de la empresa Interservicios quien  está asesorando en la implementación.
+El coordinar de Archibus detalló que a corto plazo se planea desarrollar una
+estrategia institucional para la implementación de la disciplina  conocida
+internacionalmente como Facility Management, basándose en el trabajo final de
+graduación realizado en el I semestre de 2020, a cargo de la estudiante de la
+Escuela de Ingeniería Electromecánica, Marilyn Solano Quesada.  
+Finalmente, Gómez Gutiérrez expresa que “todos estos esfuerzos se verán
+reflejados en la generación de información en forma de datos actualizados y
+confiables para la toma de decisiones por parte de las autoridades, que busca
+la excelencia operacional, en el manejo de los recursos institucionales, en una
+época en que las limitaciones presupuestarias exigen y plantean nuevos retos,
+para mantener vigente la misión y principios institucionales a través una
+óptima gestión en tiempos de escasez”.
+
+ Archibus, Vicerrectoría_de_Administración, Infraestructura, Departamento_de
+Administración_de_Mantenimiento
+[Noemy Chinchilla Bravo, Comunicadora.]
+**** Noemy_Chinchilla_Bravo ****
+nchinchilla@tec.ac.cr
+Comunicadora
+Licenciada en Relaciones Públicas y Bachiller en Periodismo, Universidad
+Autónoma de Centro América.
+View_the_discussion_thread.
+
+***** Relacionado *****
+**** Logros_institucionales_en_la_gestión_del_mantenimiento_serán_parte_de
+campaña_informativa ****
+20 de Octubre 2020 Por: Noemy_Chinchilla_Bravo
+ [imagen_aérea_del_Campus_Central_de_TEC]
+**** `El_TEC_es_innovación_y_oportunidad,_es_una_universidad_moderna_que_está_a
+la_vanguardia`:_destacan_funcionarios_del_Banco_Mundial ****
+10 de Mayo 2018 Por: Noemy_Chinchilla_Bravo
+ [Grupo_de_personas_posando_para_la_fotografía._Están_ubicados_al_frente_del
+nuevo_edificio_de_la_Escuela_de_Química.]
+**** Archibus_será_el_software_para_la_administración_de_los_activos
+institucionales ****
+19 de Octubre 2018 Por: Noemy_Chinchilla_Bravo
+ [Imagen_de_un_hombre_brindando_un_curso_sobre_la_utilización_de_una
+herramienta_a_funcionarios_del_TEC.]
+**** TEC_mejoró_posiciones_en_los_rankings_nacionales_e_internacionales ****
+24 de Agosto 2018 Por: Kenneth_Mora_Pérez
+ [AEREA_DELTEC]
+
+Oficina_de_Comunicación_y_Mercadeo
+Teléfono: (506)_2550-2218 / (506)_2550-9194
+Correo electrónico: comunicacionymercadeotec@tec.ac.cr
+    * Quiénes_Somos
+    * Contacto
+    * Secciones
+
+    * Facebook
+    * Twitter
+    * Instagram
+    * YouTube
+[logo TEC]

@@ -1,0 +1,256 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   Pasar_al_contenido_principal
+****** Hoy_en_el_TEC ******
+
+Viernes 12 de Agosto, 2022
+  |  
+Quiénes_Somos   |   Buscar  
+
+***** Menú *****
+    * Investigación
+    * Desarrollo_Humano
+    * Vida_Estudiantil
+    * Acción_Institucional
+    * Medio_Ambiente
+    * Emprendimiento
+    * Cultura_y_Deporte
+    * Opinión
+    * Buscar
+
+
+ Inteligencia artificial
+****** Investigación sobre detección de covid-19 usando rayos X produce
+destacadas publicaciones ******
+Dos artículos fueron publicados en revistas científicas del primer cuartil de
+impacto
+ 
+Es una investigación de doctorado para mejorar modelos semisupervisados de deep
+learning para detectar enfermedades usando imágenes médicas
+ 
+14 de Diciembre 2021 Por: Johan_Umaña_Venegas
+Investigación
+   Versión_para_imprimir    Descargar_PDF  Compartir por correo electrónico
+Comentarios
+ Compartir en Facebook  Compartir en Twitter        Compartir en WhatsApp
+[Imagen_de_radiografías_de_pecho.]
+En sus estudios doctorales, el investigador Saúl Calderón se enfocó a estudiar
+el impacto y mitigación de las distribuciones diferentes entre el conjunto de
+datos etiquetado y no etiquetado, en aplicaciones de análisis de imágenes
+médicas. Parte de su investigación lo hizo con imágenes de rayos X de tórax
+para la detección de covid-19. Imagen cortesía S. Calderón.
+
+La utilización de inteligencia artificial para detectar enfermedades a partir
+de imágenes médicas es un campo sumamente prometedor para mejorar los sistemas
+de salud en el mundo, con utilidades que podrían haberse aplicado en la
+respuesta a la pandemia provocada por el covid-19. Sin embargo, quedan muchos
+retos por delante para que estas técnicas sean de amplio uso.
+El primer reto por solucionar es la recopilación de datos. Luego, que los
+modelos de inteligencia artificial tengan la capacidad de operar con alta
+exactitud a pesar de trabajar con conjuntos de datos de distintas fuentes y
+distribuciones.
+Este es el planteamiento de la investigación del M.Sc. Saúl Calderón Ramírez,
+quien está por terminar sus estudios de doctorado en el Instituto_de
+Inteligencia_Artificial,_de_De_Montfort_University, en Leicester, Inglaterra.
+“El enfoque del trabajo fue averiguar qué sucede cuando entrenamos un modelo
+semisupervisado que usa datos no etiquetados y etiquetados en el contexto de
+imágenes médicas. Usar datos etiquetados es muy caro. Cuando entrenas un
+modelo, por ejemplo con datos del Hospital México, es necesario usar datos de
+ese mismo hospital, porque cuando usamos datos de otros hospitales para su uso
+cotidiano, el modelo tiende a tener un rendimiento mucho menor. Esto, dado que
+el modelo se entrenó con datos de pacientes con fisonomía diferente o con
+imágenes adquiridas con distintos parámetros.
+“Entonces, por eso es que es atractivo usar datos no etiquetados porque no
+ocupas de mucha supervisión”, detalló Calderón.
+Según el investigador, la ventaja final de utilizar datos de diferentes
+conjuntos o lotes de procedencia es que mejora la capacidad de “aprendizaje” de
+los modelos computacionales y, con esto, el porcentaje de acierto.
+Calderón forma parte del grupo especializado de investigación Parma (Pattern
+Recognition and Machine Learning), del TEC, en el cual ya ha liderado
+investigaciones para detectar cáncer de mama por medio de mamografías.
+En sus estudios doctorales, se enfocó a estudiar el impacto y mitigación de las
+distribuciones diferentes entre el conjunto de datos etiquetado y no
+etiquetado en aplicaciones de análisis de imágenes médicas. Parte de su
+investigación la hizo con imágenes de rayos X de tórax para la detección de
+covid-19.
+   “Las aplicaciones son muy prometedoras. La academia tiene la posibilidad de
+promover y generar una cultura de investigación orientada a los datos en los
+hospitales, de que realmente los equipos de informática en los hospitales
+construyan conjuntos de datos que utilicen para entrenar los modelos de forma
+continua y que realmente se cercioren de la calidad de los datos, que sean
+representativos, con mitigación de sesgos. Entonces, se podrían generar estos
+modelos, que realmente van a ser muchísimo más efectivos y van a ser de gran
+utilidad a los médicos, tanto para detectar enfermedades como para pronosticar
+el avance de las mismas o incluso definir una ruta de tratamiento”. M.Sc. Saúl
+Calderón Ramírez, especialista en inteligencia artificial.
+**** Producción académica ****
+Como parte de los resultados de ese estudio, Calderón publicó dos artículos en
+prominentes revistas científicas, ubicadas en el primer cuartil de impacto
+dentro de su ámbito.
+Los papers son los siguientes:
+    * Correcting_data_imbalance_for_semi-supervised_Covid-19_detection_using_X-
+      ray_chest_images
+      (Corrección del desequilibrio de datos para la detección de covid-19
+      semisupervisada mediante imágenes de rayos X de tórax).  Publicado en
+      Applied Soft Computing, revista de la World Federation on Soft Computing.
+    * Improving _Uncertainty _Estimation _With _Semi-supervised _Deep 
+      Learning _for _COVID-19_Detection_Using_Chest_X-ray_Images(Mejorando la
+      estimación de la incertidumbre con aprendizaje profundo semisupervisado
+      para la detección de covid-19 mediante imágenes de rayos X de tórax).
+      Publicado en IEEE Access, revista del Instituto de Ingenieros Eléctricos
+      y Electrónicos.
+“Son casos de uso reales del problema que en general se enfrenta cuando usamos
+aprendizaje semisupervisado y se tiene un conjunto de datos no etiquetado o
+etiquetado y tienes otras fuentes de conjuntos de datos no etiquetado. Así que
+el enfoque en general de la tesis fue proponer técnicas que nos permitan medir
+la calidad de un conjunto de datos para imágenes médicas, para análisis de
+imagen analítica. Entonces, de acuerdo a eso, implementar técnicas que nos
+permitan crear un conjunto de datos más relevante para entrenar un modelo
+semisupervisado”, ahondó Calderón.
+El doctorado de Calderón en la Universidad De Montfort también sirvió para
+promover el desarrollo académico de estudiantes del TEC, pues dos alumnos de
+Ingeniería_en_Computación hicieron su práctica en esa casa de estudios inglesa
+e incluso publicaron en una conferencia de renombre.
+Los estudiantesDiego Murillo Hernández y Kevin Rojas Salazar,publicaron el
+paper –junto a Calderón y Luis Alexander Calvo Valverde, también docente del
+TEC– tituladoImproving_Uncertainty_Estimations_for_Mammogram_Classification
+using_Semi-Supervised_Learning(Mejorando las estimaciones de incertidumbre para
+la clasificación de mamografías mediante el aprendizaje semisupervisado), que
+fue publicado en la International_Joint_Conference_on_Neural_Networks(IJCNN
+2021).
+
+ [Imágenes_de_ragiografias.]
+Inteligencia_artificial_podría_facilitar_el_uso_de_radiografías_de_pecho_para
+diagnosticar_COVID-19
+
+ [Imágenes_de_células_con_formas_varias.]
+Cáncer_de_mama:_inteligencia_artificial_agilizará_el_diagnóstico
+
+ Inteiigencia_Artificial, Deep_Learning, Covid-19
+[Johan Umaña Venegas, Comunicador.]
+**** Johan_Umaña_Venegas ****
+johumana@tec.ac.cr
+Comunicador
+Licenciado en Comunicación Colectiva, con énfasis en Periodismo, Universidad de
+Costa Rica.
+View_the_discussion_thread.
+
+***** Relacionado *****
+**** Hacer_avanzar_la_investigación_científica:_motivación_para_ser_tutor_o
+tutora_en_una_investigación_doctoral ****
+20 de Enero 2022 Por: Johan_Umaña_Venegas
+ [La_maqueta_del_aparato,_de_unos_20_cm_de_tamaño._]
+**** Investigador_del_TEC_viaja_a_la_Antártida_para_estudiar_respuesta_de_las
+plantas_al_cambio_climático ****
+3 de Marzo 2022 Por: Johan_Umaña_Venegas
+ [Olman_Gómez_con_un_abrigo_rojo,_frente_a_un_páramo._]
+**** Vicepresidente_y_Viceministra_del_Micitt_visitan_el_TEC_para_conocer_a_los
+científicos_detrás_de_los_respiradores_artificiales ****
+3 de Abril 2020 Por: Irina_Grajales_Navarrete
+ [Diseño__gráfico_de_los_dos_modelos._]
+**** Inteligencia_artificial_podría_facilitar_el_uso_de_radiografías_de_pecho
+para_diagnosticar_COVID-19 ****
+6 de Agosto 2020 Por: Johan_Umaña_Venegas
+ [Imágenes_de_ragiografias.]
+
+Oficina_de_Comunicación_y_Mercadeo
+Teléfono: (506)_2550-2218 / (506)_2550-9194
+Correo electrónico: comunicacionymercadeotec@tec.ac.cr
+    * Quiénes_Somos
+    * Contacto
+    * Secciones
+
+    * Facebook
+    * Twitter
+    * Instagram
+    * YouTube
+[logo TEC]

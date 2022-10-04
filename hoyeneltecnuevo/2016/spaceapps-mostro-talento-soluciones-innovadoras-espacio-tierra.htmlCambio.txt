@@ -1,0 +1,262 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   pasar_al_contenido_principal
+****** hoy_en_el_tec ******
+
+viernes 12 de agosto, 2022
+  |  
+quiénes_somos   |   buscar  
+
+***** menú *****
+    * investigación
+    * desarrollo_humano
+    * vida_estudiantil
+    * acción_institucional
+    * medio_ambiente
+    * emprendimiento
+    * cultura_y_deporte
+    * opinión
+    * buscar
+
+
+****** spaceapps mostró talento y soluciones innovadoras para el espacio y la
+tierra ******
+26 de abril 2016 por: noemy_chinchilla_bravo
+vida_estudiantil
+investigación
+   versión_para_imprimir    descargar_pdf  compartir por correo electrónico
+comentarios
+ compartir en facebook  compartir en twitter        compartir en whatsapp
+
+     quienes forman parte del equipo ganador “ bocaracá” junto a los coordinadores del
+     isac,  jeff schmidt  y  maría estrada, ministro de ciencia y
+     tecnología, marcelo jenkins. (foto ocm)  
+      
+    * hackaton organizado por la nasa se realizó en más de 140 ciudades
+      alrededor del mundo de manera simultánea.tec fue la sede en costa rica
+      por segunda ocasión del evento donde participaron 17 equipos.
+ earth- live fue el proyecto ganador en el   international_space_apps_challenge
+(isac) patrocinado por la administración_nacional_de_la_aeronáutica_y_el
+espacio_(nasa),  realizado en el tec, el fin de semana. 
+este  proyecto es una herramienta que permite visualizar una problemática
+existente y facilitar la articulación de esfuerzos para mitigar las
+consecuencias de la liberación de co2 en la atmósfera.
+los creadores de este proyecto pertenecen  al equipo bocaracá y ricardo
+jiménez, miembro de este equipo indicó: “nos enaltece mucho el haber quedado en
+el primer lugar representando a costa rica”.
+el segundo lugar lo obtuvo el equipo arrukö con el proyecto don´t crash my
+drone , una aplicación que busca las mejores rutas para el drone, al tomar en
+cuenta los criterios para definir cuándo es seguro o no volar. la aplicación es
+un asistente de vuelo que contará con una interface amigable con el usuario.
+además, se podrá ver una representación gráfica del tráfico de los drones
+registrados en la app y las rutas aproximadas de los aviones en la zona.
+en la categoríapeople´s choice, el premio lo obtuvo tig: team infinity gaunlet
+con el proyecto yöbí jula, un guante que permite brindar sensibilidad al
+astronauta. 
+**** la competencia ****
+el reto consistió en 36 horas continuas de hackathon,durante las cuales grupos
+de tecnólogos, científicos, diseñadores, artistas, educadores, empresarios,
+desarrolladores y gremio estudiantil de todo el mundo se unieron y colaboraron para
+trabajar y diseñar soluciones innovadoras a los desafíos globales en los campos
+de aeronáutica, estación espacial internacional, sistema solar, tecnología,
+tierra y viaje a marte.
+el desarrollar la aplicación sin duda era el principal desafío, así como
+mantenerse trabajando durante las 36 horas del certamen. los  juegos de mesa
+tradicionales, clases de yoga, pilatesy las tazas de café se encargaron de
+mantener a los quienes participan alertas durante la competición que terminó el
+domingo por la tarde. 
+los equipos de trabajo eran en su mayoría programadores, sin embargo las
+multidisciplinas surgieron en cada de las aplicaciones que se
+desarrollaban.computación, diseño industrial, electrónica, forestal,
+mecatrónica y administración de tecnologías de información tuvieron
+representación en muchos de los equipos quienes participan. 
+para paulette herrera, integrante del equipo team infinity gaunlet, el
+participar de este reto le permite crecer y ganar experiencia en su carrera de
+estudio.
+“es gratificante ver como la población costarricense se permite asistir a estas
+actividades y demostrar que costa rica puede apoyar a través de la innovación,
+la ciencia y la tecnología en la solución de problemas de la humanidad y el
+espacio. durante todo el fin de semana, se notó el valioso esfuerzo pero
+además, la parte solidaria demostrada este fin de semana, verlos como cada
+equipo cuida, motiva y gestiona a sus compañeros. sin duda se cumplieron los
+objetivos de la actividad planteados por nasa y por el tec” afirmó la máster
+maría estrada, coordinadora del  international space apps challenge.
+el máster jeff schmidt, coordinador del isac mencionó que este tipo de eventos
+permite dar oportunidad  de impacto a los quienes participan, ya que  busca la
+solución a problemas globales y de la vida en el espacio.
+**** apoyo mentoring ****
+cada uno de los equipos tuvo como apoyo la guía de personas expertas en diversas
+temáticas que fungieron como mentores. se contó con la ayuda de más de 20
+personas y algunos brindaron su conocimiento presencial y otras personas virtualmente.
+el apoyo fue recibido dentro y fuera del país.
+la máster  ivonne madrigal, docente de la escuela_de_ingeniería_en_diseño
+industrial, destacó que “es muy importante ver los esfuerzos que hacen los
+equipos, sobre todo la multidisciplinariedad, el poder trabajar con grupos de
+diferentes  carreras, áreas e instituciones es fundamental. como mentora poder
+apoyarlos es importante pero es más importante el trabajo que ellos están
+realizando”.
+por su parte el dr. sander pacheco,asesor delministro_de_ciencia,_tecnología  
+y_telecomunicaciones,fungió como mentor en las áreas de computación, sistemas
+de información geográfico, economía y administración de proyectos.“el impulsar
+a estos juventud a retos como este, que es una competencia mundial, los
+desarrolla como futuros científicos y tecnólgos. ojalá logren  sus sueños y
+puedan llevar a buen puerto estos proyectos que tienen como meta”, resaltó.en
+la actividad de cierre y premiación, se hizo presente el vicerrector de
+docencia, ing. luis paulino méndez, así como el ministro de ciencia,
+tecnología   y telecomunicaciones, dr. marcelo jenkins.   
+jenkins felicitó a los gremio estudiantil de las diferentes instituciones por resolver
+problemas, 17 proyectos  interesantes que resuelven los problemas bajo los
+lineamientos de la nasa.“sigan  trabajando usando su imaginación tomen sus
+ideas  y la experiencia  obtenida para diseñar un prototipo, producto o
+servicio , esta es la semilla para  crear una empresa  con talento nacional,
+que  produce  empleo y los hace emprendedores”.
+[https://www.tec.ac.cr/hoyeneltec/sites/default/files/media/uploads/
+space_2.png]
+     quienes forman parte del equipo “arrukö”, ganadores del segundo lugar junto jeff
+     schmidt , maría estrada y marcelo jenkins. (foto ocm).
+      
+      
+     [https://www.tec.ac.cr/hoyeneltec/sites/default/files/media/uploads/
+     space_4.png]
+     el equipo “team infinity gaunlet”,  ganadores en la categoría
+      people´s choice lugar junto  jeff schmidt , maría estrada y marcelo
+     jenkins.(foto ocm)
+ 
+[https://www.tec.ac.cr/hoyeneltec/sites/default/files/media/uploads/
+space_5.png]
+     los equipos expusieron su proyecto al jurado en cuatro minutos.(foto
+     ocm)
+ 
+     [https://www.tec.ac.cr/hoyeneltec/sites/default/files/media/uploads/
+                                 space_6.png]
+     quienes forman parte del jurado (camisa roja), mentores (camisa verde),
+     coordinación y personal de apoyo de logístico (camisa negra),
+     quienes participan (camisa celeste) y otras personas colaboradores compartieron
+     durante todo el fin de semana en el international space apps
+     challenge.(foto ocm).
+ 
+                                        
+      
+ 
+ 
+[noemy chinchilla bravo, comunicadora.]
+**** noemy_chinchilla_bravo ****
+nchinchilla@tec.ac.cr
+comunicadora
+licenciada en relaciones públicas y bachiller en periodismo, universidad
+autónoma de centro américa.
+view_the_discussion_thread.
+
+***** relacionado *****
+**** aplicación_médica_española_con_sello_tico ****
+16 de septiembre 2014 por: redacción
+**** investigación_en_transporte_de_sedimentos_en_río_la_estrella_se_fortalece
+gracias_al_programa_de_movilidad_estudiantil ****
+18 de septiembre 2014 por: redacción
+**** éxito_en_japón:_proyecto_musa_ganó_en_importante_competencia_astronáutica
+****
+4 de diciembre 2019 por: geovanni_jiménez_mata
+ [grupo-de-proyecto-musa-celebrando-en-japon-]
+**** los_gremio estudiantil_y_la_investigación:_una_relación_de_mutuo_beneficio ****
+23 de noviembre 2020 por: fernando_montero_bolaños
+ [imagen_de_un_tope_de_caballos_en_liberia,_guanacaste.]
+
+oficina_de_comunicación_y_mercadeo
+teléfono: (506)_2550-2218 / (506)_2550-9194
+correo electrónico: comunicacionymercadeotec@tec.ac.cr
+    * quiénes_somos
+    * contacto
+    * secciones
+
+    * facebook
+    * twitter
+    * instagram
+    * youtube
+[logo tec]
+
+
+File name: C:\Users\valev\Documents\GitHub\TecuAvances\hoyeneltec\2016\spaceapps-mostro-talento-soluciones-innovadoras-espacio-tierra.html.txt
+Number of changes: 13
+Palabras reemplazadas: miembros, estudiantes, participantes, participantes, participantes, expertos, otros, jóvenes, estudiantes, miembros, miembros, participantes, otros

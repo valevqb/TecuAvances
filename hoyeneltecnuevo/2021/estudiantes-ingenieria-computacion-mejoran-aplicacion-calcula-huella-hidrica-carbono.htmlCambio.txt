@@ -1,0 +1,310 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   pasar_al_contenido_principal
+****** hoy_en_el_tec ******
+
+viernes 12 de agosto, 2022
+  |  
+quiénes_somos   |   buscar  
+
+***** menú *****
+    * investigación
+    * desarrollo_humano
+    * vida_estudiantil
+    * acción_institucional
+    * medio_ambiente
+    * emprendimiento
+    * cultura_y_deporte
+    * opinión
+    * buscar
+
+
+ campus tecnológico local san carlos
+****** gremio estudiantil de personas ingeniera en computación mejoran aplicación que calcula
+la huella hídrica y de carbono ******
+trabajo conjunto entre la comunidad de aplicaciones móviles del tec y la
+fundación plan 21
+ 
+la aplicación yvy está diseñada para apoyar a pequeños agricultores y grupos
+comunitarios latinoamericanos
+18 de agosto 2021 por: telka_guzmán_alvarado
+acción_institucional
+vida_estudiantil
+investigación
+   versión_para_imprimir    descargar_pdf  compartir por correo electrónico
+comentarios
+ compartir en facebook  compartir en twitter        compartir en whatsapp
+[grupo_de_gremio estudiantil_integrantes_de_la_comunidad_de_aplicaciones_móviles
+reunidos_en_un_aula.]
+desde su creación, la comunidad de aplicaciones móviles ha trabajado en más de
+10 proyectos. la imagen fue tomada antes de la pandemia por covid-19. foto
+cortesía de diego armando rojas vega.
+
+con el propósito de mejorar la aplicación yvy, la cual calcula la huella
+hídrica de un cultivo, la fundación plan 21 unió esfuerzos con los gremio estudiantil
+de la comunidad de aplicaciones móviles, de la carrera de personas ingeniera en
+computación, del campus tecnológico local san carlos.
+esta colaboración entre fundación plan 21 y el tec-campus san carlos se da en
+el marco del fortalecimiento de la protección ambiental y la calidad de vida de
+los seres humanos, contribuyendo con la implementación de mejores prácticas
+para la producción de bienes y servicios que promuevan la sostenibilidad
+ambiental y social, así como el consumo consciente, por medio del desarrollo de
+la investigación, la extensión, la acción social, la innovación científico-
+tecnológica pertinente y el intercambio de profesionales y gremio estudiantil.
+meses atrás, la carrera de personas ingeniera en computación del campus tecnológico
+local san carlos recibió la invitación de la fundación plan 21 para ser parte
+de su equipo de trabajo   en el call for coude de ibm, competencia que desafía
+a desarrolladores, tecnólogos y gremio estudiantil del mundo a innovar por una buena
+causa, y que ibm lidera como socio fundador.
+la aplicación yvy, que calcula la huella hídrica, creada en un inicio como
+prototipo por la fundación plan 21, es una solución integral para la
+agricultura regenerativa, y está diseñada para apoyar a pequeños agricultores y
+grupos comunitarios latinoamericanos, especialmente los que se encuentran en
+riesgo climático.
+   “hemos avanzado en el prototipo diseñado para apoyar a pequeños agricultores
+y grupos comunitarios latinoamericanos, especialmente los que se encuentran en
+riesgo climático. es por esto que, para nosotros en plan 21, el trabajo
+colaborativo, en este caso con los gremio estudiantil de la comunidad de aplicaciones
+móviles del tec san carlos, es clave para la implementación de opciones
+regenerativas en américa latina. gracias a su aporte en la mejora de nuestro
+prototipo cientos de personas se verán beneficiadas”. fabián román, presidente
+de la fundación plan 21
+con 6 integrantes de la comunidad de aplicaciones móviles de la carrera de
+personas ingeniera en computación del campus tecnológico local san carlos se logró que
+yvy migrara a una nueva tecnología y solucionara algunos errores que tenía. de
+esta manera, dejó de ser un prototipo y se convirtió en una aplicación. ahora
+no solo calcula la huella hídrica, sino también la huella de carbono de los
+cultivos.
+los gremio estudiantil lograron mejorarla al desarrollar, desde cero, el proceso para
+validar la huella ecológica de un producto. este proceso consiste en:
+*** desde la web: ***
+-registrar de la finca.
+-subir las certificaciones orgánicas que se poseen.
+-calcular la huella de carbono.
+-calcular la huella hídrica de cada producto que desee obtener la certificación
+ambiental.
+-revisión de la información por parte de un evaluador.
+-el sistema brinda un código qr, si el producto cumple con los requisitos.
+*** en la app: ***
+-los consumidores podrán descargarla y escanear el código qr para ver toda la
+información asociada al producto, sus huellas ecológicas y certificación.
+para diego rojas vega, profesor de la carrera de personas ingeniera en computación y
+coordinador de la comunidad de aplicaciones móviles, haber participado con la
+fundación plan 21 en el call for coude de ibm abre puertas para que el tec
+pueda desarrollar más proyectos con ibm. agrega que la calidad del producto
+entregado fue alta y que, a pesar de que aún no están los resultados de esta
+competencia, los organizadores de la misma mostraron interés   para seguir
+trabajando en este proyecto.
+“esta participación les brindó una oportunidad a los integrantes de la
+comunidad de aplicaciones móviles, mostrándoles que todo el empeño y dedicación
+que dieron a la comunidad durante estos años realmente fue provechosa”, destacó
+rojas.
+el coordinador de la comunidad de aplicaciones móviles afirma que la principal
+ventaja en la mejora de la aplicación yvy fue que los gremio estudiantil ya estaban
+capacitados en la tecnología y contaban con habilidades blandas aprendidas y
+pulidas durante los desarrollos de proyectos que han realizado en la comunidad
+durante todos estos años.
+      “pienso que este tipo de actividades son importantes para nosotros como
+gremio estudiantil, puesto que aprendemos a trabajar de una forma eficaz, eficiente y
+en conjunto, además de que nos damos de frente con posibles problemas y,
+gracias a esto, se aprende muchísimo”. diego carrillo, estudiante miembro de la
+comunidad de aplicaciones móviles
+para gerald vargas, estudiante y miembro de la comunidad de aplicaciones
+móviles, trabajar en este proyecto fue un motor de motivación por el hecho de
+tener un acercamiento a otras personas áreas de conocimiento distintas a las
+acostumbradas por su formación académica. por ejemplo, las capacitaciones que
+brindó la fundación plan 21 fueron en áreas como la carbono neutralidad y la
+evapotranspiración.
+“considero que el haber pertenecido a la comunidad de aplicaciones móviles tuvo
+una gran repercusión en este proyecto ya que nos permitió adquirir las
+habilidades personal técnico y blandas necesarias para planear, organizar y desarrollar
+el sistema”,declaró vargas.
+isaac granados, integrante de esta misma comunidad, coincide con sus compañeros
+de trabajo. menciona que esta oportunidad les ayuda a fortalecer las áreas de
+aprendizaje, permitiendo formarse como profesionales con mejores herramientas.
+“nosotros, al ser gremio estudiantil, tenemos que aprovechar este tipo de
+acercamientos, ya que son experiencias ganadas. poder trabajar con personas de
+otros lugares de forma remota refuerza mucho la parte comunicativa que es bien
+importante en el área laboral. en general, ponemos a prueba la mayoría de
+nuestras habilidades blandas”, señaló granados.
+javier araya también es miembro de este grupo. él considera que este tipo de
+acercamientos son fundamentales, ya que para los gremio estudiantil es importante
+crear vínculos y contactos con profesionales fuera de la institución, el
+estudiante se da a conocer como futuro profesional y, a la misma vez, aprende
+mucho en el proceso.
+“la participación en este proyecto me pareció de mucha ayuda para mi carrera
+profesional, gané mucha experiencia y aprendí mucho de temas del ámbito
+ambiental, que muchas veces, como programadores, no tomamos en cuenta y que
+considero es de suma importancia”, manifestó araya.
+para gaudy esquivel vega, coordinadora de la carrera de personas ingeniera en
+computación del campus tecnológico local san carlos, desde la tecnología se
+puede contribuir de muchas maneras con la implementación de mejores prácticas
+para la producción de bienes y servicios que promuevan la sostenibilidad
+ambiental y social, así como el consumo consciente. la aplicación yvy es un
+ejemplo de ello.
+agrega que para la carrera es un gusto poder ayudar y a su vez crear la
+sensibilización en los gremio estudiantil sobre la relevancia del tema y la
+contribución que puede realizar.
+      “cada día que pasa tenemos la oportunidad de poder reversar o aminorar el
+efecto en el ambiente y así contribuir y mejorar la calidad de vida de los
+seres humanos”. gaudy esquivel vega, coordinadora de la carrera de personas ingeniera
+en computación del campus tecnológico local san carlos
+desde su creación, en el año 2010, la comunidad de aplicaciones móviles ha
+desarrollado gran variedad de proyectos. cada uno de ellos cuenta con su módulo
+para personal usuario finales y otro para la parte administrativa del sistema. los
+siguientes son algunos ejemplos:
+    * soda institucional (módulo de cajas, módulo de nutrición, módulo de
+      inventario, módulo de recargas) 
+    * transportes
+    * infotec
+    * odontología (módulo de citas, módulo de examen clínico)
+    * biblioteca (módulo de préstamos, módulo de inventario, módulo de
+      cubículos)
+    * averías de la municipalidad de san carlos (módulo para reporte de
+      averías, módulo de cuadrilla, módulo del jefe de cuadrilla, módulo
+      administrativo)
+    * área legal (módulo de resoluciones, módulo para patentes)
+    * reservas ctec
+    * reservas de la biblioteca josé figueres
+la fundación plan 21 es una organización no gubernamental nacida en argentina y
+trabaja en latinoamérica con la misión de preservar los recursos naturales y
+mejorar la calidad de vida de las comunidades, facilitando procesos
+participativos y promoviendo la implementación de mejores prácticas públicas y
+privadas en el marco del desarrollo humano sostenible.
+en el siguiente enlace puede ver la presentación de la aplicación yvy en el
+call for coude de ibm.
+
+
+ campus_tec_san_carlos, personas ingeniera_en_computación, yvy, fundación_plan_21
+[telka paulette guzmán alvarado. comunicadora, campus tecnológico local  san
+carlos.]
+**** telka_guzmán_alvarado ****
+tkguzman@tec.ac.cr
+comunicadora, campus tecnológico local san carlos.
+view_the_discussion_thread.
+
+***** relacionado *****
+**** consejo_institucional_se_pronuncia_ante_la_declaratoria_de_emergencia_por
+violencia_sexual ****
+30 de mayo 2019 por: kenneth_mora_pérez
+ [gremio estudiantil_en_conferencia_de_prensa]
+**** vinculación_a_pesar_de_la_pandemia ****
+19 de mayo 2020 por: fernando_montero_bolaños
+ [captura_de_pantalla_de_una_sesión_de_la_semana_de_vinculación_con_la
+industria]
+**** grupo_del_campus_san_carlos_busca_soluciones_en_hackatón_contra_covid-19
+****
+26 de marzo 2020 por: telka_guzmán_alvarado
+ [imagen_de_pantalla_con_coronavirus]
+**** un_"punto_de_encuentro"_con_la_arquitectura_y_el_urbanismo ****
+18 de febrero 2021 por: fernando_montero_bolaños
+ [pictograma_de_personas_y_flechas]
+
+oficina_de_comunicación_y_mercadeo
+teléfono: (506)_2550-2218 / (506)_2550-9194
+correo electrónico: comunicacionymercadeotec@tec.ac.cr
+    * quiénes_somos
+    * contacto
+    * secciones
+
+    * facebook
+    * twitter
+    * instagram
+    * youtube
+[logo tec]
+
+
+File name: C:\Users\valev\Documents\GitHub\TecuAvances\hoyeneltec\2021\estudiantes-ingenieria-computacion-mejoran-aplicacion-calcula-huella-hidrica-carbono.html.txt
+Number of changes: 20
+Palabras reemplazadas: estudiantes, ingeniería, estudiantes, ingeniería, estudiantes, ingeniería, estudiantes, estudiantes, estudiantes, ingeniería, estudiantes, otras, técnicas, estudiantes, estudiantes, ingeniería, estudiantes, ingeniería, usuarios, ingeniería

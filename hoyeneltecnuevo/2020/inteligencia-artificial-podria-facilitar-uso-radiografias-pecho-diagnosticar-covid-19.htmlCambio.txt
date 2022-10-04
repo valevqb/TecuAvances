@@ -1,0 +1,264 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   pasar_al_contenido_principal
+****** hoy_en_el_tec ******
+
+viernes 12 de agosto, 2022
+  |  
+quiénes_somos   |   buscar  
+
+***** menú *****
+    * investigación
+    * desarrollo_humano
+    * vida_estudiantil
+    * acción_institucional
+    * medio_ambiente
+    * emprendimiento
+    * cultura_y_deporte
+    * opinión
+    * buscar
+
+
+ sistema de deep learning
+****** inteligencia artificial podría facilitar el uso de radiografías de pecho
+para diagnosticar covid-19 ******
+investigador del tec comprobó la utilidad de algoritmo semisupervisado para
+mejorar la identificación de imágenes de rayos x
+6 de agosto 2020 por: johan_umaña_venegas
+desarrollo_humano
+investigación
+   versión_para_imprimir    descargar_pdf  compartir por correo electrónico
+comentarios
+ compartir en facebook  compartir en twitter        compartir en whatsapp
+[imágenes_de_ragiografias.]
+cortesía s. calderón. 
+
+las radiografías de pecho podrían ser de utilidad para determinar si una
+persona está infectada, o no, con el nuevo coronavirus que causa la enfermedad
+covid-19. incluso, este diagnóstico podría realizarse asistido por computadora,
+utilizando personal técnico avanzadas de inteligencia artificial, como el deep
+learning.
+esa es la tesis que persiguen un grupo de cuerpo de investigación de universidades de
+reino unido y españa, liderado por el ing. saúl calderón ramírez, docente e
+investigador del tecnológico_de_costa_rica_(tec), quien realiza estudios de
+doctorado en el instituto_de_inteligencia_artificial,_de_de_montfort
+university, en leicester, inglaterra.
+“el tema de interés es desarrollar un modelo de inteligencia artificial para
+estimar, a partir de imágenes de rayos x de pechos, daños por covid-19. sería
+utilizar esto como una herramienta de asistencia para el diagnóstico de la
+enfermedad (...).
+“nuestro objetivo es desarrollar un sistema de inteligencia artificial que
+ojalá mejore la sensibilidad de diagnóstico respecto a un radiólogo y que
+entonces se pueda usar como un sistema de triage o de tamizaje, para detectar
+pacientes que tienen daños por covid-19, en forma más rápida”, comenta
+calderón  
+el problema, explica calderón y demás cuerpo de investigación en su estudio, es que los
+sistemas de deep learning –o aprendizaje profundo– típicamente trabajan con
+grandes bases de datos para entrenar a las computadoras para que puedan
+identificar imágenes con un alto porcentaje de acierto. pero es difícil
+conseguir datos etiquetados del covid, por el rápido avance de la pandemia.
+así que los especialistas plantean que una solución viable es implementar
+algoritmos “semisupervisados”, que ayuden al sistema a lidiar con la escasez de
+datos. esto lo detallan en un paper aceptado para la edición 25_de_la
+conferencia_internacional_sobre_reconocimiento_de_patrones (icpr o
+international conference on pattern recognition, en inglés), que se debió
+realizar en 2020 en italia, pero se postergó para inicios del próximo año por
+motivos de la pandemia.
+“nosotras personas personas lo que hicimos fue crear un modelo, utilizando aprendizaje
+semisupervisado, puesto que existen muy pocas imágenes marcadas o que sabemos
+que son de covid-19. entonces lo que hicimos fue entrenar un modelo con
+imágenes no marcadas, y obtuvimos muy buenos resultados”, ahonda calderón.
+con este método se puede llegar a un 90% de acierto al identificar pacientes
+con covid-19, 15% más que sin el algoritmo semisupervisado, detallan calderón y
+los otras personas personas cuerpo de investigación, procedentes de universidades de españa y reino unido.
+   "el uso de modelos semisupervisados permite explotar datos no etiquetados,
+puesto que la etiquetación en el dominio de clase médica es cara. actualmente
+investigamos la relación del aprendizaje semisupervisado con la explicabilidad
+y la robustez del modelo". saúl calderón, investigador del tec
+**** apoyo de la tecnología ****
+según calderón, este método de diagnóstico podría ser de gran ayuda en centros
+clase médica en comunidades alejadas, donde es limitado el acceso a pruebas de la
+covid-19, como las pcr (siglas en inglés de reacción en cadena de la
+polimersa), que son las más utilizadas.
+“el acceso a equipo de rayos x es por lo general más fácil o está más
+diseminado que otras personas tecnologías, por lo que a veces es más fácil hacer una
+radiografía que tener acceso a un laboratorio para análisis de adn. por eso
+creemos que un sistema de este tipo, como el que estudiamos, puede usarse como
+método de diagnóstico”, destaca el investigador.
+estos sistemas de inteligencia artificial se pueden acceder de forma remota,
+por lo que un técnico o médico podría enviar la imagen de la radiografía con su
+teléfono celular y recibir en breve una respuesta.
+el equipo del que forma parte calderón no es el único estudiando cómo el
+análisis de datos puede ser de utilidad a autoridades de salud o clase médica ante
+la pandemia. desde el manejo epidemiológico, hasta la atención de pacientes,
+estas tecnologías sumadas a la inteligencia artificial pueden ser de gran
+utilidad.
+un ejemplo es el_estudio_de_cuerpo de investigación_del_kings_college_de_londres, en el
+que analizaron datos de 1.600 personas de estados unidos y reino unido
+(recolectadas por un app) para definir que existen “seis tipos de covid”, o
+seis formas típicas en las que los pacientes se ven afectados.
+el uso de algoritmos de machine learning también sirvió para identificar la
+progresión de los síntomas, por lo que podría ser de gran utilidad a los
+clase médica para identificar cómo podría afectar la enfermedad a un determinado
+paciente y cómo tratarlo preventivamente.  
+esto luego se confirmó con otra base de datos, de 1.000 personal usuario de estados
+unidos, reino unido y suecia.
+de manera similar, calderón afirma que al sistema que ellos están desarrollando
+se le podría agregar más información, como los síntomas que presentan los
+pacientes, para mejorar los niveles de acierto. 
+“construir un sistemas donde incluyamos no solo datos de imágenes de rayos x,
+si no también patrones sintomáticos, datos fisiológicos, metabólicos, y otras personas personas,
+podría generar un modelo para hacer estimaciones mucho más precisas”, argumenta
+calderón.
+ 
+**** sistema a la medida ****
+en un segundo avance de la investigación, calderón y los demás cuerpo de investigación
+buscan mejorar la efectividad del algoritmo semisupervisado y, a la vez, hacer
+que funcione con distintas aplicaciones de datos.
+esto permitiría desarrollar herramientas de diagnóstico “a la medida”, para
+distintos países, adecuado a la forma en la que la enfermedad está afectando
+una zona determinada. específicamente, se busca aplicar la técnica con datos de
+costa rica. 
+“un virus de estos tiene distintos comportamientos, muta, hay distintas cepas y
+puede que se exprese de forma distinta en las radiografías. por eso es
+importante construir un modelo a la medida, que responda al comportamiento de
+la enfermedad en un país determinado. no sería aconsejable usar un modelo de
+inteligencia artificial desarrollado con datos de estados unidos para
+diagnosticar pacientes de costa rica, porque puede que haya diferencias sutiles
+respecto a las manifestaciones de la enfermedad visibles en las radiografías”,
+finaliza calderón.
+
+ covid-19, inteligencia_artificial, rayos_x, deep_learning
+[johan umaña venegas, comunicador.]
+**** johan_umaña_venegas ****
+johumana@tec.ac.cr
+comunicador
+licenciado en comunicación colectiva, con énfasis en periodismo, universidad de
+costa rica.
+view_the_discussion_thread.
+
+***** relacionado *****
+**** cáncer_de_mama:_inteligencia_artificial_agilizará_el_diagnóstico ****
+2 de septiembre 2019 por: johan_umaña_venegas
+ [imágenes_de_células_con_formas_varias.]
+**** el_primer_ingeniero_doctorado_por_el_tec_sigue_creando_inteligencia
+artificial,_ahora_en_japón ****
+9 de noviembre 2020 por: johan_umaña_venegas
+ [el_ingeniero_con_su_hijo,_en_coche,_a_la_par_de_un_venado.]
+**** científicos_crean_la_versión_2.0_del_respirador_para_pacientes_con_covid-
+19 ****
+23 de febrero 2022 por: irina_grajales_navarrete
+ [científicos_posan_para_la_fotografia_al_lado_del_respirador]
+**** motivaciones_de_los_turistas_cambian_de_acuerdo_a_su_edad_y_condición
+económica ****
+17 de junio 2021 por: johan_umaña_venegas
+ [vista_del_volcán_arenal_en_la_tarde.]
+
+oficina_de_comunicación_y_mercadeo
+teléfono: (506)_2550-2218 / (506)_2550-9194
+correo electrónico: comunicacionymercadeotec@tec.ac.cr
+    * quiénes_somos
+    * contacto
+    * secciones
+
+    * facebook
+    * twitter
+    * instagram
+    * youtube
+[logo tec]
+
+
+File name: C:\Users\valev\Documents\GitHub\TecuAvances\hoyeneltec\2020\inteligencia-artificial-podria-facilitar-uso-radiografias-pecho-diagnosticar-covid-19.html.txt
+Number of changes: 11
+Palabras reemplazadas: técnicas, investigadores, investigadores, otros, investigadores, médicos, otras, médicas, usuarios, otros, investigadores
