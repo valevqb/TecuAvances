@@ -256,6 +256,6 @@ correo electrónico: comunicacionymercadeotec@tec.ac.cr
 [logo tec]
 
 
-File name: C:\Users\valev\Documents\GitHub\TecuAvances\hoyeneltec\2022\zona-economica-especial-sigue-dando-pasos-firmes-desarrollo-cartago.html.txt
+File name: hoyeneltec\2022\zona-economica-especial-sigue-dando-pasos-firmes-desarrollo-cartago.html.txt
 Number of changes: 5
 Palabras reemplazadas: miembros, miembros, gerentes, miembros, mujeres

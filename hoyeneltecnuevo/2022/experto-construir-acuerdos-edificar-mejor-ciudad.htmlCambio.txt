@@ -861,6 +861,6 @@ correo electrónico: comunicacionymercadeotec@tec.ac.cr
 [logo tec]
 
 
-File name: C:\Users\valev\Documents\GitHub\TecuAvances\hoyeneltec\2022\experto-construir-acuerdos-edificar-mejor-ciudad.html.txt
+File name: hoyeneltec\2022\experto-construir-acuerdos-edificar-mejor-ciudad.html.txt
 Number of changes: 25
 Palabras reemplazadas: docentes, estudiantes, interesados, otras, usuarios, expertos, otros, otros, funcionarios, funcionarios, funcionarios, funcionarios, funcionarios, funcionarios, otros, otras, otras, ingeniería, funcionarios, otros, otras, otros, estudiantes, otros, otras

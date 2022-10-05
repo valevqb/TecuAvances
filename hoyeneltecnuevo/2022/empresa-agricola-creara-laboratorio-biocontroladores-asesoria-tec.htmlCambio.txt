@@ -328,6 +328,6 @@ correo electrónico: comunicacionymercadeotec@tec.ac.cr
 [logo tec]
 
 
-File name: C:\Users\valev\Documents\GitHub\TecuAvances\hoyeneltec\2022\empresa-agricola-creara-laboratorio-biocontroladores-asesoria-tec.html.txt
+File name: hoyeneltec\2022\empresa-agricola-creara-laboratorio-biocontroladores-asesoria-tec.html.txt
 Number of changes: 16
 Palabras reemplazadas: asesoría, gerentes, asesoría, trabajadoras, asesoría, otros, trabajadoras, otros, asesoría, trabajadoras, químicos, otras, otras, investigadores, otras, estudiantes

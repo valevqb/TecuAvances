@@ -257,6 +257,6 @@ correo electrónico: comunicacionymercadeotec@tec.ac.cr
 [logo tec]
 
 
-File name: C:\Users\valev\Documents\GitHub\TecuAvances\hoyeneltec\2022\cientificos-crean-version-20-respirador-pacientes-covid-19.html.txt
+File name: hoyeneltec\2022\cientificos-crean-version-20-respirador-pacientes-covid-19.html.txt
 Number of changes: 6
 Palabras reemplazadas: investigadores, médicas, expertos, médicos, otros, ingenieros

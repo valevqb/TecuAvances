@@ -230,6 +230,6 @@ correo electrónico: comunicacionymercadeotec@tec.ac.cr
 [logo tec]
 
 
-File name: C:\Users\valev\Documents\GitHub\TecuAvances\hoyeneltec\2022\joven-madre-recibio-titulo-ingeniera.html.txt
+File name: hoyeneltec\2022\joven-madre-recibio-titulo-ingeniera.html.txt
 Number of changes: 17
 Palabras reemplazadas: estudiantes, ingeniería, otros, estudiantes, ingeniería, amigos, funcionarios, ingeniería, otros, estudiantes, estudiantes, hombres, mujeres, rectoría, estudiantil, ingeniería, estudiantes

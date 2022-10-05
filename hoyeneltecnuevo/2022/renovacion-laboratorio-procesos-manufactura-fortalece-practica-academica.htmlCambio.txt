@@ -251,6 +251,6 @@ correo electrónico: comunicacionymercadeotec@tec.ac.cr
 [logo tec]
 
 
-File name: C:\Users\valev\Documents\GitHub\TecuAvances\hoyeneltec\2022\renovacion-laboratorio-procesos-manufactura-fortalece-practica-academica.html.txt
+File name: hoyeneltec\2022\renovacion-laboratorio-procesos-manufactura-fortalece-practica-academica.html.txt
 Number of changes: 19
 Palabras reemplazadas: ingeniería, otros, estudiantes, otros, técnicas, estudiantes, estudiantes, ingeniería, ingeniería, otros, otros, estudiantes, alumnos, otras, otras, estudiantes, estudiantes, estudiantes, técnicos

@@ -283,6 +283,6 @@ correo electrónico: comunicacionymercadeotec@tec.ac.cr
 [logo tec]
 
 
-File name: C:\Users\valev\Documents\GitHub\TecuAvances\hoyeneltec\2022\mejora-continua-tec-promueve-desarrollo-mujeres-ciencia-tecnologia.html.txt
+File name: hoyeneltec\2022\mejora-continua-tec-promueve-desarrollo-mujeres-ciencia-tecnologia.html.txt
 Number of changes: 24
 Palabras reemplazadas: mujeres, otros, ingeniería, miembros, ingeniería, estudiantil, docentes, mujeres, mujeres, mujeres, ingeniería, políticas, otras, otras, mujeres, expertas, mujeres, ingeniería, otros, mujeres, ingenieras, estudiantes, ingeniería, mujeres

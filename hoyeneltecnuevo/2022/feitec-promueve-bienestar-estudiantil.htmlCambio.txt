@@ -247,6 +247,6 @@ correo electrónico: comunicacionymercadeotec@tec.ac.cr
 [logo tec]
 
 
-File name: C:\Users\valev\Documents\GitHub\TecuAvances\hoyeneltec\2022\feitec-promueve-bienestar-estudiantil.html.txt
+File name: hoyeneltec\2022\feitec-promueve-bienestar-estudiantil.html.txt
 Number of changes: 29
 Palabras reemplazadas: estudiantil, estudiantil, estudiantes, estudiantil, otros, estudiantil, estudiantil, estudiantes, estudiantil, estudiantes, estudiantil, estudiantes, estudiantil, otros, otros, estudiantil, estudiantes, estudiantil, estudiantil, estudiantil, estudiantes, estudiantes, estudiantil, estudiantil, estudiantes, estudiantes, estudiantes, mujeres, estudiantil

@@ -239,6 +239,6 @@ correo electrónico: comunicacionymercadeotec@tec.ac.cr
 [logo tec]
 
 
-File name: C:\Users\valev\Documents\GitHub\TecuAvances\hoyeneltec\2022\repensar-presencialidad.html.txt
+File name: hoyeneltec\2022\repensar-presencialidad.html.txt
 Number of changes: 7
 Palabras reemplazadas: estudiantes, otros, estudiantes, docentes, técnicos, docentes, estudiantes

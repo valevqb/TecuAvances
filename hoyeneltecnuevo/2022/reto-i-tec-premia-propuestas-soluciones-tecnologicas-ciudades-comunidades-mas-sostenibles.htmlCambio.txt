@@ -232,6 +232,6 @@ correo electrónico: comunicacionymercadeotec@tec.ac.cr
 [logo tec]
 
 
-File name: C:\Users\valev\Documents\GitHub\TecuAvances\hoyeneltec\2022\reto-i-tec-premia-propuestas-soluciones-tecnologicas-ciudades-comunidades-mas-sostenibles.html.txt
+File name: hoyeneltec\2022\reto-i-tec-premia-propuestas-soluciones-tecnologicas-ciudades-comunidades-mas-sostenibles.html.txt
 Number of changes: 6
 Palabras reemplazadas: usuarios, estudiantes, ingeniería, ingeniería, ingeniería, estudiantes

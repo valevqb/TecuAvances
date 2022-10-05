@@ -323,6 +323,6 @@ correo electrónico: comunicacionymercadeotec@tec.ac.cr
 [logo tec]
 
 
-File name: C:\Users\valev\Documents\GitHub\TecuAvances\hoyeneltec\2022\proyecto-extension-realiza-primer-encuentro-planificacion-turistica-territorio-norte.html.txt
+File name: hoyeneltec\2022\proyecto-extension-realiza-primer-encuentro-planificacion-turistica-territorio-norte.html.txt
 Number of changes: 10
 Palabras reemplazadas: diputados, habitantes, diputados, habitantes, participantes, diputados, otras, diputados, funcionarios, diputados

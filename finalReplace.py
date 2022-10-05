@@ -6,10 +6,6 @@ import numpy as np
 import operator
 import time
 
-tiempoInicio = time.perf_counter()
-
-
-
 #---------------------------------------------------------------------------------------------------------
 # Verifica contenido y elimina el reemplazo en donde no hay letras
 #---------------------------------------------------------------------------------------------------------
@@ -21,6 +17,38 @@ def isLetter(word):
         counter += 1
     return word
 
+#---------------------------------------------------------------------------------------------------------
+# Guarda las lineas de los documentos donde se aplicaron cambios
+#---------------------------------------------------------------------------------------------------------
+def getChangesByLine(fileName):
+    data = {}
+    dictionary = {} #diccionario de contenidos
+    with open('data.json',encoding="utf-8") as file: #abre el archivo json con tildes
+        data = json.load(file)
+
+        for neutral in data['datos']: #agrega los datos
+            for abc in neutral:
+                dictionary = dict (dictionary,**neutral[abc])
+    texts = open (fileName, encoding="utf-8")
+
+    contents = texts.readlines() #contenido del texto
+
+    linesXChangedWords = []
+    for line in contents:
+        if isChangedWord(line, dictionary):
+            linesXChangedWords.append(line)
+    return linesXChangedWords
+        
+#---------------------------------------------------------------------------------------------------------
+# Verifica si hay un cambio en alguna palabra en una linea de texto
+#---------------------------------------------------------------------------------------------------------
+def isChangedWord(line, dictionary):
+    for word in line.split(' '): #recorrer texto por palabras
+        word2 = isLetter(word)
+        for key in dictionary: #recorrer diccionario
+            if(word2[0:len(word2)-2] == key and word2[0:len(word2)-2] != ""): #si la palabra es igual a la llave
+                return True
+    return False
 #---------------------------------------------------------------------------------------------------------
 # Aplica los cambios a los archivos
 #---------------------------------------------------------------------------------------------------------
@@ -65,9 +93,6 @@ def runChanges (fileName):
     contents = contents + '\n\n' + 'File name: ' + fileName + '\nNumber of changes: ' + str(replacesNum) + '\n'
     contents = contents + "Palabras reemplazadas: " + ', '.join(changedWords)
 
-    print("Changed Words\n\n")
-    print(changedWords)
-    print("\n\n")
     #print(contentsCopy)
 
     texts.write(contents)
@@ -128,7 +153,11 @@ def topDiez (listaDeArchivos, listaDeCambios):
 # Main o principal
 #---------------------------------------------------------------------------------------------------------
 #Prueba 1
-CARPETA = 'C:\\Users\\valev\\Documents\\GitHub\\TecuAvances\\hoyeneltec\\2022';
+
+#Empieza el Timer
+tiempoInicio = time.perf_counter()
+
+CARPETA = "hoyeneltec\\2022"
 
 listArc = os.listdir(CARPETA) #lee todos los archivos en la carpeta
 
@@ -140,18 +169,17 @@ for list in listArc: #recorre uno a uno los archivos de la carpeta
 listaDeCambios = []
 listTxt = os.listdir("txt") #lee todos los archivos en la carpeta
 for file in listTxt: #recorre uno a uno los archivos de la carpeta
-    
+    lista = getChangesByLine('txt'+'\\'+file)
     listaDeCambios.append(runChanges('txt'+'\\'+file))
 
 listaDeCambios.sort()
-#print(listaDeCambios)
-
 
 promedioDeCambios = obtenerPromedioDeCambios(listaDeCambios)
 print("Promedio de cambios: "+ str(promedioDeCambios) +'\n')
 
 topDiez (listArc, listaDeCambios)
 
+#Detiene el timer
 tiempoFinal = time.perf_counter()
 tiempoTranscurrido = tiempoFinal - tiempoInicio
 print("\n\nEl programa tarda: \t" + str(tiempoTranscurrido))

@@ -218,6 +218,6 @@ correo electrónico: comunicacionymercadeotec@tec.ac.cr
 [logo tec]
 
 
-File name: C:\Users\valev\Documents\GitHub\TecuAvances\hoyeneltec\2022\estudiantes-buscan-dar-segundo-uso-baterias-vehiculos-electricos.html.txt
+File name: hoyeneltec\2022\estudiantes-buscan-dar-segundo-uso-baterias-vehiculos-electricos.html.txt
 Number of changes: 14
 Palabras reemplazadas: estudiantes, ingeniería, otras, otros, estudiantes, estudiantes, otras, estudiantes, ingeniería, ingeniería, otras, estudiantes, ingeniería, estudiantes

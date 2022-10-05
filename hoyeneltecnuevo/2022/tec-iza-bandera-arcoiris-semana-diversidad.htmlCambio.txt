@@ -214,6 +214,6 @@ correo electrónico: comunicacionymercadeotec@tec.ac.cr
 [logo tec]
 
 
-File name: C:\Users\valev\Documents\GitHub\TecuAvances\hoyeneltec\2022\tec-iza-bandera-arcoiris-semana-diversidad.html.txt
+File name: hoyeneltec\2022\tec-iza-bandera-arcoiris-semana-diversidad.html.txt
 Number of changes: 6
 Palabras reemplazadas: otras, funcionarias, estudiantes, funcionarias, estudiantes, estudiantes

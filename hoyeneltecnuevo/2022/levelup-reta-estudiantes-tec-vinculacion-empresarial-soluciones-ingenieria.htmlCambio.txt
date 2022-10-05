@@ -228,6 +228,6 @@ correo electrónico: comunicacionymercadeotec@tec.ac.cr
 [logo tec]
 
 
-File name: C:\Users\valev\Documents\GitHub\TecuAvances\hoyeneltec\2022\levelup-reta-estudiantes-tec-vinculacion-empresarial-soluciones-ingenieria.html.txt
+File name: hoyeneltec\2022\levelup-reta-estudiantes-tec-vinculacion-empresarial-soluciones-ingenieria.html.txt
 Number of changes: 17
 Palabras reemplazadas: estudiantes, ingeniería, jóvenes, ingeniería, participantes, estudiantes, estudiantes, participantes, ingeniería, estudiantes, estudiantes, participantes, jóvenes, estudiantes, jueces, docentes, estudiantes

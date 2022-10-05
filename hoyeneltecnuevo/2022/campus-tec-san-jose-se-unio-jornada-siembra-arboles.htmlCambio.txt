@@ -270,6 +270,6 @@ correo electrónico: comunicacionymercadeotec@tec.ac.cr
 [logo tec]
 
 
-File name: C:\Users\valev\Documents\GitHub\TecuAvances\hoyeneltec\2022\campus-tec-san-jose-se-unio-jornada-siembra-arboles.html.txt
+File name: hoyeneltec\2022\campus-tec-san-jose-se-unio-jornada-siembra-arboles.html.txt
 Number of changes: 8
 Palabras reemplazadas: voluntarios, funcionarios, miembros, estudiantes, funcionarios, funcionarios, funcionarios, estudiantes

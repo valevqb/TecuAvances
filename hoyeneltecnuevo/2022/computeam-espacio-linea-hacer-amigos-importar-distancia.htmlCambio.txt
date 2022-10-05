@@ -290,6 +290,6 @@ correo electrónico: comunicacionymercadeotec@tec.ac.cr
 [logo tec]
 
 
-File name: C:\Users\valev\Documents\GitHub\TecuAvances\hoyeneltec\2022\computeam-espacio-linea-hacer-amigos-importar-distancia.html.txt
+File name: hoyeneltec\2022\computeam-espacio-linea-hacer-amigos-importar-distancia.html.txt
 Number of changes: 44
 Palabras reemplazadas: ingeniería, amigos, ingeniería, estudiantes, jóvenes, otros, estudiantes, amigos, ingeniería, jóvenes, otros, ingeniería, alumnos, otras, estudiantes, jóvenes, estudiantes, interesados, estudiantes, usuarios, amigos, estudiantes, ingeniería, otros, jóvenes, usuarios, estudiantes, jóvenes, estudiantes, ingeniería, usuarios, estudiantes, ingeniería, ingeniería, estudiantes, estudiantes, amigos, amigas, estudiantes, estudiantes, ingeniería, amigos, amigos, estudiantes

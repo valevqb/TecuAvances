@@ -311,6 +311,6 @@ correo electrónico: comunicacionymercadeotec@tec.ac.cr
 [logo tec]
 
 
-File name: C:\Users\valev\Documents\GitHub\TecuAvances\hoyeneltec\2022\municipios-academia-instituciones-se-unen-promover-desarrollo-urbano-alrededor-tren.html.txt
+File name: hoyeneltec\2022\municipios-academia-instituciones-se-unen-promover-desarrollo-urbano-alrededor-tren.html.txt
 Number of changes: 11
 Palabras reemplazadas: ingeniería, habitantes, ciudadanía, técnicos, participantes, participantes, otros, ciudadanía, políticas, participantes, otros

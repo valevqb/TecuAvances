@@ -250,6 +250,6 @@ correo electrónico: comunicacionymercadeotec@tec.ac.cr
 [logo tec]
 
 
-File name: C:\Users\valev\Documents\GitHub\TecuAvances\hoyeneltec\2022\fisica-popularizacion-ciencia-protagonizan-conferencias-javier-santaolalla.html.txt
+File name: hoyeneltec\2022\fisica-popularizacion-ciencia-protagonizan-conferencias-javier-santaolalla.html.txt
 Number of changes: 15
 Palabras reemplazadas: jóvenes, ingeniería, estudiantes, participantes, jóvenes, estudiantes, famosas, otros, jóvenes, técnicas, estudiantes, otras, otros, ingeniería, ingeniería

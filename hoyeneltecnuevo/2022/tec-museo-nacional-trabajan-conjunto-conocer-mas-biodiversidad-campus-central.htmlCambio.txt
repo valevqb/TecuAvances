@@ -279,6 +279,6 @@ correo electrónico: comunicacionymercadeotec@tec.ac.cr
 [logo tec]
 
 
-File name: C:\Users\valev\Documents\GitHub\TecuAvances\hoyeneltec\2022\tec-museo-nacional-trabajan-conjunto-conocer-mas-biodiversidad-campus-central.html.txt
+File name: hoyeneltec\2022\tec-museo-nacional-trabajan-conjunto-conocer-mas-biodiversidad-campus-central.html.txt
 Number of changes: 18
 Palabras reemplazadas: ingeniería, habitantes, estudiantes, estudiantes, ingeniería, otros, estudiantes, habitantes, ingeniería, ingeniería, estudiantes, técnicas, ingeniería, estudiantes, estudiantes, ingeniería, ingeniería, ingeniería

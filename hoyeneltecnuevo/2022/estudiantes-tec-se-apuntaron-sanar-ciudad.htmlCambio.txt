@@ -254,6 +254,6 @@ correo electrónico: comunicacionymercadeotec@tec.ac.cr
 [logo tec]
 
 
-File name: C:\Users\valev\Documents\GitHub\TecuAvances\hoyeneltec\2022\estudiantes-tec-se-apuntaron-sanar-ciudad.html.txt
+File name: hoyeneltec\2022\estudiantes-tec-se-apuntaron-sanar-ciudad.html.txt
 Number of changes: 22
 Palabras reemplazadas: estudiantes, estudiantes, niños, otros, voluntarios, amigos, voluntarios, estudiantes, amigos, amigos, otras, niños, niños, ingeniería, niños, niños, amigos, ingeniería, amigos, estudiantes, estudiantes, amigos

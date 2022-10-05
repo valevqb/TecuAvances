@@ -341,6 +341,6 @@ correo electrónico: comunicacionymercadeotec@tec.ac.cr
 [logo tec]
 
 
-File name: C:\Users\valev\Documents\GitHub\TecuAvances\hoyeneltec\2022\retos-virtudes-produccion-cafe-tarrazu-vision-concepto-sostenibilidad.html.txt
+File name: hoyeneltec\2022\retos-virtudes-produccion-cafe-tarrazu-vision-concepto-sostenibilidad.html.txt
 Number of changes: 18
 Palabras reemplazadas: doctoral, estudiantes, ingeniería, estudiantes, otras, miembros, ingeniería, técnicas, técnicas, otras, otras, técnicas, otros, otros, estudiantes, investigadores, otras, jóvenes

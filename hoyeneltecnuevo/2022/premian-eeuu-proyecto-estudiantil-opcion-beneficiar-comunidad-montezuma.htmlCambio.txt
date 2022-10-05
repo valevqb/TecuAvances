@@ -263,6 +263,6 @@ correo electrónico: comunicacionymercadeotec@tec.ac.cr
 [logo tec]
 
 
-File name: C:\Users\valev\Documents\GitHub\TecuAvances\hoyeneltec\2022\premian-eeuu-proyecto-estudiantil-opcion-beneficiar-comunidad-montezuma.html.txt
+File name: hoyeneltec\2022\premian-eeuu-proyecto-estudiantil-opcion-beneficiar-comunidad-montezuma.html.txt
 Number of changes: 23
 Palabras reemplazadas: ingeniería, estudiantil, jóvenes, estudiantes, estudiantes, ingeniería, alumnas, técnicas, estudiantes, alumnas, ingeniería, estudiantes, expertos, jóvenes, estudiantes, estudiantes, estudiantes, docentes, ingeniería, estudiantes, estudiantes, estudiantes, jóvenes

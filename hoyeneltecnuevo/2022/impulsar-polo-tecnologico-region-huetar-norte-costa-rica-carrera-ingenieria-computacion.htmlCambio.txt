@@ -512,6 +512,6 @@ correo electrónico: comunicacionymercadeotec@tec.ac.cr
 [logo tec]
 
 
-File name: C:\Users\valev\Documents\GitHub\TecuAvances\hoyeneltec\2022\impulsar-polo-tecnologico-region-huetar-norte-costa-rica-carrera-ingenieria-computacion.html.txt
+File name: hoyeneltec\2022\impulsar-polo-tecnologico-region-huetar-norte-costa-rica-carrera-ingenieria-computacion.html.txt
 Number of changes: 28
 Palabras reemplazadas: ingeniería, ingeniería, ingenieril, ingeniería, ingeniería, ingeniería, ingeniería, ingeniería, ingenieros, estudiantes, ingenieros, estudiantes, amigos, ingenieros, ingenieros, ingeniería, otras, amigos, ingenieros, otros, otros, otras, estudiantes, estudiantes, ingenieros, otros, técnicos, otras

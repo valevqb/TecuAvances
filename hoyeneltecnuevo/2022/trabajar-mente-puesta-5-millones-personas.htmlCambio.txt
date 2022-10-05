@@ -909,6 +909,6 @@ correo electrónico: comunicacionymercadeotec@tec.ac.cr
 [logo tec]
 
 
-File name: C:\Users\valev\Documents\GitHub\TecuAvances\hoyeneltec\2022\trabajar-mente-puesta-5-millones-personas.html.txt
+File name: hoyeneltec\2022\trabajar-mente-puesta-5-millones-personas.html.txt
 Number of changes: 54
 Palabras reemplazadas: otras, otros, otros, estudiantes, electoral, estudiantes, mujeres, niñas, jóvenes, mujeres, expertas, técnicas, rectoría, rectoría, escritorio, otras, ciudadanía, expertas, ciudadanía, otros, técnicas, ciudadanía, mujeres, mujeres, niñas, mujeres, técnicos, políticas, técnicas, funcionarios, niños, estudiantes, estudiantes, estudiantes, otros, técnicos, políticas, médicos, ciudadanía, políticos, otras, estudiantes, investigadores, estudiantes, estudiantes, otras, otros, otras, diputados, diputadas, otros, otras, políticas, otras

@@ -188,6 +188,6 @@ correo electrónico: comunicacionymercadeotec@tec.ac.cr
 [logo tec]
 
 
-File name: C:\Users\valev\Documents\GitHub\TecuAvances\hoyeneltec\2022\presidenta-asuntos-hacendarios-asamblea-legislativa-visito-escuela-biologia.html.txt
+File name: hoyeneltec\2022\presidenta-asuntos-hacendarios-asamblea-legislativa-visito-escuela-biologia.html.txt
 Number of changes: 3
 Palabras reemplazadas: docentes, investigadores, ingeniería

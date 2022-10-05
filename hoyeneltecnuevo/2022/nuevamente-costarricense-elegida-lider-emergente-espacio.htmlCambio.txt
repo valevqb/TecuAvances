@@ -269,6 +269,6 @@ correo electrónico: comunicacionymercadeotec@tec.ac.cr
 [logo tec]
 
 
-File name: C:\Users\valev\Documents\GitHub\TecuAvances\hoyeneltec\2022\nuevamente-costarricense-elegida-lider-emergente-espacio.html.txt
+File name: hoyeneltec\2022\nuevamente-costarricense-elegida-lider-emergente-espacio.html.txt
 Number of changes: 16
 Palabras reemplazadas: jóvenes, estudiantil, ingeniería, estudiantil, jóvenes, participantes, estudiantes, estudiantil, estudiantes, jóvenes, ingeniería, otros, estudiantil, otras, otros, estudiantes

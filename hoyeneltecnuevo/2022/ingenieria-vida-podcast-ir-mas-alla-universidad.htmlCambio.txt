@@ -323,6 +323,6 @@ correo electrónico: comunicacionymercadeotec@tec.ac.cr
 [logo tec]
 
 
-File name: C:\Users\valev\Documents\GitHub\TecuAvances\hoyeneltec\2022\ingenieria-vida-podcast-ir-mas-alla-universidad.html.txt
+File name: hoyeneltec\2022\ingenieria-vida-podcast-ir-mas-alla-universidad.html.txt
 Number of changes: 28
 Palabras reemplazadas: asesoría, ingenieras, ingeniería, ingenieros, estudiantes, ingeniería, ingeniería, jóvenes, médicas, ingeniería, ingeniería, ingeniería, amigos, ingenieros, ingenieros, ingenieras, otras, ingeniería, ingeniería, estudiantes, otras, ingeniería, ingeniería, ingeniería, ingeniería, asesoría, ingeniería, estudiantes

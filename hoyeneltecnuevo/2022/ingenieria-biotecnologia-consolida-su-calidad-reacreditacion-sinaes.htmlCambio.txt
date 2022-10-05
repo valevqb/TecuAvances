@@ -223,6 +223,6 @@ correo electrónico: comunicacionymercadeotec@tec.ac.cr
 [logo tec]
 
 
-File name: C:\Users\valev\Documents\GitHub\TecuAvances\hoyeneltec\2022\ingenieria-biotecnologia-consolida-su-calidad-reacreditacion-sinaes.html.txt
+File name: hoyeneltec\2022\ingenieria-biotecnologia-consolida-su-calidad-reacreditacion-sinaes.html.txt
 Number of changes: 11
 Palabras reemplazadas: ingeniería, ingeniería, estudiantes, ingeniería, estudiantes, investigadores, estudiantes, alumnos, ingeniería, ingeniería, ingeniería

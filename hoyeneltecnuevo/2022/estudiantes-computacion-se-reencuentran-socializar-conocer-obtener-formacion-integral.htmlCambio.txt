@@ -258,6 +258,6 @@ correo electrónico: comunicacionymercadeotec@tec.ac.cr
 [logo tec]
 
 
-File name: C:\Users\valev\Documents\GitHub\TecuAvances\hoyeneltec\2022\estudiantes-computacion-se-reencuentran-socializar-conocer-obtener-formacion-integral.html.txt
+File name: hoyeneltec\2022\estudiantes-computacion-se-reencuentran-socializar-conocer-obtener-formacion-integral.html.txt
 Number of changes: 20
 Palabras reemplazadas: ingeniería, estudiantes, alumnos, estudiantes, alumnos, jóvenes, estudiantes, estudiantil, amigos, estudiantes, estudiantes, otros, ingeniería, jóvenes, amigos, ingeniería, ingeniería, estudiantes, estudiantes, estudiantes

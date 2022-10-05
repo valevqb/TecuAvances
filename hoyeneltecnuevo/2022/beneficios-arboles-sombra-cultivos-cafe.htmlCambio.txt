@@ -267,6 +267,6 @@ correo electrónico: comunicacionymercadeotec@tec.ac.cr
 [logo tec]
 
 
-File name: C:\Users\valev\Documents\GitHub\TecuAvances\hoyeneltec\2022\beneficios-arboles-sombra-cultivos-cafe.html.txt
+File name: hoyeneltec\2022\beneficios-arboles-sombra-cultivos-cafe.html.txt
 Number of changes: 9
 Palabras reemplazadas: beneficiarios, doctoral, estudiantes, ingeniería, otros, estudiantes, ingenieros, otras, investigadores

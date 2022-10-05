@@ -249,6 +249,6 @@ correo electrónico: comunicacionymercadeotec@tec.ac.cr
 [logo tec]
 
 
-File name: C:\Users\valev\Documents\GitHub\TecuAvances\hoyeneltec\2022\pima-tec-alimentalistas-impulsan-plan-accion-reduccion-perdida-alimentos-cenada.html.txt
+File name: hoyeneltec\2022\pima-tec-alimentalistas-impulsan-plan-accion-reduccion-perdida-alimentos-cenada.html.txt
 Number of changes: 7
 Palabras reemplazadas: miembros, miembros, beneficiarios, investigadoras, estudiantes, voluntarios, jefes

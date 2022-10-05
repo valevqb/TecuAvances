@@ -178,6 +178,6 @@ correo electrónico: comunicacionymercadeotec@tec.ac.cr
 [logo tec]
 
 
-File name: C:\Users\valev\Documents\GitHub\TecuAvances\hoyeneltec\2022\rectores-federaciones-estudiantes-rechazan-propuesta-ejecutivo-porque-incumple-mandato.html.txt
+File name: hoyeneltec\2022\rectores-federaciones-estudiantes-rechazan-propuesta-ejecutivo-porque-incumple-mandato.html.txt
 Number of changes: 9
 Palabras reemplazadas: rectores, rectores, estudiantes, rectores, estudiantil, rectores, estudiantil, estudiantil, expertos

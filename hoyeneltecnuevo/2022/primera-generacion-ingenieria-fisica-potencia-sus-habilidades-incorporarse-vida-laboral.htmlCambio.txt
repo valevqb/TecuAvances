@@ -275,6 +275,6 @@ correo electrónico: comunicacionymercadeotec@tec.ac.cr
 [logo tec]
 
 
-File name: C:\Users\valev\Documents\GitHub\TecuAvances\hoyeneltec\2022\primera-generacion-ingenieria-fisica-potencia-sus-habilidades-incorporarse-vida-laboral.html.txt
+File name: hoyeneltec\2022\primera-generacion-ingenieria-fisica-potencia-sus-habilidades-incorporarse-vida-laboral.html.txt
 Number of changes: 26
 Palabras reemplazadas: ingeniería, jóvenes, estudiantes, ingenieros, alumnas, alumnos, médicos, estudiantes, ingeniería, técnicas, ingeniería, estudiantes, estudiantes, estudiantes, estudiantes, ingeniería, técnicos, jóvenes, otras, estudiantes, ingeniería, ingeniería, ingeniería, funcionarias, estudiantes, jóvenes

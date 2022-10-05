@@ -260,6 +260,6 @@ correo electrónico: comunicacionymercadeotec@tec.ac.cr
 [logo tec]
 
 
-File name: C:\Users\valev\Documents\GitHub\TecuAvances\hoyeneltec\2022\tec-afianza-su-compromiso-extension-comunidad-san-ramon-virgen-sarapiqui.html.txt
+File name: hoyeneltec\2022\tec-afianza-su-compromiso-extension-comunidad-san-ramon-virgen-sarapiqui.html.txt
 Number of changes: 3
 Palabras reemplazadas: técnicos, técnicas, estudiantes

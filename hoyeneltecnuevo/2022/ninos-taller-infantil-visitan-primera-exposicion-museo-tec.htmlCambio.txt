@@ -231,6 +231,6 @@ correo electrónico: comunicacionymercadeotec@tec.ac.cr
 [logo tec]
 
 
-File name: C:\Users\valev\Documents\GitHub\TecuAvances\hoyeneltec\2022\ninos-taller-infantil-visitan-primera-exposicion-museo-tec.html.txt
+File name: hoyeneltec\2022\ninos-taller-infantil-visitan-primera-exposicion-museo-tec.html.txt
 Number of changes: 15
 Palabras reemplazadas: niños, niños, niños, otros, niños, niñas, niños, niños, estudiantes, niños, niñas, niños, otras, interesadas, niños

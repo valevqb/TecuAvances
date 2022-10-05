@@ -240,6 +240,6 @@ correo electrónico: comunicacionymercadeotec@tec.ac.cr
 [logo tec]
 
 
-File name: C:\Users\valev\Documents\GitHub\TecuAvances\hoyeneltec\2022\exposicion-historica-se-convierte-genesis-museo-tec.html.txt
+File name: hoyeneltec\2022\exposicion-historica-se-convierte-genesis-museo-tec.html.txt
 Number of changes: 9
 Palabras reemplazadas: estudiantil, estudiantil, otros, miembros, funcionarios, miembros, miembros, interesadas, niños

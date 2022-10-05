@@ -238,6 +238,6 @@ correo electrónico: comunicacionymercadeotec@tec.ac.cr
 [logo tec]
 
 
-File name: C:\Users\valev\Documents\GitHub\TecuAvances\hoyeneltec\2022\hacer-avanzar-investigacion-cientifica-motivacion-ser-tutor-tutora-investigacion-doctoral.html.txt
+File name: hoyeneltec\2022\hacer-avanzar-investigacion-cientifica-motivacion-ser-tutor-tutora-investigacion-doctoral.html.txt
 Number of changes: 10
 Palabras reemplazadas: ingeniería, doctoral, ingeniería, tutores, tutoras, ingeniería, ingeniería, doctoral, doctoral, ingeniería

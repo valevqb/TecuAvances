@@ -274,6 +274,6 @@ correo electrónico: comunicacionymercadeotec@tec.ac.cr
 [logo tec]
 
 
-File name: C:\Users\valev\Documents\GitHub\TecuAvances\hoyeneltec\2022\inicia-plan-piloto-vehiculo-electrico-carga-liviana.html.txt
+File name: hoyeneltec\2022\inicia-plan-piloto-vehiculo-electrico-carga-liviana.html.txt
 Number of changes: 8
 Palabras reemplazadas: otros, participantes, ingeniería, ciudadanía, ciudadanos, técnicos, participantes, interesados

@@ -254,6 +254,6 @@ correo electrónico: comunicacionymercadeotec@tec.ac.cr
 [logo tec]
 
 
-File name: C:\Users\valev\Documents\GitHub\TecuAvances\hoyeneltec\2022\centro-academico-alajuela-se-traslada-instalaciones-utn.html.txt
+File name: hoyeneltec\2022\centro-academico-alajuela-se-traslada-instalaciones-utn.html.txt
 Number of changes: 14
 Palabras reemplazadas: estudiantil, rectores, participantes, rectores, estudiantes, docentes, administrativos, administrativos, otros, estudiantes, estudiantes, otras, estudiantes, ingeniería

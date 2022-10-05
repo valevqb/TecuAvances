@@ -257,6 +257,6 @@ correo electrónico: comunicacionymercadeotec@tec.ac.cr
 [logo tec]
 
 
-File name: C:\Users\valev\Documents\GitHub\TecuAvances\hoyeneltec\2022\tec-comienza-aplicar-su-prueba-admision.html.txt
+File name: hoyeneltec\2022\tec-comienza-aplicar-su-prueba-admision.html.txt
 Number of changes: 15
 Palabras reemplazadas: jóvenes, postulantes, estudiantes, hombres, mujeres, estudiantes, estudiantes, postulantes, miembros, estudiantes, jóvenes, jóvenes, estudiantes, solicitantes, interesados

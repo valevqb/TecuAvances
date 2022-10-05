@@ -220,6 +220,6 @@ correo electrónico: comunicacionymercadeotec@tec.ac.cr
 [logo tec]
 
 
-File name: C:\Users\valev\Documents\GitHub\TecuAvances\hoyeneltec\2022\nuevo-libro-paradigma-digital-efectos-pymes.html.txt
+File name: hoyeneltec\2022\nuevo-libro-paradigma-digital-efectos-pymes.html.txt
 Number of changes: 5
 Palabras reemplazadas: investigadores, usuarios, expertos, técnicas, investigadores

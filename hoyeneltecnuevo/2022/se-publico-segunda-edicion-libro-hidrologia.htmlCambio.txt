@@ -249,6 +249,6 @@ correo electrónico: comunicacionymercadeotec@tec.ac.cr
 [logo tec]
 
 
-File name: C:\Users\valev\Documents\GitHub\TecuAvances\hoyeneltec\2022\se-publico-segunda-edicion-libro-hidrologia.html.txt
+File name: hoyeneltec\2022\se-publico-segunda-edicion-libro-hidrologia.html.txt
 Number of changes: 5
 Palabras reemplazadas: estudiantes, otros, ingeniería, ingeniería, otros

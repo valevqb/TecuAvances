@@ -244,6 +244,6 @@ correo electrónico: comunicacionymercadeotec@tec.ac.cr
 [logo tec]
 
 
-File name: C:\Users\valev\Documents\GitHub\TecuAvances\hoyeneltec\2022\nuevas-salas-audiencias-tec-serviran-fortalecer-procesos-denuncias-acoso-evitar.html.txt
+File name: hoyeneltec\2022\nuevas-salas-audiencias-tec-serviran-fortalecer-procesos-denuncias-acoso-evitar.html.txt
 Number of changes: 5
 Palabras reemplazadas: estudiantil, otros, administrativos, administrativos, ingeniería

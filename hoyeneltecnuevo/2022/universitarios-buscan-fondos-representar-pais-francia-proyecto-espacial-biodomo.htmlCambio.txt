@@ -293,6 +293,6 @@ correo electrónico: comunicacionymercadeotec@tec.ac.cr
 [logo tec]
 
 
-File name: C:\Users\valev\Documents\GitHub\TecuAvances\hoyeneltec\2022\universitarios-buscan-fondos-representar-pais-francia-proyecto-espacial-biodomo.html.txt
+File name: hoyeneltec\2022\universitarios-buscan-fondos-representar-pais-francia-proyecto-espacial-biodomo.html.txt
 Number of changes: 17
 Palabras reemplazadas: estudiantes, seleccionados, ingeniería, jóvenes, estudiantes, jóvenes, estudiantes, ingeniería, ingeniería, miembros, jóvenes, ingeniería, otros, estudiantes, expertos, seleccionados, estudiantes

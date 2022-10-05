@@ -218,6 +218,6 @@ correo electrónico: comunicacionymercadeotec@tec.ac.cr
 [logo tec]
 
 
-File name: C:\Users\valev\Documents\GitHub\TecuAvances\hoyeneltec\2022\tec-ofrece-cursos-matematica-universitaria-estudiantes-secundaria.html.txt
+File name: hoyeneltec\2022\tec-ofrece-cursos-matematica-universitaria-estudiantes-secundaria.html.txt
 Number of changes: 16
 Palabras reemplazadas: estudiantes, docentes, interesados, otras, estudiantes, estudiantes, estudiantes, interesados, estudiantes, estudiantes, estudiantes, interesados, docentes, estudiantes, estudiantes, estudiantes

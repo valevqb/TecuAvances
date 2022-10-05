@@ -232,6 +232,6 @@ correo electrónico: comunicacionymercadeotec@tec.ac.cr
 [logo tec]
 
 
-File name: C:\Users\valev\Documents\GitHub\TecuAvances\hoyeneltec\2022\nuevo-equipo-secuenciar-genomas-tecnologia-nanoporos-impulsa-investigacion-cientifica.html.txt
+File name: hoyeneltec\2022\nuevo-equipo-secuenciar-genomas-tecnologia-nanoporos-impulsa-investigacion-cientifica.html.txt
 Number of changes: 3
 Palabras reemplazadas: otros, otras, asesoría

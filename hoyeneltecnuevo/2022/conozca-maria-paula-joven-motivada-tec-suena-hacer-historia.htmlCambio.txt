@@ -284,6 +284,6 @@ correo electrónico: comunicacionymercadeotec@tec.ac.cr
 [logo tec]
 
 
-File name: C:\Users\valev\Documents\GitHub\TecuAvances\hoyeneltec\2022\conozca-maria-paula-joven-motivada-tec-suena-hacer-historia.html.txt
+File name: hoyeneltec\2022\conozca-maria-paula-joven-motivada-tec-suena-hacer-historia.html.txt
 Number of changes: 17
 Palabras reemplazadas: mujeres, hombres, estudiantes, ingeniería, mujeres, hombres, mujeres, hombres, mujeres, amigos, mujeres, mujeres, mujeres, niñas, estudiantes, mujeres, estudiantes

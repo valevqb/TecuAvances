@@ -198,6 +198,6 @@ correo electrónico: comunicacionymercadeotec@tec.ac.cr
 [logo tec]
 
 
-File name: C:\Users\valev\Documents\GitHub\TecuAvances\hoyeneltec\2022\ninos-tiptec-celebran-dia-lengua-senas-costarricense.html.txt
+File name: hoyeneltec\2022\ninos-tiptec-celebran-dia-lengua-senas-costarricense.html.txt
 Number of changes: 5
 Palabras reemplazadas: niños, niños, niños, niños, funcionarios

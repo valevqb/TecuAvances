@@ -253,6 +253,6 @@ correo electrónico: comunicacionymercadeotec@tec.ac.cr
 [logo tec]
 
 
-File name: C:\Users\valev\Documents\GitHub\TecuAvances\hoyeneltec\2022\prototipo-vivienda-madera-fue-entregada-familia-indigena.html.txt
+File name: hoyeneltec\2022\prototipo-vivienda-madera-fue-entregada-familia-indigena.html.txt
 Number of changes: 9
 Palabras reemplazadas: carpinteros, niños, carpinteros, carpintería, habitantes, rectores, ingenieria, ingeniería, ingeniería

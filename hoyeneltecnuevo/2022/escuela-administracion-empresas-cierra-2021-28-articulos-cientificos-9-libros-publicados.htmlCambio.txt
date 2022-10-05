@@ -201,6 +201,6 @@ correo electrónico: comunicacionymercadeotec@tec.ac.cr
 [logo tec]
 
 
-File name: C:\Users\valev\Documents\GitHub\TecuAvances\hoyeneltec\2022\escuela-administracion-empresas-cierra-2021-28-articulos-cientificos-9-libros-publicados.html.txt
+File name: hoyeneltec\2022\escuela-administracion-empresas-cierra-2021-28-articulos-cientificos-9-libros-publicados.html.txt
 Number of changes: 6
 Palabras reemplazadas: otros, investigadores, estudiantes, investigadores, estudiantes, otros

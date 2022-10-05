@@ -228,6 +228,6 @@ correo electrónico: comunicacionymercadeotec@tec.ac.cr
 [logo tec]
 
 
-File name: C:\Users\valev\Documents\GitHub\TecuAvances\hoyeneltec\2022\exitosa-labor-limpieza-playa-cieneguita-limon.html.txt
+File name: hoyeneltec\2022\exitosa-labor-limpieza-playa-cieneguita-limon.html.txt
 Number of changes: 10
 Palabras reemplazadas: estudiantes, estudiantes, docentes, mujeres, hombres, voluntarios, estudiantes, ingeniería, estudiantes, funcionarios

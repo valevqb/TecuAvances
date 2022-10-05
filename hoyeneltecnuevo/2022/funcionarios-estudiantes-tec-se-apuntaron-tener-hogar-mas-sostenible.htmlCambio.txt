@@ -248,6 +248,6 @@ correo electrónico: comunicacionymercadeotec@tec.ac.cr
 [logo tec]
 
 
-File name: C:\Users\valev\Documents\GitHub\TecuAvances\hoyeneltec\2022\funcionarios-estudiantes-tec-se-apuntaron-tener-hogar-mas-sostenible.html.txt
+File name: hoyeneltec\2022\funcionarios-estudiantes-tec-se-apuntaron-tener-hogar-mas-sostenible.html.txt
 Number of changes: 9
 Palabras reemplazadas: funcionarios, estudiantes, funcionarios, estudiantes, vecinos, ingeniería, vecinos, estudiantes, funcionarios

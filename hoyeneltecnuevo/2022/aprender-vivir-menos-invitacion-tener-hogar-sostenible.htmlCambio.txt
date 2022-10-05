@@ -311,6 +311,6 @@ correo electrónico: comunicacionymercadeotec@tec.ac.cr
 [logo tec]
 
 
-File name: C:\Users\valev\Documents\GitHub\TecuAvances\hoyeneltec\2022\aprender-vivir-menos-invitacion-tener-hogar-sostenible.html.txt
+File name: hoyeneltec\2022\aprender-vivir-menos-invitacion-tener-hogar-sostenible.html.txt
 Number of changes: 13
 Palabras reemplazadas: funcionarios, funcionarios, ingeniería, otros, vecinos, vecinos, otras, vecinos, ingeniería, participantes, asesoría, asesores, ingeniería

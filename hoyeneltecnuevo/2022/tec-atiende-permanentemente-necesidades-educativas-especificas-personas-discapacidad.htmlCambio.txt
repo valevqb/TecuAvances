@@ -231,6 +231,6 @@ correo electrónico: comunicacionymercadeotec@tec.ac.cr
 [logo tec]
 
 
-File name: C:\Users\valev\Documents\GitHub\TecuAvances\hoyeneltec\2022\tec-atiende-permanentemente-necesidades-educativas-especificas-personas-discapacidad.html.txt
+File name: hoyeneltec\2022\tec-atiende-permanentemente-necesidades-educativas-especificas-personas-discapacidad.html.txt
 Number of changes: 13
 Palabras reemplazadas: estudiantil, solicitantes, estudiantes, funcionarios, otros, estudiantes, asesoría, docentes, estudiantes, usuarios, otros, estudiantes, otras

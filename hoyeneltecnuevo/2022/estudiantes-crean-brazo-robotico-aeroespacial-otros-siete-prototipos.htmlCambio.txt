@@ -256,6 +256,6 @@ correo electrónico: comunicacionymercadeotec@tec.ac.cr
 [logo tec]
 
 
-File name: C:\Users\valev\Documents\GitHub\TecuAvances\hoyeneltec\2022\estudiantes-crean-brazo-robotico-aeroespacial-otros-siete-prototipos.html.txt
+File name: hoyeneltec\2022\estudiantes-crean-brazo-robotico-aeroespacial-otros-siete-prototipos.html.txt
 Number of changes: 21
 Palabras reemplazadas: estudiantes, otros, estudiantes, ingeniería, estudiantes, ingeniería, estudiantes, jóvenes, estudiantes, otros, escritorio, estudiantes, estudiantes, otras, estudiantes, obreros, estudiantes, técnicos, estudiantes, técnicos, estudiantes

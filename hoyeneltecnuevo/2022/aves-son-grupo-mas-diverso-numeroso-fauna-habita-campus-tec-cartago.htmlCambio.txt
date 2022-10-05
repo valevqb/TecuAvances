@@ -308,6 +308,6 @@ correo electrónico: comunicacionymercadeotec@tec.ac.cr
 [logo tec]
 
 
-File name: C:\Users\valev\Documents\GitHub\TecuAvances\hoyeneltec\2022\aves-son-grupo-mas-diverso-numeroso-fauna-habita-campus-tec-cartago.html.txt
+File name: hoyeneltec\2022\aves-son-grupo-mas-diverso-numeroso-fauna-habita-campus-tec-cartago.html.txt
 Number of changes: 9
 Palabras reemplazadas: otros, otras, otras, ingeniería, otras, otros, otras, políticas, rectoría
