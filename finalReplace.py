@@ -167,9 +167,11 @@ for list in listArc: #recorre uno a uno los archivos de la carpeta
 #######################################
 
 listaDeCambios = []
+listaLineasConCambios = []  #Contendra todas las lineas que tuvieron cambios aplicados
+
 listTxt = os.listdir("txt") #lee todos los archivos en la carpeta
 for file in listTxt: #recorre uno a uno los archivos de la carpeta
-    lista = getChangesByLine('txt'+'\\'+file)
+    listaLineasConCambios.append(getChangesByLine('txt'+'\\'+file))
     listaDeCambios.append(runChanges('txt'+'\\'+file))
 
 listaDeCambios.sort()
