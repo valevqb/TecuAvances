@@ -1,0 +1,293 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   pasar_al_contenido_principal
+****** hoy_en_el_tec ******
+
+viernes 12 de agosto, 2022
+  |  
+quiénes_somos   |   buscar  
+
+***** menú *****
+    * investigación
+    * desarrollo_humano
+    * vida_estudiantil
+    * acción_institucional
+    * medio_ambiente
+    * emprendimiento
+    * cultura_y_deporte
+    * opinión
+    * buscar
+
+
+ ganadores nacionales
+****** parche de insulina e internet submarino ganaron el nasa space apps
+challenge ******
+    * equipo bid propone sustituir las inyecciones de insulina por parches,
+      para aliviar el dolor que sufren infantes con diabetes
+    * narwix ideó el desarrollo de dispositivos que se conecten a internet
+      debajo del agua, para impulsar la investigación y conservación del mar
+31 de octubre 2018 por: johan_umaña_venegas
+vida_estudiantil
+   versión_para_imprimir    descargar_pdf  compartir por correo electrónico
+comentarios
+ compartir en facebook  compartir en twitter        compartir en whatsapp
+[dos_hombres_y_una_mujer_forman_el_equipo_bid.]
+josé gabriel arce, valesska blanco y daniel brenes son los integrantes del
+equipo bid, que ganó el primer lugar del nasa international space apps
+challenge. foto: ruth garita / ocm.
+
+un parche de insulina para sustituir las inyecciones en personas diabéticas,
+particularmente en niñez y adolescentes, es el proyecto ganador de la sede
+costarricense del nasainternational_space_apps_challenge, desarrollado del 20 y
+21 de octubre en las instalaciones del tecnológico_de_costa_rica_(tec).
+el segundo lugar, que también representará al país en la competencia
+internacional, es una propuesta para llevar el internet de las cosas (iot, por
+sus siglas en inglés: internet of things) a entornos submarinos.
+el international space apps challenge es una competencia mundial organizada por
+el programa de incubación de la innovación de laadministración_nacional_de_la
+aeronáutica_y_del_espacio_(nasa,_en_inglés). este año participaron 177 ciudades
+alrededor del mundo.
+en sí, el international space apps challenge consiste en un gran hackatón de 36
+horas continuas, en el que quienes participan de todo el mundo se reúnen en equipos
+para desarrollar soluciones a problemas de la tierra y el espacio.
+el tec se ha encargado de la organización de las cuatro ediciones del evento
+que se han desarrollado en costa rica. en esta ocasión participaron 146
+personas de las siete provincias del país, divididas en 26 equipos.
+“el hecho de que sea simultáneo en todo el mundo, hace que sea una experiencia
+única, en la que se pueda compartir con las otras personas personas latitudes, intercambiar
+ideas, intercambiar estrategias para mantener a los quienes participan personas interesadas y
+activos. pero también, que si alguien está realizando un reto puede hacer una
+consultas a otras personas personas de los países“, explica la máster maría estrada, coordinadora
+del space apps challenge costa rica.
+estrada destaca el aumento en el número de quienes participan, además de que cada
+año se mejora la proporción de seres humanos –que llegó al 30% en esta edición– y que
+se logró la participación de personas indígenas de la región de talamanca.
+los dos equipos ganadores del evento en costa rica competirán con los
+vencedores de las otras personas personas sedes en la siguiente etapa del space apps challenge.
+ahora, los conjuntos costarricenses deben realizar videos de dos minutos de
+duración, en los que explicarán sus ideas. de ser personas seleccionadas, viajarán a
+estados unidos para participar en la final, en la nasa.
+
+[fotografía:_ruth_garita_/_ocm.]
+fotografía: ruth garita / ocm.
+[fotografía:_ruth_garita_/_ocm.]
+fotografía: ruth garita / ocm.
+[fotografía:_ruth_garita_/_ocm.]
+fotografía: ruth garita / ocm.
+[fotografía:_ruth_garita_/_ocm.]
+fotografía: ruth garita / ocm.
+[fotografía:_ruth_garita_/_ocm.]
+fotografía: ruth garita / ocm.
+[fotografía:_steven_moya_/_ocm.]
+fotografía: steven moya / ocm.
+[fotografía:_steven_moya_/_ocm.]
+fotografía: steven moya / ocm.
+[fotografía:_steven_moya_/_ocm.]
+fotografía: steven moya / ocm.
+[fotografía:_steven_moya_/_ocm.]
+fotografía: steven moya / ocm.
+ previous next
+[fotografía: ruth garita / ocm.]
+[fotografía: ruth garita / ocm.]
+[fotografía: ruth garita / ocm.]
+[fotografía: ruth garita / ocm.]
+[fotografía: ruth garita / ocm.]
+[fotografía: steven moya / ocm.]
+[fotografía: steven moya / ocm.]
+[fotografía: steven moya / ocm.]
+[fotografía: steven moya / ocm.]
+ previous next
+
+**** aliviar el dolor en niñez enfermos ****
+el equipo bid (bomba de infusión contra la diabetes), conformado por valesska
+blanco y josé gabriel arce, del colegio técnico profesional de dulce nombre de
+cartago, y daniel brenes, de la carrera de electrónica de la universidad
+hispanoamericana, ganó el primer lugar en costa rica.
+el objetivo primordial de su proyecto es evitar el sufrimiento de los niñez que
+padecen diabetes y deben recibir inyecciones diariamente. la propuesta es
+utilizar parches especiales para suministrar el fármaco.
+“el proyecto lo que pretende es eliminar la inyección en niñez y adolescentes,
+para quienes es sumamente incómodo, y sustituir esta inyección por un parche.
+este parche es el que se va a encargar de introducir la insulina, por medio de
+una vía transdérmica, entonces no hay penetración de agujas en la persona“,
+cuenta brenes.
+además, detallan los juventud, la idea es que el parche se pueda controlar por
+medio de una aplicación en el teléfono, que determine la cantidad de insulina
+que se suministra al cuerpo.
+“nosotras personas personas enfocamos mucho el dispositivo hacia la insulina y hacia los niñez,
+pero esto puede ser muchísimo más aplicable, lo podemos abrir a otras personas personas fármacos,
+a otras personas personas tipos de enfermedades. es decir, esto no se queda solo aquí“, agrega
+blanco.
+para idear este proyecto, los juventud investigaron el tema y visitaron el
+hospital nacional de niñez, donde aprendieron más de en qué lugares del cuerpo
+se podría colocar el parche y cómo podría funcionar.
+
+animación desarrollada por sharon arley, parte del equipo narwix. proyecto:
+sistema de conexión submarina.
+
+
+**** conexión submarina ****
+se calcula que la humanidad apenas conoce un 5% del océano. de hecho, es
+posible que conozcamos más el espacio exterior que nuestro propio mundo
+submarino.
+esto es en parte debido a las dificultades de comunicación que existen bajo el
+agua, donde hasta la tecnología gps es imposible de utilizar.
+esa es la problemática que quiere resolver el equipo narwix, un grupo
+conformado por sharon arley, estudiante de animación 3d del centro de
+tecnologías audiovisuales; kevin alfaro, dennis porras y andre herrera,
+estudiantes de personas ingeniera_en_computadores, del tecnológico; y ramiro vargas,
+egresado de personas ingeniera electrónica, también del tec.
+ellos proponen el desarrollo de una serie de dispositivos capaces de
+comunicarse bajo agua y llevar el internet de las cosas al mundo submarino.
+“la idea es desarrollar dispositivos de comunicación y localización subacuática
+que son portátiles, que pueden formar redes, y son útiles para áreas del buceo,
+de protección ambiental e investigaciones científicas“, explica alfaro.
+la tecnología, argumentan estos juventud, ya existe, pero está limitada a
+aplicaciones industriales. su propuesta es abaratar los costos y hacer más
+sencillo que más personas se puedan conectar a internet bajo el agua, y con
+ello dar un impulso a la investigación submarina.
+“estamos muy emocionados por haber ganado en el space apps challenge y
+esperamos llegar lejos en la siguiente etapa, llevar alto el nombre de costa
+rica“, comenta arley.
+durante el acto de premiación se realizó un minuto de silencio por el
+fallecimiento del estudiante de computación, ivan lopez.   
+ 
+
+ [jovenenes_trabajando_en_computadora]
+soluciones_inclusivas_protagonizaron_el_hackatón_innova_efx
+
+
+space_apps_mostró_talento_y_soluciones_innovadoras_para_el_espacio_y_la_tierra
+
+ space_apps_challenge, nasa, hackaton
+[johan umaña venegas, comunicador.]
+**** johan_umaña_venegas ****
+johumana@tec.ac.cr
+comunicador
+licenciado en comunicación colectiva, con énfasis en periodismo, universidad de
+costa rica.
+view_the_discussion_thread.
+
+***** relacionado *****
+**** geoportal_para_medir_cambios_de_la_cobertura_forestal,_clasificado_del
+nasa_space_apps_challenge ****
+21 de octubre 2019 por: noemy_chinchilla_bravo
+ [imagen_de_los_ganadores_del_space]
+**** space_apps_mostró_talento_y_soluciones_innovadoras_para_el_espacio_y_la
+tierra ****
+2 de mayo 2017 por: noemy_chinchilla_bravo
+
+**** el_consejo_de_la_ingeniera_tica_en_nasa:_“tomen_el_poder,_no_esperen_que
+las_empoderen” ****
+9 de abril 2019 por: johan_umaña_venegas
+ [sandra_cauffman_posa_junto_a_los_estudiantes_del_colegio_científico.]
+**** hackathon_de_la_nasa,_este_fin_de_semana_en_el_tec ****
+26 de abril 2017 por: noemy_chinchilla_bravo
+
+
+oficina_de_comunicación_y_mercadeo
+teléfono: (506)_2550-2218 / (506)_2550-9194
+correo electrónico: comunicacionymercadeotec@tec.ac.cr
+    * quiénes_somos
+    * contacto
+    * secciones
+
+    * facebook
+    * twitter
+    * instagram
+    * youtube
+[logo tec]
+
+
+File name: C:\Users\valev\Documents\GitHub\TecuAvances\hoyeneltec\2018\parche-insulina-internet-submarino-ganaron-nasa-space-apps-challenge.html.txt
+Number of changes: 22
+Palabras reemplazadas: niños, participantes, otras, participantes, interesados, otros, participantes, mujeres, otras, seleccionados, niños, niños, niños, jóvenes, niños, otros, otros, jóvenes, niños, ingeniería, ingeniería, jóvenes

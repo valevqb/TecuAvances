@@ -1,0 +1,266 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   Pasar_al_contenido_principal
+****** Hoy_en_el_TEC ******
+
+Viernes 12 de Agosto, 2022
+  |  
+Quiénes_Somos   |   Buscar  
+
+***** Menú *****
+    * Investigación
+    * Desarrollo_Humano
+    * Vida_Estudiantil
+    * Acción_Institucional
+    * Medio_Ambiente
+    * Emprendimiento
+    * Cultura_y_Deporte
+    * Opinión
+    * Buscar
+
+
+ Donación tiene un valor de $315 mil
+****** Teradyne dona equipo especializado para pruebas de circuitos integrados
+******
+11 de Agosto 2022 Por: Kenneth_Mora_Pérez
+Investigación
+   Versión_para_imprimir    Descargar_PDF  Compartir por correo electrónico
+Comentarios
+ Compartir en Facebook  Compartir en Twitter        Compartir en WhatsApp
+[MUESTRA_EQUIPO_TERADYNE_TEC]
+Francisco Navarro, docente e investigador de la Escuela de Ingeniería
+Electrónica, guió la visita al Laboratorio de Pruebas Automatizadas y otros
+puntos del edificio de Electrónica. Fotografía: Kenneth Mora P. / OCM TEC
+
+Estudiantes_de_Ingeniería_Electrónica del Tecnológico_de_Costa_Rica_(TEC)
+disponen de un nuevo equipo que fortalecerá sus conocimientos profesionales.
+Gracias a una donación de la transnacional Teradyne, los futuros profesionales
+podrán aprender más acerca de circuitos integrados, ya sean estos analógicos,
+digitales o de señal mixta.El equipo recibido es elEagle Test System ETS-88;
+plataforma que permite la prueba o comprobación de especificaciones técnicas de
+una variedad de estos circuitos.
+Actualmente, los circuitos integrados sondispositivos que encontramos en todos
+y cada uno de los aparatos electrónicos que utilizamos a diario y que, antes de
+ser entregados al usuario final, deben ser sometidos a pruebas para comprobar
+el cumplimiento de su funcionalidad de acuerdo con una serie de
+especificaciones mínimas requeridas, por lo que el equipo será un aliado en
+diversas acciones de formación y de investigación.
+El equipo cuyo valor asciende a los $315 mil (más de₡210 millones) ha sido
+dispuesto en el Laboratorio de Pruebas Automatizadas de la Escuela. Este fue
+recibido el pasado viernes 5 de agosto en un acto especial realizado en las
+instalaciones del TEC, en el que participaron representantes de esta empresa,
+así como docentes y estudiantes de Electrónica.
+     “En Teradyne estamos fielmente convencidos de que estas alianzas
+     permiten hacer a Costa Rica altamente competitivo en la región”,
+     destacó el gerente general de esta empresa en nuestro país, Carlos
+     Esquivel.
+Añadió que como gerente en Costa Rica de una empresa líder en pruebas
+automáticas, la donación del equipo distingue la importancia de la relación
+empresa-universidad para la formación actual requerida de estos profesionales;
+muchos de los cuales forman parte de esta transnacional con un aporte de alto
+valor.
+
+ 
+  “En Teradyne estamos fielmente convencidos de que estas alianzas permiten
+fortalecer a Costa Rica como un país altamente competitivo en la región” Carlos
+Esquivel, Gerente para Costa Rica de Teradyne.
+**** Impacto positivo para la empleabilidad, docencia e investigación ****
+Además de brindar mejores oportunidades a los jóvenes para su formación, al
+tiempo que aumenta sus oportunidades de empleo gracias a los conocimientos que
+brinda el contacto con este tipo de equipos, la donación permite actualizar la
+oferta académica de manera pertinente a los requerimientos de las compañías.
+Actualmente la industria de pruebas automatizadas de circuitos integrados tiene
+un carácter global, por lo que equipos como este se encuentran en diversas
+plantas de manufactura en diferentes países alrededor del mundo.
+Según destacó Francisco Navarro, docente e investigador, actualmente el plan de
+estudio de la Licenciatura en Ingeniería Electrónica ofrece el curso electivo
+EL-5855 Ingeniería de Pruebas para Circuitos Integrados, en el cual se aborda
+el estudio de los conceptos sobre la comprobación de Circuitos Integrados.
+      “En el curso de Ingeniería de Pruebas para Circuitos Integrados, además
+de los conceptos generales requeridos por la industria de pruebas
+automatizadas, se aprende sobre el equipamiento utilizado para realizar dichas
+pruebas, el uso de una plataforma de software para el desarrollo de programas
+de prueba que manejan el equipo y el diseño para la comprobación. Todo esto
+teniendo en mente contribuir con la formación de futuros ingenieros en un campo
+de la industria con alta demanda de recurso especializado y con crecientes
+oportunidades laborares”. Francisco Navarro, docente e investigador de
+Electrónica
+Adicionalmente, Navarro destacó el fortalecimiento Laboratorio de Pruebas
+Automatizadas –ubicado en la primera planta del edificio de Electrónica– para
+la elaboración de pruebas requeridas en varios de los proyectos de
+investigación y trabajos finales de graduación, relacionados con el diseño de
+circuitos integrados desarrollados, como el procesador RISC-V para aplicaciones
+médicas, conocido como SIWA.
+
+**** Un microcircuito para aplicaciones médicas ****
+
+ [infografía_siwa]
+Costa_Rica_creó_el_primer_microcontrolador_para_microcircuito_de_aplicaciones
+médicas_totalmente_diseñado_y_desarrollado_en_el_país
+
+Por su parte, el también docente e investigador Miguel Ángel Hernández, señaló
+que la relación con Teradyne es de alto valor, ya que abre importantes puertas
+para los estudiantes e investigaciones.
+“Es un equipo de muchos kilates para nuestros profesionales” indicó Hernández.
+Si bien la donación se concretó de forma oficial mediante un acto protocolario
+la primera semana de agosto de este 2022, el trabajo y relación con Teradyne
+comenzó en el 2018, gracias a un trabajo conjunto entre docentes y
+representantes de la empresa que permitió definir necesidades y
+especificaciones de equipo. Sin embargo, la situación de pandemia por COVID-19,
+entre otros factores, pospuso la donación del Eagle Test hasta esta fecha.
+Complementariamente, Hernández y Navarro estarán impartiendo capacitaciones a
+otros docentes e investigadores, con el fin de ampliar el impacto y uso de este
+equipo para otras labores de la Escuela de Ingeniería Electrónica.
+
+**** VEA TAMBIÉN: ****
+
+ [Tarjeta_de_circuitos,_con_cables_y_una_pantalla_que_dice_Hello_World,_My_name
+is_SIWA]
+Microprocesador_integralmente_diseñado_en_Costa_Rica_demuestra_altas
+capacidades_tecnológicas
+
+Fotografías: Kenneth Mora P. / OCM TEC
+***** Los participantes en el acto de donación participaron de un recorrido por
+el Laboratorio de Pruebas Automatizadas. *****
+***** Circuitos como estos son los que podrán ser probados con el nuevo equipo.
+*****
+***** La vicerrectora de docencia, Grettel Portuguez, participó en el acto de
+recepción junto al gerente de Teradyne y otros representantes de esta empresa.
+*****
+ Previous Next
+ Previous Next
+ Escuela_de_Ingeniería_Electrónica, Donación, Circuitos, Docencia,
+Investigación
+[Kenneth Mora Pérez, Comunicador.]
+**** Kenneth_Mora_Pérez ****
+kmora@tec.ac.cr
+Comunicador
+Máster en Periodismo Digital, Universidad de Guadalajara, México. Licenciado en
+Comunicación, Universidad Federada de Costa Rica y Bachiller en Periodismo,
+Universidad Internacional de las Américas.
+View_the_discussion_thread.
+
+***** Relacionado *****
+**** Tico_investiga,_en_Francia,_cómo_optimizar_la_agricultura_indígena_en
+Talamanca ****
+6 de Abril 2017 Por: Johan_Umaña_Venegas
+ [Paisaje_boscoso_de_Talamanca.]
+**** TEC_y_Roche_firman_acuerdo_para_impulsar_desarrollo_de_la_medicina_del
+futuro_en_Costa_Rica ****
+27 de Agosto 2020 Por: Johan_Umaña_Venegas
+ [Una_investigadora_en_el_laboratorio]
+**** Tico_estará_en_el_consejo_científico_más_importante_del_mundo_en_Fusión
+Nuclear ****
+19 de Junio 2018 Por: Noemy_Chinchilla_Bravo
+ [Imagen_de_un_hombre_en_un_laboratorio_de_plasma.]
+**** Microprocesador_integralmente_diseñado_en_Costa_Rica_demuestra_altas
+capacidades_tecnológicas ****
+27 de Abril 2021 Por: Johan_Umaña_Venegas
+ [Tarjeta_de_circuitos,_con_cables_y_una_pantalla_que_dice_Hello_World,_My_name
+is_SIWA]
+
+Oficina_de_Comunicación_y_Mercadeo
+Teléfono: (506)_2550-2218 / (506)_2550-9194
+Correo electrónico: comunicacionymercadeotec@tec.ac.cr
+    * Quiénes_Somos
+    * Contacto
+    * Secciones
+
+    * Facebook
+    * Twitter
+    * Instagram
+    * YouTube
+[logo TEC]

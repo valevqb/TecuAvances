@@ -1,0 +1,266 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   pasar_al_contenido_principal
+****** hoy_en_el_tec ******
+
+viernes 12 de agosto, 2022
+  |  
+quiénes_somos   |   buscar  
+
+***** menú *****
+    * investigación
+    * desarrollo_humano
+    * vida_estudiantil
+    * acción_institucional
+    * medio_ambiente
+    * emprendimiento
+    * cultura_y_deporte
+    * opinión
+    * buscar
+
+
+****** archibus será el software para la administración de los activos
+institucionales ******
+19 de octubre 2018 por: noemy_chinchilla_bravo
+acción_institucional
+   versión_para_imprimir    descargar_pdf  compartir por correo electrónico
+comentarios
+ compartir en facebook  compartir en twitter        compartir en whatsapp
+[imagen_de_un_hombre_brindando_un_curso_sobre_la_utilización_de_una_herramienta
+a_funcionariado_del_tec.]
+la capacitación sobre el manejo del software: archibus fue dirigida por el
+gerente de desarrollo de negocios para latinoamérica norte, arquitecto césar
+martínez. foto: steven moya barrientos /ocm .
+ 
+ 
+ 
+
+con el fin de mantener bajo control los activos, recibir informes confiables,
+medir rendimientos y tener un panorama global de los activos institucionales en
+el tec, se impartió una capacitación sobre el manejo del software: archibus.
+la capacitación fue dirigida por el gerente de desarrollo de negocios
+para latinoamérica norte de archibus, arquitecto césar martínez y participaron
+funcionariado de la  oficina_de_personas ingeniera, de la escuela_de_arquitectura_y
+urbanismo y del departamento_de_administración_de_mantenimiento, además de
+profesores de la escuela_de_personas ingeniera_electromecánica.
+en la capacitación participaron funcionariado de la  oficina de personas ingeniera, de
+la escuela de arquitectura y urbanismo y del departamento de administración de
+mantenimiento, además de profesores de la escuela de personas ingeniera
+electromecánica. foto: steven moya barrientos /ocm .
+archibus es una herramienta informática que ayuda a obtener  el perfil de  los
+activos desde el punto de vista operativo y financiero. sus aplicaciones 
+integradas  están diseñadas para mejorar la eficiencia operativa y ayudar a
+tomar  las mejores decisiones estratégicas sobre los equipos. esta herramienta
+permite la visualización, planificación, análisis y creación de informes y así
+obtener el mejor conocimiento operativo y mejor control sobre los costos.
+además, ayuda a mantener un inventario preciso de los activos muebles y
+equipos.
+martínez señala que este tipo de software, son generadores de conciencia porque
+brindamejores prácticas para  administrar y ahorrar de manera eficiente los
+recursos.
+      
+     “hay mucha energía en el tec , lo más importante es tener la cabeza
+     fría, que definan qué quieren a donde van y lo más importante es
+     tener el compromiso”, césar martínez, archibus. 
+pero, ¿cómo funciona la herramienta?archibus es una plataforma cliente-
+servidor orientada a internet, con lo cual los personal usuario sólo necesitarán un
+navegador web y una conexión de internet para acceder al sistema. el sistema
+contiene los siguientes dominios y funciones:
+imagen cortesía de jorge mario tobón, representante local de la herramienta
+archibus.
+asimismo, funciona de manera colaborativa a través de un esquema basado en
+roles en el cual cada uno tiene permisos y accesos solo a las funciones
+específicas.
+imagen cortesía de jorge mario tobón, representante local de la herramienta
+archibus.
+según el ingeniero manuel centeno, director del departamento_de_administración
+de_mantenimientodel tec y participante de la capacitación, la iniciativa ha
+sido excelente.  
+      
+     “tenemos un plan piloto con el que vamos a iniciar y nos va ayudar
+     mucho”, ing. manuel centeno, director de administración de
+     mantenimiento tec. 
+**** beneficios ****
+según jorge mario tobón, representante local de la herramienta, el tec obtendrá
+los siguientes beneficios: minimiza el gasto innecesario del capital, mejora el
+proceso de toma de decisiones estratégicas, optimiza los niveles de servicio y
+eficiencia operativa, le permite controlar los activos con eficacia,
+estandariza y automatiza los procesos, crea informes con coherencia y
+rapidez. además señala,  que al mismo tiempo, se podrán administrar las
+solicitudes que tengan las salas de reuniones u otras personas espacios de las
+infraestructuras.
+ 
+     "nos enfocamos en la prevención para que la universidad
+     siga funcionando, que siga cumpliendo  con su misión institucional,
+     para que no afecte la calidad de los servicios que ofrece", jorge
+     mario tobón, representante local de archibus. 
+según el vicerrector de administración del tec,  humberto villalta,“archibus 
+nos viene a implementar un modelo  de gestión muy diferente  a lo que venimos
+haciendo  en la parte de infraestructura y sistemas, este software, además de
+llevar registros contables a nivel  financiero, trazabilidad a nivel de
+edificios  y en forma rápida, entre otras personas, va a facilitar el trabajo, para
+poder hacer una mejor gestión" .
+**** extensión ****
+por su parte, el ingeniero luis gómez gutiérrez, docente de la carrera_de
+personas ingeniera_en_mantenimiento_industrial y coordinador de este proyecto, mencionó
+que esta herramienta además de apoyar para la toma de decisiones
+institucionales también sirve en la enseñanza de los cursos de la carrera  y la
+extensión universitaria.
+“lo que pretendemos es llevar  el mensaje  porque hay un componente de
+extensión académica  que es que los gremio estudiantil aprendan de la disciplina  y lo
+empiecen  a implementar. esa es una de las partes visionales de la institución,
+que es llevar el conocimiento nuevo a las empresas del país en los trabajos de
+graduación", puntualizó gómez .
+un ejemplo de ello, es joaquín montero, estudiante de la carrera de personas ingeniera
+en  mantenimiento industrial  quien quiere implementar el software: archibus,
+como proyecto de graduación, en la  oficina central de bomberos de costa rica.
+     “me siento muy feliz de ver cómo el tec ha ido trabajando en el
+     modelo de gestión de activos, para mí, es una universidad pionera y
+     ejemplar. archibus, es una herramienta inspiradora  y gracias a ella
+     me permitirá aplicar mis conocimientos en mi trabajo de graduación,
+     el cuál lo realizaré en bomberos de costa rica", joaquín montero,
+     estudiante. 
+cabe recordar  que en el 2016, representantes de archibus en compañía de la
+empresa mecsoft, otorgaron una licencia al tec para el uso de la solución
+tecnológica archibus. 
+esta herramienta se puede visualizar desde los dispositivos móviles. foto:
+steven moya barrientos /ocm .
+ 
+
+
+archibus_será_un_aliado_para_la_gestión_de_mantenimiento_del_campus
+
+ escuela_de_personas ingeniera_en_mantenimiento_industrial, archibus, capacitación
+[noemy chinchilla bravo, comunicadora.]
+**** noemy_chinchilla_bravo ****
+nchinchilla@tec.ac.cr
+comunicadora
+licenciada en relaciones públicas y bachiller en periodismo, universidad
+autónoma de centro américa.
+view_the_discussion_thread.
+
+***** relacionado *****
+**** nuevas_salas_de_audiencias_del_tec_servirán_para_fortalecer_procesos_de
+denuncias_de_acoso_y_evitar_revictimización ****
+31 de marzo 2022 por: johan_umaña_venegas
+
+**** logros_institucionales_en_la_gestión_del_mantenimiento_serán_parte_de
+campaña_informativa ****
+20 de octubre 2020 por: noemy_chinchilla_bravo
+ [imagen_aérea_del_campus_central_de_tec]
+**** software_archibus:_un_impacto_positivo_para_la_gestión_de_las
+instalaciones_del_tec ****
+27 de octubre 2020 por: noemy_chinchilla_bravo
+ [imagen_de_una_persona_con_un_celular_en_la_mano_mostrando_la_herramienta
+archibus.]
+**** rector_del_tec:_‘gracias_al_compromiso_de_la_comunidad_institucional,
+logramos_salir_adelante’ ****
+18 de diciembre 2020 por: johan_umaña_venegas
+ [el_rector_con_la_bandera_de_costa_rica,_en_su_escritorio.]
+
+oficina_de_comunicación_y_mercadeo
+teléfono: (506)_2550-2218 / (506)_2550-9194
+correo electrónico: comunicacionymercadeotec@tec.ac.cr
+    * quiénes_somos
+    * contacto
+    * secciones
+
+    * facebook
+    * twitter
+    * instagram
+    * youtube
+[logo tec]
+
+
+File name: C:\Users\valev\Documents\GitHub\TecuAvances\hoyeneltec\2018\archibus-sera-software-administracion-activos-institucionales.html.txt
+Number of changes: 8
+Palabras reemplazadas: funcionarios, ingeniería, ingeniería, usuarios, otros, otros, estudiantes, ingeniería

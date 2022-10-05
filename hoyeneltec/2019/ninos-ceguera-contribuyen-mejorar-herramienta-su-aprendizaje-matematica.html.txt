@@ -1,0 +1,254 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   Pasar_al_contenido_principal
+****** Hoy_en_el_TEC ******
+
+Viernes 12 de Agosto, 2022
+  |  
+Quiénes_Somos   |   Buscar  
+
+***** Menú *****
+    * Investigación
+    * Desarrollo_Humano
+    * Vida_Estudiantil
+    * Acción_Institucional
+    * Medio_Ambiente
+    * Emprendimiento
+    * Cultura_y_Deporte
+    * Opinión
+    * Buscar
+
+
+ Escolares provenían de diferentes centros educativos de Cartago
+****** Niños con ceguera contribuyen a mejorar herramienta para su aprendizaje
+de matemática ******
+Menores ayudaron con la validación de editor matemático desarrollado por el
+programa IncluTEC.
+5 de Noviembre 2019 Por: Marcela_Guzmán_Ovares
+Desarrollo_Humano
+Investigación
+   Versión_para_imprimir    Descargar_PDF  Compartir por correo electrónico
+Comentarios
+ Compartir en Facebook  Compartir en Twitter        Compartir en WhatsApp
+[niños-sentados-frente-a-computadoras-]
+Niños y niñas acudieron al llamado del TEC en compañía de padres, madres,
+abuelos y maestras. Foto: Steven Moya/TEC.
+
+Un grupo de niños y niñas con ceguera y  baja visión de distintas escuelas de
+Cartago acudieron alTecnológico_de_Costa_Rica_(TEC)para colaborar con el
+programaIncluTECen la prueba y validación de la herramienta Euler.
+Se trata de un editor matemático de recursos universales desarrollado por
+investigadores del Programa, cuyo nombre es un homenaje al matemático suizo
+Leonhard Euler.
+La herramienta busca reunir las características deseables de un editor
+matemático para personas con discapacidad visual, y con vista, “ofreciendo un
+entorno multi-plataforma, accesible, autónomo, gratuito y que no requiera de
+asistentes para su uso”. El objetivo final es apoyar el proceso de enseñanza y
+aprendizaje de las matemáticas y otras disciplinas.
+ 
+**** Pruebas ****
+El coordinador del programa IncluTEC, doctor Mario Chacón, explicó a los niños,
+sus padres, madres, abuelos y maestras, en qué consistirían los ejercicios
+matemáticos, según el nivel de cada niño y niña, para conocer cómo se comporta
+Euler.  “Como universidad -dijo- queremos mejorar la herramienta y generar
+artículos científicos”.
+El Coordinador les informó que los resultados serían confidenciales, sin nombre
+y restringidos a terceras personas; la participación fue voluntaria y sin
+costo. Una vez que los encargados de los niños conocieron las reglas del juego,
+dieron su consentimiento informado.
+Con la participación de funcionarios y estudiantes del TEC que trabajan en
+IncluTEC, a cada niño se le asignaron ejercicios según su nivel escolar
+tendientes exclusivamente a evaluar la herramienta, no así los conocimientos de
+los participantes.
+Los niños provienen de escuelas de La Pitahaya, Oreamuno, Manuel de Jesús
+Jiménez, Palomo, Caballo Blanco, Paraíso y El Tejar. En la provincia de Cartago
+hay aproximadamente 120 niños con problemas de ceguera y de baja visión.
+ 
+**** Docentes colaboran ****
+En la actividad estuvieron presentes cuatro docentes itinerantes de la Escuela
+Carlos Luis Valle, quienes se desplazan a los centros educativos de la
+provincia para atender los niños con problemas de ceguera, así como a las
+maestras y los padres de familia. Ellas son: Ana Lía Brenes Vega, Gabriela
+González Porras, Fabiola Aguilar Vega y Victoria Delgado Molina.
+La profesora Brenes explicó que el TEC contactó a la Escuela Carlos Luis Valle
+y la directora, Marcela Romero, estuvo muy dispuesta a colaborar, lo mismo que
+los padres de familia.
+Agregó Brenes que todos los niños reciben clases de computación por medio de la
+Fundación Omar Dengo y utilizan el programa de lectoescritura avanzado en el
+sistema Braille. En esta ocasión conocieron la herramienta Euler por primera
+vez.
+Las docentes consideraron la evaluación como una gran oportunidad para
+proyectarse a futuro; herramientas tecnológicas como esta les dan esperanzas y
+les generan expectativas de que se puede mejorar, dijo Brenes. Conocer estas
+adaptaciones también constituye una gran oportunidad para las educadoras, al
+tiempo que el TEC puede conocer de primera mano las características de esta
+población.
+La docente Aguilar indicó, por su parte, que la actividad en el TEC constituye
+una gran oportunidad para que los niños y sus padres visualicen la posibilidad
+de llegar a niveles superiores; que en Costa Rica existe esa posibilidad, que
+hay oportunidades de crecer.
+El representante del Consejo_Nacional_de_Personas_con_Discapacidad_(Conapdis),
+José Blanco, coordinador de procesos de gestión del conocimiento de la entidad,
+y quien también estuvo presente en la actividad, indicó que el producto
+generado por IncluTEC constituye un apoyo a la accesiblidad de las personas con
+discapacidad y destacó la importancia de hacer prácticas con los usuarios
+finales de la nueva tecnología.
+ 
+**** Logros ****
+La mayoría de los participantes encontraron que la herramienta Euler es fácil
+de utilizar y les servirá mucho cuando estén en grados superiores. 
+Chacón comentó que en este momento se están tabulando los datos recogidos a
+partir de esta experiencia. Sin embargo, resaltó como muy importante haber
+podido presentar la herramienta Euler a niños de edad escolar y lograr
+realimentación de parte de ellos y sus familiares.
+Agregó que, en general, todos comentaron que era sumamente fácil de usar y que
+es de gran provecho, más aún cuando los niños ya ingresan a grados superiores.
+“Tanto los docentes como las personas invitadas consultaron cuáles serían los
+siguientes pasos del TEC en relación con este proyecto, si el Ministerio_de
+Educación_Pública_(MEP) ya conocía la herramienta y si la utilizaría”, explicó
+Chacón. Agregó que aún no se tiene respuesta pues el siguiente paso corresponde
+a la relación del TEC con el MEP, por lo que habrá que conversarlo con la
+Rectoría.
+Finalmente, el coordinador del programa InlcuTEC manifestó que “además de esos
+hallazgos y comentarios, se identificó la necesidad que tiene esta población de
+estudiantes de ser formados en el uso de la tecnología accesible. El país no
+está brindando en este momento una opción de formación a niños en edad escolar,
+lo cual el TEC puede realizar. Para esto se habló de buscar algún apoyo o
+convenio entre el TEC, CONAPDIS y el Ministerio_de_Ciencia,_Tecnología_y
+Telecomunicaciones_(MICITT), a fin de crear un laboratorio de capacitación
+dirigido a la población con discapacidad visual”, concluyó.
+Las docentes Ana Lía Brenes Vega, Gabriela González Porras, Fabiola Aguilar
+Vega y Victoria Delgado Molina coincideron en que herramientas tecnológicas
+como esta brindan esperanzas y generan expectativas de que se puede mejorar. 
+ 
+  Matemáticas, inclutec, Inclusión, niños, ceguera, matematica
+**** Marcela_Guzmán_Ovares ****
+maguzman@itcr.ac.cr
+View_the_discussion_thread.
+
+***** Relacionado *****
+**** TEC_y_Conapdis_presentaron Observatorio_de Tecnologías_Accesibles_e
+Inclusivas ****
+23 de Octubre 2018 Por: Geovanni_Jiménez_Mata
+
+**** Profesor_gana_premio_Calidad_de_Vida_por_impulsar_la_conciencia_social_de
+sus_alumnos ****
+5 de Noviembre 2018 Por: Geovanni_Jiménez_Mata
+ [profesor_leonel_fonseca_posando_con_trofeo_]
+**** Colaboradores_de_Inclutec_se_capacitan_en_liderazgo_y_habilidades_blandas
+****
+1 de Octubre 2020 Por: Geovanni_Jiménez_Mata
+ [Participantes_del_curso_de_habilidades_blandas_y_liderazgo.]
+**** Formación_STEM_fortalece_perfiles_profesionales_para_el_sector_productivo
+****
+25 de Octubre 2019 Por: Noemy_Chinchilla_Bravo
+ [Imagen_de_una_estudiante_del_TEC,_una_mamá_y_su_hija_aprendiendo_matemática
+por_medio_de_juegos.]
+
+Oficina_de_Comunicación_y_Mercadeo
+Teléfono: (506)_2550-2218 / (506)_2550-9194
+Correo electrónico: comunicacionymercadeotec@tec.ac.cr
+    * Quiénes_Somos
+    * Contacto
+    * Secciones
+
+    * Facebook
+    * Twitter
+    * Instagram
+    * YouTube
+[logo TEC]

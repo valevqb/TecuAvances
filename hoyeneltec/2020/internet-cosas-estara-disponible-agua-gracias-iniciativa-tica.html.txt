@@ -1,0 +1,246 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   Pasar_al_contenido_principal
+****** Hoy_en_el_TEC ******
+
+Viernes 12 de Agosto, 2022
+  |  
+Quiénes_Somos   |   Buscar  
+
+***** Menú *****
+    * Investigación
+    * Desarrollo_Humano
+    * Vida_Estudiantil
+    * Acción_Institucional
+    * Medio_Ambiente
+    * Emprendimiento
+    * Cultura_y_Deporte
+    * Opinión
+    * Buscar
+
+
+ Emprendimiento estudiantil
+****** Internet de las cosas estará disponible bajo el agua gracias a
+iniciativa tica ******
+Narwix impulsa el desarrollo y comercialización de equipos de conectividad
+inalámbrica para entornos subacuáticos
+16 de Marzo 2020 Por: Kenneth_Mora_Pérez
+Emprendimiento
+Investigación
+   Versión_para_imprimir    Descargar_PDF  Compartir por correo electrónico
+Comentarios
+ Compartir en Facebook  Compartir en Twitter        Compartir en WhatsApp
+[Dos_narvales_en_el_océano]
+Los narvales tienen la capacidad de utilizar su colmillo como un sensor de
+temperatura y de comunicación entre sí, por lo que la propuesta de Narwix
+propone de manera similar, llevar el Internet al lecho submarino. Fotografía:
+Pexels
+
+La transmisión y disponibilidad de datos se convierte cada día en una necesidad
+que debe aplicarse en los lugares más remotos del mundo y fuera de él.
+Uno de estos puntos es debajo del agua, donde la necesidad de que Internet esté
+disponible es cada vez más importante para diversas actividades, como la
+investigación o la acuicultura;  así como para organizaciones y ministerios
+gubernamentales, entre otros que requieren esta facilidad.
+Narwix es justamente unastartup tica que impulsa equipos de conectividad
+inalámbrica para entornos subacuáticos, bajo el concepto de Internet de las
+Cosas (IoT, por sus siglas en inglés).
+A través de un dispositivo especial denominado Díglo y el sistema dinámico de
+transmisión de datos entre varios de estos dispositivos (que funcionan como
+enrutadores tipo Wifi), se logra la implementación de redes de IoT adaptables a
+las actividades submarinas.
+Los dispositivos de conexión submarina o Díglos tienen la capacidad de
+conectarse entre sí así como a otros dispositivos de la red. Imagen: Narwix.
+Los Díglos tienen además la posibilidad de recopilar y monitorear información
+de diversos tipos de sensores, así como la posibilidad de controlar
+inalámbricamente otros equipos. Pueden transportar datos desde el agua a la
+superficie y de ahí al usuario final, quien podrá analizar en tiempo real la
+información que recibe.
+Esta propuesta, creada por Kevin Alfaro, André Herrera y Kevin Maroto –todos
+estudiantes de Ingeniería_en_Computadores_del_Tecnológico_de_Costa_Rica_(TEC)–,
+tiene poco más de un año en desarrollo y ha sido participe de iniciativas como
+el Space Apps, HardwareThon y la Feria_de_Ideas_de_Negocios_del_TEC.
+La iniciativa tiene el origen de su nombre gracias al Narval (Monodon
+monoceros), una especie de cetáceo que es conocida como el unicornio
+marino gracias a su largo colmillo, el cual utiliza como defensa en sus luchas,
+como un sensor de condiciones de temperatura y salinidad del agua, y para
+rituales de apareamiento, según estudios_del_Marine_Mammal_Science.
+   “Todo lo que tenga que ver con la extracción de datos bajo el agua y
+visualizarlos en cualquier lugar con red, es lo que permite Narwix con sus
+dispositivos”. Kevin Alfaro, miembro del equipo de desarrollo Narwix.
+Escuche en el podcast ImpactoTEC detalles ampliados sobre la propuesta de
+Narwix.
+
+**** Innovación aplicada ****
+Narwix se diferencia respecto a otras propuestas similares disponibles en el
+mercado en quesu uso va más allá de los dispositivos de operaciones
+industriales, como la extracción de gas, petróleo o bien la comunicación que
+realizan submarinos punto a punto.
+Entre las ventajas  que marcan la flexibilidad y valor agregado de esta
+innovadora propuestase encuentran:
+    * La capacidad de generar diversas topologías de red: en forma de estrella,
+      verticales, anillo y otras.
+    * Cada dispositivo tiene un rango de hasta 100 mts.
+    * Los aparatos tienen la capacidad de conectarse entre sí y con otros
+      dispositivos de IoT.
+Esto permite dar unasolución real al control y monitoreo en áreas de
+investigación marina, acuicultura, buceo y cualquier otra actividad en el mundo
+submarinoque requiera transferir información de forma inalámbrica.
+Los Díglos podrían además ser utilizados, por ejemplo, para manipular robots
+bajo el agua en la realización de trabajos delicados, como es la limpieza de
+minas explosivas en el fondo del océano; por parte de buzos en tareas militares
+o de investigación; para enviar imágenes y  analizarlas de forma
+inmediata, para optimizar el control del tráfico marítimo, e inclusive para
+detectar tsunamis y generar las alertas que lo ameriten.
+Narwix y sus miembros llevan ya un año en un proceso de incubación mediante TEC
+Emprende_Lab, lo que les ha permitido contar con un espacio de trabajo y acceso
+a una red de contactos, que han impulsado la propuesta.
+Además, el aporte de otros estudiantes de carreras comoIngeniería_en
+Materiales, Diseño_Industrial e Ingeniería_en_Construcción, ha sido clave para
+lograr el producto final, el cual se espera esté disponible en el mercado en
+aproximadamente un año.
+Actualmente los jóvenes realizan pruebas finales en espacios de laboratorio
+comoeWave, con el fin de crear un dispositivo cada vez más resistente y que se
+mantenga en el océano por largos periodos de tiempo sin daños, al tiempo que
+trabajan en la atracción de fondos capital para el lanzamiento final del
+producto al mercado nacional e internacional.
+
+**** Vea también: ****
+
+ [Se_aprecia_como_el_diámetro_del_Ocean_Grazer_sería_del_largo_de_tres
+cruceros.___]
+Alumno_de_Mecatrónica_usa_inteligencia_artificial_para_mejorar_la_captación_de
+energía_de_las_olas
+
+
+Impacto_TEC:_conozca_los_detalles_de_“Internet_de_las_cosas”
+      [Infografía:_udos_de_Narwix]
+ Narwix, Oceáno, Internet_de_las_cosas
+[Kenneth Mora Pérez, Comunicador.]
+**** Kenneth_Mora_Pérez ****
+kmora@tec.ac.cr
+Comunicador
+Máster en Periodismo Digital, Universidad de Guadalajara, México. Licenciado en
+Comunicación, Universidad Federada de Costa Rica y Bachiller en Periodismo,
+Universidad Internacional de las Américas.
+View_the_discussion_thread.
+
+***** Relacionado *****
+**** Cultivos_hortícolas_podrán_ser_supervisados_remotamente_con_Internet_de
+las_Cosas ****
+5 de Noviembre 2020 Por: Kenneth_Mora_Pérez
+ [persona_con_tablet_tomando_datos_y_análisis_de_plantas_en_invernadero]
+**** Costa_Rica_creará_alternativas_de_mascarillas_para_la_protección_personal
+****
+15 de Abril 2020 Por: Kenneth_Mora_Pérez
+ [mascara_protectora_completa_de_cara]
+**** Libro_ayudará_al_mejoramiento_de_la_competitividad_empresarial
+costarricense ****
+10 de Junio 2019 Por: Noemy_Chinchilla_Bravo
+ [Portada_del_libro:_Propuestas_para_el_mejoramiento_de_la_competitividad
+empresarial_costarricense]
+**** Demo_Day_tendrá_la_innovación_como_plato_fuerte ****
+13 de Marzo 2017 Por: Kenneth_Mora_Pérez
+
+
+Oficina_de_Comunicación_y_Mercadeo
+Teléfono: (506)_2550-2218 / (506)_2550-9194
+Correo electrónico: comunicacionymercadeotec@tec.ac.cr
+    * Quiénes_Somos
+    * Contacto
+    * Secciones
+
+    * Facebook
+    * Twitter
+    * Instagram
+    * YouTube
+[logo TEC]

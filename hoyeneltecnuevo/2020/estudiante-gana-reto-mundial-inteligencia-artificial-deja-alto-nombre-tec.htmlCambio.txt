@@ -1,0 +1,294 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   pasar_al_contenido_principal
+****** hoy_en_el_tec ******
+
+viernes 12 de agosto, 2022
+  |  
+quiénes_somos   |   buscar  
+
+***** menú *****
+    * investigación
+    * desarrollo_humano
+    * vida_estudiantil
+    * acción_institucional
+    * medio_ambiente
+    * emprendimiento
+    * cultura_y_deporte
+    * opinión
+    * buscar
+
+
+ escuela de personas ingeniera en computación
+****** estudiante gana reto mundial de inteligencia artificial y deja en alto
+nombre del tec ******
+juan villacis ganó el concurso plantclef, en el que se utilizó personal técnico de
+inteligencia artificial para identificación de plantas con imágenes
+ 
+organizadores destacan profesionalismo y capacidad del estudiante
+4 de septiembre 2020 por: johan_umaña_venegas
+vida_estudiantil
+   versión_para_imprimir    descargar_pdf  compartir por correo electrónico
+comentarios
+ compartir en facebook  compartir en twitter        compartir en whatsapp
+[imágenes_de_pliegos_de_herbario]
+el reto consistía en entrenar un sistema de inteligencia artíficial para
+identificar fotografías de plantas, a partir de imágenes de pliegos de
+herbarios. imagen con fines ilustrativos, tomada del museo_nacional_de_costa
+rica.
+
+en la tabla final del concurso planclef el nombre del tecnológico_de_costa_rica
+(tec) aparece en las primeras siete posiciones. eso lo logró un estudiante de
+personas ingeniera_en_computación, juan fernando villacis llobet, quien no solo ganó la
+competencia sino que dejó muy en alto el nombre de la institución.
+la prueba consistía en diseñar algoritmos de inteligencia artificial para el
+reconocimiento de imágenes de dominio cruzado de plantas a partir de pliegos de
+herbario y fotos en el campo.
+es decir, que el sistema identifique la especie de una planta a partir de una
+foto tomada en el campo, a pesar de que el sistema se entrenara
+fundamentalmente con fotos de pliegos de herbario. 
+[juan villancis]juan fernando villacis llobet compartirá cómo alcanzó los
+resultados en el concurso en  lifeclef, a finales de setiembre. foto cortesía
+de j. f.  villancis.
+se participaba por equipos, pero villacis tomó el reto de hacer la programación
+solo, recibiendo asesoría respecto a artículos recientes que podrían ser
+relevantes. así, consiguió resultados extraordinarios, quedándose con los siete
+mejores lugares, y ocho entre los mejores 10.
+“el concurso trataba de desarrollar algoritmos de inteligencia artificial que
+pudieran hacer clasificación de especies de plantas, es decir, de fotos de
+hojas, de madera o de flores, de especies de plantas.pero la diferencia con la
+clasificación normal es que en esta ocasión el modelo se iba a entrenar con
+fotos de herbarios. tradicionalmente los modelos se entrenan con fotos de
+plantas en su estado natural, como si estuvieran en el bosque y así. pero en
+esta ocasión se utilizaron fotos de herbarios que son diferentes,
+significativamente, de las fotos de plantas en su estado natural”, explicó
+villacis.
+el estudiante participó como el equipo itcr-pl@ntnet, este segundo nombre es el
+del grupo de personas expertas con quienes realizó la práctica de especialidad para
+obtener el título de ingeniero en computación del tec y que forma parte del
+centro de cooperación internacional en investigación agronómica para el
+desarrollo (cirad), en montpellier, francia.
+justamente el tema del trabajo que realizó villacis con los personas expertas de
+pl@ntnet fue la adaptación de dominios entre herbarios y plantas en su estado
+natural. 
+pl@ntnet es un proyecto que desarrolló una aplicación, del mismo nombre, que
+permite identificar miles de especies de plantas a partir de fotos. en junio de
+2019, un_equipo_de_investigadores_del_tec_desarrolló_e_hizo_el_lanzamiento_del
+módulo_de_plantas_de_costa_rica_para_este_app. 
+“la motivación detrás de esto es que hay muchas especies de plantas,
+especialmente de zonas tropicales, para las que es muy difícil conseguir
+especímenes en su estado natural, pero lo que sí se tiene es colecciones en
+herbarios, a veces hay más de 100 años de información de esas especies.
+entonces la motivación es utilizar esas imágenes de herbarios que se tienen
+para hacer clasificación de especies de plantas a partir de fotos en su estado
+natural. así se podría utilizar el modelo para un app que la gente podría
+descargar y usar en su teléfono”, detalló villacis.
+el costarricense explicará cómo alcanzó mejorar sus modelos en el taller
+lifeclef, parte de la conferencia y laboratorios del foro de evaluación (clef),
+que se desarrollará a finales de setiembre de manera virtual.
+
+tabla de posiciones en la categoría principal de planclef. tomada
+de www.imageclef.org/plantclef2020.
+
+**** resultados sobresalientes ****
+este año 70 equipos de todo el mundo se registraron para participar en la
+novena edición de plantclef, pero, debido a la dificultad de la prueba, solo
+siete grupos, de seis países distintos (además de villacis había grupos de
+malasia, república checa, estados unidos, india y dos de china), lograron
+cruzar la línea final a tiempo.  
+“juan villacis ha designado métodos que claramente superaron a los otras personas
+enfoques desarrollados por los otras personas quienes participan de acuerdo con la métrica
+principal del desafío”, destacó el dr. pierre bonnet, investigador del cirad y
+parte del comité organizador del plantclef.
+villacis fue el ganador en la categoría principal, donde se utilizaba todo el
+set de imágenes disponibles. mientras que el equipo neuonai (malasia) ganó en
+la categoría en la que se utilizó un “sub-set” con menos imágenes de campo para
+el entrenamiento del modelo.
+para el dr. erick mata montero, docente e investigador de la escuela de
+personas ingeniera en computación del tec, la participación de villacis deja en alto el
+nombre del tec y demuestra que en la escuela de personas ingeniera en computación se
+están enseñando los últimos avances en la aplicación de inteligencia
+artificial, por lo que alumnado ticos pueden competir en igualdad de condiciones
+con gremio estudiantil de países desarrollados.
+“es muy destacable que la primera prueba que hizo juan es la que quedó en
+último lugar, de ahí él mejoró y alcanzó los mejores resultados en las
+siguientes pruebas. eso quiere decir que no se desmotivó, siguió y logró
+mejorar bastante. de hecho, las personal técnico que aplicó en las subsiguientes
+pruebas son muy novedosas y estamos coordinando con él para que haga una
+publicación al respecto, porque es muy destacado lo que alcanzó”, comenta mata,
+quien fuera tutor de la pasantía de villacis. 
+para el doctor bonnet, el trabajo de villacis será de gran utilidad para
+avanzar en la aplicación de inteligencia artificial en identificación de
+plantas y conservación de la naturaleza: 
+“juan ha contribuido enormemente a desarrollar la experiencia de nuestro equipo
+multidisciplinario de investigación pl@ntnet, sobre el difícil tema del
+reconocimiento de imágenes de dominio cruzado de plantas a partir de hojas de
+herbario y fotos en el campo. mostró una madurez asombrosa, actuando como si ya
+fuera un investigador de doctorado, en la forma en que abordó el desafío
+plantclef, ya que estableció personal técnico de vanguardia y supo explicarlas e
+informarlas muy claramente a sus supervisores. desarrolló programas con gran
+facilidad y obtuvo rápidamente resultados prometedores. siempre estuvo abierto
+a las sugerencias, siendo una fuente de propuestas innovadoras para mejorar las
+personal técnico de vanguardia. estoy seguro de que le espera una gran carrera como
+investigador”, enfatizó bonnet.
+
+**** premio para el tec ****
+además de dejar en alto el nombre del tec, villacis decidió donar a la
+universidad el premio por ganar plantclef: $5.000 en servicios en la nube en el
+sistema microsoft azure.
+estos servicios serán administrados por el programa de investigación escience,
+que coordina el dr. mata, y estarán disponibles para gremio estudiantil e
+investigadores, fomentando estudios en el área de inteligencia artificial y
+otras áreas de la computación.
+según villacis, decidió donar el premio ya que cree que, en su criterio, en el
+tec se le podrá sacar más provecho y se impulsará más investigaciones.
+
+ [imágenes_de_ragiografias.]
+inteligencia_artificial_podría_facilitar_el_uso_de_radiografías_de_pecho_para
+diagnosticar_covid-19
+
+ [aplicacion_plantnet]
+aplicación_permitirá_identificar_automáticamente_plantas_nativas_de_costa_rica
+
+ [captura_de_pantalla_del_artículo_de_nature.]
+revista_‘nature’_destaca_investigación_de_ingenieros_del_tec_que_aplica
+inteligencia_artificial_a_la_botánica
+
+ personas ingeniera_en_computación, pl@ntnet, informática_para_la_sostenibilidad, medio
+ambiente, inteligencia_artificial
+[johan umaña venegas, comunicador.]
+**** johan_umaña_venegas ****
+johumana@tec.ac.cr
+comunicador
+licenciado en comunicación colectiva, con énfasis en periodismo, universidad de
+costa rica.
+view_the_discussion_thread.
+
+***** relacionado *****
+**** costa_rica_organizará_el_xvi_congreso_latinoamericano_y_caribeño_de
+extensión_y_acción_social_universitaria_2021 ****
+15 de febrero 2021 por: redacción
+ [xvi_congreso_latinoamericano_y_caribeño_de_extensión_universitaria]
+**** transformemos_al_tec:_universidad_libre_de_sexismo ****
+3 de diciembre 2020 por: redacción
+ [una_mujer_retira_la_venda_de_los_ojos_del_sexismo_a_un_joven._]
+**** universitarios_buscan_fondos_para_representar_al_país_en_francia_con
+proyecto_espacial_biodomo ****
+7 de junio 2022 por: johan_umaña_venegas
+ [dos_jóvenes,_con_bata_y_máscaras,_en_el_laboratorio,_trasladando_arroz_de_un
+contenedor_a_otro._]
+**** gremio estudiantil_crean_un_brazo_robótico_aeroespacial_y_otras personas_siete_prototipos
+****
+2 de junio 2022 por: sofía_solano_g
+ [gremio estudiantil_ponen_a_funcionar_prototipo_de_brazo_róbotico]
+
+oficina_de_comunicación_y_mercadeo
+teléfono: (506)_2550-2218 / (506)_2550-9194
+correo electrónico: comunicacionymercadeotec@tec.ac.cr
+    * quiénes_somos
+    * contacto
+    * secciones
+
+    * facebook
+    * twitter
+    * instagram
+    * youtube
+[logo tec]
+
+
+File name: C:\Users\valev\Documents\GitHub\TecuAvances\hoyeneltec\2020\estudiante-gana-reto-mundial-inteligencia-artificial-deja-alto-nombre-tec.html.txt
+Number of changes: 16
+Palabras reemplazadas: ingeniería, técnicas, asesoría, expertos, expertos, otros, otros, participantes, ingeniería, alumnos, estudiantes, técnicas, técnicas, estudiantes, ingeniería, estudiantes

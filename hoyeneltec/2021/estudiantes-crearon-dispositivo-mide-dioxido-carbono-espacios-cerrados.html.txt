@@ -1,0 +1,268 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   Pasar_al_contenido_principal
+****** Hoy_en_el_TEC ******
+
+Viernes 12 de Agosto, 2022
+  |  
+Quiénes_Somos   |   Buscar  
+
+***** Menú *****
+    * Investigación
+    * Desarrollo_Humano
+    * Vida_Estudiantil
+    * Acción_Institucional
+    * Medio_Ambiente
+    * Emprendimiento
+    * Cultura_y_Deporte
+    * Opinión
+    * Buscar
+
+
+ Diversas carreras del TEC
+****** Estudiantes crearon dispositivo que mide el dióxido de carbono en
+espacios cerrados ******
+El instrumento posee alertas de luz y sonido según el rango en el que se
+encuentre la concentración de este gas
+6 de Diciembre 2021 Por: Noemy_Chinchilla_Bravo
+Vida_Estudiantil
+   Versión_para_imprimir    Descargar_PDF  Compartir por correo electrónico
+Comentarios
+ Compartir en Facebook  Compartir en Twitter        Compartir en WhatsApp
+[Imagen_con_tres_estudiantes_mostrando_el_dispositivo_que_mide_el_dióxido_de
+carbono_(CO2)_en_espacios_cerrados]
+Raquel Monge Sanabria, Kristel Cordero Picado y Cristel Segura
+Vargas unieron sus conocimientos y crearon un dispositivo que mide el dióxido
+de carbono (CO2) en espacios cerrados. Foto: Steven Moya/TEC.
+
+Tres estudiantes del Tecnológico_de_Costa_Rica_(TEC) unieron sus conocimientos
+y crearon un dispositivo que mide el dióxido de carbono (CO2) en espacios
+cerrados.
+Se trata de Kristel Cordero Picado, de la carrera de Ingeniería_Electrónica;
+Raquel Monge Sanabria y Cristel Segura Vargas, ambas de la carrera de
+Ingeniería_en_Diseño_Industrial.
+Dispositivo que mide el dióxido de carbono (CO2) en espacios cerrados. Foto:
+Steven Moya/TEC.
+El dispositivo tiene como objetivo validar de manera directa si el aire de un
+espacio cerrado se está renovando o no; ya que tanto las personas como
+algunos objetos, entre ellos las computadoras, expulsan ese gas y, al estar en
+un espacio cerrado, se puede acumular.
+El proyecto inició cuando Kristel Cordero Picado le comentó al Ing. Sergio
+Morales Hernández, profesor y coordinador del Laboratorio_de_Investigación_en
+Vehículos_Eléctricos_(LIVE), que estaba interesada en realizar su proyecto de
+graduación sobre un dispositivo que midiera el CO2 en espacios cerrados.
+Para crear el dispositivo, las estudiantes contaron con el apoyo del profesor
+Ing. Sergio Morales Hernández. Foto: Steven Moya/TEC.
+El Ing. Morales Hernández no dudó en extenderle su mano y la orientó a diseñar
+el hardware del sistema. Además, integró a Raquel Monge Sanabria y Cristel
+Segura Vargas, de Diseño Industrial, para que la apoyaran con la creación de
+las interfaces del hardware.
+De acuerdo con el ingeniero, en el LIVE cuentan con un área de trabajo
+relacionada con el desarrollo de tecnologías de bajo costo enmarcadas bajo la
+temática de ciudades resilientes. De ahí nació la idea de generar un prototipo
+que permitiera censar CO2 en espacios cerrados y, con ello, contribuir al
+proceso de apertura que desarrolla el Tecnológico, con miras al retorno
+paulatino a las aulas.
+   “Como es la constante en el LIVE, pudimos aprovechar una de las mayores
+capacidades que tiene el TEC: el trabajo en equipos multidisciplinarios. Y por
+supuesto, hay un hecho digno de destacar: fueron tres mujeres las que sacaron
+adelante esta propuesta” Ing. Sergio Morales Hernández, profesor y coordinador
+del Laboratorio de Investigación en Vehículos Eléctricos (LIVE)
+**** ¿Cómo funciona? ****
+De acuerdo con las estudiantes, el dispositivo cuenta con un sensor que le
+permite detectar el CO2 del lugar y, según el rango en el que se encuentre la
+concentración de ese gas, se van a presentar alertas con luz y sonido, con el
+fin de indicar a las personas si deben ventilar el lugar o ajustar el aforo.
+El dispositivo cuenta con un sensor que le permite detectar el CO2 del lugar
+según el rango en el que se encuentre la concentración de ese gas. Foto: Steven
+Moya/TEC.
+Son alertas tipo semáforo. Si está dentro del rango ideal, se muestra una luz
+verde; si aumenta un poco, se muestra una luz amarilla y un pequeño sonido que
+significa que hay que empezar a ventilar el lugar (abrir ventanas, puertas); y
+si el nivel se encuentra fuera del recomendado, se muestra una luz roja y el
+sonido se vuelve más intenso, por lo que habría que mejorar aún más la
+ventilación o incluso reducir el aforo.
+ 
+ 
+**** Beneficios ****
+Entre los beneficios que se obtienen con el dispositivo están:
+    * Indicar si el aire en ese espacio es el adecuado o si es necesario
+      realizar alguna acción para mejorar su estado.
+    * Al estar conectado al Internet, le permite al encargado del lugar
+      monitorear la calidad del aire de las aulas de manera remota y, además,
+      acceder al historial, ya sea para estudios posteriores o mejoras del
+      sistema.
+    * Al recolectar los datos, se pueden realizar estudios en un futuro sobre
+      cómo es la ventilación en las aulas del TEC y, con ellos, definir si se
+      requieren tomar otras medidas como añadir filtros de purificación del
+      aire o similares. Y no solo estudios de la calidad del aire, sino también
+      de la temperatura y humedad.
+De acuerdo con Kristel Cordero Picado, estudiante de Electrónica, la vuelta a
+la presencialidad puede generar inquietud en las personas que tienen que
+compartir en espacios cerrados por un tiempo prolongado.
+     “Es cierto que los lineamientos de las autoridades son fundamentales,
+     sin embargo, es muy difícil controlar que todas las personas cumplan
+     con los protocolos de la forma correcta y todo el tiempo, por lo que
+     es importante buscar nuevos métodos que les permitan a todos sentirse
+     seguros y ayuden a prevenir la transmisión de virus respiratorios, en
+     este caso, el COVID-19”, expresó Cordero Picado.
+Según Raquel Monge Sanabria, aportar en este proyecto fue una gran oportunidad
+para poner a prueba los conocimientos que ha adquirido en los últimos años en
+una necesidad actual.
+     “Poder colaborar con compañeras de otros ámbitos nos permitió ofrecer
+     un producto más integral y con mayor valor, lo cual no sería posible
+     si lo trabajáramos de forma independiente”, afirmó Monge Sanabria.
+Para Cristel Segura Vargas, es una gran satisfacción poder colaborar con un
+sistema que promueva el bienestar de las personas en tiempo de pandemia.
+     “Es muy necesario también que se dé a conocer la importancia de la
+     ventilación en los espacios cerrados. Parte de nuestros hallazgos es
+     que, en ocasiones, no todos los recintos cuentan con condiciones para
+     ventilar, por lo que este tipo de dispositivos son de suma
+     importancia para comprobar la calidad del aire de esos espacios”,
+     concluyó Segura Vargas.
+
+**** Galería: Dispositivo mide el dióxido de carbono en espacios cerrados ****
+Fotografías: Steven Moya/TEC.
+***** Las estudiantes del TEC buscan nuevos métodos que les permitan a todos
+sentirse seguros y ayuden a prevenir la transmisión de virus respiratorios,
+como el Covid-19. *****
+***** Recientemente, realizaron pruebas al dispositivo en algunas aulas de la
+Escuela de Ingeniería Electrónica. *****
+***** Entre los principales beneficios del dispositivo está indicar si el aire
+en un espacio es el adecuado o si es necesario realizar alguna acción para
+mejorar su estado. *****
+***** Al recolectar los datos, se pueden realizar estudios en un futuro sobre
+cómo es la ventilación en las aulas del TEC y, con ellos, definir si se
+requieren tomar otras medidas como añadir filtros de purificación del aire o
+similares. *****
+ Previous Next
+ Previous Next
+ carrera_Ingeniería_Diseño_Industrial, carrera_Ingeniería_Electrónica,
+Laboratorio_de_Investigación_en_Vehículos_Eléctricos_(Live)
+[Noemy Chinchilla Bravo, Comunicadora.]
+**** Noemy_Chinchilla_Bravo ****
+nchinchilla@tec.ac.cr
+Comunicadora
+Licenciada en Relaciones Públicas y Bachiller en Periodismo, Universidad
+Autónoma de Centro América.
+View_the_discussion_thread.
+
+***** Relacionado *****
+**** Especialistas_en_informática_de_La_Sorbona_buscan_cimentar_una_provechosa
+alianza ****
+4 de Abril 2017 Por: Johan_Umaña_Venegas
+
+**** Universidades_públicas_crean_Confederación_Estudiantil_Universitaria_de
+Costa_Rica ****
+22 de Mayo 2017 Por: Noemy_Chinchilla_Bravo
+
+**** Abierta_convocatoria_para_ingresar_a_Doctorado_Académico_en_Ingeniería
+****
+5 de Septiembre 2017 Por: Noemy_Chinchilla_Bravo
+
+**** Estudiante_de_Ingeniería_en_Producción_Industrial,_galardonado_con_el
+“Premio_a_la_Excelencia_Académica_Rubén_Darío" ****
+8 de Septiembre 2017 Por: Noemy_Chinchilla_Bravo
+
+
+Oficina_de_Comunicación_y_Mercadeo
+Teléfono: (506)_2550-2218 / (506)_2550-9194
+Correo electrónico: comunicacionymercadeotec@tec.ac.cr
+    * Quiénes_Somos
+    * Contacto
+    * Secciones
+
+    * Facebook
+    * Twitter
+    * Instagram
+    * YouTube
+[logo TEC]

@@ -1,0 +1,240 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   Pasar_al_contenido_principal
+****** Hoy_en_el_TEC ******
+
+Viernes 12 de Agosto, 2022
+  |  
+Quiénes_Somos   |   Buscar  
+
+***** Menú *****
+    * Investigación
+    * Desarrollo_Humano
+    * Vida_Estudiantil
+    * Acción_Institucional
+    * Medio_Ambiente
+    * Emprendimiento
+    * Cultura_y_Deporte
+    * Opinión
+    * Buscar
+
+
+****** Rutinas de trabajo podrán ser mejoradas mediante realidad virtual ******
+    * Egresado del TEC participó activamente en investigación de universidades
+      alemanas.
+9 de Diciembre 2019 Por: Kenneth_Mora_Pérez
+Desarrollo_Humano
+Investigación
+   Versión_para_imprimir    Descargar_PDF  Compartir por correo electrónico
+Comentarios
+ Compartir en Facebook  Compartir en Twitter        Compartir en WhatsApp
+[persona_en_oficina_utilzando_lentes_de_realidad_virtual]
+Las diversas variables que presenta una oficina para estudio, conllevó a las
+universidades alemanas a aplicar la realidad virtual mediante la simulación e
+interacción de sus elementos y actores. (Imagen ilustrativa/Pexels)
+
+La capacidad de inmersión que tiene la realidad virtual para diversos entornos
+es hoy una herramienta de investigación que permitirá mejorar los hábitos de
+trabajo.
+La propuesta realizada por la Universidad RWTH Aachen y la Universidad
+Mannheim, ambas de Alemania, tiene la particularidad de tener el aporte de un
+costarricense y egresado del Tecnológico de Costa Rica (TEC).
+Yuen Law, ingeniero en Computación, participó en la iniciativa como parte de la
+investigación realizada en el marco de su postdoctorado en Aachen, gracias a su
+vinculación con el grupo de Realidad Virtual (RV) y Visualización inmersiva de
+esta universidad.
+La investigación analiza los comportamientos más comunes de los trabajadores de
+oficina a través de la creación de un entorno virtual donde es posible
+controlar una serie de variables que permitirán mejorar las características y
+prácticas que tienen tanto trabajadores como empresas.
+Esto mediante una aplicación de psicología organizacional que utiliza la RV y
+el modelado del hábito a través de la creación de los entornos que utiliza esta
+tecnología inmersiva.
+Yuen desarrolla ambientes virtuales donde es posible controlar diversas
+variables y actores con roles específicos. (Foto: Yuen Law)
+Law, quien participó en esta investigación en el marco de su post doctorado,
+realizó la representación de los flujos de trabajo más comunes mediante un
+modelado, a partir del cual, se realizó un análisis y transformación en una red
+de petrinets (un modelo de sistemas paralelos y distribuidos), la cual generó a
+su vez una máquina de estado.
+La máquina de estado permite una serie de entradas y salidas digitales que
+justamente dan además la posibilidad de crear un software.
+Estesoftware sería el encargado de realizar el monitoreo de los hábitos, donde
+el usuario registrará sus actividades más comunes en la oficina para que con
+estas variables, el software pueda darle instrucciones específicas que
+beneficien la salud del trabajador así como optimizar las tareas de su
+organización.
+   "Un ambiente real como la oficina es muy difícil de controlar, por lo que se
+hizo una oficina virtual donde se controlaron varias variables, por ejemplo:
+sonar el teléfono y decir quién estaba detrás de esa llamada(...) Esto dio
+pistas importantes de buenos y malos hábitos que se hacen durante las labores".
+Yuen Law
+**** También en el contexto médico ****
+Yuen ha desarrollado su experiencia en RV no solo en ámbito de estudio
+organizacional sino también en el ámbito médico.
+La simulación de imágenes de ultrasonidos es parte de investigaciones
+realizadas por este egresado y actual investigador del Centro de
+Investigaciones en Computación (CIC).
+Yuen terminó su maestría en el TEC en el 2009 y decidió iniciar un año después
+su doctorado a través del Servicio Alemán de Intercambio Académico o DAAD
+(Foto:  TEC)
+Previo a su participación en el estudio de las variables de la oficina, Law fue
+parte de un grupo que trabajó en la simulación de imágenes de ultrasonido en
+tejido humano.
+Como parte de su investigación de doctorado, el ingeniero se encargó de crear
+las imágenes virtuales que servirián como base para generar diseños 3D de la
+anatomía.
+Mediante el Proyecto RASimAs, Law fue parte del equipo que busca crear un
+simulador de anestesia regional que ayude a profesionales médicos a aplicarla
+con mayor precisión en el nervio.
+En su caso, su tarea fue generar las imágenes utilizando RV, sin embargo la
+acción respondía a una investigación mayor del gobierno alemán en colaboración
+con otros socios académicos e industriales que busca mejorar este proceso con
+apoyo de ultrasonidos.
+Law destacó cómo su interés y experiencia en el área de interfaces e
+interacción humano-computador desarrolladas en Alemania son ahora insumos
+esenciales que aplicará en investigaciones que realice ya en nuestro país a
+partir del 2020.
+
+**** Vea también: ****
+
+ [soldados]
+Realidad_aumentada_en_ejército_estadounidense,_con_sello_tico
+
+
+Usted_podrá_ver_a_Barrio_Amón_“con_otros_ojos”
+
+ #GraduadosTEC, Realidad_Virtual, Escuela_de_Ingeniería_en_Computacion,
+Graduado_TEC
+[Kenneth Mora Pérez, Comunicador.]
+**** Kenneth_Mora_Pérez ****
+kmora@tec.ac.cr
+Comunicador
+Máster en Periodismo Digital, Universidad de Guadalajara, México. Licenciado en
+Comunicación, Universidad Federada de Costa Rica y Bachiller en Periodismo,
+Universidad Internacional de las Américas.
+View_the_discussion_thread.
+
+***** Relacionado *****
+**** Genfores_se_alía_con_empresa_privada_para_ampliar_infraestructura_de
+invernaderos_y_aumentar_capacidad_de_producción ****
+13 de Abril 2021 Por: Noemy_Chinchilla_Bravo
+ [Imagen_de_un_invernadero_en_donde_se_encuentran_dos_personas_junto_a_los
+sembradíos]
+**** País_estrena_tecnología_que_permitirá_visualizar_los_sismos_en_3D ****
+7 de Junio 2017 Por: Irina_Grajales_Navarrete
+
+**** Agronegocios_continúa_con_acciones_para_lograr_sistemas_alimentarios
+sostenibles ****
+31 de Julio 2018 Por: Noemy_Chinchilla_Bravo
+ [Dos_estudiantes_esperando_que_le_sirvan_almuerzo_en_el_Restaurante
+Institucional_del_TEC.]
+**** Microprocesador_integralmente_diseñado_en_Costa_Rica_demuestra_altas
+capacidades_tecnológicas ****
+27 de Abril 2021 Por: Johan_Umaña_Venegas
+ [Tarjeta_de_circuitos,_con_cables_y_una_pantalla_que_dice_Hello_World,_My_name
+is_SIWA]
+
+Oficina_de_Comunicación_y_Mercadeo
+Teléfono: (506)_2550-2218 / (506)_2550-9194
+Correo electrónico: comunicacionymercadeotec@tec.ac.cr
+    * Quiénes_Somos
+    * Contacto
+    * Secciones
+
+    * Facebook
+    * Twitter
+    * Instagram
+    * YouTube
+[logo TEC]

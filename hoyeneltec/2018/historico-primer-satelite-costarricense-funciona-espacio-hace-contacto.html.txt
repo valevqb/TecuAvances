@@ -1,0 +1,283 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   Pasar_al_contenido_principal
+****** Hoy_en_el_TEC ******
+
+Viernes 12 de Agosto, 2022
+  |  
+Quiénes_Somos   |   Buscar  
+
+***** Menú *****
+    * Investigación
+    * Desarrollo_Humano
+    * Vida_Estudiantil
+    * Acción_Institucional
+    * Medio_Ambiente
+    * Emprendimiento
+    * Cultura_y_Deporte
+    * Opinión
+    * Buscar
+
+
+ Proyecto Irazú
+****** Histórico: el primer satélite costarricense funciona en el espacio y
+hace contacto ******
+    * A las 9:23 a.m. del viernes 11 de mayo el satélite hizo contacto con el
+      centro de control de misión, en Cartago
+    * En la madrugada el satélite fue liberado desde la Estación Espacial
+      Internacional
+11 de Mayo 2018 Por: Johan_Umaña_Venegas
+Investigación
+   Versión_para_imprimir    Descargar_PDF  Compartir por correo electrónico
+Comentarios
+ Compartir en Facebook  Compartir en Twitter        Compartir en WhatsApp
+[El_módulo_cilíndrico_es_metálico_y_tiene_varios_brazos_robóticos.]
+Fotografía del módulo japonés Kibo, del que se liberó en órbita el satélite
+costarricense. Imagen tomada de Wikimedia_Commons.
+
+Por primera vez en la historia de Costa Rica un satélite construido
+íntegramente en el país, hecho por especialistas ticos, hizo contacto desde el
+espacio.
+Así se comprobó el debido funcionamiento del aparato tipo CubeSat y con ello
+que el Proyecto Irazú es un éxito rotundo.
+El primer satélite de Costa Rica y Centroamérica fue liberado en órbita la
+madrugada de este viernes, a las 4:30 a.m.hora tica.
+A las 9:23 pasó por encima de territorio nacional y casi de inmediato hicieron
+contacto los estudiantes e investigadores en la estación de control de misión,
+en el Campus Central delTecnológico_de_Costa_Rica_(TEC), en Cartago.
+Lo primero que transmitió el satélite fue un autodiagnóstico para hacer saber a
+los ansiosos ingenieros que desarrollaron el proyecto que las antenas se
+desplegaron a la perfección y que todos los sistemas operaban correctamente.
+Según el ingeniero Marco Gómez, director de proyectos del Laboratorio_de
+Sistemas_Espaciales_(SETEC-Lab), el satélite continuará orbitando durante seis
+meses alrededor de la Tierra y pasará dos veces al día sobre territorio
+costarricense. En una pasada recopilará la información de la estación remota en
+San Carlos y en la otra transmitirá los datos al centro de control de misión,
+ubicado en Cartago.
+“Hoy presenciamos un momento histórico en Costa Rica: el funcionamiento del
+primer satélite Centroamericano. Por primera vez pudimos contactar a un
+satélite nacional que está transmitiendo desde el espacio.
+"El equipo multidisciplinario de estudiantes y funcionarios del TEC hizo un
+excelente trabajo el día de hoy, contactando el satélite en su primer pase
+sobre Costa Rica. El hito no solo demuestra el funcionamiento óptimo del
+satélite, sino también la calidad de trabajo de científicos e ingenieros
+nacionales. Los siguientes días vamos a estar terminando con la calibración de
+la estación en Tierra y en pocos días el satélite comenzará a recolectar datos
+de los sensores en San Carlos.”, detalló Gómez.
+El Proyecto_Irazú, que sirvió para lanzar al espacio un satélite del tipo
+CubeSat (un cubo de 10 centímetros de diámetro y 1 kilogramo de peso) para
+monitorear la fijación de carbono en árboles costarricenses, se realiza en
+sociedad con la Agencia_Centroamericana_de_Aeronáutica_y_del_Espacio_(ACAE).
+En la madrugada, el satélite nacional fue liberado desde el módulo japonés
+Kibo, de la Estación Espacial Internacional (ISS, en inglés), junto a aparatos
+similares de Turquía y Kenia. La Agencia_Espacial_Japonesa_(JAXA), que facilitó
+el lanzamiento y puesta en órbita, transmitió en vivo este evento.
+La mañana de este mismo viernes el satélite pasó por primera vez por encima del
+Campus Central de Cartago –donde se ubica la estación de comunicación–, y entre
+9:23 y 9:26 a.m. se dio la primera comunicación de los ingenieros del SETEC-
+Lab.
+Los resultados superaron todas las expectativas y los ingenieros mantuvieron
+contacto con el satélite más allá de lo esperado.
+“Los resultados fueron mucho mejor de lo esperados, ya que se logró hacer
+contacto a la primera y obtuvimos más tiempo de transmisión de lo que
+esperábamos en los cálculos previos”, explicó el ingeniero Esteban Martínez,
+encargado de comunicaciones de la misión y estudiante de maestría del TEC.
+
+**** Primera conexión: ****
+Así se vivió un hito: la primera conexión espacial de un satélite hecho en
+Costa Rica. 
+
+
+Momento en el que el satélite costarricense es liberado de la Estación Espacial
+Internacional. Transmisión de JAXA.
+
+
+**** Culminación de un sueño ****
+La primera conexión con el satélite fue un momento de gran júbilo para
+investigadores y estudiantes involucrados en el Proyecto Irazú, pues escuchar
+la transmisión del aparato significó ratificar el éxito de una misión que
+incluyó un año de trabajo, desde que ACAE facilitó al TEC los componente e
+inició la fase de comprobación y ensamblaje.
+“En el Tecnológico de Costa Rica y especialmente en el Laboratorio de Sistemas
+Espaciales de la Escuela de Electrónica estamos muy emocionados pues, después
+de tanto trabajo, arrancamos con la operación real del satélite.
+“Hoy estudiantes y funcionarios son plenos partícipes de la operación de una
+misión espacial, y así demuestran que en el país existen las capacidades para
+desarrollar proyectos espaciales completos”, comenta el ingeniero Adolfo
+Chaves, coordinador del SETEC-Lab.
+Después de meses de trabajo en las instalaciones del Tecnológico, en octubre
+del año pasado el satélite fue ensamblado en un cuarto limpio facilitado por la
+empresa MOOG Medical, en la Zona Franca El Coyol.
+En noviembre fue enviado a Japón, donde con la participación de ingenieros
+costarricenses se realizaron las pruebas técnicas para garantizar que el
+aparato sería capaz de soportar las condiciones extremas del espacio, ya que
+está expuesto a cambios de temperatura de 80 grados centígrados en menos de 90
+minutos.
+El lanzamiento se realizó el 2 de abril, a bordo de la nave espacial Dragon e
+impulsado por el cohete Falcon 9, de la corporación SpaceX.
+Después de dos días en el espacio, la nave llegó a la ISS y el satélite tico
+fue transportado a bordo.
+Desde hoy el aparato se encuentra solo en el espacio, en la misma órbita que la
+Estación Espacial, a unos 400 kilómetros de altura.
+
+**** Por el medio ambiente ****
+Una vez que los ingenieros contacten el satélite le indicarán a la computadora
+a bordo que realice las tareas de autodiagnóstico.
+Después, le darán la orden de conectarse con la estación remota, en San Carlos,
+donde se están monitoreando datos de crecimiento de árboles de melina en una
+plantación especial del TEC.
+Esa información es de suma importancia para que especialistas puedan determinar
+la tasa de fijación de carbono de los árboles.
+El satélite transmitirá esa información a la estación de comunicaciones, en
+Cartago, con lo que el Proyecto Irazú comprobará la utilidad de la tecnología
+espacial para monitorear de mejor manera lo que ocurre en los bosques
+costarricenses.
+
+ [Un_cohete_expulsando_fuego_y_humo_en_su_despegue._]
+#SatéliteCR:_Especialistas_quedan_a_la_expectativa_para_realizar_la_primera
+conexión_espacial
+
+
+Proyecto_Irazú_fortaleció_capacidades_del_TEC_para_desarrollar_misiones
+espaciales
+
+ [Tres_fotógrafos_frente_a_los_ingenieros,_separados_por_un_vidrio._Los
+investigadores_visten_de_bata_de_laboratorio.]
+Primer_satélite_tico_viaja_a_Japón_para_las_pruebas_finales
+
+ [El_satélite_en_primer_plano,_con_otros_equipos_al_fondo._]
+Estudiantes_e_investigadores_del_TEC_trabajan_para_poner_a_punto_los_sistemas
+del_primer_satélite_costarricense
+
+ SatéliteCR, Proyecto_Irazú, Espacio, SETEC-Lab, ACAE
+[Johan Umaña Venegas, Comunicador.]
+**** Johan_Umaña_Venegas ****
+johumana@tec.ac.cr
+Comunicador
+Licenciado en Comunicación Colectiva, con énfasis en Periodismo, Universidad de
+Costa Rica.
+View_the_discussion_thread.
+
+***** Relacionado *****
+**** Componentes_del_primer_satélite_centroamericano_llegan_al_TEC_para_la
+etapa_de_desarrollo ****
+22 de Marzo 2017 Por: Johan_Umaña_Venegas
+ [Animación_de_cómo_se_verá_el_primer_satélite_tico._]
+**** Primer_satélite_tico_viaja_a_Japón_para_las_pruebas_finales ****
+23 de Octubre 2017 Por: Johan_Umaña_Venegas
+ [Tres_fotógrafos_frente_a_los_ingenieros,_separados_por_un_vidrio._Los
+investigadores_visten_de_bata_de_laboratorio.]
+**** ‘Se_siente_como_el_primer_hombre_en_la_luna’:_uno_de_los_jóvenes_que
+ensambló_el_primer_satélite_de_Centroamérica_cuenta_su_historia ****
+8 de Noviembre 2017 Por: Johan_Umaña_Venegas
+ [Esteban_Martínez_posa_junto_a_instrumentos_musicales.]
+**** #SatéliteCR:_Especialistas_quedan_a_la_expectativa_para_realizar_la
+primera_conexión_espacial ****
+5 de Abril 2018 Por: Johan_Umaña_Venegas
+ [Un_cohete_expulsando_fuego_y_humo_en_su_despegue._]
+
+Oficina_de_Comunicación_y_Mercadeo
+Teléfono: (506)_2550-2218 / (506)_2550-9194
+Correo electrónico: comunicacionymercadeotec@tec.ac.cr
+    * Quiénes_Somos
+    * Contacto
+    * Secciones
+
+    * Facebook
+    * Twitter
+    * Instagram
+    * YouTube
+[logo TEC]

@@ -1,0 +1,259 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   pasar_al_contenido_principal
+****** hoy_en_el_tec ******
+
+viernes 12 de agosto, 2022
+  |  
+quiénes_somos   |   buscar  
+
+***** menú *****
+    * investigación
+    * desarrollo_humano
+    * vida_estudiantil
+    * acción_institucional
+    * medio_ambiente
+    * emprendimiento
+    * cultura_y_deporte
+    * opinión
+    * buscar
+
+
+ escolares provenían de diferentes centros educativos de cartago
+****** niñez con ceguera contribuyen a mejorar herramienta para su aprendizaje
+de matemática ******
+menores ayudaron con la validación de editor matemático desarrollado por el
+programa inclutec.
+5 de noviembre 2019 por: marcela_guzmán_ovares
+desarrollo_humano
+investigación
+   versión_para_imprimir    descargar_pdf  compartir por correo electrónico
+comentarios
+ compartir en facebook  compartir en twitter        compartir en whatsapp
+[niñez-sentados-frente-a-computadoras-]
+niñez y niñez acudieron al llamado del tec en compañía de padres, madres,
+abuelos y maestras. foto: steven moya/tec.
+
+un grupo de niñez y niñez con ceguera y  baja visión de distintas escuelas de
+cartago acudieron altecnológico_de_costa_rica_(tec)para colaborar con el
+programainclutecen la prueba y validación de la herramienta euler.
+se trata de un editor matemático de recursos universales desarrollado por
+investigadores del programa, cuyo nombre es un homenaje al matemático suizo
+leonhard euler.
+la herramienta busca reunir las características deseables de un editor
+matemático para personas con discapacidad visual, y con vista, “ofreciendo un
+entorno multi-plataforma, accesible, autónomo, gratuito y que no requiera de
+asistentes para su uso”. el objetivo final es apoyar el proceso de enseñanza y
+aprendizaje de las matemáticas y otras personas disciplinas.
+ 
+**** pruebas ****
+el coordinador del programa inclutec, doctor mario chacón, explicó a los niñez,
+sus padres, madres, abuelos y maestras, en qué consistirían los ejercicios
+matemáticos, según el nivel de cada niño y niña, para conocer cómo se comporta
+euler.  “como universidad -dijo- queremos mejorar la herramienta y generar
+artículos científicos”.
+el coordinador les informó que los resultados serían confidenciales, sin nombre
+y restringidos a terceras personas; la participación fue voluntaria y sin
+costo. una vez que los encargados de los niñez conocieron las reglas del juego,
+dieron su consentimiento informado.
+con la participación de funcionariado y gremio estudiantil del tec que trabajan en
+inclutec, a cada niño se le asignaron ejercicios según su nivel escolar
+tendientes exclusivamente a evaluar la herramienta, no así los conocimientos de
+los quienes participan.
+los niñez provienen de escuelas de la pitahaya, oreamuno, manuel de jesús
+jiménez, palomo, caballo blanco, paraíso y el tejar. en la provincia de cartago
+hay aproximadamente 120 niñez con problemas de ceguera y de baja visión.
+ 
+**** cuerpo docente colaboran ****
+en la actividad estuvieron presentes cuatro cuerpo docente itinerantes de la escuela
+carlos luis valle, quienes se desplazan a los centros educativos de la
+provincia para atender los niñez con problemas de ceguera, así como a las
+maestras y los padres de familia. ellas son: ana lía brenes vega, gabriela
+gonzález porras, fabiola aguilar vega y victoria delgado molina.
+la profesora brenes explicó que el tec contactó a la escuela carlos luis valle
+y la directora, marcela romero, estuvo muy dispuesta a colaborar, lo mismo que
+los padres de familia.
+agregó brenes que todos los niñez reciben clases de computación por medio de la
+fundación omar dengo y utilizan el programa de lectoescritura avanzado en el
+sistema braille. en esta ocasión conocieron la herramienta euler por primera
+vez.
+las cuerpo docente consideraron la evaluación como una gran oportunidad para
+proyectarse a futuro; herramientas tecnológicas como esta les dan esperanzas y
+les generan expectativas de que se puede mejorar, dijo brenes. conocer estas
+adaptaciones también constituye una gran oportunidad para las educadoras, al
+tiempo que el tec puede conocer de primera mano las características de esta
+población.
+la docente aguilar indicó, por su parte, que la actividad en el tec constituye
+una gran oportunidad para que los niñez y sus padres visualicen la posibilidad
+de llegar a niveles superiores; que en costa rica existe esa posibilidad, que
+hay oportunidades de crecer.
+el representante del consejo_nacional_de_personas_con_discapacidad_(conapdis),
+josé blanco, coordinador de procesos de gestión del conocimiento de la entidad,
+y quien también estuvo presente en la actividad, indicó que el producto
+generado por inclutec constituye un apoyo a la accesiblidad de las personas con
+discapacidad y destacó la importancia de hacer prácticas con los personal usuario
+finales de la nueva tecnología.
+ 
+**** logros ****
+la mayoría de los quienes participan encontraron que la herramienta euler es fácil
+de utilizar y les servirá mucho cuando estén en grados superiores. 
+chacón comentó que en este momento se están tabulando los datos recogidos a
+partir de esta experiencia. sin embargo, resaltó como muy importante haber
+podido presentar la herramienta euler a niñez de edad escolar y lograr
+realimentación de parte de ellos y sus familiares.
+agregó que, en general, todos comentaron que era sumamente fácil de usar y que
+es de gran provecho, más aún cuando los niñez ya ingresan a grados superiores.
+“tanto los cuerpo docente como las personas personas invitadas consultaron cuáles serían los
+siguientes pasos del tec en relación con este proyecto, si el ministerio_de
+educación_pública_(mep) ya conocía la herramienta y si la utilizaría”, explicó
+chacón. agregó que aún no se tiene respuesta pues el siguiente paso corresponde
+a la relación del tec con el mep, por lo que habrá que conversarlo con la
+rectoría.
+finalmente, el coordinador del programa inlcutec manifestó que “además de esos
+hallazgos y comentarios, se identificó la necesidad que tiene esta población de
+gremio estudiantil de ser formados en el uso de la tecnología accesible. el país no
+está brindando en este momento una opción de formación a niñez en edad escolar,
+lo cual el tec puede realizar. para esto se habló de buscar algún apoyo o
+convenio entre el tec, conapdis y el ministerio_de_ciencia,_tecnología_y
+telecomunicaciones_(micitt), a fin de crear un laboratorio de capacitación
+dirigido a la población con discapacidad visual”, concluyó.
+las cuerpo docente ana lía brenes vega, gabriela gonzález porras, fabiola aguilar
+vega y victoria delgado molina coincideron en que herramientas tecnológicas
+como esta brindan esperanzas y generan expectativas de que se puede mejorar. 
+ 
+  matemáticas, inclutec, inclusión, niñez, ceguera, matematica
+**** marcela_guzmán_ovares ****
+maguzman@itcr.ac.cr
+view_the_discussion_thread.
+
+***** relacionado *****
+**** tec_y_conapdis_presentaron observatorio_de tecnologías_accesibles_e
+inclusivas ****
+23 de octubre 2018 por: geovanni_jiménez_mata
+
+**** profesor_gana_premio_calidad_de_vida_por_impulsar_la_conciencia_social_de
+sus_alumnos ****
+5 de noviembre 2018 por: geovanni_jiménez_mata
+ [profesor_leonel_fonseca_posando_con_trofeo_]
+**** colaboradores_de_inclutec_se_capacitan_en_liderazgo_y_habilidades_blandas
+****
+1 de octubre 2020 por: geovanni_jiménez_mata
+ [quienes participan_del_curso_de_habilidades_blandas_y_liderazgo.]
+**** formación_stem_fortalece_perfiles_profesionales_para_el_sector_productivo
+****
+25 de octubre 2019 por: noemy_chinchilla_bravo
+ [imagen_de_una_estudiante_del_tec,_una_mamá_y_su_hija_aprendiendo_matemática
+por_medio_de_juegos.]
+
+oficina_de_comunicación_y_mercadeo
+teléfono: (506)_2550-2218 / (506)_2550-9194
+correo electrónico: comunicacionymercadeotec@tec.ac.cr
+    * quiénes_somos
+    * contacto
+    * secciones
+
+    * facebook
+    * twitter
+    * instagram
+    * youtube
+[logo tec]
+
+
+File name: C:\Users\valev\Documents\GitHub\TecuAvances\hoyeneltec\2019\ninos-ceguera-contribuyen-mejorar-herramienta-su-aprendizaje-matematica.html.txt
+Number of changes: 27
+Palabras reemplazadas: niños, niñas, niños, niñas, otras, niños, niños, funcionarios, estudiantes, participantes, niños, niños, docentes, docentes, niños, niños, docentes, niños, usuarios, participantes, niños, niños, docentes, invitadas, niños, docentes, niños

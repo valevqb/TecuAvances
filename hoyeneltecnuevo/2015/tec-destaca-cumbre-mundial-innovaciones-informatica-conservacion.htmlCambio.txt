@@ -1,0 +1,236 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   pasar_al_contenido_principal
+****** hoy_en_el_tec ******
+
+viernes 12 de agosto, 2022
+  |  
+quiénes_somos   |   buscar  
+
+***** menú *****
+    * investigación
+    * desarrollo_humano
+    * vida_estudiantil
+    * acción_institucional
+    * medio_ambiente
+    * emprendimiento
+    * cultura_y_deporte
+    * opinión
+    * buscar
+
+
+****** tec destaca en cumbre mundial por innovaciones en informática para la
+conservación ******
+7 de octubre 2015 por: johan_umaña_venegas
+medio_ambiente
+   versión_para_imprimir    descargar_pdf  compartir por correo electrónico
+comentarios
+ compartir en facebook  compartir en twitter        compartir en whatsapp
+
+     el proyecto de josé carranza, estudiante del doctorado académico en
+     personas ingeniera, se centra en la identificación de especies de plantas por
+     medio del reconocimiento visual de sus hojas.
+    * una aplicación sirve para identificar especies de plantas y árboles, y
+      otra para predicción y control de incendios forestalesson proyectos parte
+      del programa programa escience, como iniciativas de informática para
+      conservación de la biodiversidad
+una aplicación que reconoce plantas y árboles con tan solo “ver” una hoja y
+otra que sirve para predecir y aplacar los incendios forestales son producto de
+la inventiva y capacidad de innovación de gremio estudiantil del tec. ambas fueron
+destacadas como semifinalistas en la categoría de innovación en informática,
+por la cumbre mundial eye_on_earth (eoe), que se realiza esta semana en abu
+dabi, capital de los emiratos árabes unidos.
+josé mario carranza, estudiante del doctorado_académico_en_personas ingeniera,
+participó con un proyecto titulado identificación_de_especies_de_plantas_de
+costa_rica_utilizando_visión_por_computadora, que forma parte de la
+vicerrectoría_de_investigación_y_extensión y cuenta con la ayuda de taxónomos
+del inbio y el museo nacional.
+“nuestro proyecto se basa en tomar fotos de hojas de plantas de costa rica y
+con el uso de algoritmos de visión por computadora, predecir con cierta
+probabilidad sus especies. ya tenemos un artículo aceptado en la xli
+conferencia latinoamericana de informática, que ataca este problema usando
+análisis de curvatura y textura de la hoja. actualmente estamos explorando otro
+tipo de algoritmos”, explicó carranza.
+asimismo, esta iniciativa propone “plasmar los algoritmos en un app para uso
+del público en general”, ahondó el investigador.
+el dr. erick mata, profesor tutor del proyecto, comentó que puede servir tanto
+para “bioalfabetización” del público en general, como para la georeferenciación
+de las especies de plantas nacionales, y con eso ayudar en la toma de
+decisiones en materia de conservación.
+“ser tomados en cuenta como semifinalistas entre quienes participan de muchos otras personas
+países y universidades prestigiosas es un honor para nosotras personas y nos impulsa a
+continuar con la investigación”, acotó carranza. 
+vea:
+    * lista_de_semifinalistas_de_eoe,_categoría_de_data_innovation,_en_la_que
+      fueron_seleccionadas_dos_investigaciones_de_gremio estudiantil_del_tec (en
+      inglés)más_sobre_eye_on_earth (en inglés), del 6 al 8 de octubre 2015
+**** lucha contra el fuego. ****
+forest_guardian, el otro semifinalista de la eoe con sello tec, es un ambicioso
+proyecto en desarrollo por marcela amador salas, egresada de personas ingeniera en
+diseño industrial; luis alonso murillo y emmanuel mora marín, gremio estudiantil de
+personas ingeniera en computadores, y diego chinchilla arias, estudiante de personas ingeniera
+forestal.
+ellos ganaron el segundo lugar en el space_apps_challenge, llevado a cabo en el
+tecnológico, y eso les ha permitido, según amador, contar con apoyo en recursos
+de software por parte de microsoft para seguir trabajando en una herramienta
+que permita predecir el comportamiento de los incendios forestales por medio de
+la visualización de datos.
+“es una aplicación móvil que pretende ayudar en la predicción y control de
+incendios forestales. con la adquisición de data de fuentes como modis, que se
+basa en información de la nasa, y análisis de factores tales como ubicación de
+incendios activos, viento, clima, rutas de acceso y ubicación de poblados;
+ayuda a determinar el grado de riesgo que presenta un área.
+“las conclusiones de dicho análisis van a brindar información de las rutas y la
+ayuda más cercana para detener el fuego, alerta a las autoridades más cercanas
+para una acción más rápida. todo esto se da a través de una interfaz diseñada
+para visualización de datos y la posibilidad de que la población realice
+reportes del estado del incendio”, explicó amador.
+la egresada de diseño industrial, también comentó que el galardón de eye on
+earth les servirá para poder solicitar apoyo internacional y buscar recursos
+económicos que les permita continuar con el proyecto.
+**** eye on earth. ****
+eye on earth se presenta como una de las más grandes convenciones de tema
+ambiental en el mundo. cuenta con el respaldo del programa_de_naciones_unidas
+para_el_medio_ambiente y este año el tema central es el cambio climático.
+la cumbre inició en 2011 con su primera edición y durante este mes de setiembre
+se realiza la segunda, siempre en abu dabi.
+los finalistas de cada categoría fueron personas invitadas a participar en la cumbre,
+mientras que los semifinalistas fueron reconocidos con la publicación en el
+portal_del_evento.
+tres proyectos con sello tec participaron en la categoría_data_innovation
+showcase (de innovación en informática). además de forest guardian y el
+proyecto de carranza; lilliana sancho, profesora de la escuela de personas ingeniera en
+computación y estudiante del doctorado académico en personas ingeniera, participó con
+la investigación visualización_y_análisis_de_big_data_mediante_ambientes
+tridimensionales.
+mata, quien también es tutor en la investigación de sancho, comentó que estos
+proyectos se desarrollan en el marco del programa e-science como iniciativas de
+informática para conservación de la biodiversidad. 
+[https://www.tec.ac.cr/hoyeneltec/sites/default/files/media/uploads/
+forest_guardian.jpg]
+     forest guardian, iniciativa de cuatro gremio estudiantil del tecnológico,
+     pretende predecir el comportamiento de los incendios forestales para
+     varias aplicaciones útiles en prevención y control de los mismos.
+[johan umaña venegas, comunicador.]
+**** johan_umaña_venegas ****
+johumana@tec.ac.cr
+comunicador
+licenciado en comunicación colectiva, con énfasis en periodismo, universidad de
+costa rica.
+view_the_discussion_thread.
+
+***** relacionado *****
+**** reutilizan_residuos_sólidos_municipales_para_crear_huertas_caseras ****
+9 de noviembre 2015 por: noemy_chinchilla_bravo
+
+**** realizarán_charla_sobre_los_resultados_de_la_conferencia_internacional
+sobre_cambio_climático ****
+28 de marzo 2016 por: ligia_dittel_samuda
+
+**** san_carlos_recibe_la_jornada_sobre_la_calidad_del_agua ****
+16 de mayo 2016 por: johan_umaña_venegas
+
+**** gremio estudiantil_de_primer_ingreso_aprenden_sobre_gestión_de_residuos_sólidos
+****
+22 de junio 2016 por: geovanni_jiménez_mata
+ [charla]
+
+oficina_de_comunicación_y_mercadeo
+teléfono: (506)_2550-2218 / (506)_2550-9194
+correo electrónico: comunicacionymercadeotec@tec.ac.cr
+    * quiénes_somos
+    * contacto
+    * secciones
+
+    * facebook
+    * twitter
+    * instagram
+    * youtube
+[logo tec]
+
+
+File name: C:\Users\valev\Documents\GitHub\TecuAvances\hoyeneltec\2015\tec-destaca-cumbre-mundial-innovaciones-informatica-conservacion.html.txt
+Number of changes: 12
+Palabras reemplazadas: ingeniería, estudiantes, participantes, otros, ingeniería, estudiantes, ingeniería, invitados, ingeniería, ingeniería, estudiantes, estudiantes

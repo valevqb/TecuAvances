@@ -1,0 +1,248 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   Pasar_al_contenido_principal
+****** Hoy_en_el_TEC ******
+
+Viernes 12 de Agosto, 2022
+  |  
+Quiénes_Somos   |   Buscar  
+
+***** Menú *****
+    * Investigación
+    * Desarrollo_Humano
+    * Vida_Estudiantil
+    * Acción_Institucional
+    * Medio_Ambiente
+    * Emprendimiento
+    * Cultura_y_Deporte
+    * Opinión
+    * Buscar
+
+
+ Desarrollo de productos para atención de emergencia
+****** TEC busca alternativas de equipo de protección para el COVID-19 ******
+Iniciativa busca opciones para lograr tiempos de respuesta más rápidos y costos
+más bajos con la fabricación local de productos básicos
+1 de Abril 2020 Por: Kenneth_Mora_Pérez
+Acción_Institucional
+   Versión_para_imprimir    Descargar_PDF  Compartir por correo electrónico
+Comentarios
+ Compartir en Facebook  Compartir en Twitter        Compartir en WhatsApp
+[Hombre_con_muestra_de_sangre_con_etiqueta_de_Covid.]
+Imagen ilustrativa. OMS
+
+Una de las acciones claves para combatir la pandemia mundial causada por el
+coronavirus para los especialistas en salud, es la disponibilidad del equipo de
+protección utilizado por este personal.
+Ante la gran demanda de este equipo no solo a nivel nacional, sino también
+fuera de nuestras fronteras, un grupo de científicos del Tecnológico de Costa
+Rica (TEC) puso manos a la obra en el diseño y propuesta de producción de cinco
+productos clave para la atención de esta emergencia.
+En conjunto con la Gerencia Logística de la Caja Costarricense del Seguro
+Social (CCSS), el grupo conformado por ingenieros en mecatrónica, diseño
+industrial, materiales, mantenimiento, seguridad laboral y dispositivos
+médicos, crearon propuestas de estos productos, tomando en consideración las
+capacidades básicas de producción e insumos a utilizar para que sean
+construidos en nuestro país.
+**** Careta protectora ****
+Una de las necesidades de los médicos, enfermeros y otro personal que atiende a
+pacientes con COVID-19 es la careta protectora, la cual, fue diseñada tomando
+criterios de relevancia como la visibilidad y confort.
+Además se consideraron elementos que permitanfacilidad de manufactura y acceso
+al material, siempre enfocándose en el objetivo principal del dispositivo, que
+es proteger el rostro del especialista en salud.
+[careta proteccion]
+**** Gabachas con materiales alternativos ****
+El grupo interdisciplinario del TEC se ha encargado deanalizar diferentes
+propuestas de telas y materiales alternativos como plásticos para la
+fabricación de gabachas desechables.
+La idea tiene como meta de que sea la industria nacional quien desarrolle estos
+implementos, de manera tal que la CCSS no dependa de proveedores
+internacionales para este producto.
+Actualmente, este grupo se encuentra realizando los protocolos respectivos de
+los experimentos de prueba, además de la evaluación normativa que valide los
+materiales propuestos por la CCSS.
+ 
+**** Barrera de protección para entubación ****
+Cuando los pacientes requieren ser entubados, especialistas de salud corren el
+riesgo de contaminarse con el virus, por lo que se ideó un producto que crea
+una barrera entre estos y el paciente con el fin de disminuir el peligro de
+contagio.
+Para esta propuesta se tomaron en cuenta de igual maneracriterios de facilidad
+de manufactura y rapidez de ensamblaje. Además, toma en consideración elementos
+de diseño propuestos por el grupo internacional de Suministros_Médicos_de
+Código_Abierto_COVID-19.
+[PROTECTOR ENTUBACIÓN]
+****   ****
+**** Respiradores N95 y desinfección post uso ****
+En relación a los respiradores N95, el grupo de científicos del TEC trabaja en
+dos vías.
+La primera es la creación de este dispositivo basado en las capacidades de
+producción y disponibilidad de materiales del país, por lo que justamente el
+grupo investigador se ha concentrado en identificar los insumos que puedan
+utilizarse para su fabricación. 
+Paralelo a esto, los investigadores desarrollan una idea de máscara con
+respirador que pueda implementarse como una idea a largo plazo y como una
+solución más integral.
+La segunda propuesta respecto a este producto se basa en la desinfección de los
+respiradores mediante equipo especial que utiliza luz ultravioleta y ozonopara
+la eliminación de la carga biológica presente en los respiradores. Este
+proyecto se realiza de la mano de la empresa Plasma Innova.
+A diferencia de las mascarillas quirúrgicas, los respiradores están diseñados
+específicamente para proporcionar protección respiratoria al crear un sello
+herméticocontra la piel gracias al filtrado que impide el paso de partículas
+que se encuentran en el aire, entre ellas, patógenos.
+A la izquierda, prototipo de mascarilla N95. A la derecha, proceso de
+desinfección de mascarillas mediante luz ultravioleta y ozono.
+ 
+Todas las propuestas de productos están ya en manos de la CCSS para el proceso
+de validación y evaluación de las autoridades de salud antes de ser enviados a
+fabricación.
+Esta validación y su realimentación permitiría su producción de manera
+industrial, una vez aplicadas todas las observaciones que realicen los equipos
+médicos.
+Román Macaya, presidente ejecutivo de la CCSS destacó mediante un comunicado de
+prensa, el potencial que tiene el talento costarricense y señaló que "tenemos
+que aprovechar el gran capital humano de Costa Rica para desarrollar
+soluciones. La necesidad es la madre de la innovación, así que en media crisis
+tenemos por utilizar el ingenio y la creatividad para atender la máxima misión
+que nos podrían encomendar: salvar vidas”.
+*Fotografías cortesía Jaime Mora, Ingeniería Mecatrónica, TEC.
+
+**** VEA TAMBIÉN: ****
+
+ [modelo_gráfico_de_respirado_artificial]
+TEC_trabaja_en_la_creación_de_respiradores_artificiales
+
+ [pantalla_con_estadísticas_del_coronavirus]
+¿Qué_panorama_nos_espera_después_del_coronavirus?
+
+ Covid-19, Ingeniería, Dispositivos_médicos
+[Kenneth Mora Pérez, Comunicador.]
+**** Kenneth_Mora_Pérez ****
+kmora@tec.ac.cr
+Comunicador
+Máster en Periodismo Digital, Universidad de Guadalajara, México. Licenciado en
+Comunicación, Universidad Federada de Costa Rica y Bachiller en Periodismo,
+Universidad Internacional de las Américas.
+View_the_discussion_thread.
+
+***** Relacionado *****
+**** ¡Oficialmente!_TEC_libera_planos_para_que_empresas_puedan_reproducir
+careta_protectora_ante_COVID-19 ****
+16 de Abril 2020 Por: Noemy_Chinchilla_Bravo
+ [imagen_de_un_hombre_con_la_careta_protectora_diseñada_por_el_TEC]
+**** Adaptaciones_por_teletrabajo_y_estrategias_de_seguridad_en_la_construcción
+durante_COVID-19_serán_discutidos_en_webinars ****
+20 de Abril 2020 Por: Kenneth_Mora_Pérez
+ [dos_hombres_en_construcción_sosteniendo_plano]
+**** Ticos_destacan_en_Estados_Unidos_como_gerentes_en_plantas_de_dispositivos
+médicos ****
+8 de Junio 2020 Por: Kenneth_Mora_Pérez
+ [instalaciones_cardinal_health]
+**** Ante_el_COVID-19,_la_virtualidad_y_la_tecnología_son_aliados_del_DOCINADE
+para_continuar_con_oferta_académica ****
+22 de Abril 2020 Por: Telka_Guzmán_Alvarado
+ [estudiantes_del_docinade_en_clase_virtual]
+
+Oficina_de_Comunicación_y_Mercadeo
+Teléfono: (506)_2550-2218 / (506)_2550-9194
+Correo electrónico: comunicacionymercadeotec@tec.ac.cr
+    * Quiénes_Somos
+    * Contacto
+    * Secciones
+
+    * Facebook
+    * Twitter
+    * Instagram
+    * YouTube
+[logo TEC]

@@ -1,0 +1,236 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   Pasar_al_contenido_principal
+****** Hoy_en_el_TEC ******
+
+Viernes 12 de Agosto, 2022
+  |  
+Quiénes_Somos   |   Buscar  
+
+***** Menú *****
+    * Investigación
+    * Desarrollo_Humano
+    * Vida_Estudiantil
+    * Acción_Institucional
+    * Medio_Ambiente
+    * Emprendimiento
+    * Cultura_y_Deporte
+    * Opinión
+    * Buscar
+
+
+****** Inteligencia artificial se marca como protagonista en la cuarta
+revolución industrial ******
+25 de Mayo 2018 Por: Kenneth_Mora_Pérez
+Investigación
+   Versión_para_imprimir    Descargar_PDF  Compartir por correo electrónico
+Comentarios
+ Compartir en Facebook  Compartir en Twitter        Compartir en WhatsApp
+[inteligencia_artificial_]
+La utilidad de la Inteligencia Artificial (IA) en la vida cotidiana se hace
+cada vez más palpable a pesar de que su uso se haga actualmente de manera casi
+inconsciente, pero con un gran impacto para el quehacer del ser humano.
+Desde las recomendaciones de etiquetado en las fotografías que hace Facebook o
+bien la predicción de ruta que hacen aplicaciones como Waze son parte de los
+elementos que ya forman parte del accionar regular de nuestra vida, siendo la
+inteligencia artificial una de las principales protagonistas en este contexto.
+Nadie espera que en la actualidad, o en un futuro cercano, una tecnología pueda
+igualar la inteligencia humana, pero la inteligencia artificial tiene grandes
+implicaciones en la forma en que vivimos hoy nuestras vidas.
+La penetración de este concepto ha sido catalogado por muchos expertos como uno
+de los pilares de la cuarta revolución industrial; misma que ha sido declarada
+por el presidente Carlos Alvarado como uno de los campos de acción que el nuevo
+gobierno quiere fortalecer durante esta Administración.
+Los ámbitos de aplicación de la IA se marcan por la diversidad en las que puede
+impactar y que van desde las características de las redes sociales hasta
+elementos más complejos como la producción en serie, ambiente, transporte,
+energía o bien características más cotidianas como el uso de electrodomésticos
+caseros así como el manejo de grandes bases de datos que hoy en día cada vez
+más empresas tienen en sus manos.
+Entre las iniciativas que se desarrollan actualmente en el TEC, está la del
+Pattern_Recognition_and_Machine_Learning_(Parma), grupo de investigación
+orientado al trabajo en el área de aprendizaje automático.  En éste,
+profesionales de distintas áreas de trabajo, generan investigación científica,
+innovación tecnológica e integración con los distintos sectores productivos del
+país.
+El co fundador e investigador de este grupo, José Carranza, destacó que como
+parte de lo que se trabaja actualmente, están las características que tengan
+“bio” de por medio, y que van desde análisis de tejidos con cáncer; la
+predicción de la edad de un paciente con la utilización de rayos x así como la
+identificación automática de plantas, entre otros.
+   “El enfoque que tenemos en el grupo Parma es hacia la vida; combinando
+elementos de biodiversidad con la inteligencia artificial, lo cual no es tan
+común” José Carranza, co fundador grupo Parma
+Entre los proyectos que desarrolla Parma en este campo están:
+    * Evaluación de impulsores para su aplicación en bombas de sangre
+    * Desarrollo basado en constituyentes principales para análisis
+      computacional de información genética
+    * Identificación de plantas de Costa Rica usando visión por computadora
+Para el Dr. Juan Luis Crespo, docente e investigador del grupo así como de la
+carrera de Ingeniería Mecatrónica, no hay área donde no sea posible aplicar la
+inteligencia artificial, lo que ha permitido precisamente desarrollar varios
+proyectos.
+Entre estos, Crespo destaca la iniciativa del Laboratorio de Inteligencia
+Artificial para las Ciencias Naturales (Liana), la cual ha desarrollado un
+proyecto de predicción de clima espacial, la cual procesa información de un
+telescopio y poder de este modo anticipar características propias del clima
+solar y anticipar así los eventos.
+Otros proyectos se marcan en el desarrollo de robots que aprendan tareas
+específicas basados en una programación en la cual éste explore su entorno y de
+manera automática, desarrolle la solución correspondiente.
+En el Liana se desarrollan además proyectos en conjunto con la Universidad de
+Costa Rica, donde la inteligencia computacional es parte principal de los
+elementos que se investigan. En específico, se investigan modelos matemáticos
+de cómo responden determinados cultivos celulares ante determinados fármacos y
+poder evaluar su utilización como opciones de quimioterapia.
+Además, el Laboratorio investiga el desarrollo de redes neuronales
+artificiales, las cuales responden a problemas de gran impacto en el área
+agrícola y otros productos naturales.
+Para Crespo, el futuro de la inteligencia artificial será una naturalidad cada
+vez mayor entre la relación del lenguaje de la máquina y el humano, así como un
+crecimiento de flexibilidad en el crecimiento de la información. Además,
+destaca el crecimiento que en un futuro cercano habrá de aplicaciones o tareas
+que no puedan ser realizadas por una persona, así como de entornos de peligro,
+donde una máquina será la que resuelva la tarea.
+
+
+**** Notas relacionadas ****
+
+ [Dispositivo_experimental_de_impulsor_de_sangre._(Foto:_Ruth_Garita/OCM)]
+Impulsor_para_bombas_de_sangre:_asistencia_mecánica_para_el_corazón_enfermo
+
+
+Video_eScience:_Visualización_de_datos_científicos_y_realidad_virtual_mediante
+iReal
+
+ [Peter_Peer_exponiendo.]
+Simposio_internacional_mostró_el_presente_y_futuro_en_el_innovador_campo_del
+aprendizaje_automático
+
+ Inteligencia_Artificial, Investigación, revolución_industrial
+[Kenneth Mora Pérez, Comunicador.]
+**** Kenneth_Mora_Pérez ****
+kmora@tec.ac.cr
+Comunicador
+Máster en Periodismo Digital, Universidad de Guadalajara, México. Licenciado en
+Comunicación, Universidad Federada de Costa Rica y Bachiller en Periodismo,
+Universidad Internacional de las Américas.
+View_the_discussion_thread.
+
+***** Relacionado *****
+**** TEC_crea_software_que_permitirá_visualizar_los_terremotos_en_3D ****
+1 de Junio 2017 Por: Irina_Grajales_Navarrete
+
+**** Investigación_sobre_transferencia_de_resultados_fue_premiada_por_el_Cladea
+****
+4 de Septiembre 2018 Por: Geovanni_Jiménez_Mata
+ [margie_faith_y_jose_martinez_durante_premiacion_cladea_awards_]
+**** IDI+_se_suma_a_revistas_del_TEC_indexadas_a_Latindex ****
+20 de Enero 2021 Por: Johnny_Gómez_Aguilar
+ [Portada_del_número_más_reciente_de_la_revista_IDI+]
+**** Generar,_enseñar_y_transmitir:_premisa_del_Encuentro_de_Investigación_y
+Extensión ****
+12 de Diciembre 2018 Por: Redacción
+ [david_porras_brindando_discurso_]
+
+Oficina_de_Comunicación_y_Mercadeo
+Teléfono: (506)_2550-2218 / (506)_2550-9194
+Correo electrónico: comunicacionymercadeotec@tec.ac.cr
+    * Quiénes_Somos
+    * Contacto
+    * Secciones
+
+    * Facebook
+    * Twitter
+    * Instagram
+    * YouTube
+[logo TEC]

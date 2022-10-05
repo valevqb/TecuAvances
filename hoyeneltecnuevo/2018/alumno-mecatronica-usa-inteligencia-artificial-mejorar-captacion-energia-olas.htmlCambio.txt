@@ -1,0 +1,279 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   pasar_al_contenido_principal
+****** hoy_en_el_tec ******
+
+viernes 12 de agosto, 2022
+  |  
+quiénes_somos   |   buscar  
+
+***** menú *****
+    * investigación
+    * desarrollo_humano
+    * vida_estudiantil
+    * acción_institucional
+    * medio_ambiente
+    * emprendimiento
+    * cultura_y_deporte
+    * opinión
+    * buscar
+
+
+ investigación en universidad de groningen, países bajos
+****** alumno de mecatrónica usa inteligencia artificial para mejorar la
+captación de energía de las olas ******
+    * trabajo final de graduación se enfocará en optimizar el sistema que
+      controla la recolección de energía de las olas
+    * proyecto investiga la factibilidad de construir una estructura flotante,
+      de 250 metros de alto, para producir 260 gwh por año
+30 de enero 2018 por: johan_umaña_venegas
+investigación
+   versión_para_imprimir    descargar_pdf  compartir por correo electrónico
+comentarios
+ compartir en facebook  compartir en twitter        compartir en whatsapp
+[se_aprecia_como_el_diámetro_del_ocean_grazer_sería_del_largo_de_tres_cruceros.
+]
+imagen tomada de oceangrazer.com.
+
+ocean_grazer es un ambicioso concepto: se trata de una gigantesca plataforma
+flotante que producirá electricidad aprovechando múltiples formas de energía
+oceánica, como la de las olas, el viento y el sol.
+ese innovador proyecto tiene aporte costarricense, pues joel alpízar, de la
+carrera de personas ingeniera_mecatrónica, se convertirá en el segundo estudiante del
+tecnológico_de_costa_rica_(tec) en colaborar en el desarrollo de esta
+investigación con su proyecto de graduación.
+la universidad_de_groningen, en países bajos, es la institución que desarrolla
+el ocean grazer, con la ayuda de varios organismos internacionales. esa casa de
+enseñanza superior mantiene una provechosa alianza con el tec, que ha permitido
+a varios futuros personas ingeniera y personas ingeniera costarricenses realizar pasantías en
+europa y colaborar con investigaciones de ciencia y tecnología del primer
+orden.
+“para mi es un logro, desde siempre he querido estudiar en la parte de energías
+renovables (...). esto me permite ir afuera, adquirir conocimientos, y traerlos
+de vuelta acá.“, comenta alpízar.
+[joel sentado frente a su computadora en un laboratorio de mecatrónica. ]joel
+alpízar tiene 22 años y es vive en coronado. su meta es aplicar los
+conocimientos de la mecatrónica al desarrollo de proyectos de energías
+renovables. foto: ryth garita/ocm.
+este joven, de 22 años de edad, viajará a países bajos el 1.º de febrero y
+permanecerá ahí por cinco meses.
+su trabajo se centrará en mejorar el sistema de control de los pistones
+integrados a las boyas que absorben la energía de las olas. para lograrlo
+aplicará novedosos conceptos de inteligencia artificial:
+“el sistema de pistones requiere un control que se adecúe al tamaño de la ola
+que venga, para variar la potencia de los pistones en cada boya. tienen un
+modelo pero que es muy costoso computacionalmente hablando (...), entonces lo
+que yo voy a hacer es agarrar un paradigma de inteligencia artificial,
+probablemente de redes neuronales, para hacer el modelo menos costoso en
+materia de procesamiento, y con la capacidad de aprender“, detalla alpízar.
+
+vea también: 
+
+
+ingeniera_tica_dejará_su_marca_en_megaproyecto_para_producir_electricidad_en
+medio_del_océano
+
+
+expertos_en_países_bajos_valoran_el_aporte_y_capacidad_ingenieril_de_pasantes
+del_tec
+
+tomado de http://www.oceangrazer.com/media-m/videos. 
+
+
+en su trabajo final de graduación, joel alpízar investiga cómo aplicar la
+inteligencia artificial para optimizar el sistema de control en la recolección
+de energía de las olas. 
+tomado de http://www.oceangrazer.com/media-m/videos.
+
+
+**** concepto revolucionario ****
+“el ocean grazer es un novedoso dispositivo de recolección y almacenamiento de
+energía oceánica, diseñado para extraer y almacenar múltiples formas de energía
+oceánica.
+“el ocean grazer se diferencia de otras personas dispositivos de energía de las olas por
+su adaptabilidad, que permite una extracción eficiente de energía de las
+alturas de varias olas y por su capacidad para proporcionar una producción de
+energía predecible y estable, a pedido. el dispositivo está siendo desarrollado
+por la universidad de groningen”, se explica en el portal del proyecto.
+la estructura, con un diámetro de 435 metros y una altura de 235 metros,
+tendría el potencial de generar 260 gigawatts-hora (gwh) por año, lo suficiente
+para abastecer a 70.000 hogares, según expresan los proponentes del proyecto.
+esos 260 (gwh) del ocean gracer son una sexta parte de lo que se espera que
+produzca anualmente el proyecto hidroeléctrico reventazón, pero con mucho menor
+impacto ambiental.
+“el objetivo es generar un dispositivo, casi un edificio, que es una granja de
+recolección de energía, con la utilización de la más moderna tecnología en
+materia de extracción de energía”, ahonda alpízar.
+los métodos de extracción de energía que utilizará ocean grazer son:
+    * energía olamotriz, a través de un sistema de boyas y pistones.
+    * energía olamotriz, a trávez de un sistema de tubos.  
+    * energía solar.
+    * energía eólica.
+    * experimentación en energía química.
+asimismo, la plataforma serviría como un dispositivo de almacenamiento de
+energía, lo que le permitiría ofrecer electricidad a demanda, a pesar de la
+inconstancia en el movimiento de las olas:
+“dado que la disponibilidad de energía de las olas y la demanda de energía
+fluctúan con el tiempo, el sistema mp2pto (sistema de recolección de energía
+multipistón) de ocean grazer incorpora un gran depósito que puede almacenar 800
+mwh de energía potencial sin pérdidas. la energía puede extraerse de este
+yacimiento mediante múltiples turbinas hidroeléctricas con tiempos de puesta en
+marcha cortos, a fin de equilibrar potencialmente las fluctuaciones entre la
+oferta y la demanda de energía, así como proporcionar una salida de energía
+constante durante varios días”, se explica en el sitio web del proyecto.
+paralelamente se trabaja en concertar alianzas con posibles inversores o
+compañías personas interesadas en la puesta en marcha del proyecto.
+
+**** otras personas gremio estudiantil ****
+gremio estudiantil que han participado en pasantías en la universidad de groningen:
+    * juan padilla, enteg, para el estudio de robots con características
+      flexibles. vea: alumno_de_mecatrónica_se_encuentra_en_países_bajos_para
+      investigar_cómo_perfeccionar_el_control_de_robots
+    * jimmy andrés vargas, proyecto grace, para estudiar y aplicar las
+      características especiales de la visión de artrópodos. vea: proyecto_de
+      graduación_estudia_ojo_de_la_mariposa.
+    * william retana, proyecto grace. vea: estudiante_de_electrónica_viajará_a
+      holanda_para_ayudar_con_escáner_a_estudiar_ojo_de_la_mariposa.
+    * jenifer brenes, proyecto ocean_grazer, que busca utilizar la energía de
+      las olas para producir electricidad. vea: ingeniera_tica_dejará_su_marca
+      en_megaproyecto_para_producir_electricidad_en_medio_del_océano.
+mariana guzmán, proyecto grace. vea: estudiante_de_electrónica_viaja_a_holanda
+para_colaborar_con_escáner_robótico_que_analiza_los_ojos_de_artrópodos.
+
+ países_bajos, universidad_de_groningen, ocean_grazer, mecatrónica,
+inteligencia_artificial
+[johan umaña venegas, comunicador.]
+**** johan_umaña_venegas ****
+johumana@tec.ac.cr
+comunicador
+licenciado en comunicación colectiva, con énfasis en periodismo, universidad de
+costa rica.
+view_the_discussion_thread.
+
+***** relacionado *****
+**** alumno_de_mecatrónica_se_encuentra_en_países_bajos_para_investigar_cómo
+perfeccionar_el_control_de_robots ****
+18 de mayo 2017 por: johan_umaña_venegas
+
+**** empresa_agrícola_creará_laboratorio_de_biocontroladores_con_asesoría_del
+tec ****
+23 de junio 2022 por: johan_umaña_venegas
+ [cinco_hombres_posando_después_de_firmar_el_acuerdo.]
+**** tico_investiga,_en_francia,_cómo_optimizar_la_agricultura_indígena_en
+talamanca ****
+6 de abril 2017 por: johan_umaña_venegas
+ [paisaje_boscoso_de_talamanca.]
+**** investigador_del_tec_viaja_a_la_antártida_para_estudiar_respuesta_de_las
+plantas_al_cambio_climático ****
+3 de marzo 2022 por: johan_umaña_venegas
+ [olman_gómez_con_un_abrigo_rojo,_frente_a_un_páramo._]
+
+oficina_de_comunicación_y_mercadeo
+teléfono: (506)_2550-2218 / (506)_2550-9194
+correo electrónico: comunicacionymercadeotec@tec.ac.cr
+    * quiénes_somos
+    * contacto
+    * secciones
+
+    * facebook
+    * twitter
+    * instagram
+    * youtube
+[logo tec]
+
+
+File name: C:\Users\valev\Documents\GitHub\TecuAvances\hoyeneltec\2018\alumno-mecatronica-usa-inteligencia-artificial-mejorar-captacion-energia-olas.html.txt
+Number of changes: 7
+Palabras reemplazadas: ingeniería, ingenieros, ingenieras, otros, interesadas, otros, estudiantes

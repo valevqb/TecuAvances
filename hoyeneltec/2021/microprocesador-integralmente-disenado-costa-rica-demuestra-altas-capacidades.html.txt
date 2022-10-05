@@ -1,0 +1,300 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   Pasar_al_contenido_principal
+****** Hoy_en_el_TEC ******
+
+Viernes 12 de Agosto, 2022
+  |  
+Quiénes_Somos   |   Buscar  
+
+***** Menú *****
+    * Investigación
+    * Desarrollo_Humano
+    * Vida_Estudiantil
+    * Acción_Institucional
+    * Medio_Ambiente
+    * Emprendimiento
+    * Cultura_y_Deporte
+    * Opinión
+    * Buscar
+
+
+ Laboratorio de Diseño de Circuitos Integrados
+****** Microprocesador integralmente diseñado en Costa Rica demuestra altas
+capacidades tecnológicas ******
+Siwa se llama el primer microprocesador diseñado completamente en Costa Rica 
+ 
+Al menos 50 docentes y estudiantes del TEC participaron en diferentes etapas
+del proyecto
+27 de Abril 2021 Por: Johan_Umaña_Venegas
+Investigación
+   Versión_para_imprimir    Descargar_PDF  Compartir por correo electrónico
+Comentarios
+ Compartir en Facebook  Compartir en Twitter        Compartir en WhatsApp
+[Tarjeta_de_circuitos,_con_cables_y_una_pantalla_que_dice_Hello_World,_My_name
+is_SIWA]
+El microprocesador Siwa en una tarjeta de pruebas. Parte de lo novedoso del
+proceso, es que personal y estudiantes del TEC participaron desde la propuesta
+y el diseño, hasta la validación. Foto: Cortesía DCILab.
+
+En 2020 docentes y estudiantes del Tecnológico de Costa Rica (TEC) culminaron
+con éxito las pruebas en Siwa, el primer microprocesador diseñado integralmente
+en el país. Los análisis llenaron de orgullo a los ingenieros, en tanto que
+demostraron que el chip funcionaba a la perfección y, por tanto, la capacidad
+del país para hacer lo que muy pocas naciones pueden: desarrollar tecnología
+del más alto nivel.
+Este hito tecnológico para Costa Rica estuvo a cargo de investigadores del
+Laboratorio_de_Diseño_de_Circuitos_Integrados_(DCILab), de la Escuela_de
+Ingeniería_Electrónica.
+El nombre Siwa es, a la vez, una reverencia a los pueblos autóctonos y una
+declaración de intenciones, pues este vocablo cabécar puede traducirse como
+“sabiduría ancestral”.  
+Este es el primer microcontrolador integrado de 32 bits desarrollado
+completamente en Costa Rica, fabricado sobre una tecnología comercial CMOS de
+180 nm. Los ingenieros a cargo explican que si bien hay costarricenses
+trabajando en diferentes etapas del desarrollo de chips en compañías
+trasnacionales con instalaciones en Costa Rica, buena parte de esos procesos se
+realizan en otros países.
+El prototipo se envió a fabricar a Alemania –en la empresa XFAB, especialista
+en circuitos integrados–, mediante la alianza con el Departamento de Ingeniería
+Electrónica (MicroDIE) de la Universidad Católica de Uruguay, socio del TEC en
+este proyecto.
+El chip fue desarrollado para el uso en aplicaciones biomédicas implantables;
+es decir, dispositivos electrónicos que se pueden introducir al cuerpo humano
+para subsanar algún padecimiento del enfermo (por ejemplo, un marcapasos). 
+El microcontrolador realiza la función de la unidad central de procesamiento en
+sistemas electrónicos, similar a lo que hacen los procesadores que se utilizan
+en las computadoras o teléfonos inteligentes, explican los investigadores.
+
+**** Sueño cumplido ****
+El equipo de trabajo estuvo conformado por los profesores Ronny García Ramírez,
+Alfonso Chacón Rodríguez, Roberto Carlos Molina Robles y Renato Rimolo Donadio,
+apoyados por el Ing. Carlos Fabián Coto Calvo. 
+[Profesores en el pasillo]De izq. a der.: Alfonso Chacón Rodríguez, Renato
+Rimolo Donadio, Roberto Carlos Molina Robles y Ronny García Ramírez, el equipo
+a cargo del desarrollo de Siwa. Foto: Cortesía DCILab.
+     “Desde que estudiaba Electrónica en el TEC, yo siempre soñé con algún
+     día trabajar o poder participar en el diseño de un microprocesador.
+     Uno sabe que es algo muy complicado de realizar. Es quizá el chip,
+     por antonomasia, lo que define nuestra época, la época moderna”,
+     destacó el Dr. Chacón Rodríguez.
+Además, cerca de 50 estudiantes de grado y posgrado participaron en este
+proyecto a lo largo de los dos años de desarrollo, fortaleciendo de forma
+significativa las labores formativas en las carreras de Ingeniería_en
+Computadores e Ingeniería_Electrónica.
+“Como muchos estudiantes participaron, se generó mucho conocimiento que le
+sirve a la industria y los estudiantes se vuelven más contratables por empresas
+grandes de tecnología”, destaca el máster Molina Robles.
+
+  "El diseño de microprocesadores es un paso fundamental en el proceso de
+madurez del ecosistema tecnológico nacional. Dicha capacidad demuestra la
+calidad de nuestra academia y abre las posibilidades a innovación que
+previamente era difícil de alcanzar. Académicamente es una clara demostración
+de la madurez para la ejecución de proyectos a largo plazo, en colaboración con
+la industria". Diego Dompe, Distinguish Engineer en Hewlett Packard Enterprise,
+especializado en arquitectura y desarrollo de software para circuitos
+integrados.
+**** Relevancia para el país y la academia ****
+Si bien ya el DCILab ha desarrollado varios circuitos integrados, esta es la
+primera vez que se ha cumplido en Costa Rica todo el ciclo de desarrollo
+(concepción, diseño y pruebas post-fabricación) de un circuito tan complejo
+como un microprocesador de 32 bits.
+     “Tanto a nivel de laboratorio como de Universidad, en realidad es un
+     hito. Este chip representa un diseño digital complejo, lo que
+     comprueba es las capacidades que tenemos en el Tecnológico para
+     resolver problemas utilizando tecnología propia; normalmente a nivel
+     de país estamos acostumbrados a resolver los problemas utilizando
+     tecnologías que son traídas de afuera”, destacó el máster García
+     Ramírez. 
+Siwa es funcional incluso para aplicaciones comerciales. Según los
+investigadores, el dispositivo tiene un diseño modularizado y que se puede
+ajustar a distintos parámetros, por lo que se le puede dar otras aplicaciones
+con mínimo esfuerzo para adecuarlo.
+Tanto investigadores del TEC como especialistas de la industria, concuerdan en
+que este desarrollo pone a Costa Rica en el mapa, entre los pocos países con
+capacidades instaladas para llevar a cabo el diseño de un microprocesador.
+El DCILab es actualmente el único laboratorio con capacidad de diseño y
+desarrollo de prototipos de circuitos microelectrónicos complejos en
+Centroamérica y el Caribe, explican los ingenieros.
+“Es importante que a nivel de país se tenga el conocimiento de cómo explotar
+estas tecnologías, que se puedan proponer soluciones, que se puedan hacer
+emprendimientos en tecnología que obviamente requieren de tener capacidad de
+hacer estas cosas. 
+     “Si nos limitamos a comprarle tecnología a otros, se nos reduce la
+     posibilidad de hacer este tipo de emprendimientos, de innovación y de
+     desarrollar este tipo de productos electrónicos”, comentó el Dr.
+     Rimolo Donadio. 
+Los investigadores enfatizaron en el ejemplo de lo acontecido en 2020, durante
+los primeros meses de la pandemia, cuando varios países desarrollados limitaron
+el acceso a equipo de protección, medicamentos y otros enseres necesarios para
+atender la emergencia global. Fue entonces cuando varios científicos,
+ingenieros y académicos costarricenses empezaron a desarrollar respuestas
+locales, como respiradores_artificiales, caretas, sueros y otras necesidades.  
+
+  "Este resultado abre las puertas a otras universidades locales. Nuevos
+emprendimientos pueden replicar ciclos de diseño completos y aprender de sus
+experiencias. Esto no era viable anteriormente por los costos y la falta de
+conocimientos para llevar a cabo el ciclo de diseño de chips. Esto también
+muestra al mundo que el ecosistema costarricense de la ingeniería electrónica
+sigue avanzando y que se adapta a las nuevas oportunidades que ofrece este tipo
+de desarrollos Open Source de hardware a nivel mundial. "Esto solo es posible
+gracias a que la academia (el TEC) avanza y se ajusta a las nuevas realidades
+del desarrollo de componentes electrónicos". José Walter Orozco, ingeniero de
+Desarrollo de Hardware, Hewlett Packard Enterprise (HPE).
+*** Referencias:  ***
+“Siwa: A custom RISC-V based system on chip (SOC) for low power medical
+applications,” Microelectronics Journal,  volumen 98, April 2020
+Ronny Garcia-Ramirez, Alfonso Chacon-Rodriguez, Roberto Molina-Robles, Reinaldo
+Castro-Gonzalez, Egdar Solera-Bolanos, Gabriel Madrigal-Boza, Marco Oviedo-
+Hernandez, Diego Salazar-Sibaja,  Dayhana Sanchez-Jimenez, Melissa Fonseca-
+Rodriguez, Johan Arrieta-Solorzano, Renato Rimolo-Donadio, Alfredo Arnaud,
+Matias Miguez, Joel Gak, . 
+https://doi.org/10.1016/j.mejo.2020.104753
+“SIWA: a RISC-V 32I based Micro-Controller for Implantable Medical
+Applications,” 11th IEEE Latin American Symposium on Circuits & Systems 2020
+(LASCAS), San Jose, Costa Rica, February 25-28, 2020, pp. 1-4, doi: 10.1109/
+LASCAS45839.2020.9068952
+R. Garcia-Ramirez, A. Chacon-Rodriguez, R. Castro-Gonzalez, A. Arnaud, M.
+Miguez, J. Gak, R. Molina-Robles, G. Madrigal-Boza, M. Oviedo-Hernandez, E.
+Solera-Bolanos, D. Salazar-Sibaja, D. Sanchez-Jimenez, M. Fonseca-Rodriguez, J.
+Arrieta-Solorzano, and R. Rimolo-Donadio https://ieeexplore.ieee.org/document/
+9068952
+“A RISC-V based medical implantable SoC for high voltage and current tissue
+stimulus,” 11th IEEE Latin American Symposium on Circuits & Systems 2020
+(LASCAS), San Jose, Costa Rica, February 25-28, 2020. 1-4, doi: 10.1109/
+LASCAS45839.2020.9068969
+Arnaud, M. Miguez, J. Gak, R. Puyol, R. Garcia-Ramirez, E. Solera-Bolanos, R.
+Castro-González, R. Molina-Robles, A. Chacon-Rodriguez, R. Rimolo-Donadio
+https://ieeexplore.ieee.org/document/9068969
+
+ microprocesador, Siwa, Electrónica, Computadores
+[Johan Umaña Venegas, Comunicador.]
+**** Johan_Umaña_Venegas ****
+johumana@tec.ac.cr
+Comunicador
+Licenciado en Comunicación Colectiva, con énfasis en Periodismo, Universidad de
+Costa Rica.
+View_the_discussion_thread.
+
+***** Relacionado *****
+**** Investigador_del_TEC_viaja_a_la_Antártida_para_estudiar_respuesta_de_las
+plantas_al_cambio_climático ****
+3 de Marzo 2022 Por: Johan_Umaña_Venegas
+ [Olman_Gómez_con_un_abrigo_rojo,_frente_a_un_páramo._]
+**** Universitarios_buscan_fondos_para_representar_al_país_en_Francia_con
+proyecto_espacial_Biodomo ****
+7 de Junio 2022 Por: Johan_Umaña_Venegas
+ [Dos_jóvenes,_con_bata_y_máscaras,_en_el_laboratorio,_trasladando_arroz_de_un
+contenedor_a_otro._]
+**** Costa_Rica_organizará_el_XVI_Congreso_Latinoamericano_y_Caribeño_de
+Extensión_y_Acción_Social_Universitaria_2021 ****
+15 de Febrero 2021 Por: Redacción
+ [XVI_Congreso_Latinoamericano_y_Caribeño_de_Extensión_Universitaria]
+**** Tico_investiga,_en_Francia,_cómo_optimizar_la_agricultura_indígena_en
+Talamanca ****
+6 de Abril 2017 Por: Johan_Umaña_Venegas
+ [Paisaje_boscoso_de_Talamanca.]
+
+Oficina_de_Comunicación_y_Mercadeo
+Teléfono: (506)_2550-2218 / (506)_2550-9194
+Correo electrónico: comunicacionymercadeotec@tec.ac.cr
+    * Quiénes_Somos
+    * Contacto
+    * Secciones
+
+    * Facebook
+    * Twitter
+    * Instagram
+    * YouTube
+[logo TEC]

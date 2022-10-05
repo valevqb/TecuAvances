@@ -1,0 +1,257 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   Pasar_al_contenido_principal
+****** Hoy_en_el_TEC ******
+
+Viernes 12 de Agosto, 2022
+  |  
+Quiénes_Somos   |   Buscar  
+
+***** Menú *****
+    * Investigación
+    * Desarrollo_Humano
+    * Vida_Estudiantil
+    * Acción_Institucional
+    * Medio_Ambiente
+    * Emprendimiento
+    * Cultura_y_Deporte
+    * Opinión
+    * Buscar
+
+
+ Mejoras fueron sugeridas por personal en Salud
+****** Científicos crean la versión 2.0 del respirador para pacientes con
+Covid-19 ******
+Desde setiembre de 2020 el respirador cuenta con el aval por parte del
+Ministerio de Salud para ser utilizado en hospitales
+23 de Febrero 2022 Por: Irina_Grajales_Navarrete
+Investigación
+   Versión_para_imprimir    Descargar_PDF  Compartir por correo electrónico
+Comentarios
+ Compartir en Facebook  Compartir en Twitter        Compartir en WhatsApp
+[Científicos_posan_para_la_fotografia_al_lado_del_respirador]
+Investigadores que participaron en el desarrollo del respirador. De izquierda a
+derecha: Hamlet Loria, Adrián Quesada, Wilson Bermúdez y Anibal
+Ruiz. Fotografía: Ruth Garita / TEC. 
+
+“Como todos sabemos, las necesidades humanas van evolucionando y la tecnología
+debe evolucionar también y, eso es lo que buscamos hacer”.
+Así de contundente fue Aníbal Ruiz  científico del Tecnológico_de_Costa_Rica
+(TEC), al presentar de manera oficial la versión 2.0 del respirador asistido
+para personas positivas con Covid-19. 
+La versión mejorada surge, en su mayoría, a partir de recomendaciones que
+dieron personal de salud a los científicos. 
+Es importante recordar que desde_setiembre_de_2020 la primera versión del
+respirador creado por científicos del TEC fue avalado por el Ministerio de
+Salud, para utilizarse en hospitales en caso de un desabastecimiento de estos
+dispositivos. 
+Dicha autorización quedó plasmada en el oficio MS-DM-7000-2020, dirigido al
+presidente ejecutivo de la Caja_Costarricense_del_Seguro_Social (CCSS), Román
+Macaya, en setiembre de 2020. 
+
+**** Lea, además: ****
+
+
+Salud_autoriza_respiradores_hechos_por_el_TEC,_aunque_no_se_hayan_probado_en
+humanos
+
+ [Médicos_veterinarios_de_la_UNA_durante_las_pruebas_en_animales._]
+Respirador_hecho_por_el_TEC,_para_pacientes_con_Covid-19,_pasa_pruebas_en
+animales
+
+Sin embargo, a pesar de contar con dicho aval, los investigadores no se han
+detenido y ahora dan a conocer la versión 2.0 con cuatro mejoras específicas. 
+**** 1- Pasaron de un chasis acrílico a uno de acero inoxidable  ****
+La primera versión del respirador era en acrílico. Hoy es en acero inoxidable.
+(Fotografía: Gerencia Comercial de la UCIMED). 
+Esta es una solicitud de los especialistas en salud, ya que “en la actualidad
+los líquidos de limpieza en los hospitales son muy fuertes, por el tema de la
+esterilización de los equipos, entonces es necesario un material que resista a
+estos líquidos”, explicó Ruiz. 
+**** 2- El dispositivo ahora es capaz de mezclar aire y oxígeno médico   ****
+Lo normal es que un paciente, a la hora de utilizar un respirador pueda:
+    * Recibir solo aire.
+    * Recibir solo oxígeno médico.
+    * O recibir la mezcla aire - oxígeno.
+"En la primera versión del respirador, nuestro dispositivo solo podía entregar
+oxígeno médico”, explicó Adrián Quesada, coordinador de la investigación. 
+Hoy, gracias a la innovación, la versión 2.0 es capaz de hacer las tres
+funciones, lo cual da una mayor utilidad y aplicabilidad al respirador diseñado
+en el TEC.
+**** 3- Crearon una interfaz que cubre las necesidades médicas ****
+“Nosotros habíamos creado una interfaz gráfica a criterio de un grupo de
+ingenieros, sin embargo, luego de la retroalimentación médica, creamos una
+interfaz que se ajusta a las necesidades de los expertos en salud”, señaló
+Ruiz. 
+Así por ejemplo, las curvas son fáciles de interpretar y con un aspecto
+continuo durante todo el recorrido en pantalla.
+Además, asevera el investigador que incluyeron un estándar visual y de sonido;
+así como alarmas en los límites de parámetros médicos importantes, tales como:
+flujo pico y volumen total, entre otros.
+**** 4- La tarjeta electrónica ahora es diseñada por ingenieros TEC  ****
+En un inicio, la tarjeta electrónica que utilizaba el respirador era
+industrial, ahora utiliza una elaborada y diseñada dentro del TEC. 
+“Es decir, ahora dependemos menos de productos elaborados fuera de Costa Rica
+para construir nuestro respirador”, concluyó el científico. 
+
+
+**** Recuento:  ****
+El respirador es un prototipo económico y de rápida fabricación, diseñado por
+investigadores de la Escuela_de_Ciencia_e_Ingeniería_de_los_Materiales y de la
+Escuela_de_Ingeniería_Electrónica; con soporte económico de la Maestría_en
+Dispositivos_Médicos y del sector privado. 
+El proyecto está basado en un modelo de origen inglés, cuyo principio de
+funcionamiento es neumático; que implica que al comprimir las bolsas de
+restitución manual no se requiere del uso de electricidad. 
+“Recordemos que la Caja Costarricense de Seguro Social exige tres pruebas
+diferentes para utilizar los equipos en sus pacientes. La primera es en
+simuladores. La segunda son las pruebas preclínicas (en animales) y la última
+es la prueba clínica (en humanos)”, explicó el ingeniero Adrián Quesada,
+coordinador del proyecto.
+De esta manera, el respirador fue sometido a pruebas en simuladores en mayo del
+2020, gracias a la colaboración de la Universidad_de_Ciencias_Médicas (UCIMED),
+que facilitó su Centro_de_Simulación_y_personal_de_salud_especializado. 
+Mientras que en marzo de 2021 el respirador fue sometido a pruebas en animales,
+gracias a la colaboración de la Universidad_Nacional_(UNA), por medio del
+Servicio de Enseñanza y Simulación Clínica, en coordinación con el Hospital
+Equino_y_de_Especies_Mayores, de laEscuela_de_Medicina_Veterinaria. 
+Las pruebas, en la Universidad Nacional se realizaron tanto en animales sanos,
+como en animales con dificultad respiratoria. En ambos casos el respirador pasó
+sin complicaciones. (Fotografía: cortesía de Adrián Quesada). 
+“Recordemos que la investigación, como cualquier proceso, toma su tiempo.
+Algunas investigaciones han tomado hasta 50 años. No es que duremos mucho sino
+que la investigación sigue su proceso”, puntualizó el ingeniero del TEC, Adrián
+Quesada. 
+
+ Covid-19, Respirador, Dispositivos_médicos
+**** Irina_Grajales_Navarrete ****
+igrajales@tec.ac.cr
+Comunicadora
+Máster en Diplomacia, Universidad de Costa Rica. Licenciada en Comunicación y
+Bachiller en Periodismo, Universidad Federada de Costa Rica.
+Premio de Periodismo, la Huella del Jaguar 2019 del Minae y, Premio de
+periodismo Costa Rica Incluye 2018
+ 
+View_the_discussion_thread.
+
+***** Relacionado *****
+**** INA_arranca_producción_de_13_mil_caretas_protectoras_con_diseño_hecho_por
+el_TEC ****
+27 de Abril 2020 Por: Noemy_Chinchilla_Bravo
+ [Imagen_de_dos_hombres_en_una_máquina_para_fabricar_caretas_protectoras.]
+**** Microprocesador_integralmente_diseñado_en_Costa_Rica_demuestra_altas
+capacidades_tecnológicas ****
+27 de Abril 2021 Por: Johan_Umaña_Venegas
+ [Tarjeta_de_circuitos,_con_cables_y_una_pantalla_que_dice_Hello_World,_My_name
+is_SIWA]
+**** Investigador_del_TEC_viaja_a_la_Antártida_para_estudiar_respuesta_de_las
+plantas_al_cambio_climático ****
+3 de Marzo 2022 Por: Johan_Umaña_Venegas
+ [Olman_Gómez_con_un_abrigo_rojo,_frente_a_un_páramo._]
+**** Respirador_hecho_por_el_TEC,_para_pacientes_con_Covid-19,_pasa_pruebas_en
+simuladores ****
+6 de Mayo 2020 Por: Irina_Grajales_Navarrete
+ [La_fotografía_es_del_día_de_las_pruebas_en_la_Ucimed._El_respirator_es
+probado_en_los_simulatores._]
+
+Oficina_de_Comunicación_y_Mercadeo
+Teléfono: (506)_2550-2218 / (506)_2550-9194
+Correo electrónico: comunicacionymercadeotec@tec.ac.cr
+    * Quiénes_Somos
+    * Contacto
+    * Secciones
+
+    * Facebook
+    * Twitter
+    * Instagram
+    * YouTube
+[logo TEC]

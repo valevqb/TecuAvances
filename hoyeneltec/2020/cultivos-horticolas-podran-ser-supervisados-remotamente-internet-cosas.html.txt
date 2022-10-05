@@ -1,0 +1,290 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   Pasar_al_contenido_principal
+****** Hoy_en_el_TEC ******
+
+Viernes 12 de Agosto, 2022
+  |  
+Quiénes_Somos   |   Buscar  
+
+***** Menú *****
+    * Investigación
+    * Desarrollo_Humano
+    * Vida_Estudiantil
+    * Acción_Institucional
+    * Medio_Ambiente
+    * Emprendimiento
+    * Cultura_y_Deporte
+    * Opinión
+    * Buscar
+
+
+ Investigación y desarrollo realizado en el Doctorado en Ingeniería
+****** Cultivos hortícolas podrán ser supervisados remotamente con Internet de
+las Cosas ******
+Modelo utiliza herramientas tecnológicas de fácil uso y bajo costo para la toma
+de decisiones
+ 
+Patente de sensorpara medios hidropónicos salinos es parte de los resultados de
+investigación doctoral
+5 de Noviembre 2020 Por: Kenneth_Mora_Pérez
+Emprendimiento
+Investigación
+   Versión_para_imprimir    Descargar_PDF  Compartir por correo electrónico
+Comentarios
+ Compartir en Facebook  Compartir en Twitter        Compartir en WhatsApp
+[persona_con_tablet_tomando_datos_y_análisis_de_plantas_en_invernadero]
+El Invernadero de TEC fue el espacio experimental utilizado por la
+investigadora para las mediciones realizadas en los  cultivos hidropónicos de
+hortalizas.Imagen ilustrativa. Freepik
+
+La dinámica de atención de los cultivos agrícolas es una de las tareas que
+conlleva presencia constante de quienes se encargan de sembrar alimentos o
+plantas, tanto en campos abiertos como en ambientes protegidos.
+Una de estas tareas es la vigilancia y análisis de las cantidades necesarias
+para el crecimiento de los productos como abonos, fertilizantes y agua.
+[Forma figurativa de un cerebro]Este artículo forma parte de una serie de
+publicaciones especiales con motivo del Boletín_Informativo_del_Doctorado
+Académico_en_Ingeniería..
+Justamente, el uso del agua para fines agrícolas es un tema central en
+cualquier debate sobre los recursos hídricos y la seguridad alimentaria. Datos
+del_Banco_Mundial señalan que, en promedio, en la agricultura se ocupa el 70 %
+del agua que se extrae en el mundo y las actividades agrícolas representan una
+proporción aún mayor del "uso agotador del agua" debido a la evapotranspiración
+de los cultivos.
+Teniendo en cuenta este panorama, Arys_Carrasquilla, docente del Tecnológico_de
+Costa_Rica_(TEC) y egresada del programa de Doctorado_Académico_en_Ingeniería,
+diseñó un modelo que tiene como objetivo mejorar la producción hortícola.
+Tomando en consideración que tradicionalmente los agricultores solo conocen y
+ponen en práctica la horticultura en campo abierto, la Dra. Carrasquilla,
+desarrolló un modelo para que tanto agricultores como investigadores puedan
+utilizar herramientas tecnológicas de fácil uso y bajo costo para la toma de
+decisiones. Esto mediante la medición y procesamiento de diversas variables
+ambientales obtenidas de forma remota por medio de Internet de las Cosas (IdC).
+[recoleccion]El drenaje de las plantas dispuestas en el Invernadero del TEC,
+utilizan un método que combina mediciones manuales y automáticas.Fotografía
+cortesía de Arys Carrasquilla.
+
+**** Investigación doctoral aplicada ****
+ La Dra. Carrasquilla es docente en la carrera de Ingeniería Mecatrónica. Foto:
+Archivo TEC.
+Carrasquilla se vinculó como estudiante del Doctorado en Ingeniería y parte de
+la primera generación de este programa, en la cohorte de octubre de 2015. A
+partir de eso, inició de lleno la investigación, tanto documental como
+experimental.
+Esta última fue realizada en el campo agrícola del Campus Cartago a partir del
+2017 mediante una pasantía supervisada, la cual incluyó pruebas en siembras del
+invernadero que se ubica en este lugar.
+Específicamente se hizo en los cultivos hidropónicos dispuestos en bolsas de
+sustrato de coco, en los cuales se analizan datos como el pH (acidez o
+alcalinidad), la conductividad eléctrica o capacidad de transmisión de
+corriente en el agua, así como el drenaje de estos cultivos.
+Los análisis se realizaron in situ así como de manera remota, utilizando un
+sensor que midiera estos elementos. Sin embargo, Carrasquilla se encontró con
+el inconveniente de la destrucción constante de estos dispositivos, por lo que
+creó uno mucho más resistente y con capacidades mejoradas.
+
+**** Un novedoso sensor ****
+El sensor para medios altamente salinos creado por la investigadora, es un
+controlador de lógica difusa, metodología que proporciona una conclusión a
+partir de información de entrada que puede ser imprecisa, “con ruido” o
+incompleta.
+La recopilación de los datos (pH, conductividad y drenaje) mediante el sensor,
+pueden tener estas características; por ello, mediante esta lógica y la
+transmisión de esta información a la nube utilizando una tarjeta SIM, se
+brindan capacidades para que puedan ser analizados por los investigadores desde
+cualquier parte del mundo, sin necesidad de estar presente en el lugar.
+Estos datos son claves para tomar las decisiones de agua y nutrientes que deben
+ser dados, lo que permite el uso exacto de estos recursos sin desperdicio o
+exceso alguno.
+Además de ser más resistente a las condiciones a que es expuesto, el sensor
+creado es dos veces más barato que los que se pueden conseguir en el mercado,
+los cuales rondan entre 300 y 400 dólares, según destacó la Doctora en
+Ingeniería.
+     "Se analizó e investigó que el dispositivo era totalmente novedoso,
+     por lo que se decidió desarrollar el proceso y los requerimientos
+     para tener una patente del sensor", señaló la Dra. Carrasquilla.
+     [infografía proceso]Fuente: Investigación Doctoral: Modelo integrado
+     para la toma de decisiones en procesos naturales por medio de
+     Internet de las Cosas. Diseño: Yolanda Ortega H.
+
+**** Nueva patente en estudio ****
+De la mano del Centro_de_Vinculación_del_TEC y como resultado de sus
+investigaciones, la docente formalizó la solicitud de patente de un sensor de
+conductividad resistente a medios altamente salinos. Esta fue analizada tomando
+en consideración el estado del arte que rodea la propuesta, así como
+dispositivos similares disponibles en el mercado.
+Estas consideraciones encontraron como resultado preliminar la novedad del
+sensor, por lo que se gestionó la Solicitud de Patente, -conocida también como
+PCT- ante el Registro Nacional.
+Esta patente se encuentra en la fase de análisis por parte del perito
+correspondiente.
+
+Contenido relacionado:
+
+ [elementos_de_investigación_en_folder_]
+Investigaciones_fortalecen_la_propiedad_intelectual_e_innovación_universitaria
+
+**** Impacto académico ****
+Como parte de otros productos derivados de esta investigación, se publicaron 11
+artículos científicos realizados por la investigadora durante el transcurso de
+su programa doctoral.
+Como efecto adicional, se ha logrado que otros investigadores del mundo tomen
+como referencia lo desarrollado por Carrasquilla, consiguiendo tan solo en el
+último año,_24_citas_de_referencia_en_Google_Scholar.
+     “Después de haber publicado, aun se tienen resultados que se siguen
+     consolidando en artículos”. Dra. Arys Carrasquilla.
+Asimismo, la investigadora destacó la participación que ha tenido en redes de
+investigación internacional y la búsqueda fondos especiales que permitirán
+aportar en capacitaciones y, además, tener la posibilidad de generar una
+segunda etapa de investigación (pruebas en campos abiertos y otros) que
+generarían, más artículos y otros proyectos derivados.
+El Doctorado en Ingeniería, es un programa conjunto entre el TEC y la
+Universidad de Costa Rica (UCR), que apoya e impulsa el desarrollo científico-
+tecnológico mediante la formación de investigadores en el área de la
+ingeniería, con el fin de brinda soluciones a problemas de la sociedad en
+general y del sector productivo, con compromiso ético y profesional en todas
+sus aristas.
+      Descargar_investigación_doctoral_completa
+**** VEA TAMBIÉN: ****
+
+ [El_ingeniero_con_su_hijo,_en_coche,_a_la_par_de_un_venado.]
+El_primer_ingeniero_doctorado_por_el_TEC_sigue_creando_Inteligencia_Artificial,
+ahora_en_Japón
+
+ [Imagen_de_la_antena_y_el_transistor._]
+‘El_Doctorado_en_Ingeniería_brinda_un_espacio_a_nuestro_talento_humano_para_el
+desarrollo_de_proyectos_innovadores’
+
+ [Dos_narvales_en_el_océano]
+Internet_de_las_cosas_estará_disponible_bajo_el_agua_gracias_a_iniciativa_tica
+
+ Doctorado_Académico_en_Ingeniería, Investigación, Internet_de_las_cosas
+[Kenneth Mora Pérez, Comunicador.]
+**** Kenneth_Mora_Pérez ****
+kmora@tec.ac.cr
+Comunicador
+Máster en Periodismo Digital, Universidad de Guadalajara, México. Licenciado en
+Comunicación, Universidad Federada de Costa Rica y Bachiller en Periodismo,
+Universidad Internacional de las Américas.
+View_the_discussion_thread.
+
+***** Relacionado *****
+**** Science_Disrupt_emite_podcast_con_investigación_del_TEC ****
+5 de Octubre 2017 Por: Kenneth_Mora_Pérez
+ [science_disrupt]
+**** Tico_estará_en_el_consejo_científico_más_importante_del_mundo_en_Fusión
+Nuclear ****
+19 de Junio 2018 Por: Noemy_Chinchilla_Bravo
+ [Imagen_de_un_hombre_en_un_laboratorio_de_plasma.]
+**** Aplicaciones_de_ingeniería_en_la_nube_son_plasmadas_en_libro_de_Springer
+Nature ****
+29 de Mayo 2020 Por: Kenneth_Mora_Pérez
+ [MANO_CON_CELULAR_Y_NUBE]
+**** TEC_crea_primer_capítulo_IEEE_de_la_Sociedad_de_Ciencias_Nucleares_y
+Plasma_en_Latinoamérica ****
+7 de Marzo 2017 Por: Sofía_Solano_Gómez
+ [Equipo_que_conforma_el_Laboratorio_de_Plasmas_para_Energía_de_Fusión_y
+Aplicaciones_del_TEC._(Foto:_Ruth_Garita/OCM)]
+
+Oficina_de_Comunicación_y_Mercadeo
+Teléfono: (506)_2550-2218 / (506)_2550-9194
+Correo electrónico: comunicacionymercadeotec@tec.ac.cr
+    * Quiénes_Somos
+    * Contacto
+    * Secciones
+
+    * Facebook
+    * Twitter
+    * Instagram
+    * YouTube
+[logo TEC]

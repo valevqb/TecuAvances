@@ -1,0 +1,244 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   Pasar_al_contenido_principal
+****** Hoy_en_el_TEC ******
+
+Viernes 12 de Agosto, 2022
+  |  
+Quiénes_Somos   |   Buscar  
+
+***** Menú *****
+    * Investigación
+    * Desarrollo_Humano
+    * Vida_Estudiantil
+    * Acción_Institucional
+    * Medio_Ambiente
+    * Emprendimiento
+    * Cultura_y_Deporte
+    * Opinión
+    * Buscar
+
+
+****** Firma digital será un aliado para disminuir el uso de papel ******
+26 de Abril 2016 Por: Kenneth_Mora_Pérez
+Acción_Institucional
+   Versión_para_imprimir    Descargar_PDF  Compartir por correo electrónico
+Comentarios
+ Compartir en Facebook  Compartir en Twitter        Compartir en WhatsApp
+Imagen Ilustrativa (Foto: OCM)
+
+      
+    * Comisión trabaja en proyectos para su implementación.
+    * FirmaTEC es un software desarrollado por DATIC para facilitar el proceso
+      de firmado.
+Contar con una gestión de documentos cada vez más digital y agilizar los
+trámites de gestión institucional son parte de las metas que se esperan
+alcanzar con la implementación de la firma digital en el TEC. Este método de
+autenticación logra que la persona e instituciones puedan validar documentos y
+trámites en ambientes virtuales.
+La firma digital se aplica en aquellas áreas donde es importante poder
+verificar la autenticidad y la integridad de ciertos datos, por ejemplo
+documentos electrónicos o software, ya que proporciona una herramienta para
+detectar la falsificación y la manipulación del contenido.
+Según datos de la Comisión de Firma Digital delTEC, en la Institución un 10% de
+los funcionarios cuenta con este método de autenticación, pero muchas veces no
+es utilizado ya que algunas personas lo tienen vencido, otros no saben cómo
+utilizarlo o bien su computadora no cumple las especificaciones para poder
+usarlo.
+Para fortalecer el uso de la firma digital, la Comisión ha establecido un
+proyecto piloto, al distribuir 43 dispositivos en funcionarios de siete
+departamentos para que estos puedan la firma dentro de las acciones regulares
+que realizan.
+“La idea es fortalecer una nueva cultura que permita dejar atrás aquello de -
+los papeles hablan- de modo tal que se fomente el uso del dispositivo a nivel
+institucional” destacó el ingeniero Marco Vinicio Gómez Gutiérrez, del
+Departamento_de_Tecnologías_Información_y_Comunicación_(DATIC)y coordinador de
+esta Comisión.
+Como apoyo a este proceso se ha creado FirmaTEC, software desarrollado por el
+DATIC, que facilita el proceso de firmado digital de los documentos así como el
+control de cambios que se hagan a estos.
+****  ¿Cómo funciona la firma digital? ****
+La firma digital funciona mediante procedimientos matemáticos que relacionan el
+documento firmado con información propia del firmante mediante certificados
+digitales, de manera tal, que terceras personas puedan reconocer la identidad
+de quien firma y asegurarse así de que los contenidos no han sido modificados.
+La firma digital avanzada incluye una estampa de tiempo e información de
+validación que permiten determinar una fecha y hora en el que la firma digital
+existía y el certificado es valido. La estampa de tiempo es generada por el
+Banco Central de Costa Rica, quien tiene constituida una Autoridad
+Certificadora para la emisión de certificados para personas físicas y
+jurídicas.
+Según datos de Casa Presidencial, unas 133 mil personas cuentan con firma
+digital, lo que les permite acceder a un centenar de servicios y productos en
+90 instituciones públicas, bancarias y comerciales.
+**** Proyectos ****
+La Comisión, conformada por representantes de DATIC, TEC Digital, el Centro de
+Archivo y Comunicaciones, Financiero Contable, Asesoría Legal así como del
+Departamento de Admisión y Registro y la Escuela de  Ingeniería en Computación
+trabajan además en otro proyecto para implementar la firma digital de persona
+jurídica. Esta permitiría emitir documentos electrónicos certificados de manera
+tal que constancias y otros escritos sean emitidos bajo este método.
+“Un 30% de los vehículos que circula en las calles lo hace por alguna
+diligencia que se puede hacer de manera digital según datos del Ministerio de
+Ciencia y Tecnología, por lo que buscamos generar un ahorro de recursos en
+varias aristas así como una mejor gestión en los trámites”, destacó Gómez.
+Para esto se espera que diversos trámites se realicen de manera electrónica, en
+un proceso que conlleve desde la solicitud del documento, el pago en línea así
+como su entrega, por lo que implementarlo traería ventajas de alto impacto como
+la posible disminución en el uso de parqueos así como el menor uso vehicular
+para los potenciales usuarios de este servicio.
+Otro de los desarrollos que se da es además un software de gestión documental,
+que permitirá manejar mayores volúmenes documentales con capacidad para
+controlar las versiones así como la seguridad para compartir y manejar los
+documentos que sean firmados digitalmente.
+En el caso del TEC_Digital, la firma será utilizada como método de
+autenticación para ingresar a la plataforma, lo cual sustituye el poner el
+usuario y  la contraseña.
+Además se espera utilizarla en la firma de documentos que sean de relevancia y
+ estén relacionados con la docencia y funcionalidades del TEC_Digital. Para
+esto la plataforma estaría desarrollando una aplicación para la entrega de
+actas, de modo tal que que el profesor que utiliza el módulo de evaluaciones y
+tiene sus notas finales ahí, podrá generar firmar el acta digitalmente y
+enviarla a Admisión y Registro sin necesidad de ningún trámite presencial.
+**** ¿Nuevos reglamentos? ****
+La firma digital está basada en laley_8454así como en ladirectriz_067. Respecto
+a la ley, aplica para toda clase de transacciones y actos jurídicos, públicos o
+privados. El Estado y todas las entidades públicas quedan expresamente
+facultados para utilizar los certificados, las firmas digitales y los
+documentos electrónicos, dentro de sus respectivos ámbitos de competencia.
+Mientras que la directriz busca hacer efectivo el derecho a exigir igualdad en
+el acceso por medios electrónicos a todos los servicios que se ofrecen por
+medios físicos.  De esta forma,  las personas físicas podrán utilizar la firma
+digital certificada en cualquier escenario, ya sea para autenticarse o para
+firmar todos los trámites con la institución por vía electrónica.
+Ante esto y según el coordinador de la Comisión de Firma Digital del TEC, no se
+requiere generar alguna ley adicional, ya que el marco de legislación es
+explícito.  “Lo que se requeriría es un reglamento que regule los usos y
+cuidados que deberá tener el funcionario en el uso de la firma” aseveró.
+  Firma_digital, Sistemas, DATIC
+[Kenneth Mora Pérez, Comunicador.]
+**** Kenneth_Mora_Pérez ****
+kmora@tec.ac.cr
+Comunicador
+Máster en Periodismo Digital, Universidad de Guadalajara, México. Licenciado en
+Comunicación, Universidad Federada de Costa Rica y Bachiller en Periodismo,
+Universidad Internacional de las Américas.
+View_the_discussion_thread.
+
+***** Relacionado *****
+**** Navegar_en_el_sitio_web_del_TEC_es_gratis_para_usuarios_de_Internet_móvil
+del_ICE ****
+31 de Marzo 2020 Por: Geovanni_Jiménez_Mata
+ [Celular_mostrando_sitio_web_del_TEC.]
+**** Firma_Digital_será_tema_en_charla_para_investigadores ****
+9 de Febrero 2017 Por: Kenneth_Mora_Pérez
+ [La_firma_digital_es_un_método_que_asocia_la_identidad_de_una_persona,_con_un
+mensaje_o_documento_electrónico,_para_asegurar_la_autoría_y_la_integridad_del
+mismo._(Fotografía_ilustrativa:_Pixabay)]
+**** TEC_implementa_nuevo_Sistema_de_Actas_de_Calificaciones ****
+12 de Agosto 2020 Por: Kenneth_Mora_Pérez
+ [mano_en_computadora_con_sistema_de_actas]
+**** Firma_Digital_se_habilita_para_ingresar_al_TEC_Digital ****
+22 de Marzo 2017 Por: Kenneth_Mora_Pérez
+
+
+Oficina_de_Comunicación_y_Mercadeo
+Teléfono: (506)_2550-2218 / (506)_2550-9194
+Correo electrónico: comunicacionymercadeotec@tec.ac.cr
+    * Quiénes_Somos
+    * Contacto
+    * Secciones
+
+    * Facebook
+    * Twitter
+    * Instagram
+    * YouTube
+[logo TEC]

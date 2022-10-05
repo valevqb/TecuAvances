@@ -1,0 +1,240 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   pasar_al_contenido_principal
+****** hoy_en_el_tec ******
+
+viernes 12 de agosto, 2022
+  |  
+quiénes_somos   |   buscar  
+
+***** menú *****
+    * investigación
+    * desarrollo_humano
+    * vida_estudiantil
+    * acción_institucional
+    * medio_ambiente
+    * emprendimiento
+    * cultura_y_deporte
+    * opinión
+    * buscar
+
+
+ estudio fue publicado en revista tec empresarial
+****** ¿cuál fue el efecto en costa rica de la crisis económica mundial de
+2008?, estudiante lo analiza ******
+    * encuentre el estudio completo al final de esta nota.
+6 de febrero 2018 por: geovanni_jiménez_mata
+investigación
+   versión_para_imprimir    descargar_pdf  compartir por correo electrónico
+comentarios
+ compartir en facebook  compartir en twitter        compartir en whatsapp
+[dinero_en_caja_registradora_]
+la crisis económica mundial de 2008 afectó directamente a las entidades
+financieras de costa rica. foto: archivo ocm.
+
+hace 10 años, el planeta entero cayó en una de las recesiones económicas más
+recordadas de los últimos tiempos: la crisis económica mundial de 2008.
+costa rica no se salvó de sufrir los efectos de ese momento histórico y
+presentó una significativa contracción en su actividad económica. al igual que
+en muchos países en vías de desarrollo, ese hecho incidió directa e
+indirectamente en sus empresas, entes financieros y población.
+a finales del año anterior, a casi una década de acontecida la crisis, el
+estudiante de administración_de_empresas_del_tecnológico_de_costa_rica_(tec),
+hernán rojas, dedicó su trabajo final de graduación a realizar un análisis
+sobre dicho tema.
+con el título “comportamiento de las entidades integrantes del sistema
+financiero costarricense durante la crisis económica mundial de 2008”, rojas
+presentó un estudio fundamentado en los balances contables e indicadores de
+bancos públicos, bancos privados, cooperativas y empresas financieras no
+bancarias del país. 
+según explicó el propio autor, en el análisis y procesamiento de datos utilizó
+herramientas y procedimientos como la estadística, minería de datos y ciencias
+de la computación. como materia prima para su estudio sirvieron los balances
+contablesdesde enero de 2008 hasta diciembre de 2012, de cada uno de los entes
+financieros. estos datos le fueron suministrados por la superintendencia
+general de entidades financieras (sugef).
+líneas de balance contable como activos, pasivos y patrimonio de cada entidad
+fueron algunos de los datos tomados en cuenta. además, se estudiaron los
+indicadores financieros contables, crediticios y operativos; así como las
+razones financieras de los bancos y demás entes.
+la investigación cita el dato de que el periodo de “pre-crisis” inició en costa
+rica a partir de los primeros meses de 2008 y se mantuvo así hasta finales de
+dicho año. también indica que la crisis como tal llegó en 2009, cuando en los
+bancos se empezó a presentar contracción de la cartera crediticia al día, un
+bajo índice de endeudamiento y una alta concentración de pasivos.
+para el autor, estos son síntomas propios de un desequilibrio económico y todos
+juntos provocaron un incremento de la morosidad crediticia, escasez de recursos
+en los mercados de dinero y reducción en la diversidad de los mecanismos de
+captación al público.
+según el análisis, la post crisis comprendió el periodo de enero de 2011 a
+diciembre de 2012.
+otro de los aspectos determinados en la investigación fue el nivel real de
+afectación de los efectos de la crisis,que luego de los 60 meses consecutivos
+analizados, se descubrió que recaía en mayor medida en los bancos privados.
+esto debido a la dificultad que tenían para captar recursos líquidos de bajo
+costo, la desaceleración en la colocación de créditos y el alto riesgo
+crediticio y cambiario de aquel momento.
+finalmente, el estudio señala las estrategias de mitigación implementadas por
+las entidades contra los efectos de la gran crisis: generar mayor cantidad de
+recursos al menor costo financiero posible, la generación de ingresos por
+intereses al propiciar los niveles de colocación y saldo de cartera crediticia
+adecuados, por ejemplo.
+****
+publicación en tec empresarial ****
+debido a su destacado nivel de elaboración, la investigación completa de hernán
+rojas fue publicada en la más_reciente_edición_de_la_revista_tec
+empresarial.puede encontrarla como documento adjunto al final de esta nota.
+dicha revista sale cada cuatro meses de manera digital y es emitida por la
+escuela de administración de empresas del tec.
+de acuerdo al investigador, su trabajo es importante porque facilita la
+comprensión del comportamiento, causas y consecuencias de un fenómeno económico
+de tal magnitud. “debemos observar el mismo a través de una óptica distinta, de
+mayor sustento científico al utilizar herramientas y conocimiento de diversas
+disciplinas”, aseveró rojas.
+de la misma manera, este vecino de moravia y con 16 años de experiencia laboral
+en el área de la banca, insta a todos aquellos gremio estudiantil de cualquier carrera
+a desarrollar proyectos o ideas que profundicen en temas de impacto real.
+“no todo está en la directriz de un profesor o en el cumplimiento de un
+requisito impuesto por un curso; no debemos tener temor ni la percepción de que
+el realizar un proyecto de esta índole es posible únicamente para profesionales
+del sector académico o laboral con un vasto currículo o grandes atestados
+educativos”, finalizó rojas.
+   https://www.tec.ac.cr/hoyeneltec/sites/default/files/media/doc/
+revista_tec_empresarial_-_nov_17.pdf
+ tec_empresarial, economía, trabajo, gremio estudiantil, publicaciones, administración
+de_empresas
+[geovanni jiménez mata, comunicador.]
+**** geovanni_jiménez_mata ****
+gjimenez@tec.ac.cr
+comunicador
+bachiller en periodismo, universidad san judas tadeo.
+view_the_discussion_thread.
+
+***** relacionado *****
+**** estudio_sobre_transferencia_de_resultados_se_ubica_entre_los_mejores_de
+"cladea_awards" ****
+29 de junio 2018 por: geovanni_jiménez_mata
+ [margie_faith_y_jose_martinez_frente_escuela_administracion_empresas_]
+**** revista_tec_empresarial_es_admitida_en_scielo_y_doaj ****
+13 de febrero 2017 por: sofía_solano_gómez
+ [tec_empresarial]
+**** producción_y_productividad_en_las_empresas_del_país_marcan_la_diferencia
+en_su_crecimiento ****
+10 de mayo 2017 por: noemy_chinchilla_bravo
+
+**** estudiante_investigó_producción_y_posibilidades_comerciales_de_la_lechuga
+en_la_región_chorotega ****
+13 de noviembre 2018 por: geovanni_jiménez_mata
+ [estudiante_paola_porras_cultivando_lechuga_]
+
+oficina_de_comunicación_y_mercadeo
+teléfono: (506)_2550-2218 / (506)_2550-9194
+correo electrónico: comunicacionymercadeotec@tec.ac.cr
+    * quiénes_somos
+    * contacto
+    * secciones
+
+    * facebook
+    * twitter
+    * instagram
+    * youtube
+[logo tec]
+
+
+File name: C:\Users\valev\Documents\GitHub\TecuAvances\hoyeneltec\2018\cual-fue-efecto-costa-rica-crisis-economica-mundial-2008-estudiante-lo-analiza.html.txt
+Number of changes: 2
+Palabras reemplazadas: estudiantes, estudiantes

@@ -1,0 +1,217 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   Pasar_al_contenido_principal
+****** Hoy_en_el_TEC ******
+
+Viernes 12 de Agosto, 2022
+  |  
+Quiénes_Somos   |   Buscar  
+
+***** Menú *****
+    * Investigación
+    * Desarrollo_Humano
+    * Vida_Estudiantil
+    * Acción_Institucional
+    * Medio_Ambiente
+    * Emprendimiento
+    * Cultura_y_Deporte
+    * Opinión
+    * Buscar
+
+
+****** Proyecto para identificar plantas costarricenses por computadora es
+reconocido como mejor paper a nivel latinoamericano ******
+11 de Noviembre 2015 Por: Johan_Umaña_Venegas
+Investigación
+   Versión_para_imprimir    Descargar_PDF  Compartir por correo electrónico
+Comentarios
+ Compartir en Facebook  Compartir en Twitter        Compartir en WhatsApp
+
+     El M.Sc. José Mario Carranza, el Dr. Erick Mata y la Dra. Gabriela
+     Marín, presidenta del CLEI, justo después de que los costarricenses
+     recibieron el premio como mejor ponencia. (Foto: Cortesía J.
+     Carranza.)
+      
+    * Obtuvo la mejor calificación en el Simposio Latinoamericano de
+      Computación Gráfica, Realidad Virtual y Procesamiento de Imágenes, en el
+      marco del CLEI 2015.Investigación del TEC había sido semifinalista en
+      cumbre mundial de conservacionismo Eye on Earth.
+El proyecto_de_identificación_de_plantas_y_árboles_por_medio_de_la_Visión_por
+Computadora sigue acumulando reconocimientos internacionales y acrecentando el
+prestigio del TEC. Esta vez obtuvo un reconocimiento en el marco de la
+Conferencia_Latinoamericana_de_Informática_(CLEI), que se realizó el mes
+anterior en Arequipa, Perú.
+José Mario Carranza, estudiante del Doctorado_Académico_en_Ingeniería, y el
+ Dr. Erick Mata, profesor del Tecnológico, destacaron con el paper mejor
+calificado en el Simposio Latinoamericano de Computación Gráfica, Realidad
+Virtual y Procesamiento de Imágenes, el cual forma parte del CLEI.
+En el artículo, titulado “A_Texture_and_Curvature_Bimodal_Leaf_Recognition
+Model_for_Identification_of_Costa_Rican_Plant_Species (Un modelo bimodal de
+reconocimiento de textura y curvatura de la hoja para la identificación de
+especies de plantas de Costa Rica)” expusieron los alcances de la investigación
+de Carranza.
+“Este paper presenta un modelo de Visión por Computadora que se basa en
+algoritmos de curvatura y de textura (micro-patrones de pixels) de la hoja,
+junto con aprendizaje de máquinas, para determinar con cierto grado de
+probabilidad la especie de una planta.
+“Demostramos que un modelo que contenga tanto curvatura y textura es
+estadísticamente más exacto, en comparación con tener o curvatura o textura por
+separado”, explicó Carranza.
+ 
+***** Vea: *****
+    * Paper_de_Carranza_y_Mata,_en_PDF_(7.445_Kb)Los_siete_artículos
+      costarricenses_que_participaron_en_el_CLEI_2015
+Nuevamente galardonada.
+[https://www.tec.ac.cr/hoyeneltec/sites/default/files/media/uploads/
+CrotondracoLBP_0.png]
+Esta investigación ya fue reconocida_mundialmente_por_la_cumbre_Eye_on_Earth,
+que le escogió como semifinalista entre los proyectos de informática para la
+conservación.
+“El éxito que ha cosechado esta investigación se debe, en parte, al carácter
+interdisciplinario y el alto impacto potencial en el trabajo que llevan a cabo
+los taxónomos. No es frecuente que botánicos e informáticos trabajen juntos en
+un proyecto tan innovador”, argumentó por su parte Mata.
+El proyecto continúa en desarrollo pues está inscrito en el Doctorado Académico
+en Ingeniería y en la VIE, bajo el nombre “Identification_of_Costa_Rican_Plant
+Species_using_Computer_Vision (Identificación de las especies de plantas de
+Costa Rica utilizando Visión por Computadora)”.
+“A nivel personal un reconocimiento de estos (el del CLEI 2015) me invita a
+apuntar cada vez más alto y seguir publicando el trabajo que estamos haciendo.
+“El país necesita que la investigación nacional sea divulgada. También es una
+excelente forma de crear redes de contactos en otros países para realizar
+investigación conjunta y darle más prestigio al TEC”, agregó Carranza.
+Mata ahondó en el alcance futuro de esta investigación, que además de servir
+como una herramienta ideal para taxónomos y botánicos, tiene planteada la
+posibilidad de desarrollar una aplicación para dispositivos móviles, que sea
+abierta al público y le permita a personas aficionadas a la naturaleza
+identificar especies de plantas y árboles, a la vez que contribuyen con
+iniciativas de conservación en el país.
+***** Relacionado: TEC_destaca_en_cumbre_mundial_por_innovaciones_en
+informática_para_la_conservación *****
+ 
+[https://www.tec.ac.cr/hoyeneltec/sites/default/files/media/uploads/
+Computacion_TEC_CLEI2015.jpg]
+     En total, se presentaron siete artículos ticos en el CLEI 2015. En la
+     foto, de izquierda a derecha: M.Sc. Javier Torres (de Panamá), Dr.
+     Erick Mata, Dr. Juan Félix Ávila y el M.Sc. Jose Mario Carranza.
+     (Foto: cortesía: Erick Mata.)
+[Johan Umaña Venegas, Comunicador.]
+**** Johan_Umaña_Venegas ****
+johumana@tec.ac.cr
+Comunicador
+Licenciado en Comunicación Colectiva, con énfasis en Periodismo, Universidad de
+Costa Rica.
+View_the_discussion_thread.
+
+***** Relacionado *****
+**** Roger_Moya,_Julio_Calvo_e_Iván_Vargas_ocupan_los_tres_primeros_lugares_en
+la_base_de_datos_Scopus ****
+3 de Septiembre 2015 Por: Redacción
+
+**** Investigaciones_del_TEC_estuvieron_en_Congreso_Internacional_de
+Astronáutica ****
+23 de Octubre 2015 Por: Johan_Umaña_Venegas
+
+**** Investigadores_presentarán_herramientas_para_mejorar_la_gestión_del
+recurso_hídrico_en_el_país ****
+14 de Marzo 2016 Por: Redacción
+
+**** Investigación_del_TEC_alerta_sobre_la_sostenibilidad_del_agua_en_zonas
+rurales_de_Cartago ****
+23 de Mayo 2016 Por: Irina_Grajales_Navarrete
+
+
+Oficina_de_Comunicación_y_Mercadeo
+Teléfono: (506)_2550-2218 / (506)_2550-9194
+Correo electrónico: comunicacionymercadeotec@tec.ac.cr
+    * Quiénes_Somos
+    * Contacto
+    * Secciones
+
+    * Facebook
+    * Twitter
+    * Instagram
+    * YouTube
+[logo TEC]

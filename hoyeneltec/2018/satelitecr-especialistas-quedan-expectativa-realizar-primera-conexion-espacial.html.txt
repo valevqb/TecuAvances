@@ -1,0 +1,313 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   Pasar_al_contenido_principal
+****** Hoy_en_el_TEC ******
+
+Viernes 12 de Agosto, 2022
+  |  
+Quiénes_Somos   |   Buscar  
+
+***** Menú *****
+    * Investigación
+    * Desarrollo_Humano
+    * Vida_Estudiantil
+    * Acción_Institucional
+    * Medio_Ambiente
+    * Emprendimiento
+    * Cultura_y_Deporte
+    * Opinión
+    * Buscar
+
+
+ Proyecto Irazú
+****** #SatéliteCR: Especialistas quedan a la expectativa para realizar la
+primera conexión espacial ******
+    * El satélite costarricense ya está en la Estación Espacial Internacional,
+      donde será puesto en órbita alrededor de la Tierra.
+    * Detalles de qué ha pasado y qué viene en el Proyecto Irazú.
+5 de Abril 2018 Por: Johan_Umaña_Venegas
+Investigación
+   Versión_para_imprimir    Descargar_PDF  Compartir por correo electrónico
+Comentarios
+ Compartir en Facebook  Compartir en Twitter        Compartir en WhatsApp
+[Un_cohete_expulsando_fuego_y_humo_en_su_despegue._]
+El lunes 2 de abril, a las 2:30 p.m. (hora de Costa Rica), despegó la misión
+crs-14, de abastecimiento a la Estación Espacial Internacional. La cápsula
+Dragon, de SpaceX, con el primer satélite costarricense a bordo, fue impulsada
+por un cohete Falcon 9. Fotografía: SpaceX.
+
+Tras concretar el transporte entre la Tierra y laEstación_Espacial
+Internacional (ISS, en inglés), el primer satélite de Costa Rica superó la fase
+más crítica y peligrosa de la misión.
+Ahora falta el momento de mayor expectativa en el Proyecto Irazú: cuando los
+especialistas se conecten con el aparato y verifiquen que todos los sistemas
+funcionan adecuadamente.
+Para este próximo paso no hay un plazo explícito, pues depende del cronograma
+de tareas de los astronautas a bordo de la ISS, quienes definirán cuándo será
+que liberarán en órbita el satélite costarricense.
+Según explica Marco Gómez Jenkins, director de proyectos del Laboratorio de
+Sistemas Espaciales (SETEC-Lab), delTecnológico_de_Costa_Rica_(TEC), el tiempo
+de espera será de alrededor de un mes, por lo que esperan que a principios de
+mayo se inicie la siguiente fase de la misión espacial.
+[Imagen de la cápsula Dragon capturada por el brazo robótico de la Estación
+Espacial.]Este miércoles 4 de abril en la mañana la Cápsula Dragon llegó a la
+Estación Espacial Internacional. Foto: NASA.
+Esta nueva fase consistirá en realizar la conexión espacial –la primera vez que
+un satélite ensamblado por ingenieros costarricenses se comunica desde el
+espacio– y comprobar que los sistemas a bordo funcionan adecuadamente.
+Acto seguido, detalla Gómez, el satélite empezará con la misión científica del
+Proyecto Irazú: transmitir información de crecimiento de los árboles ubicados
+en las llanuras de San Carlos. Esos datos servirán para que los investigadores
+e investigadoras del TEC estimen cuál es la tasa de captura de dióxido de
+carbono en los bosques costarricenses.
+Mediante un sistema store and forward (almacenamiento y reenvío), el computador
+del satélite almacenará los datos recibidos de la Estación Remota, en San
+Carlos, para que sean descargados en la Estación Central, en Cartago.
+El aparato, que estará en órbita durante seis meses, pasará dos veces por día
+sobre Costa Rica.
+     “El satélite comenzará en una órbita similar a la ISS, pero su órbita
+     se degradará por la resistencia atmosférica. Durante seis meses, su
+     altura cambiará de 400 km a 100 km. En este punto, el satélite
+     entrará a la atmósfera terrestre y se incineraráen el proceso”,
+     explicó Gómez.
+     [infografía_untico]
+      
+
+**** Misión CRS-14 ****
+Otros experimentos científicos transportados por la misión de Space-X
+
+
+**** Orgullo nacional ****
+La noticia del lanzamiento al espacio del primer satélite en la historia de
+Costa Rica y Centroamérica fue protagonista en los principales medios de
+comunicación del país, y también tuvo eco en muchos medios internacionales.
+Las imágenes del despegue del cohete Falcon 9 (en la tarde del lunes 2 de
+abril) y del acople de la cápsula Dragon (en la mañana del miércoles 4 de
+abril), donde se transportó el satélite tico, quedaron impregnadas en la
+retícula de los costarricenses.
+"Esto representa un futuro muy brillante para el país. El hecho de que estos
+muchachos con esfuerzo propio lograran poner el satélite en órbita (...) Yo me
+quito el sombrero ante estos muchachos tan capaces, los admiro mucho (...)“,
+comentó el exastronauta, científico y emprendedor Franklin Chang Díaz, al medio
+Amelia_Rueda.
+Este fue la culminación de un sueño que hace ocho años inició con la gestión de
+la Agencia Centroamericana del Espacio (ACAE).
+El Tecnológico se sumó en 2013, cuando se empezaron a crear las capacidades
+profesionales para que fueran ingenieros costarricenses quienes diseñaran y
+ejecutaran la misión, desde la planificación de los componentes del satélite y
+la comprobación de sistemas, hasta la fase de pruebas.
+Los componentes fueron comprados con una campaña especial gestionada por ACAE,
+en la que más de 900 costarricenses donaron dinero.
+En el equipo técnico del Proyecto Irazú han participado:
+Socio estratégico:
+    * Asociación Centroamericana de Aeronáutica y del Espacio (ACAE).
+[Cuatro jóvenes con una réplica del satélite. ]Esteban Martínez muestra el
+modelo de ingeniería del satélite del Proyecto Irazú, junto a sus compañeros
+del SETEC-Lab: Juan Carlos Rodríguez, Rodrigo Mora y Roberto Zamora (de
+izquierda a derecha). Foto: Ruth Garita / OCM. 
+Equipo estudiantil:
+    * Esteban Martínez, Maestría en Ingeniería en Electrónica. Encargado del
+      sistema de comunicación del satélite. Coordinador del equipo estudiantil.
+    * Olman Quirós, Ingeniería en Computación. Encargado del sistema de
+      computadora a bordo del satélite.
+    * Gabriel Pizarro, Ingeniería en Computación. Programación del sistema de
+      computadora a bordo del satélite.
+    * Gabriela Delgado, Ingeniería en Diseño Industrial. Encargada del diseño
+      de la arquitectura de información del sitio web del proyecto.
+    * Francini Nájera, Ingeniería Electrónica. Asistente, SETEC-Lab
+    * Óscar Fonseca, Ingeniería Mecatrónica. Implementación del Dendrómetro
+      Láser.
+    * Catalina Varela, Ingeniería Mecatrónica. Implementación del Dendrómetro
+      Láser.
+    * Jorge Calderón, Ingeniería en Materiales. Asistente, SETEC-Lab.
+    * Alberto Zamora, Ingeniería Mecatrónica. implementación de la estación en
+      tierra.
+    * Juan Carlos Rodríguez, Ingeniería en Materiales. Implementación de la
+      estación en tierra.
+    * Rodrigo Mora, Ingeniería en Materiales. Implementación de la estación
+      en tierra
+    * José Miguel Zumbado, Ingeniería Mecatrónica. Análisis térmico del
+      satélite.
+    * Mario Herrera, Ingeniería Electrónica. Desarrollador del primer prototipo
+      del dendrómetro.
+    * Yeison Cortes, Ingeniería Forestal.
+    * Ericka Ríos, Ingeniería Forestal.
+Personal del TEC:
+    * Arys Carrasquilla Batista, Ingeniería Mecatrónica.
+    * Ana Julieta Calvo, Ingeniería Forestal.
+    * Vladimir Jiménez, Ingeniería Forestal.
+    * Yeiner Arias Esquivel, Ingeniería Mecatrónica.
+    * Carlos Salazar García, Ingeniería Mecatrónica.
+    * Franklin Hernández, Diseño Industrial.
+    * Luis Paulino Méndez Badilla, Ingeniería Electrónica.
+    * Julio Calvo Alvarado, Ingeniería Forestal.
+    * Luis Carlos Rosales, Ingeniería Electrónica.
+    * Juan Jose Rojas, Ingeniería Electrónica, Doctorando del Instituto
+      Tecnológico de Kyushu.
+Laboratorio de Sistemas Sostenibles del Tecnológico de Costa Rica (SES-Lab):
+    * Carlos Meza, director SES-Lab.
+Laboratorio de Sistemas Espaciales del Tecnológico de Costa Rica (SETEC-Lab):
+    * Marco Gómez Jenkins, director de Proyectos SETEC-Lab.
+    * Johan Carvajal Godínez, director de Investigación SETEC-Lab.
+    * Adolfo Chaves Jiménez, coordinador SETEC-Lab.
+Equipo Externo:
+    * Alfredo Valverde, doctorando Instituto Tecnológico de Georgia, Estados
+      Unidos.
+    * Julio Ramírez, investigador Centro Aeroespacial Alemán.
+    * Esteban Solórzano, Boston Scientific.
+    * Marco Alvarez, Innovative Solutions in Space (ISIS-Space).
+    * Mariela Rojas, MSc Instituto Tecnológico de Kyushu.
+    * Marcos Hernández, MSc Instituto Tecnológico de Kyushu.
+Cooperadores Externos:
+    * Instituto Nacional de Aprendizaje.
+    * Imagine XYZ.
+    * Radio Club de Costa Rica.
+Asesores externos:
+    * Andrés Mora, Centro Espacial Ames, NASA.
+    * Sandra Cauffman, Centro Espacial Goddard, NASA.
+    * Franklin Chang Díaz, Ad Astra Rocket.
+Equipo Evaluador
+    * Mengu Cho, director del Laboratorio de Interacción en Ambiente de Naves
+      Espaciales (LaSEINE), Instituto Tecnológico de Kyushu, Japón.
+    * Eberhard Gill, director Instituto Espacial de Delft, Instituto
+      Tecnológico de Delft, Países Bajos.
+
+
+Proyecto_Irazú_fortaleció_capacidades_del_TEC_para_desarrollar_misiones
+espaciales
+
+ [Tres_fotógrafos_frente_a_los_ingenieros,_separados_por_un_vidrio._Los
+investigadores_visten_de_bata_de_laboratorio.]
+Primer_satélite_tico_viaja_a_Japón_para_las_pruebas_finales
+
+ Proyecto_Irazú, SatéliteCR, SETEC-Lab, aeroespacial
+[Johan Umaña Venegas, Comunicador.]
+**** Johan_Umaña_Venegas ****
+johumana@tec.ac.cr
+Comunicador
+Licenciado en Comunicación Colectiva, con énfasis en Periodismo, Universidad de
+Costa Rica.
+View_the_discussion_thread.
+
+***** Relacionado *****
+**** Proyecto_Irazú_fortaleció_capacidades_del_TEC_para_desarrollar_misiones
+espaciales ****
+2 de Abril 2018 Por: Johan_Umaña_Venegas
+
+**** Un_centenar_de_noticias:_el_primer_satélite_tico_es_protagonista_en_el
+continente ****
+6 de Abril 2018 Por: Johan_Umaña_Venegas
+ [Captura_de_pantalla_de_la_noticia_de_Univisión,_en_la_que_se_ve_una
+fotografía_del_cohete_Falcon_9.]
+**** ‘Se_siente_como_el_primer_hombre_en_la_luna’:_uno_de_los_jóvenes_que
+ensambló_el_primer_satélite_de_Centroamérica_cuenta_su_historia ****
+8 de Noviembre 2017 Por: Johan_Umaña_Venegas
+ [Esteban_Martínez_posa_junto_a_instrumentos_musicales.]
+**** Primer_satélite_tico_viaja_a_Japón_para_las_pruebas_finales ****
+23 de Octubre 2017 Por: Johan_Umaña_Venegas
+ [Tres_fotógrafos_frente_a_los_ingenieros,_separados_por_un_vidrio._Los
+investigadores_visten_de_bata_de_laboratorio.]
+
+Oficina_de_Comunicación_y_Mercadeo
+Teléfono: (506)_2550-2218 / (506)_2550-9194
+Correo electrónico: comunicacionymercadeotec@tec.ac.cr
+    * Quiénes_Somos
+    * Contacto
+    * Secciones
+
+    * Facebook
+    * Twitter
+    * Instagram
+    * YouTube
+[logo TEC]

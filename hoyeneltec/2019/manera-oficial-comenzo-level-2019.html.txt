@@ -1,0 +1,269 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   Pasar_al_contenido_principal
+****** Hoy_en_el_TEC ******
+
+Viernes 12 de Agosto, 2022
+  |  
+Quiénes_Somos   |   Buscar  
+
+***** Menú *****
+    * Investigación
+    * Desarrollo_Humano
+    * Vida_Estudiantil
+    * Acción_Institucional
+    * Medio_Ambiente
+    * Emprendimiento
+    * Cultura_y_Deporte
+    * Opinión
+    * Buscar
+
+
+****** De manera oficial comenzó Level Up 2019 ******
+    * El objetivo de este evento es mejorar las competencias técnicas y blandas
+      de  estudiantes.
+    * Jóvenes deben estar en la capacidad de brindar respuestas a problemas
+      planteados por distintas empresas.
+16 de Julio 2019 Por: Irina_Grajales_Navarrete
+Vida_Estudiantil
+Emprendimiento
+   Versión_para_imprimir    Descargar_PDF  Compartir por correo electrónico
+Comentarios
+ Compartir en Facebook  Compartir en Twitter        Compartir en WhatsApp
+[estudiantes_en_auditorio_]
+Los equipos ganadores recibirán un premio de $3000 para el primer lugar, $2000
+para el segundo lugar y $1000 para el tercero. 
+
+En total 60 jóvenes están listos para competir de manera oficial en Level Up
+2019. Se trata de la primera iniciativa estudiantil declarada de Interés
+Institucional por el exrector del Tecnológico_de_Costa_Rica (TEC), Julio César
+Calvo.  
+La actividad es organizada por la Asociación_de_Estudiantes_de_Ingeniería
+Electrónica del TEC (Aesetec) y la Asociación_de_Estudiantes_de_Ingeniería_en
+Diseño_Industrial (Aseidi).
+De esta manera, los jóvenes dividos en 12 grupos deben estar en la capacidad de
+brindar respuestas a problemas planteados por las siguientes empresas: Boston
+Scientific, Intel, Hewlett_Packard_Enterprise(HPE), Wind_River, Holcim
+y Baxter. 
+Para ello, los grupos creados son multidisciplinarios; es decir participan
+estudiantes de distintas disciplinas: Electrónica, Diseño Industrial,
+Computación, Mecatrónica, Mantenimiento Industrial, Materiales, Construcción y
+Computadores. 
+“Nuestro objetivo es mejorar las competencias técnicas y blandas de los
+estudiantes, a través de la integración en la cultura organizacional de una
+empresa”, afirmó el director de Level Up, Emmanuel Fonseca.
+
+**** Los equipos y sus retos ****
+[Equipo:_Chip_/_Empresa:_Baxter_]
+***** Reto: desarrollar una aplicación por la cual se pueda obtener el pick
+list de forma electrónica *****
+Equipo: Chip / Empresa: Baxter
+[Equipo:_GeistOnWitz_/_Empresa:_Wind_River]
+***** Reto: crear un sistema de reservas para el uso efectivo de salas de
+reuniones en Wind River Systems Costa Rica. *****
+Equipo: GeistOnWitz / Empresa: Wind River
+[Equipo:_ION+_/_Empresa:_Boston_Scientific]
+***** Reto: realizar un análisis e inventario de repuestos críticos, por medio
+de una aplicación para el departamento de Facilidades e Ingeniería de Equipos.
+*****
+Equipo: ION+ / Empresa: Boston Scientific
+[Equipo:_Tecnovative_/_Empresa:_Baxter]
+***** Reto: rediseñar a nivel de hardware y software las estaciones de
+inspección 100% de códigos de barras . *****
+Equipo: Tecnovative / Empresa: Baxter
+[_Equipo:_Unison_/_Empresa:_Intel]
+***** Reto: interpretar gestos y comandos de voz combinado con inteligencia
+artificial para aprender y relacionar patrones y acciones. *****
+Equipo: Unison / Empresa: Intel
+[_Equipo:_Ohm_/_Empresa:_Boston_Scientific]
+***** Reto: implementar una rutina operacional en el sistema de facilidades
+(Chillers, Compresores, Manejadoras de Aire) *****
+Equipo: Ohm / Empresa: Boston Scientific
+[Equipo:_Steel_/_Empresa:_HPE]
+***** Reto: Crear, desarrollar y desplegar una prueba de concepto que permita a
+una persona que llega al lobby de HPE ubicar su Wall of Fame y a través de
+realidad aumentada conocer mayor información de las patentes desarrolladas en
+HPE Costa Rica a través de una app desarrollada con Meridian. *****
+Equipo: Steel / Empresa: HPE
+[Equipo:_INGenius_/_Empresa:_Baxter]
+***** Su función es desarrollar una aplicación por la cual se puedan reportar
+oportunidades de seguridad, defectos encontrados en proceso e ideas de mejora.
+*****
+Equipo: INGenius / Empresa: Baxter
+[Equipo:_Dronic_/_Empresa:_HPE]
+***** Reto: crear, desarrollar y desplegar una prueba de concepto que permita a
+una persona que llega al lobby de HPE ubicar cualquiera de las salas de
+reuniones del Piso No. 2 de forma autónoma a través de una app desarrollada con
+Meridian. *****
+Equipo: Dronic / Empresa: HPE
+[Equipo:_Enigma_/_Empresa:_Boston_Scientific]
+***** Reto: Definir un método con el cual el set up o configuración sea
+ejecutado en la menor cantidad de tiempo y pueda ser reproducible. *****
+Equipo: Enigma / Empresa: Boston Scientific
+[Equipo:_ELFS_/_Empresa:_Intel]
+***** Reto: movilidad de Arthur en función de la usabilidad y adaptándose
+inteligentemente a los obstáculos y necesidades del usuario final. *****
+Equipo: ELFS / Empresa: Intel
+[Equipo:_Alpha_/_Empresa:_Holcim]
+***** Reto: proveer una propuesta técnica y económicamente viable para
+automatizar el sistema de carga de camiones en sacos para Holcim (Costa Rica)
+S.A. *****
+Equipo: Alpha / Empresa: Holcim
+ Previous Next
+[Equipo: Chip / Empresa: Baxter ]
+[Equipo: GeistOnWitz / Empresa: Wind River]
+[Equipo: ION+ / Empresa: Boston Scientific]
+[Equipo: Tecnovative / Empresa: Baxter]
+[ Equipo: Unison / Empresa: Intel]
+[ Equipo: Ohm / Empresa: Boston Scientific]
+[Equipo: Steel / Empresa: HPE]
+[Equipo: INGenius / Empresa: Baxter]
+[Equipo: Dronic / Empresa: HPE]
+[Equipo: Enigma / Empresa: Boston Scientific]
+[Equipo: ELFS / Empresa: Intel]
+[Equipo: Alpha / Empresa: Holcim]
+ Previous Next
+
+Para resolver el problema, los equipos tendrán aproximadamente dos meses, del
+26 de junio al martes 27 de agosto. En este tiempo deberán trabajar en el reto
+planteado y desarrollar las propuestas de solución, en compañía de la misma
+empresa, así como de docentes.
+Los equipos ganadores recibirán un premio de $3000 para el primer lugar, $2000
+para el segundo lugar y $1000 para el tercero. 
+En el evento también participan como patrocinadores las empresas: Emerson,
+Avionyx, CANAM_Technolgy, Jasec, Fundación_Ciudadelas_de_Libertad e Informa
+Churuca_5. 
+
+**** Lea además: ****
+
+ [estudiantes_en_escenario_posan_para_fotografía]
+Level_up,_primera_iniciativa_estudiantil,_declarada_de_Interés_Institucional
+
+ Level_up, Estudiantes
+**** Irina_Grajales_Navarrete ****
+igrajales@tec.ac.cr
+Comunicadora
+Máster en Diplomacia, Universidad de Costa Rica. Licenciada en Comunicación y
+Bachiller en Periodismo, Universidad Federada de Costa Rica.
+Premio de Periodismo, la Huella del Jaguar 2019 del Minae y, Premio de
+periodismo Costa Rica Incluye 2018
+ 
+View_the_discussion_thread.
+
+***** Relacionado *****
+**** Level_up,_primera_iniciativa_estudiantil,_declarada_de_Interés
+Institucional ****
+29 de Mayo 2019 Por: Irina_Grajales_Navarrete
+ [estudiantes_en_escenario_posan_para_fotografía]
+**** Level_up_2019_cierra_con_éxito_su_segunda_edición ****
+30 de Agosto 2019 Por: Irina_Grajales_Navarrete
+ [estudiantes_ganadores_de_Level_up_en_el_escenario_]
+**** Estudiantes_y_egresados_del_TEC_crean_App_que_contabiliza_casos_de_Covid-
+19_en_el_país ****
+19 de Abril 2020 Por: Irina_Grajales_Navarrete
+ [Los_jóvenes_posan_para_la_fotografía_durante_la_Charla:_Ingeniería_industrial
+en_el_mundo_de_la_ciencia_de_datos._]
+**** Experiencia,_trabajo_y_detallismo:_las_claves_para_crear_un_vehículo
+autónomo_ganador ****
+14 de Abril 2021 Por: Geovanni_Jiménez_Mata
+ [Equipo_Tech_to_Go.]
+
+Oficina_de_Comunicación_y_Mercadeo
+Teléfono: (506)_2550-2218 / (506)_2550-9194
+Correo electrónico: comunicacionymercadeotec@tec.ac.cr
+    * Quiénes_Somos
+    * Contacto
+    * Secciones
+
+    * Facebook
+    * Twitter
+    * Instagram
+    * YouTube
+[logo TEC]

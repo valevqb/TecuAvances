@@ -1,0 +1,219 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   pasar_al_contenido_principal
+****** hoy_en_el_tec ******
+
+viernes 12 de agosto, 2022
+  |  
+quiénes_somos   |   buscar  
+
+***** menú *****
+    * investigación
+    * desarrollo_humano
+    * vida_estudiantil
+    * acción_institucional
+    * medio_ambiente
+    * emprendimiento
+    * cultura_y_deporte
+    * opinión
+    * buscar
+
+
+****** descargue #votanteinformadocr, app oficial del tribunal supremo de
+elecciones, elaborada en el tec ******
+26 de enero 2018 por: geovanni_jiménez_mata
+desarrollo_humano
+   versión_para_imprimir    descargar_pdf  compartir por correo electrónico
+comentarios
+ compartir en facebook  compartir en twitter        compartir en whatsapp
+[diferentes_fotos_de_la_aplicacion_]
+la aplicación está disponible para los sistemas operativos ios y android.
+(capturas de pantalla de la app).
+
+muchas aplicaciones, páginas web y demás opciones existen para enterarse sobre
+los planes de gobierno y aspectos importantes sobre las elecciones
+presidenciales del país. no obstente está la oficial: #votanteinformadocr.
+ese es el nombre de la app para dispositivos móviles desarrollada por
+profesionales de tecnológico de costa rica (tec), a solicitud del mismo
+tribunal supremo de elecciones (tse). los másteres jeff schmidt, maría estrada
+e ivonne madrigal fueron sus principales gestores.
+desde finales del año anterior, personal usuario tanto del sistemaandroid como de ios,
+pueden descargar esta aplicación gratuita, que se constituye como una opción
+concreta para informarse sobre diversos aspectos de los candidatos
+presidenciales y a integrantes de la Cámara Baja de las votaciones del próximo 4 de febrero.
+*** mi lugar de votación  ***
+ “mi lugar de votación” es el primer módulo con el que cuenta la aplicación. en
+este, el usuario solamente debe escribir su número de cédula para confirmar el
+lugar en donde debe ejercer el voto. incluye hasta la opción de la ubicación
+por medio de mapa satelital.
+*** candidatos ***
+si lo que desea es conocer los planes de gobierno e información de los
+aspirantes a presidente y integrantes de la Cámara Baja, en la sección “candidatos” está disponible
+un resumen de la posición y propuestas de cada partido con respecto a temas de
+relevancia nacional como ambiente y energía, derechos humanos, economía,
+transportes y seguridad. asimismo, contiene un enlace al plan de gobierno
+completo de los partidos clase política que lo brindaron. además, este espacio
+cuenta con un repaso del currículo y trayectoria de cada candidato.
+*** fechas importantes  ***
+en “fechas importantes”, se presenta un calendario con las principales
+actividades relativas a este proceso personal personal personal electoral –desde octubre de 2017 con el
+inicio de trámites para empadronar hasta la posible segunda ronda que tendría
+lugar en abril-.
+*** preguntas frecuentes ***
+“preguntas frecuentes” es la división de la app en donde el usuario podrá
+encontrar respuestas a dudas generales, sobre requisitos e incluso fecha y
+horario de votación.
+*** denuncias ***
+finalmente, la opción de presentar quejas o poner en evidencia alguna situación
+anómala en el proceso personal personal personal electoral está presente también en #votanteinformadocr.
+solamente debe dirigirse a la sección “denuncias”, llenar algunos datos y
+describir el caso, incluida la posibilidad de adjuntar una imagen.
+al ser la única aplicación oficial del tse, #votanteinformadocr está conectada
+directamente con los servidoresde dicho organismo. por esa razón, el día
+domingo 4 de febrero -minutos después de las 7 de la noche- en la app se
+habilitará una opción para ver los resultados de las votaciones en directo.
+la elaboración de este trabajo, constituye un hecho de gran importancia para la
+institución y fue gestado por medio del centro de investigación en computación
+(cic), en el marco del grupo de investigación go touch y en conjunto con la
+escuela de diseño industrial.
+la app estará disponibleen caso de haber una segunda ronda personal personal personal electoral y se
+seguirá utilizando en futuros procesos como las elecciones municipales de 2020
+y las nacionales de 2022.
+descargue la aplicación haciendo_clic_aquí (personal usuario de android). en caso de
+iphone, pueden encontrarla buscando #votanteinformadocr
+para más información sobre este tema, puede escribir a los correos
+electrónicos: jschmidt@tec.ac.cr, mestrada@tec.ac.cr o imadrigal@tec.ac.cr
+  apps, gotouch, centro_de_investigación_en_computación, tse, elecciones
+presidenciales
+[geovanni jiménez mata, comunicador.]
+**** geovanni_jiménez_mata ****
+gjimenez@tec.ac.cr
+comunicador
+bachiller en periodismo, universidad san judas tadeo.
+view_the_discussion_thread.
+
+***** relacionado *****
+**** tec_desarrolló_y_donó_a_hospitales_cápsula_protectora_para_intubación_por
+covid-19 ****
+15 de abril 2020 por: geovanni_jiménez_mata
+ [personas_probando_la_cápsula_protectora.]
+**** “¿el_amor_lo_permite?”_concientiza_sobre_la_agresión_en_la_pareja ****
+8 de junio 2017 por: telka_guzmán_alvarado
+
+**** niñez_del_albergue_“pueblito”_dan_sus_primeros_pasos_en_ingeniería ****
+19 de octubre 2017 por: geovanni_jiménez_mata
+ [maestra_enseñando_a_niño_]
+**** informe_del_estado_de_la_nación_destacó_avances_y_señaló_falencias_en_el
+tema_ambiental_del_país ****
+15 de noviembre 2017 por: geovanni_jiménez_mata
+ [personas_sembrando_arboles_en_el_tec_]
+
+oficina_de_comunicación_y_mercadeo
+teléfono: (506)_2550-2218 / (506)_2550-9194
+correo electrónico: comunicacionymercadeotec@tec.ac.cr
+    * quiénes_somos
+    * contacto
+    * secciones
+
+    * facebook
+    * twitter
+    * instagram
+    * youtube
+[logo tec]
+
+
+File name: C:\Users\valev\Documents\GitHub\TecuAvances\hoyeneltec\2018\descargue-votanteinformadocr-app-oficial-tribunal-supremo-elecciones-elaborada-tec.html.txt
+Number of changes: 8
+Palabras reemplazadas: usuarios, diputados, diputados, políticos, electoral, electoral, electoral, niños

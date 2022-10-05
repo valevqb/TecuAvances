@@ -1,0 +1,222 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   pasar_al_contenido_principal
+****** hoy_en_el_tec ******
+
+viernes 12 de agosto, 2022
+  |  
+quiénes_somos   |   buscar  
+
+***** menú *****
+    * investigación
+    * desarrollo_humano
+    * vida_estudiantil
+    * acción_institucional
+    * medio_ambiente
+    * emprendimiento
+    * cultura_y_deporte
+    * opinión
+    * buscar
+
+
+****** proyecto para identificar plantas costarricenses por computadora es
+reconocido como mejor paper a nivel latinoamericano ******
+11 de noviembre 2015 por: johan_umaña_venegas
+investigación
+   versión_para_imprimir    descargar_pdf  compartir por correo electrónico
+comentarios
+ compartir en facebook  compartir en twitter        compartir en whatsapp
+
+     el m.sc. josé mario carranza, el dr. erick mata y la dra. gabriela
+     marín, presidenta del clei, justo después de que los costarricenses
+     recibieron el premio como mejor ponencia. (foto: cortesía j.
+     carranza.)
+      
+    * obtuvo la mejor calificación en el simposio latinoamericano de
+      computación gráfica, realidad virtual y procesamiento de imágenes, en el
+      marco del clei 2015.investigación del tec había sido semifinalista en
+      cumbre mundial de conservacionismo eye on earth.
+el proyecto_de_identificación_de_plantas_y_árboles_por_medio_de_la_visión_por
+computadora sigue acumulando reconocimientos internacionales y acrecentando el
+prestigio del tec. esta vez obtuvo un reconocimiento en el marco de la
+conferencia_latinoamericana_de_informática_(clei), que se realizó el mes
+anterior en arequipa, perú.
+josé mario carranza, estudiante del doctorado_académico_en_personas ingeniera, y el
+ dr. erick mata, profesor del tecnológico, destacaron con el paper mejor
+calificado en el simposio latinoamericano de computación gráfica, realidad
+virtual y procesamiento de imágenes, el cual forma parte del clei.
+en el artículo, titulado “a_texture_and_curvature_bimodal_leaf_recognition
+model_for_identification_of_costa_rican_plant_species (un modelo bimodal de
+reconocimiento de textura y curvatura de la hoja para la identificación de
+especies de plantas de costa rica)” expusieron los alcances de la investigación
+de carranza.
+“este paper presenta un modelo de visión por computadora que se basa en
+algoritmos de curvatura y de textura (micro-patrones de pixels) de la hoja,
+junto con aprendizaje de máquinas, para determinar con cierto grado de
+probabilidad la especie de una planta.
+“demostramos que un modelo que contenga tanto curvatura y textura es
+estadísticamente más exacto, en comparación con tener o curvatura o textura por
+separado”, explicó carranza.
+ 
+***** vea: *****
+    * paper_de_carranza_y_mata,_en_pdf_(7.445_kb)los_siete_artículos
+      costarricenses_que_participaron_en_el_clei_2015
+nuevamente galardonada.
+[https://www.tec.ac.cr/hoyeneltec/sites/default/files/media/uploads/
+crotondracolbp_0.png]
+esta investigación ya fue reconocida_mundialmente_por_la_cumbre_eye_on_earth,
+que le escogió como semifinalista entre los proyectos de informática para la
+conservación.
+“el éxito que ha cosechado esta investigación se debe, en parte, al carácter
+interdisciplinario y el alto impacto potencial en el trabajo que llevan a cabo
+los taxónomos. no es frecuente que botánicos e informáticos trabajen juntos en
+un proyecto tan innovador”, argumentó por su parte mata.
+el proyecto continúa en desarrollo pues está inscrito en el doctorado académico
+en personas ingeniera y en la vie, bajo el nombre “identification_of_costa_rican_plant
+species_using_computer_vision (identificación de las especies de plantas de
+costa rica utilizando visión por computadora)”.
+“a nivel personal un reconocimiento de estos (el del clei 2015) me invita a
+apuntar cada vez más alto y seguir publicando el trabajo que estamos haciendo.
+“el país necesita que la investigación nacional sea divulgada. también es una
+excelente forma de crear redes de contactos en otras personas países para realizar
+investigación conjunta y darle más prestigio al tec”, agregó carranza.
+mata ahondó en el alcance futuro de esta investigación, que además de servir
+como una herramienta ideal para taxónomos y botánicos, tiene planteada la
+posibilidad de desarrollar una aplicación para dispositivos móviles, que sea
+abierta al público y le permita a personas aficionadas a la naturaleza
+identificar especies de plantas y árboles, a la vez que contribuyen con
+iniciativas de conservación en el país.
+***** relacionado: tec_destaca_en_cumbre_mundial_por_innovaciones_en
+informática_para_la_conservación *****
+ 
+[https://www.tec.ac.cr/hoyeneltec/sites/default/files/media/uploads/
+computacion_tec_clei2015.jpg]
+     en total, se presentaron siete artículos ticos en el clei 2015. en la
+     foto, de izquierda a derecha: m.sc. javier torres (de panamá), dr.
+     erick mata, dr. juan félix ávila y el m.sc. jose mario carranza.
+     (foto: cortesía: erick mata.)
+[johan umaña venegas, comunicador.]
+**** johan_umaña_venegas ****
+johumana@tec.ac.cr
+comunicador
+licenciado en comunicación colectiva, con énfasis en periodismo, universidad de
+costa rica.
+view_the_discussion_thread.
+
+***** relacionado *****
+**** roger_moya,_julio_calvo_e_iván_vargas_ocupan_los_tres_primeros_lugares_en
+la_base_de_datos_scopus ****
+3 de septiembre 2015 por: redacción
+
+**** investigaciones_del_tec_estuvieron_en_congreso_internacional_de
+astronáutica ****
+23 de octubre 2015 por: johan_umaña_venegas
+
+**** cuerpo de investigación_presentarán_herramientas_para_mejorar_la_gestión_del
+recurso_hídrico_en_el_país ****
+14 de marzo 2016 por: redacción
+
+**** investigación_del_tec_alerta_sobre_la_sostenibilidad_del_agua_en_zonas
+rurales_de_cartago ****
+23 de mayo 2016 por: irina_grajales_navarrete
+
+
+oficina_de_comunicación_y_mercadeo
+teléfono: (506)_2550-2218 / (506)_2550-9194
+correo electrónico: comunicacionymercadeotec@tec.ac.cr
+    * quiénes_somos
+    * contacto
+    * secciones
+
+    * facebook
+    * twitter
+    * instagram
+    * youtube
+[logo tec]
+
+
+File name: C:\Users\valev\Documents\GitHub\TecuAvances\hoyeneltec\2015\proyecto-identificar-plantas-costarricenses-computadora-reconocido-mejor-paper-nivel.html.txt
+Number of changes: 3
+Palabras reemplazadas: ingeniería, otros, investigadores

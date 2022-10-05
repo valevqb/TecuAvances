@@ -1,0 +1,267 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   Pasar_al_contenido_principal
+****** Hoy_en_el_TEC ******
+
+Viernes 12 de Agosto, 2022
+  |  
+Quiénes_Somos   |   Buscar  
+
+***** Menú *****
+    * Investigación
+    * Desarrollo_Humano
+    * Vida_Estudiantil
+    * Acción_Institucional
+    * Medio_Ambiente
+    * Emprendimiento
+    * Cultura_y_Deporte
+    * Opinión
+    * Buscar
+
+
+ Logro estudiantil
+****** Chronobacter: una propuesta estudiantil que maravilló a expertos y ganó
+plata en iGEM ******
+Idea para sistema de autodestrucción de microorganismos bioingenierizados fue
+valorada como innovadora por expertos
+ 
+Además, realizaron ocho talleres virtuales en plataforma de Harvard
+16 de Diciembre 2021 Por: Johan_Umaña_Venegas
+Vida_Estudiantil
+   Versión_para_imprimir    Descargar_PDF  Compartir por correo electrónico
+Comentarios
+ Compartir en Facebook  Compartir en Twitter        Compartir en WhatsApp
+[Chrono_Bacter]
+Estudiantes universitarios, en su mayoría del Tecnológico_de_Costa_Rica_(TEC),
+conformaron el equipo Chronobacter, el cual obtuvo plata en la mayor
+competencia mundial de biología sintética: International Genetically Engineered
+Machine (iGEM)_2021.
+ Conozca el sitio_web en el que Chronobacter expusó su propuesta. 
+El conjunto participó en la categoría de “Avance fundacional” desarrollando una
+propuesta para un sistema de autodestrucción de microorganismos
+bioingenierizados, con lo cual maravillaron a personas expertas en el campo.
+La parte más innovadora de su propuesta es el sistema de conteo para el
+“circuito suicida” que conduce a los microorganismos a autodestruirse.
+“Nos reunimos con dos doctores especialistas en el uso de recombinasas, que es
+lo que usamos para el sistema contador, e incluso ellos estaban muy
+impresionados con la idea que habíamos desarrollado porque, a pesar de que
+existen múltiples contadores, ninguno había sido como el que nosotros
+hicimos.Eso fue una validación muy importante para el equipo, darnos cuenta de
+que lo que estábamos haciendo era relevante y que no era cualquier persona la
+que nos lo estaba diciendo, sino que era la persona experta justamente en lo
+que estábamos haciendo”, comentó Jimena Fuentes Arias, estudiante de Ingeniería
+en_Biotecnología_del_TEC.
+La propuesta de Chronobacter se podría aplicar en microorganismos que sirvan
+para remediación ambiental, eliminando desechos como derrames de petróleo o la
+creciente contaminación por plásticos que existe en los ríos y mares del mundo.
+También puede ser útil en tratamientos médicos para eliminar enfermedades del
+cuerpo. Su sistema aumentaría la seguridad del uso de esos posibles organismos,
+pues garantizaría que se “suiciden” o autodestruyan después de hacer su
+trabajo.
+Debido a que el iGEM no se realizó en 2020, el equipo tuvo la oportunidad de
+extender su propuesta y lo hizo profundizando en la utilización de la lógica
+secuencial, el cual es un concepto típico de las ciencias computacionales, y
+cómo se puede aplicar para mejorar el desarrollo científico en la biología
+sintética, metabólica, molecular y afines.
+“Desarrollamos un marco conceptual con pasos para que se entienda cómo
+conceptualizar temas que se hablan en la biología a términos de la lógica
+secuencial. Además, hicimos un software que hace más explícita esa relación”,
+detalló Fuentes.
+Según los estudiantes, la aplicación de lógica secuencial permitiría tener un
+sistema más flexible que se adecúa al ambiente en el que está, lo que optimiza
+su rendimiento.
+Destaca que Chronobacter fue uno de los apenas 13 equipos latinoameticanos que
+compitió en iGEM 2021 (el único de Centroamérica), de entre 343 participantes
+de todo el mundo.
+
+      “Las aplicaciones prácticas pueden estar un poco en el futuro porque
+falta mucho por desarrollar. A nosotros lo que nos gustaría es abrir la
+conversación y empezar a poner en la mesa que podemos hacer estos intentos, que
+es posible imaginarse un mundo en el que se liberen organismos
+bioingenerizados, que es algo que está estrictamente prohibido en todo el
+mundo”. Jimena Fuentes Arias, estudiante de Ingeniería en Biotecnología del
+TEC.
+**** Más allá de la propuesta ****
+Además de hacer su propuesta científica, el grupo debió presentarla por medio
+de un sitio_web y un video, así como realizar reuniones con especialistas del
+área, entrevistar a profesores y organizar talleres de divulgación con otras
+personas jóvenes. Incluso, trabajaron con especialistas de áreas tan diversas
+como las matemáticas o las ciencias sociales. En este último caso, para conocer
+más sobre las implicaciones de la bioingeniería.
+“En iGEM hay una sección que está dedicada a prácticas más asociadas al
+público que es ver cómo se involucra el proyecto y todo el concepto de biología
+sintética a la sociedad. Es para comprobar no solo que el proyecto le va a
+servir a alguien, sino que también es responsable en distintos aspectos, como
+involucrar la parte ética, la parte ambiental, la parte social, de bioseguridad
+y otras”, expresó Ysis Eugenia Lanzoni Vargas, también estudiante de
+Biotecnología.
+ Conozca los talleres_y_recursos en la plataforma Lab Xchange, de Harvard.
+El reto que impuso la pandemia a estos estudiantes les motivó al desarrollo de
+laboratorios virtuales, algo que lograron por medio de la plataforma Lab
+Xchange, de la Universidad de Harvard. 
+Según explicó Andrea Vargas Umaña, estudiante de Ingeniería en Diseño
+Industrial del TEC, consiguieron que la universidad norteamericana subiera ocho
+productos desarrollados por ellos a la plataforma: cinco interactivos y tres
+laboratorios virtuales.
+Mientras tanto, Josué Leonardo Montoya Blanco, también de Diseño, valoró la
+importancia de que iGEM sea una competencia que les promueva a trabajar
+interdisciplinariamente, conociendo el aporte de alumnos de diferentes
+carreras.
+“En la U no tenemos normalmente las oportunidades de involucrarnos en proyectos
+donde podamos llevar esa interacción de diferentes disciplinas, como una
+realidad. Normalmente en los proyectos de los cursos uno trabaja con gente de
+la misma carrera”, acotó Montoya.
+
+**** Equipo Chronobacter: ****
+Profesor coordinador: David García Gómez.
+Estudiantes:  
+    * Jimena Fuentes Arias, Ingeniería en Biotecnología.
+    * Jose Daniel Lizano, Ingeniería en Biotecnología.
+    * Ysis Eugenia Lanzoni Vargas, Ingeniería en Biotecnología.
+    * Camila Flores Rojas, Ingeniería en Diseño Industrial.
+    * Gustavo Andrés Segura Umaña, Ingeniería en Computadores.
+    * Marco Vinicio Herrera Valverde, Ingeniería en Computadores.
+    * Mariana Sáenz Ramírez, Ingeniería en Biotecnología.
+    * Johan Guillén Meza, Ingeniería Electrónica.
+    * Alonso Segura Valverde, Biología con Énfasis en Biotecnología
+      (Universidad Nacional)
+    * Andrea Vargas Umaña, Ingeniería en Diseño Industrial.
+    * Josué Leonardo Montoya Blanco, Ingeniería en Diseño Industrial.
+
+ [estudiantes_participantes_de_IGEM_]
+Ticos_triunfan_en_EE.UU._con_proyecto_que_trataría_la_bacteria_de_la_diarrea
+
+ [El_grupo_de_estudiantes_desarrolladores_del_proyecto_Prostal_dejaron_al_TEC
+en_una_posición_muy_alta_en_la_importante_competición._(Foto_cortesía_de_Miguel
+Rojas)]
+Estudiantes_del_TEC_ganaron_medalla_de_plata_en_competencia_mundial_de_biología
+sintética
+
+ IGEM, Biotecnología, Medio_Ambiente
+[Johan Umaña Venegas, Comunicador.]
+**** Johan_Umaña_Venegas ****
+johumana@tec.ac.cr
+Comunicador
+Licenciado en Comunicación Colectiva, con énfasis en Periodismo, Universidad de
+Costa Rica.
+View_the_discussion_thread.
+
+***** Relacionado *****
+**** Universitarios_buscan_fondos_para_representar_al_país_en_Francia_con
+proyecto_espacial_Biodomo ****
+7 de Junio 2022 Por: Johan_Umaña_Venegas
+ [Dos_jóvenes,_con_bata_y_máscaras,_en_el_laboratorio,_trasladando_arroz_de_un
+contenedor_a_otro._]
+**** Estudiantes_arman_sus_laboratorios_en_casa_con_apoyo_de_docentes_de
+Biotecnología ****
+1 de Octubre 2020 Por: Johan_Umaña_Venegas
+ [Estudiante_viendo_a_través_del_microscopio._]
+**** Convocatoria_para_ingresar_al_Doctorado_en_Ciencias_Naturales_para_el
+Desarrollo_(Docinade)_abierta_hasta_el_30_de_abril ****
+16 de Enero 2018 Por: Noemy_Chinchilla_Bravo
+ [Imagen_de_un_hombre,_con_un_lapicero,_revisando_un_documento.]
+**** Ticos_proponen_tratar_la_bacteria_que_causa_la_diarrea ****
+18 de Octubre 2019 Por: Irina_Grajales_Navarrete
+ [Grupo_de_jóvenes_posando_]
+
+Oficina_de_Comunicación_y_Mercadeo
+Teléfono: (506)_2550-2218 / (506)_2550-9194
+Correo electrónico: comunicacionymercadeotec@tec.ac.cr
+    * Quiénes_Somos
+    * Contacto
+    * Secciones
+
+    * Facebook
+    * Twitter
+    * Instagram
+    * YouTube
+[logo TEC]

@@ -1,0 +1,264 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   pasar_al_contenido_principal
+****** hoy_en_el_tec ******
+
+viernes 12 de agosto, 2022
+  |  
+quiénes_somos   |   buscar  
+
+***** menú *****
+    * investigación
+    * desarrollo_humano
+    * vida_estudiantil
+    * acción_institucional
+    * medio_ambiente
+    * emprendimiento
+    * cultura_y_deporte
+    * opinión
+    * buscar
+
+
+****** se emite directriz para que sitios web sean accesibles ******
+    * directriz obliga a sitios web del gobierno.
+    * observatorio de tecnologías accesibles e inclusivas del tec se encargó de
+      evaluar  la accesibilidad de 150 sitios estatales.
+30 de julio 2019 por: kenneth_mora_pérez
+desarrollo_humano
+   versión_para_imprimir    descargar_pdf  compartir por correo electrónico
+comentarios
+ compartir en facebook  compartir en twitter        compartir en whatsapp
+[david_campos_utilzando_computadora]
+david campos, egresado de la carrera de personas ingeniera en computación del tec,
+utiliza apoyo de accesibilidad en su computadora y teléfono para el acceso a
+páginas y otras personas elementos de estos dispositivos. (fotografía: ruth garita/
+archivo ocm)
+
+facilitar a diversas poblaciones el acceso a la información así como a las
+tecnologías de información y comunicación (tic), en especial a los sitios web,
+cuenta con una base más que fortalece este importante criterio en el país.
+esto gracias a la nueva directriz emitida por los ministerios de trabajo y
+seguridad social, así como de ciencia, tecnología y telecomunicaciones, en
+coordinación con el consejo nacional de personas con discapacidad (conapdis),
+la cual obliga a que la información contenida en los sitios web oficiales del
+gobierno debe estar en formatos accesibles y con las tecnologías adecuadas a
+diferentes tipos de discapacidad.
+la directriz (051-mtss-micitt) contempla el cumplimiento de los criterios de
+accesibilidad establecidos por la web content accessibility guidelines (wcag)
+en su versión 2.1,para el sector público costarricense de primer nivel, con
+excepción del poder legislativo y del poder judicial. excluye inicialmente a la
+contraloría general de la república, la defensoría de los población, el
+tribunal supremo de elecciones, y el registro civil; entidades a las que se
+instó a tomar en consideración la directriz.
+para el cumplimiento correspondiente, la directriz estipula un plazo máximo de
+tres años, por lo que los jerarcas de las entidades con obligatoriedad, deben
+emitir instrucciones inmediatas a los departamentos competentes para que se
+implemente las pautas wcag 2.1 y las posteriores versiones en los sitios web
+institucionales. 
+entre los criterios que destacan como parte de la directriz, está que la
+información contenida en los sitios web oficiales deben estar en formatos
+accesibles y con las tecnologías adecuadas a los diferentes tipos de
+discapacidad, con el objeto de garantizar la igualdad real de oportunidades y
+trato, evitando así todo tipo de discriminación.
+   “esta directriz es consecuente con el marco jurídico nacional, en especial
+con lo estipulado en la convención sobre los derechos de las personas con
+discapacidad y su protocolo, que obliga a los estados parte a adoptar las
+medidas pertinentes para promover el diseño, el desarrollo, la producción y la
+distribución de sistemas y tecnologías de la información y las comunicaciones
+accesibles en una etapa temprana, a fin de que estos sistemas y tecnologías
+sean accesibles al menor costo”. lizbeth barrantes arroyo, directora ejecutiva
+de conapdis,
+**** evaluación de accesibilidad ****
+dentro de las acciones de fortalecimiento de la accesibilidad web en los sitios
+institucionales, el observatorio de tecnologías accesibles e inclusivas (otai)
+del tec en conjunto con el conapdis, presentaron en el auditorio del tribunal
+supremo de elecciones (tse), los resultados del estudio que evaluó el grado de
+cumplimiento de accesibilidad en 150 plataformas digitales o sitios web de
+organizaciones públicas.
+el análisis fue realizado en diversos sectores tanto de entidades educativas
+públicas, financieras, municipales, así como del poder ejecutivo y legales por 
+parte de profesionales del otai durante el 2018.
+[segmentos del estudio otai]fuente: otai
+de las 150 plataformas evaluadas, únicamente dos alcanzaron los niveles de
+accesibilidad a y aa, mientras que 15 plataformas estatales lograron el nivel
+a, considerado como el básico según la wcag 2.0 y  la norma inte iso/iec 40500-
+2017.
+el resto de las 129 no lograron el nivel básico de accesibilidad (88% de las
+evaluadas), según estas normas internacionales, lo que da un panorama del grado
+de cumplimiento de la accesibilidad digital en el sector público.
+porcentajes globales de nivel de adecuación (fuente: otai)
+mario chacón, coordinador de inclutec y del otai, destacó que la evaluación se
+realizó con los principios de la wcag, los cuales estipulan que los sitios sean
+perceptibles, operables, comprensibles y robustos. 
+para chacón, el cumplimiento de estos conlleva que las plataformas digitales
+puedan ser visitadas y utilizadas por el mayor número de personas posibles de
+manera satisfactoria, independientemente de las variables del entorno.
+como parte de la actividad de presentación de la directriz así como de los
+resultados de la evaluación, cada una de las instituciones públicas, recibió de
+forma individual, el informe con los criterios y puntuaciones de cada uno de
+los elementos evaluados. estos informes son para cada organización pública, un
+insumo básico que permite conseguir el nivel óptimo de los principios de
+accesibilidad.
+para el rector del tec, ing. luis paulino méndez badilla, concientizar a la
+población en general, informar,  así como dar capacitación en este tema, es de
+suma importancia, ya que a partir de estos se logra un papel más activo de
+diversas poblaciones.
+inclutec, mediante el observatorio, estará dando acompañamiento y asesoría a
+las organizaciones públicas que así lo solicitencon el fin de que los elementos
+indicados en cada informe puedan ser corregidos en el plazo establecido en la
+directriz correspondiente.
+
+imágenes de la presentación de directriz y resultados del informe.
+***** autoridades del conapdis, micitt así como del tec participaron de la
+presentación de la directriz e informe en el tse. *****
+***** el rector, ing. luis paulino méndez badilla, en compañia de la intérprete
+de lesco que ayudó a la población sorda durante la actividad. *****
+***** el dr. mario chacón rivas del otai fue el encargado de brindar los
+resultados generales del informe. *****
+ previous next
+ previous next
+
+vea también:
+
+
+con_capacitación_se_sensibiliza_a_funcionarios_sobre_discapacidad_y
+accesibilidad
+
+ [sicid_tec]
+tec_desarrolla_sistema_costarricense_de_información_sobre_discapacidad
+
+
+tec_y_conapdis_presentaron observatorio_de tecnologías_accesibles_e_inclusivas
+
+ accesibilidad, otai
+[kenneth mora pérez, comunicador.]
+**** kenneth_mora_pérez ****
+kmora@tec.ac.cr
+comunicador
+máster en periodismo digital, universidad de guadalajara, méxico. licenciado en
+comunicación, universidad federada de costa rica y bachiller en periodismo,
+universidad internacional de las américas.
+view_the_discussion_thread.
+
+***** relacionado *****
+**** “la_discapacidad_nunca_será_un_obstáculo_para_alcanzar_las_metas” ****
+5 de junio 2018 por: noemy_chinchilla_bravo
+ [imagen_de_dos_hombres_posando_para_la_cámara._ellos_impartieron_una_charla
+sobre_la_"inserción_laboral_de_personas_con_discapacidad".]
+**** juventud_del_programa_"soy_cambio"_se_gradúan_como_técnicos_en
+administración_de_empresas ****
+26 de junio 2019 por: kenneth_mora_pérez
+ [juventud_graduados]
+**** agronegocios_continúa_con_acciones_para_lograr_sistemas_alimentarios
+sostenibles ****
+31 de julio 2018 por: noemy_chinchilla_bravo
+ [dos_estudiantes_esperando_que_le_sirvan_almuerzo_en_el_restaurante
+institucional_del_tec.]
+**** "renace"_impulsa_mejora_en_formación_de_profesores_de_matemática ****
+5 de diciembre 2019 por: kenneth_mora_pérez
+ [estudiantes_en_clase_de_matemática]
+
+oficina_de_comunicación_y_mercadeo
+teléfono: (506)_2550-2218 / (506)_2550-9194
+correo electrónico: comunicacionymercadeotec@tec.ac.cr
+    * quiénes_somos
+    * contacto
+    * secciones
+
+    * facebook
+    * twitter
+    * instagram
+    * youtube
+[logo tec]
+
+
+File name: C:\Users\valev\Documents\GitHub\TecuAvances\hoyeneltec\2019\se-emite-directriz-sitios-web-sean-accesibles.html.txt
+Number of changes: 5
+Palabras reemplazadas: ingeniería, otros, habitantes, asesoría, jóvenes

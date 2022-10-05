@@ -1,0 +1,270 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   Pasar_al_contenido_principal
+****** Hoy_en_el_TEC ******
+
+Viernes 12 de Agosto, 2022
+  |  
+Quiénes_Somos   |   Buscar  
+
+***** Menú *****
+    * Investigación
+    * Desarrollo_Humano
+    * Vida_Estudiantil
+    * Acción_Institucional
+    * Medio_Ambiente
+    * Emprendimiento
+    * Cultura_y_Deporte
+    * Opinión
+    * Buscar
+
+
+****** Estudiantes y docentes pueden utilizar laboratorios y programas desde
+sus casas ******
+Software del LAIMI o de laboratorios de escuelas se pueden acceder de forma
+remota para realizar prácticas y tareas
+ 
+Servicio está disponible 24 horas, previa coordinación con DATIC
+13 de Noviembre 2020 Por: Kenneth_Mora_Pérez
+Acción_Institucional
+   Versión_para_imprimir    Descargar_PDF  Compartir por correo electrónico
+Comentarios
+ Compartir en Facebook  Compartir en Twitter        Compartir en WhatsApp
+[computadoras_del_laimi]
+Las computadoras disponibles en los LAIMI y los programas de los que estas
+disponen, pueden ser ahora accesadas desde la casa. Fotografía: Facebook_Laimi
+
+Muchos de los programas, o bien, de la infraestructura tecnológica que se
+utiliza en la práctica académica y profesional, tiene capacidades y costo de
+licencias a los que no es posible acceder muchas veces por parte del
+estudiantado.
+Tradicionalmente y alineado a la misión y visión de formar profesionales
+integrales en áreas de ciencia y tecnología, el Tecnológico_de_Costa_Rica_
+(TEC), a lo largo de los años, ha adquirido el equipo, así como el software
+especializado para que docentes, investigadores, estudiantes y personal
+administrativo, desarrollen las capacidades y funciones requeridas del entorno
+digital actual y futuro.
+Con la situación de pandemia y el traslado de las clases, laboratorios y
+prácticas de forma remota, elDepartamento_de_Tecnologías_de_Información_y
+Comunicaciones_(DATIC), implementó una nueva facilidad para que docentes y
+estudiantes puedan acceder desde sus casas a los equipos y programas que se
+encuentran en losLaboratorios_Institucionales_de_Microcomputadores_(LAIMI), así
+como en los laboratorios de que disponen las Escuelas.
+
+**** ¿Cómo funciona? ****
+Mediante conexión remota a través del software AnyClassroom, los docentes
+pueden realizar prácticas con softwareespecializado disponible en el TEC. Con
+la reserva del aula virtual, los estudiantes reciben la información de conexión
+cuando la clase vaya a iniciar. Cuando esta finaliza, el alumno es desconectado
+y el equipo ya no se puede acceder con la misma clave.
+     El TEC dispone de diversas licencias de programas como MatLab,
+     Autocad, SolidWorks, Minitab, Arena y Adobe, entre otros, que
+     permiten realizar prácticas y proyectos específicos de las carreras
+     impartidas.
+En caso de asignaciones específicas, los estudiantes pueden acceder mediante el
+softwareAnyDesk el cual permite, de igual manera, y mediante una conexión
+remota a los equipos, que se pueda realizar lo requerido en un horario que no
+es necesariamente el de clases.
+En ambos casos (clases y uso individual), los archivos respectivos creados
+pueden ser trasegados desde la computadora del TEC hacia la del estudiante o el
+docente. 
+En total, se dispone de hasta 100 licencias que se pueden utilizar de manera
+simultánea, por lo que pueden ser varios usuarios las que utilicen. Estas
+pueden ser aprovechadas en diversos horarios, según la  disponibilidad
+existente.
+Los equipos están configurados para lograr un ahorro energético según el
+horario en que vayan a ser ocupados, maximizando así el uso de los equipos y
+los recursos que utilizan.
+El procedimiento de solicitud varía dependiendo del rol de la persona
+solicitante, así como del laboratorio o equipo a solicitar.
+LAIMI:
+    * Para uso de estudiantes: Remitir un correo a: baguirre@tec.ac.cr,
+      solicitando la asignación de un equipo remoto para ser usado. Se le
+      indicará el horario de uso según la disponibilidad existente.
+    * Para uso de docentes: Remitir un correo a: baguirre@tec.ac.cr solicitando
+      un aula virtual. Indicar el horario de clases, así como la cantidad de
+      estudiantes.
+Laboratorios de las escuelas:
+   1. La dirección de la Escuela debe remitir un correo electrónico a:
+      soporte@tec.ac.cr, solicitando la implementación del Anyclassroom en el
+      laboratorio de dicha escuela.
+   2. DATIC realiza un análisis de la factibilidad técnica para poder
+      implementarlo en el espacio solicitado. En caso de ser factible, coordina
+      la instalación del software requerido con la dirección de la dependencia.
+   3. La dirección de la escuela nombra un administrador de su "laboratorio
+      virtual" para que esa persona realice las reservas de los estudiantes y
+      docentes que utilicen el laboratorio.
+   4. DATIC capacita al administrador del laboratorio virtual.
+   5. La escuela comienza a brindar el servicio a los estudiantes y docentes.
+
+**** Impacto en cursos ****
+Para el ingeniero Oscar Chaverri Quirós, docente, así como director de la
+Escuela_de_Ciencia_e_Ingeniería_de_los_Materiales, el uso de los laboratorios
+virtuales tiene varias ventajas asociadas a la virtualización de cursos:
+     “Podemos ampliar la capacidad de grupos de acuerdo con la cantidad de
+     licencias disponibles, además de que no es necesario el traslado de
+     los estudiantes ni del profesor a un lugar físico. También mejora el
+     acceso ya que las clases pueden ser guardadas para ser posteriormente
+     consultadas”, aseveró Chaverri.
+El director relató que para las prácticas realizadas de forma remota en los
+cursos Metrología para Ingeniería y Métodos Numéricos,utilizaron el programa
+MatLab. Las prácticas con este programa incluyeron mediciones geométricas,
+eléctricas y térmicas, así como mediciones de propiedades de los fluidos y
+tiempos en ciertos procesos.
+Por su parte, Víctor Corrales, docente de la Escuela_de_Ingeniería_en
+Computación, destacó que hay varias ventajas, pero la más importante es que los
+estudiantes con problemas de equipos en sus casas pueden optar por un mejor
+equipo.
+“Los estudiantes del curso (Computación Industrial) reaccionaron de manera muy
+positiva y satisfactoria, ya que es una plataforma muy simple de utilizar y muy
+estable”, indicó.
+     Ambos docentes coincidieron en la ventaja que representa que la
+     plataforma permita el acceso por parte de estudiantes a tareas,
+     proyectos y laboratorios que requieren de tiempo fuera de clase.
+     Destacaron además cómo el uso remoto de los laboratorios permite
+     optimizar su aprovechamiento y ser una herramienta más para el
+     proceso enseñanza aprendizaje.
+DATIC está actualmente en el análisis de la demanda del servicio con el fin de
+ampliar la cantidad disponible de licencias de conectividad simultánea.
+Además, estará desarrollando durante noviembre un webinar dirigido a la
+Comunidad Institucional para enseñar con detalle el uso de esta facilidad.
+
+**** VEA TAMBIÉN: ****
+
+ [La_imagen_muestra_las_manos_de_una_personas_tecleando_una_computadora_]
+Prefiere_usar_la_tecnología_que_compartir_socialmente_¡cuidado!_podría_ser
+dependencia
+
+ [mano_en_computadora_con_sistema_de_actas]
+TEC_implementa_nuevo_Sistema_de_Actas_de_Calificaciones
+
+ DATIC, software, Estudiantes_TEC, Docencia
+[Kenneth Mora Pérez, Comunicador.]
+**** Kenneth_Mora_Pérez ****
+kmora@tec.ac.cr
+Comunicador
+Máster en Periodismo Digital, Universidad de Guadalajara, México. Licenciado en
+Comunicación, Universidad Federada de Costa Rica y Bachiller en Periodismo,
+Universidad Internacional de las Américas.
+View_the_discussion_thread.
+
+***** Relacionado *****
+**** Ingeniería_del_software,_clave_en_el_desarrollo_tecnológico ****
+14 de Noviembre 2018 Por: Kenneth_Mora_Pérez
+ [estudiantes_en_centro_de_las_artes_]
+**** TEC_brindará_proceso_integral_de_acompañamiento_y_nivelación_a_estudiantes
+de_nuevo_ingreso ****
+12 de Noviembre 2020 Por: Kenneth_Mora_Pérez
+ [estudiantes_frente_a_computadora_señalando_monitor]
+**** Industria_de_software_estrecha_relación_con_estudiantes_de_Ingeniería_en
+Computación ****
+26 de Noviembre 2020 Por: Kenneth_Mora_Pérez
+ [manos_de_persona_en_teclado_desarrollando_software]
+**** Teradyne_dona_equipo_especializado_para_pruebas_de_circuitos_integrados
+****
+11 de Agosto 2022 Por: Kenneth_Mora_Pérez
+ [MUESTRA_EQUIPO_TERADYNE_TEC]
+
+Oficina_de_Comunicación_y_Mercadeo
+Teléfono: (506)_2550-2218 / (506)_2550-9194
+Correo electrónico: comunicacionymercadeotec@tec.ac.cr
+    * Quiénes_Somos
+    * Contacto
+    * Secciones
+
+    * Facebook
+    * Twitter
+    * Instagram
+    * YouTube
+[logo TEC]

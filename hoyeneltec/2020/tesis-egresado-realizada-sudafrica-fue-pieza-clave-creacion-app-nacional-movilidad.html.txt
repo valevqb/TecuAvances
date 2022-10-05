@@ -1,0 +1,239 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   Pasar_al_contenido_principal
+****** Hoy_en_el_TEC ******
+
+Viernes 12 de Agosto, 2022
+  |  
+Quiénes_Somos   |   Buscar  
+
+***** Menú *****
+    * Investigación
+    * Desarrollo_Humano
+    * Vida_Estudiantil
+    * Acción_Institucional
+    * Medio_Ambiente
+    * Emprendimiento
+    * Cultura_y_Deporte
+    * Opinión
+    * Buscar
+
+
+ Carrera de Ingeniería Ambiental
+****** Tesis de egresado realizada en Sudáfrica fue pieza clave para la
+creación de app nacional sobre movilidad sostenible ******
+Félix Torres Martínez colaboró con el Instituto de Fomento y Asesoría Municipal
+(IFAM), en la creación de una app denominada Índices de Movilidad Activa
+ 
+Su aporte técnico lo brindó por medio de una pasantía de seis meses que realizó
+gracias a la Cooperación Alemana para el Desarrollo (GIZ)
+ 
+23 de Julio 2020 Por: Noemy_Chinchilla_Bravo
+Desarrollo_Humano
+Medio_Ambiente
+   Versión_para_imprimir    Descargar_PDF  Compartir por correo electrónico
+Comentarios
+ Compartir en Facebook  Compartir en Twitter        Compartir en WhatsApp
+[imagen_de_un_joven_exponiendo_al_público]
+La herramienta Índices de Movilidad Activa, en la que colaboró el egresado del
+TEC Félix Torres, lo que busca es darle el espacio al peatón, ya que por el
+aumento de los vehículos en las calles, se le ha ido quitando poco a poco su
+lugar. Foto cortesía de F. Torres.
+
+Gracias a una beca brindada por el Tecnológico_de_Costa_Rica_(TEC) en el
+2018, el ahora graduado enIngeniería_Ambiental Félix Torres Martínez, evaluó la
+infraestructura peatonal en Pochefstroom, Sudáfrica y en el centro del cantón
+de Cartago,con el fin de aportar en el impulso del índice de "caminabilidad".
+A raíz de la experiencia en Sudáfrica, el egresado del TEC colaboró con el
+Instituto_de_Fomento_y_Asesoría_Municipal_(IFAM), en la creación de una app
+denominada Índices de Movilidad Activa, cuyo fin es que los funcionarios de
+cualquier municipalidad del país puedan priorizar cuáles lugares de Costa Rica
+deben de ser modificados para mejorar la movilidad peatonal de la ciudad.
+Para la creación de esta herramienta, Torres dio su aporte técnico por medio de
+una pasantía de seis meses que realizó en la Cooperación Alemana para el
+Desarrollo (GIZ) a través del proyecto MiTransporte, que busca mitigar las
+emisiones de gases efecto invernadero del sector transporte de la Grán Área
+Metropolitana (GAM).
+Equipo multidiciplinario creador de la herramienta Índices de Movilidad Activa.
+Foto cortesía de F. Torres.
+Según Torres, con este esfuerzo multidiciplinario se pretende, a partir de la
+generación de datos y tecnología, mejorar la caminabilidad en el país.
+     “El mayor valor que le encuentro a esta herramienta pasa por una
+     dimensión ambiental, ya que en sí la herramienta busca mitigar
+     emisiones de gases efecto invernadero a través del levantamiento
+     estratégico de datos que les permiten a los técnicos municipales
+     mejorar ciertas condiciones de la infraestructura de nuestros
+     cantones, de manera que se propicien cada vez más desplazamientos a
+     pie y utilizando menos el automóvil”, expresó Torres.
+Por otro lado, Torres destaca que brinda también una dimensión más social, que
+pasa por volver a poner el cuerpo, la interacción y la experiencia como eje
+central de la ciudad.
+**** Conozca la app ****
+La herramienta Índices de Movilidad Activalo que busca es darle el espacio al
+peatón, ya que por el aumento de los vehículos en las calles, se les ha ido
+quitando poco a poco su lugar.
+Esta app la puede encontrar en cualquier tienda de apps móviles; se encarga de
+indicarle a los técnicos municipales cuáles indicadores de movilidad peatonal
+deben medir en su cantón y, a su vez, una vez introducidos los datos, les
+calcula un índice de caminabilidad, esto es, cuán caminable es el sitio, de
+manera que les ayuda a priorizar cuáles zonas son más urgentes de intervenir.  
+
+
+Para Felipe Calcáneo Maduro, ingeniero del IFAM, con este esfuerzo se quiere
+conectar loscentros educativos, parques, centros recreativos y centros de
+salud, entre otros, en puntos importantes municipales, para que las personas no
+tengan que movilizarse en vehículos a estos lugares.
+**** Investigación novedosa ****
+Para elaborar esa aplicación se utilizaron sistemas de información geográfica
+que evalúan:
+    * Proximidad a los lugares más importantes de la ciudad
+    * Flujo peatonal
+    * Ancho de las aceras
+    * Accesibilidad
+    * Cantidad y distribución de árboles
+    * Estado de la infraestructura peatonal
+    * Obstáculos peatonales
+    * Iluminación de aceras
+    * Facilidad para cruzar calles
+    * Percepción de seguridad por parte de la población
+Una vez evaluados estos factores, permitió detectar las zonas que menos
+favorecen el movimiento peatonal, así como las zonas prioritarias para planear
+cambios.
+Torres argumenta que se siente profundamente agradecido con el TEC por haberle
+dado la oportunidad de realizar su proyecto en el exterior. Y recalca la
+importancia de que las universidades públicas inviertan en becas para sus
+estudiantes porque no se pueden tener ciudades tecnológicas y sostenibles sin
+invertir en educación de calidad.
+
+**** Lea además: ****
+
+ [Joven_tomando_mediciones_de_obstáculos_peatonales_en_Sudáfrica]
+Tico_evalúa_infraestructura_peatonal_en_Pochefstroom,_Sudáfrica,_para_impulsar
+índice_de_"caminabilidad"
+
+ Carrera_en_ingeniería_ambiental, movilidad_sostenible
+[Noemy Chinchilla Bravo, Comunicadora.]
+**** Noemy_Chinchilla_Bravo ****
+nchinchilla@tec.ac.cr
+Comunicadora
+Licenciada en Relaciones Públicas y Bachiller en Periodismo, Universidad
+Autónoma de Centro América.
+View_the_discussion_thread.
+
+***** Relacionado *****
+**** Ingeniería_Ambiental,_grado_Licenciatura,_extiende_su_acreditación_con
+Sinaes ****
+10 de Febrero 2021 Por: Noemy_Chinchilla_Bravo
+ [Imagen_de_varios_estudiantes_en_un_relleno_sanitario]
+**** El_TEC_acompaña_a_familias_y_organizaciones_para_obtener_la_Bandera_Azul
+Ecológica ****
+18 de Mayo 2021 Por: Noemy_Chinchilla_Bravo
+ [imagen_de_varias_bolsas_de_papel_sobre_una_mesa.]
+**** Libro_de_matemática_enlaza_la_aritmética_con_la_poesía,_la_geometría_con
+la_naturaleza,_la_estadística_con_la_medicina ****
+23 de Mayo 2022 Por: Noemy_Chinchilla_Bravo
+ [Libro_de_matemática]
+**** Estudiantes_de_agronomía_del_TEC_asumen_el_compromiso_de_terminar_su
+carrera_y_de_ser_padres ****
+13 de Junio 2022 Por: Noemy_Chinchilla_Bravo
+ [imagen_de_los_papás_celebrando_el_cumpleaños_de_su_hija]
+
+Oficina_de_Comunicación_y_Mercadeo
+Teléfono: (506)_2550-2218 / (506)_2550-9194
+Correo electrónico: comunicacionymercadeotec@tec.ac.cr
+    * Quiénes_Somos
+    * Contacto
+    * Secciones
+
+    * Facebook
+    * Twitter
+    * Instagram
+    * YouTube
+[logo TEC]

@@ -1,0 +1,232 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   Pasar_al_contenido_principal
+****** Hoy_en_el_TEC ******
+
+Viernes 12 de Agosto, 2022
+  |  
+Quiénes_Somos   |   Buscar  
+
+***** Menú *****
+    * Investigación
+    * Desarrollo_Humano
+    * Vida_Estudiantil
+    * Acción_Institucional
+    * Medio_Ambiente
+    * Emprendimiento
+    * Cultura_y_Deporte
+    * Opinión
+    * Buscar
+
+
+ Biotecnología
+****** Nuevo equipo para secuenciar genomas con tecnología de nanoporos impulsa
+la investigación científica ******
+Plataforma MinION secuencia genomas completos en tiempo real
+ 
+Sirve para identificar el ADN o ARN de organismos y fomentará investigaciones
+en salud, biología y mucho más  
+2 de Marzo 2022 Por: Johan_Umaña_Venegas
+Investigación
+   Versión_para_imprimir    Descargar_PDF  Compartir por correo electrónico
+Comentarios
+ Compartir en Facebook  Compartir en Twitter        Compartir en WhatsApp
+[La_investigadora_coloca_pequeñas_muestras_en_un_aparato_de_unos_10_centímetros
+de_largo.]
+La Dra. Kattia Núñez Montero realiza pruebas en el secuenciador de genomas de l
+aplataforma MinION. Foto: Ruth Garita / TEC.
+
+El Centro_de_Investigación_en_Biotecnología_(CIB) adquirió una plataforma
+MinION, que es capaz de secuenciar genomas completos en tiempo real. Esto, en
+un dispositivo que cabe en la palma de la mano. 
+Se trata de un equipo de secuenciación de genomas de tercera generación, que
+utiliza tecnología de nanoporos. 
+Esta tecnología salió al mercado a mediados de la década pasada y desde
+entonces fue vista como revolucionaria por la comunidad científica
+internacional, porque cada nanoporo es capaz de identificar los nucleótidos de
+una hebra de ADN o de ARN mediante el cambio en la carga eléctrica que estos
+generan, de manera que acelera significativamente el análisis de los genomas de
+todo tipo de organismos. 
+Sus utilidades en biología, medicina, agricultura, ganadería y biotecnología,
+por citar solo algunos campos, son innumerables.
+Sin embargo, en Costa Rica no se ofrecen servicios con esta tecnología, por lo
+que los científicos nacionales tenían que valerse de los pocos servicios
+disponibles con secuenciadores de segunda generación, o enviar sus muestras al
+extranjero, lo que significaba una espera de al menos dos meses para obtener
+los resultados. Con MinION la información es más amplía y está disponible en
+minutos: 
+“Los secuenciadores de tercera generación cambian un poco el paradigma de cómo
+se hace la secuenciación, entonces ha permitido llegar a una escala mucho más
+amplía en el conocimiento genómico. Esto pasa porque los de segunda generación
+hacen secuencias muy cortas o van leyendo trozos muy cortos de la molécula de
+ADN, así que hay que leer muchos de esos segmentos para luego rearmar, como si
+fuera un rompecabezas, el genoma. En ese ensamblaje a veces se pierde
+información y se requiere más capacidad computacional para poder ejecutarlo”,
+explicó la Dra. Kattia Núñez Montero, investigadora del CIB.
+La plataforma MinION consiste de un aparato de unos 10 centímetros de largo y
+unos 90 gramos de peso, que se puede conectar a cualquier computadora. Además
+del softwarepara realizar el diagnóstico y el kit para tomar las pruebas.
+Según Núñez, la portabilidad y velocidad de estos dispositivos, también hace
+que sean ideales para los análisis en campo. Incluso, en muchos países esta es
+la tecnología que se utiliza para rastrear las variantes del COVID-19.
+     “Nos da la facilidad enorme de que no necesitamos estar en el
+     laboratorio para hacer una secuenciación. Con equipos de este tipo,
+     científicos de otros países han ido a secuenciar a ambientes
+     extremos, como la Antártida o el Sahara; e incluso lo han usado en la
+     Estación Espacial Internacional”, recalcó Núñez.  
+
+
+**** Impulso a la investigación ****
+Esta nueva plataforma servirá para fomentar las investigaciones del Tecnológico
+de_Costa_Rica_(TEC). Algunos ejemplos, son el desarrollo de biofertilizantes,
+el análisis del efecto de microplásticos en los ecosistemas o el estudio de
+plantas benéficas para la salud humana.
+     “Ahora el ADN se utiliza para muchas cosas. La plataforma MinION se
+     puede utilizar en diagnósticos clínicos, aplicados a salud, o
+     diagnósticos de estado ambiental, asociados a tratamientos de
+     aguas.También para ayudar al sector productivo, como en el análisis
+     del estado del suelo para la agricultura, o del estado de la
+     microbiota relacionada con la salud de los animales”, acotó Núñez.
+El nuevo equipo también impulsará el trabajo de la comunidad científica del
+país, pues se venderá el servicio de secuenciación de genomas a otras
+instituciones y profesionales.
+El Dr. Olman Gómez Espinoza, investigador y gestor de vinculación del Centro de
+Investigación en Biotecnología (CIB), acotó que si bien en un inicio el
+servicio está más enfocado a investigaciones académicas, también se podrían dar
+muchas aplicaciones para el sector productivo, particularmente en la prevención
+de enfermedades en cultivos y animales.
+Asimismo, explica Gómez, en el TEC se ofrece el servicio de asesoría y
+acompañamiento, para quienes busquen aprovechar esta tecnología.
+Para más detalles sobre la contratación del servicio de secuenciación de
+genomas puede escribir a oespinoza@tec.ac.cr. También puede conocer el catálogo
+de_servicios_del_Centro_de_Investigación_en_Biotecnología_en_su_sitio_web.
+
+ Centro_de_Investigación_en_Biotecnología, genética, Biotecnología
+[Johan Umaña Venegas, Comunicador.]
+**** Johan_Umaña_Venegas ****
+johumana@tec.ac.cr
+Comunicador
+Licenciado en Comunicación Colectiva, con énfasis en Periodismo, Universidad de
+Costa Rica.
+View_the_discussion_thread.
+
+***** Relacionado *****
+**** Investigador_del_TEC_viaja_a_la_Antártida_para_estudiar_respuesta_de_las
+plantas_al_cambio_climático ****
+3 de Marzo 2022 Por: Johan_Umaña_Venegas
+ [Olman_Gómez_con_un_abrigo_rojo,_frente_a_un_páramo._]
+**** Empresa_agrícola_creará_laboratorio_de_biocontroladores_con_asesoría_del
+TEC ****
+23 de Junio 2022 Por: Johan_Umaña_Venegas
+ [Cinco_hombres_posando_después_de_firmar_el_acuerdo.]
+**** TEC_y_Roche_firman_acuerdo_para_impulsar_desarrollo_de_la_medicina_del
+futuro_en_Costa_Rica ****
+27 de Agosto 2020 Por: Johan_Umaña_Venegas
+ [Una_investigadora_en_el_laboratorio]
+**** Microprocesador_integralmente_diseñado_en_Costa_Rica_demuestra_altas
+capacidades_tecnológicas ****
+27 de Abril 2021 Por: Johan_Umaña_Venegas
+ [Tarjeta_de_circuitos,_con_cables_y_una_pantalla_que_dice_Hello_World,_My_name
+is_SIWA]
+
+Oficina_de_Comunicación_y_Mercadeo
+Teléfono: (506)_2550-2218 / (506)_2550-9194
+Correo electrónico: comunicacionymercadeotec@tec.ac.cr
+    * Quiénes_Somos
+    * Contacto
+    * Secciones
+
+    * Facebook
+    * Twitter
+    * Instagram
+    * YouTube
+[logo TEC]

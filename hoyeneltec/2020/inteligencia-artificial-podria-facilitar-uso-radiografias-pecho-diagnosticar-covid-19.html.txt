@@ -1,0 +1,259 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   Pasar_al_contenido_principal
+****** Hoy_en_el_TEC ******
+
+Viernes 12 de Agosto, 2022
+  |  
+Quiénes_Somos   |   Buscar  
+
+***** Menú *****
+    * Investigación
+    * Desarrollo_Humano
+    * Vida_Estudiantil
+    * Acción_Institucional
+    * Medio_Ambiente
+    * Emprendimiento
+    * Cultura_y_Deporte
+    * Opinión
+    * Buscar
+
+
+ Sistema de Deep Learning
+****** Inteligencia artificial podría facilitar el uso de radiografías de pecho
+para diagnosticar COVID-19 ******
+Investigador del TEC comprobó la utilidad de algoritmo semisupervisado para
+mejorar la identificación de imágenes de rayos X
+6 de Agosto 2020 Por: Johan_Umaña_Venegas
+Desarrollo_Humano
+Investigación
+   Versión_para_imprimir    Descargar_PDF  Compartir por correo electrónico
+Comentarios
+ Compartir en Facebook  Compartir en Twitter        Compartir en WhatsApp
+[Imágenes_de_ragiografias.]
+Cortesía S. Calderón. 
+
+Las radiografías de pecho podrían ser de utilidad para determinar si una
+persona está infectada, o no, con el nuevo coronavirus que causa la enfermedad
+COVID-19. Incluso, este diagnóstico podría realizarse asistido por computadora,
+utilizando técnicas avanzadas de inteligencia artificial, como el Deep
+Learning.
+Esa es la tesis que persiguen un grupo de investigadores de universidades de
+Reino Unido y España, liderado por el Ing. Saúl Calderón Ramírez, docente e
+investigador del Tecnológico_de_Costa_Rica_(TEC), quien realiza estudios de
+doctorado en el Instituto_de_Inteligencia_Artificial,_de_De_Montfort
+University, en Leicester, Inglaterra.
+“El tema de interés es desarrollar un modelo de inteligencia artificial para
+estimar, a partir de imágenes de rayos X de pechos, daños por COVID-19. Sería
+utilizar esto como una herramienta de asistencia para el diagnóstico de la
+enfermedad (...).
+“Nuestro objetivo es desarrollar un sistema de inteligencia artificial que
+ojalá mejore la sensibilidad de diagnóstico respecto a un radiólogo y que
+entonces se pueda usar como un sistema de triage o de tamizaje, para detectar
+pacientes que tienen daños por COVID-19, en forma más rápida”, comenta
+Calderón  
+El problema, explica Calderón y demás investigadores en su estudio, es que los
+sistemas de Deep Learning –o Aprendizaje Profundo– típicamente trabajan con
+grandes bases de datos para entrenar a las computadoras para que puedan
+identificar imágenes con un alto porcentaje de acierto. Pero es difícil
+conseguir datos etiquetados del COVID, por el rápido avance de la pandemia.
+Así que los especialistas plantean que una solución viable es implementar
+algoritmos “semisupervisados”, que ayuden al sistema a lidiar con la escasez de
+datos. Esto lo detallan en un paper aceptado para la edición 25_de_la
+Conferencia_Internacional_sobre_Reconocimiento_de_Patrones (ICPR o
+International Conference on Pattern Recognition, en inglés), que se debió
+realizar en 2020 en Italia, pero se postergó para inicios del próximo año por
+motivos de la pandemia.
+“Nosotros lo que hicimos fue crear un modelo, utilizando aprendizaje
+semisupervisado, puesto que existen muy pocas imágenes marcadas o que sabemos
+que son de COVID-19. Entonces lo que hicimos fue entrenar un modelo con
+imágenes no marcadas, y obtuvimos muy buenos resultados”, ahonda Calderón.
+Con este método se puede llegar a un 90% de acierto al identificar pacientes
+con COVID-19, 15% más que sin el algoritmo semisupervisado, detallan Calderón y
+los otros investigadores, procedentes de universidades de España y Reino Unido.
+   "El uso de modelos semisupervisados permite explotar datos no etiquetados,
+puesto que la etiquetación en el dominio de médicos es cara. Actualmente
+investigamos la relación del aprendizaje semisupervisado con la explicabilidad
+y la robustez del modelo". Saúl Calderón, investigador del TEC
+**** Apoyo de la tecnología ****
+Según Calderón, este método de diagnóstico podría ser de gran ayuda en centros
+médicos en comunidades alejadas, donde es limitado el acceso a pruebas de la
+COVID-19, como las PCR (siglas en inglés de Reacción en Cadena de la
+Polimersa), que son las más utilizadas.
+“El acceso a equipo de rayos X es por lo general más fácil o está más
+diseminado que otras tecnologías, por lo que a veces es más fácil hacer una
+radiografía que tener acceso a un laboratorio para análisis de ADN. Por eso
+creemos que un sistema de este tipo, como el que estudiamos, puede usarse como
+método de diagnóstico”, destaca el investigador.
+Estos sistemas de inteligencia artificial se pueden acceder de forma remota,
+por lo que un técnico o médico podría enviar la imagen de la radiografía con su
+teléfono celular y recibir en breve una respuesta.
+El equipo del que forma parte Calderón no es el único estudiando cómo el
+análisis de datos puede ser de utilidad a autoridades de salud o médicas ante
+la pandemia. Desde el manejo epidemiológico, hasta la atención de pacientes,
+estas tecnologías sumadas a la inteligencia artificial pueden ser de gran
+utilidad.
+Un ejemplo es el_estudio_de_investigadores_del_Kings_College_de_Londres, en el
+que analizaron datos de 1.600 personas de Estados Unidos y Reino Unido
+(recolectadas por un app) para definir que existen “seis tipos de COVID”, o
+seis formas típicas en las que los pacientes se ven afectados.
+El uso de algoritmos de machine learning también sirvió para identificar la
+progresión de los síntomas, por lo que podría ser de gran utilidad a los
+médicos para identificar cómo podría afectar la enfermedad a un determinado
+paciente y cómo tratarlo preventivamente.  
+Esto luego se confirmó con otra base de datos, de 1.000 usuarios de Estados
+Unidos, Reino Unido y Suecia.
+De manera similar, Calderón afirma que al sistema que ellos están desarrollando
+se le podría agregar más información, como los síntomas que presentan los
+pacientes, para mejorar los niveles de acierto. 
+“Construir un sistemas donde incluyamos no solo datos de imágenes de rayos X,
+si no también patrones sintomáticos, datos fisiológicos, metabólicos, y otros,
+podría generar un modelo para hacer estimaciones mucho más precisas”, argumenta
+Calderón.
+ 
+**** Sistema a la medida ****
+En un segundo avance de la investigación, Calderón y los demás investigadores
+buscan mejorar la efectividad del algoritmo semisupervisado y, a la vez, hacer
+que funcione con distintas aplicaciones de datos.
+Esto permitiría desarrollar herramientas de diagnóstico “a la medida”, para
+distintos países, adecuado a la forma en la que la enfermedad está afectando
+una zona determinada. Específicamente, se busca aplicar la técnica con datos de
+Costa Rica. 
+“Un virus de estos tiene distintos comportamientos, muta, hay distintas cepas y
+puede que se exprese de forma distinta en las radiografías. Por eso es
+importante construir un modelo a la medida, que responda al comportamiento de
+la enfermedad en un país determinado. No sería aconsejable usar un modelo de
+inteligencia artificial desarrollado con datos de Estados Unidos para
+diagnosticar pacientes de Costa Rica, porque puede que haya diferencias sutiles
+respecto a las manifestaciones de la enfermedad visibles en las radiografías”,
+finaliza Calderón.
+
+ Covid-19, Inteligencia_Artificial, Rayos_X, Deep_Learning
+[Johan Umaña Venegas, Comunicador.]
+**** Johan_Umaña_Venegas ****
+johumana@tec.ac.cr
+Comunicador
+Licenciado en Comunicación Colectiva, con énfasis en Periodismo, Universidad de
+Costa Rica.
+View_the_discussion_thread.
+
+***** Relacionado *****
+**** Cáncer_de_mama:_inteligencia_artificial_agilizará_el_diagnóstico ****
+2 de Septiembre 2019 Por: Johan_Umaña_Venegas
+ [Imágenes_de_células_con_formas_varias.]
+**** El_primer_ingeniero_doctorado_por_el_TEC_sigue_creando_Inteligencia
+Artificial,_ahora_en_Japón ****
+9 de Noviembre 2020 Por: Johan_Umaña_Venegas
+ [El_ingeniero_con_su_hijo,_en_coche,_a_la_par_de_un_venado.]
+**** Científicos_crean_la_versión_2.0_del_respirador_para_pacientes_con_Covid-
+19 ****
+23 de Febrero 2022 Por: Irina_Grajales_Navarrete
+ [Científicos_posan_para_la_fotografia_al_lado_del_respirador]
+**** Motivaciones_de_los_turistas_cambian_de_acuerdo_a_su_edad_y_condición
+económica ****
+17 de Junio 2021 Por: Johan_Umaña_Venegas
+ [Vista_del_volcán_Arenal_en_la_tarde.]
+
+Oficina_de_Comunicación_y_Mercadeo
+Teléfono: (506)_2550-2218 / (506)_2550-9194
+Correo electrónico: comunicacionymercadeotec@tec.ac.cr
+    * Quiénes_Somos
+    * Contacto
+    * Secciones
+
+    * Facebook
+    * Twitter
+    * Instagram
+    * YouTube
+[logo TEC]

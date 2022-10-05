@@ -1,0 +1,277 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   pasar_al_contenido_principal
+****** hoy_en_el_tec ******
+
+viernes 12 de agosto, 2022
+  |  
+quiénes_somos   |   buscar  
+
+***** menú *****
+    * investigación
+    * desarrollo_humano
+    * vida_estudiantil
+    * acción_institucional
+    * medio_ambiente
+    * emprendimiento
+    * cultura_y_deporte
+    * opinión
+    * buscar
+
+
+ "el covid-19 no resistiría en la cámara”
+****** cámara hecha por el tec para desinfectar mascarillas n95, pasa pruebas
+nacionales ******
+    * dispositivo combina dos tipos de desinfección: luz ultravioleta y plasma
+ 
+    * en el mundo, solo costa rica estaría utilizando este tipo de tecnología,
+      hasta donde se tiene conocimiento
+ 
+    *  
+25 de junio 2020 por: irina_grajales_navarrete
+investigación
+   versión_para_imprimir    descargar_pdf  compartir por correo electrónico
+comentarios
+ compartir en facebook  compartir en twitter        compartir en whatsapp
+[la_imagen_muestra_el_dispositivo_creado_por_el_tec._]
+dentro de la cámara, el aire se convierte en plasma y se generan moléculas que
+desinfectan cualquier objeto que esté adentro: lentes, lapiceros y mascarillas
+n95, entre otras personas. (fotografía: cortesía de plasma innova). 
+
+el prototipo para desinfectar las mascarillas n95 con covid-19, desarrollado
+por científicos del tecnológico_de_costa_rica (tec) y la empresa privada plasma
+innova, pasó oficialmente todas las pruebas nacionales y ya está listo para su
+siguiente fase: pruebas en un laboratorio internacional certificado por la
+organización_mundial_de_la_salud (oms). 
+la investigación surge a raíz de una solicitud que le hizo la caja
+costarricense_del_seguro_social (ccss) al tec,  por medio de la carrera de
+ingeniería_en_mecatrónica de ayudar con la creación de equipo especializado, en
+caso de un desabastecimiento de suministros ante la pandemia que enfrenta el
+país. 
+ 
+   “los insumos se agotan en el planeta. somos un país pequeño y las compras
+que logramos hacer son insignificantes en comparación con el resto del mundo.
+lo mejor que podemos hacer para asegurar el suministro en este momento es
+desinfectar las mascarillas que ya tenemos y reutilizarlas”, afirmó la
+coordinadora del proyecto y científica del tec, marta vílchez. 
+justamente, se trata de un prototipo que utiliza dos tipos de desinfección
+combinados: irradiación con luz ultravioleta y aire activado con plasma. 
+el primero de ellos, la irradiación con luz ultravioleta, es un método ya
+validado a nivel internacional. de esta manera, los científicos ticos ya
+conocen cuánto tiempo debe colocarse la mascarilla a la luz y a qué
+distancia. también es fácil de implementar.
+el segundo, el aire activado con plasma, es la novedad que tiene del
+dispositivo del tec. 
+pero, ¿cómo funciona el aire activado con plasma?. 
+dentro de la cámara, el aire se convierte en plasma y se generan moléculas que
+purifican cualquier objeto que esté adentro: lentes, lapiceros y mascarillas
+n95, entre otras personas. 
+una de esas moléculas es el ozono. “el ozono es una molécula inestable y
+reacciona muy bien con las grasas (justamente así es la envoltura que tienen
+los virus y bacterias); es decir, la tendencia del ozono al estar en contacto
+con el covid-19, sería romper su envoltura y matarlo. explicó la científica del
+tec, marta vílchez.
+de acuerdo con vílchez, el tec escogió trabajar con plasma innova, al ser una
+empresa tica, con científicos ticos (muchos graduados en el tec) y
+con amplio conocimiento en el manejo del ozono activado por plasma. 
+      hasta donde tenemos conocimiento, en el mundo, solo costa rica estaría
+utilizando este tipo de tecnología para desinfectar mascarillas n95 con covid-
+19”, señaló josé asenjo, ingeniero a cargo del proyecto en plasma innova. 
+
+     pruebas 
+para que el dispositivo pueda llegar a los centros de salud de costa rica, es
+necesaria la validación de tres pruebas. 
+ 
+   1. integridad física (prueba nacional)
+la comprobación se realizó en el laboratorio de bacteriología del hospital
+nacional_de_niños. “el dispositivo pasó la prueba y se validó que nuestro
+sistema de desinfección irradia por tiempos prolongados sin que la mascarilla
+se deforme”, indicó la coordinadora del proyecto y científica del tec, marta
+vílchez.
+ 
+   1. probar que realmente desinfecta (prueba nacional)
+la verificación se hizo en los laboratorios de la facultad_de_microbiología_de
+la_universidad_de_costa_rica(ucr), donde se realizaron estudios muy
+prometedores con microorganismos sumamente resistentes, entre ellos: e. coli,
+staphylococcus aureus, salmonella, listeria, candida, aspergillus y bacillus. 
+“con cada microorganismo utilizamos una concentración inicial de mil millones.
+por ejemplo, usamos mil millones de e. coli”, explicó la dra. maría laura
+arias, directora del laboratorio de microbiología de aguas y alimentos de la
+ucr.
+los microorganismos se colocaron en las mascarillas n95 y se probaron con
+distintos tiempos de exposición (uno, cinco y 20 minutos) dentro de la cámara
+del tec. 
+fotografía: ruth garita /tec. 
+“el tiempo que mejor funcionó fue el de 20 minutos. en todos los casos, excepto
+con el bacillus, la cantidad de microorganismos bajó a 100 o menos; es
+decir, bajaron de mil millones a 100. ¡esto es una maravilla! y, lo más
+importante, en ningún caso la mascarilla se deformó”, dice la doctora.
+ahora, ¿qué va a pasar con el bacillus?
+el bacillus, por su parte, bajó de mil millones a 100 mil. esto ocurre porque
+el bacillus es una bacteria esporulada, lo cual la hace muy resistente. 
+sin embargo, “el covid-19 es un virus menos resistente que una bacteria
+esporulada. entonces, a pesar de que no hemos evaluado el covid-19 como tal,
+con estos datos podemos inferir que el covid no resistiría en la cámara”,
+puntualizó.
+      “este desarrollo es posible gracias a que nos hemos unido las
+universidades públicas, la industria privada y la caja costarricense de seguro
+social. este es un logro que quedará en la historia como prueba de lo que se
+puede hacer en nuestro país”. afirmó la coordinadora del proyecto y científica
+del tec, marta vílchez.
+   1. probar que la cámara aniquila el virus (prueba internacional) 
+la última etapa es probar que la cámara aniquila el virus. el problema es que
+en costa rica no hay cepas cultivadas de covid-19. 
+“las cepas son manejadas en laboratorios internacionales certificados por
+la oms. aún no podemos adelantar información, pues estamos en negociaciones,
+pero esperamos pronto tener buenas noticias que informar al país”, puntualizó
+la científica del tec. 
+
+ mascarillas, n95, covid-19, desinfección, desinfectar, dispositivo, cámara,
+plasma, luz, ultravioleta
+**** irina_grajales_navarrete ****
+igrajales@tec.ac.cr
+comunicadora
+máster en diplomacia, universidad de costa rica. licenciada en comunicación y
+bachiller en periodismo, universidad federada de costa rica.
+premio de periodismo, la huella del jaguar 2019 del minae y, premio de
+periodismo costa rica incluye 2018
+ 
+view_the_discussion_thread.
+
+***** relacionado *****
+**** cuerpo de investigación_en_plasma_vuelven_a_representar_a_costa_rica_en_conferencia
+internacional ****
+28 de septiembre 2017 por: irina_grajales_navarrete
+
+**** tec_fue_sede_del_primer_taller_de_plasmas_para_fusión_en_latinoamérica
+****
+5 de diciembre 2019 por: irina_grajales_navarrete
+ [personas_en_laboratorio_de_plasmas_del_tec_]
+**** tico_es_seleccionado_entre_los_mejores_científicos_del_mundo_en_fusión
+nuclear ****
+17 de enero 2018 por: irina_grajales_navarrete
+
+**** observe_la_participación_del_científico_iván_vargas_en_el_tedxsabana ****
+27 de noviembre 2019 por: geovanni_jiménez_mata
+ [ivan-vargas-posando-junto-a-maquinas-]
+
+oficina_de_comunicación_y_mercadeo
+teléfono: (506)_2550-2218 / (506)_2550-9194
+correo electrónico: comunicacionymercadeotec@tec.ac.cr
+    * quiénes_somos
+    * contacto
+    * secciones
+
+    * facebook
+    * twitter
+    * instagram
+    * youtube
+[logo tec]
+
+
+File name: C:\Users\valev\Documents\GitHub\TecuAvances\hoyeneltec\2020\camara-hecha-tec-desinfectar-mascarillas-n95-pasa-pruebas-nacionales.html.txt
+Number of changes: 3
+Palabras reemplazadas: otros, otros, investigadores

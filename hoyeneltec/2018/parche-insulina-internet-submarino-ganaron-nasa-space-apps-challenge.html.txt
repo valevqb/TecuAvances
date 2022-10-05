@@ -1,0 +1,288 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   Pasar_al_contenido_principal
+****** Hoy_en_el_TEC ******
+
+Viernes 12 de Agosto, 2022
+  |  
+Quiénes_Somos   |   Buscar  
+
+***** Menú *****
+    * Investigación
+    * Desarrollo_Humano
+    * Vida_Estudiantil
+    * Acción_Institucional
+    * Medio_Ambiente
+    * Emprendimiento
+    * Cultura_y_Deporte
+    * Opinión
+    * Buscar
+
+
+ Ganadores nacionales
+****** Parche de insulina e Internet submarino ganaron el NASA Space Apps
+Challenge ******
+    * Equipo BID propone sustituir las inyecciones de insulina por parches,
+      para aliviar el dolor que sufren infantes con diabetes
+    * Narwix ideó el desarrollo de dispositivos que se conecten a Internet
+      debajo del agua, para impulsar la investigación y conservación del mar
+31 de Octubre 2018 Por: Johan_Umaña_Venegas
+Vida_Estudiantil
+   Versión_para_imprimir    Descargar_PDF  Compartir por correo electrónico
+Comentarios
+ Compartir en Facebook  Compartir en Twitter        Compartir en WhatsApp
+[Dos_hombres_y_una_mujer_forman_el_equipo_BID.]
+José Gabriel Arce, Valesska Blanco y Daniel Brenes son los integrantes del
+equipo BID, que ganó el primer lugar del NASA International Space Apps
+Challenge. Foto: Ruth Garita / OCM.
+
+Un parche de insulina para sustituir las inyecciones en personas diabéticas,
+particularmente en niños y adolescentes, es el proyecto ganador de la sede
+costarricense del NASAInternational_Space_Apps_Challenge, desarrollado del 20 y
+21 de octubre en las instalaciones del Tecnológico_de_Costa_Rica_(TEC).
+El segundo lugar, que también representará al país en la competencia
+internacional, es una propuesta para llevar el Internet de las Cosas (IoT, por
+sus siglas en inglés: Internet of Things) a entornos submarinos.
+El International Space Apps Challenge es una competencia mundial organizada por
+el Programa de Incubación de la Innovación de laAdministración_Nacional_de_la
+Aeronáutica_y_del_Espacio_(NASA,_en_inglés). Este año participaron 177 ciudades
+alrededor del mundo.
+En sí, el International Space Apps Challenge consiste en un gran hackatón de 36
+horas continuas, en el que participantes de todo el mundo se reúnen en equipos
+para desarrollar soluciones a problemas de la Tierra y el espacio.
+El TEC se ha encargado de la organización de las cuatro ediciones del evento
+que se han desarrollado en Costa Rica. En esta ocasión participaron 146
+personas de las siete provincias del país, divididas en 26 equipos.
+“El hecho de que sea simultáneo en todo el mundo, hace que sea una experiencia
+única, en la que se pueda compartir con las otras latitudes, intercambiar
+ideas, intercambiar estrategias para mantener a los participantes interesados y
+activos. Pero también, que si alguien está realizando un reto puede hacer una
+consultas a otros de los países“, explica la máster María Estrada, coordinadora
+del Space Apps Challenge Costa Rica.
+Estrada destaca el aumento en el número de participantes, además de que cada
+año se mejora la proporción de mujeres –que llegó al 30% en esta edición– y que
+se logró la participación de personas indígenas de la región de Talamanca.
+Los dos equipos ganadores del evento en Costa Rica competirán con los
+vencedores de las otras sedes en la siguiente etapa del Space Apps Challenge.
+Ahora, los conjuntos costarricenses deben realizar videos de dos minutos de
+duración, en los que explicarán sus ideas. De ser seleccionados, viajarán a
+Estados Unidos para participar en la final, en la NASA.
+
+[Fotografía:_Ruth_Garita_/_OCM.]
+Fotografía: Ruth Garita / OCM.
+[Fotografía:_Ruth_Garita_/_OCM.]
+Fotografía: Ruth Garita / OCM.
+[Fotografía:_Ruth_Garita_/_OCM.]
+Fotografía: Ruth Garita / OCM.
+[Fotografía:_Ruth_Garita_/_OCM.]
+Fotografía: Ruth Garita / OCM.
+[Fotografía:_Ruth_Garita_/_OCM.]
+Fotografía: Ruth Garita / OCM.
+[Fotografía:_Steven_Moya_/_OCM.]
+Fotografía: Steven Moya / OCM.
+[Fotografía:_Steven_Moya_/_OCM.]
+Fotografía: Steven Moya / OCM.
+[Fotografía:_Steven_Moya_/_OCM.]
+Fotografía: Steven Moya / OCM.
+[Fotografía:_Steven_Moya_/_OCM.]
+Fotografía: Steven Moya / OCM.
+ Previous Next
+[Fotografía: Ruth Garita / OCM.]
+[Fotografía: Ruth Garita / OCM.]
+[Fotografía: Ruth Garita / OCM.]
+[Fotografía: Ruth Garita / OCM.]
+[Fotografía: Ruth Garita / OCM.]
+[Fotografía: Steven Moya / OCM.]
+[Fotografía: Steven Moya / OCM.]
+[Fotografía: Steven Moya / OCM.]
+[Fotografía: Steven Moya / OCM.]
+ Previous Next
+
+**** Aliviar el dolor en niños enfermos ****
+El equipo BID (Bomba de Infusión contra la Diabetes), conformado por Valesska
+Blanco y José Gabriel Arce, del Colegio Técnico Profesional de Dulce Nombre de
+Cartago, y Daniel Brenes, de la carrera de Electrónica de la Universidad
+Hispanoamericana, ganó el primer lugar en Costa Rica.
+El objetivo primordial de su proyecto es evitar el sufrimiento de los niños que
+padecen diabetes y deben recibir inyecciones diariamente. La propuesta es
+utilizar parches especiales para suministrar el fármaco.
+“El proyecto lo que pretende es eliminar la inyección en niños y adolescentes,
+para quienes es sumamente incómodo, y sustituir esta inyección por un parche.
+Este parche es el que se va a encargar de introducir la insulina, por medio de
+una vía transdérmica, entonces no hay penetración de agujas en la persona“,
+cuenta Brenes.
+Además, detallan los jóvenes, la idea es que el parche se pueda controlar por
+medio de una aplicación en el teléfono, que determine la cantidad de insulina
+que se suministra al cuerpo.
+“Nosotros enfocamos mucho el dispositivo hacia la insulina y hacia los niños,
+pero esto puede ser muchísimo más aplicable, lo podemos abrir a otros fármacos,
+a otros tipos de enfermedades. Es decir, esto no se queda solo aquí“, agrega
+Blanco.
+Para idear este proyecto, los jóvenes investigaron el tema y visitaron el
+Hospital Nacional de Niños, donde aprendieron más de en qué lugares del cuerpo
+se podría colocar el parche y cómo podría funcionar.
+
+Animación desarrollada por Sharon Arley, parte del equipo Narwix. Proyecto:
+sistema de conexión submarina.
+
+
+**** Conexión submarina ****
+Se calcula que la Humanidad apenas conoce un 5% del océano. De hecho, es
+posible que conozcamos más el espacio exterior que nuestro propio mundo
+submarino.
+Esto es en parte debido a las dificultades de comunicación que existen bajo el
+agua, donde hasta la tecnología GPS es imposible de utilizar.
+Esa es la problemática que quiere resolver el equipo Narwix, un grupo
+conformado por Sharon Arley, estudiante de Animación 3D del Centro de
+Tecnologías Audiovisuales; Kevin Alfaro, Dennis Porras y Andre Herrera,
+estudiantes de Ingeniería_en_Computadores, del Tecnológico; y Ramiro Vargas,
+egresado de Ingeniería Electrónica, también del TEC.
+Ellos proponen el desarrollo de una serie de dispositivos capaces de
+comunicarse bajo agua y llevar el Internet de las Cosas al mundo submarino.
+“La idea es desarrollar dispositivos de comunicación y localización subacuática
+que son portátiles, que pueden formar redes, y son útiles para áreas del buceo,
+de protección ambiental e investigaciones científicas“, explica Alfaro.
+La tecnología, argumentan estos jóvenes, ya existe, pero está limitada a
+aplicaciones industriales. Su propuesta es abaratar los costos y hacer más
+sencillo que más personas se puedan conectar a Internet bajo el agua, y con
+ello dar un impulso a la investigación submarina.
+“Estamos muy emocionados por haber ganado en el Space Apps Challenge y
+esperamos llegar lejos en la siguiente etapa, llevar alto el nombre de Costa
+Rica“, comenta Arley.
+Durante el acto de premiación se realizó un minuto de silencio por el
+fallecimiento del estudiante de Computación, Ivan Lopez.   
+ 
+
+ [jovenenes_trabajando_en_computadora]
+Soluciones_inclusivas_protagonizaron_el_Hackatón_Innova_EFX
+
+
+Space_Apps_mostró_talento_y_soluciones_innovadoras_para_el_espacio_y_la_tierra
+
+ Space_Apps_Challenge, NASA, Hackaton
+[Johan Umaña Venegas, Comunicador.]
+**** Johan_Umaña_Venegas ****
+johumana@tec.ac.cr
+Comunicador
+Licenciado en Comunicación Colectiva, con énfasis en Periodismo, Universidad de
+Costa Rica.
+View_the_discussion_thread.
+
+***** Relacionado *****
+**** Geoportal_para_medir_cambios_de_la_cobertura_forestal,_clasificado_del
+NASA_Space_Apps_Challenge ****
+21 de Octubre 2019 Por: Noemy_Chinchilla_Bravo
+ [Imagen_de_los_ganadores_del_space]
+**** Space_Apps_mostró_talento_y_soluciones_innovadoras_para_el_espacio_y_la
+tierra ****
+2 de Mayo 2017 Por: Noemy_Chinchilla_Bravo
+
+**** El_consejo_de_la_ingeniera_tica_en_NASA:_“Tomen_el_poder,_no_esperen_que
+las_empoderen” ****
+9 de Abril 2019 Por: Johan_Umaña_Venegas
+ [Sandra_Cauffman_posa_junto_a_los_estudiantes_del_Colegio_Científico.]
+**** Hackathon_de_la_NASA,_este_fin_de_semana_en_el_TEC ****
+26 de Abril 2017 Por: Noemy_Chinchilla_Bravo
+
+
+Oficina_de_Comunicación_y_Mercadeo
+Teléfono: (506)_2550-2218 / (506)_2550-9194
+Correo electrónico: comunicacionymercadeotec@tec.ac.cr
+    * Quiénes_Somos
+    * Contacto
+    * Secciones
+
+    * Facebook
+    * Twitter
+    * Instagram
+    * YouTube
+[logo TEC]

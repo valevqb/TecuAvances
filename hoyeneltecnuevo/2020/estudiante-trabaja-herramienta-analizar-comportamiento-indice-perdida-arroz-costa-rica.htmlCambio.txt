@@ -1,0 +1,267 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   pasar_al_contenido_principal
+****** hoy_en_el_tec ******
+
+viernes 12 de agosto, 2022
+  |  
+quiénes_somos   |   buscar  
+
+***** menú *****
+    * investigación
+    * desarrollo_humano
+    * vida_estudiantil
+    * acción_institucional
+    * medio_ambiente
+    * emprendimiento
+    * cultura_y_deporte
+    * opinión
+    * buscar
+
+
+ escuela de agronegocios
+****** estudiante trabaja en herramienta para analizar el comportamiento del
+índice de pérdida del arroz en costa rica ******
+su propuesta se enfocará en los eslabones de la cadena de suministro de campo e
+industria inicialmente, para conocer el comportamiento de las pérdidas
+ 
+está basada en los objetivos del desarrollo sostenible
+2 de julio 2020 por: noemy_chinchilla_bravo
+desarrollo_humano
+investigación
+   versión_para_imprimir    descargar_pdf  compartir por correo electrónico
+comentarios
+ compartir en facebook  compartir en twitter        compartir en whatsapp
+[imagen_de_granos_de_arroz]
+eva vargas solís, estudiante de la carrera de personas ingeniera en agronegocios, está
+elaborando como trabajo final de graduación una herramienta que facilite el
+monitoreo del índice de pérdida, principalmente en el arroz en costa rica. foto
+tomada de pixabay.
+
+reducir y prevenir con éxito la pérdida y el desperdicio de alimentos, se ha
+convertido en un reto mundial para las entidades gubernamentales y
+empresariales.
+de acuerdo con la organización_de_las_naciones_unidas_para_la_agricultura_y_la
+alimentación_(fao), se estima que un tercio de todos los alimentos producidos a
+nivel mundial se pierden o se desperdician.
+a partir de esta problemática, eva vargas solís, estudiante de la carrera de
+personas ingeniera_en_agronegocios, está elaborando como trabajo final de
+graduación una herramienta que facilite el monitoreo del índice de pérdida,
+principalmente en el arroz en costa rica.
+su propuesta está basada en los objetivos_del_desarrollo_sostenible_
+(ods), específicamente en el número 12: producción y consumo responsable,
+que incluye la meta 12.3 que busca reducir a la mitad el desperdicio de
+alimentos per cápita en el mundo, tanto en la venta al por menor como a nivel
+de los consumidores; así como la pérdida de alimentos en las cadenas de
+producción y suministro, incluidas las etapas posteriores a la cosecha.
+pero, ¿de qué trata la propuesta? la investigación de vargas consiste en
+monitorear, por medio de una herramienta basada en excel, el comportamiento del
+índice de las pérdidas en el arroz en costa rica.
+también busca sistematizar toda la experiencia de su proyecto, desde la
+búsqueda de datos, hasta su tratamiento y presentación mediante el citado
+índice.
+para realizar los cálculos, la joven utilizó las fórmulas creadas por la fao,
+que son índice y porcentaje de pérdida. el índice corresponde a un valor de
+medida que permite realizar una comparación de las pérdidas respecto a un año
+base.
+consta de una serie de variables como la producción, el valor económico y el
+porcentaje de pérdida que se determine; con el propósito de que, idealmente,
+este valor empiece a ser muy cercano a cero.
+vargas se enfocará en el manejo postcosecha y en el proceso industrial del
+arroz. primero conocerá cómo es el comportamiento de las pérdidas en estos
+puntos. posteriormente, dará las observaciones respecto a dónde se ubican los
+puntos críticos y sus posibles causas, para que a futuro se pueda trabajar
+disminuyendo estas pérdidas a lo largo de la cadena de suministro.
+la alumna del tec ha logrado también una importante comunicación con
+lacorporación_nacional_arrocera_(conarroz), en donde le han brindado apoyo con
+criterios de personas expertas y datos.
+para vargas, es un gran orgullo el poder aportar un granito de arena, como tec
+y como estudiante de personas ingeniera en agronegocios, para reducir la pérdida y
+desperdicios de alimentos.
+   “aportar en este tema también significa un gran reto, responsabilidad y un
+logro, porque es la forma de comenzar a dar a la sociedad parte del
+conocimiento adquirido en el tec y avanzar en estos temas de importancia”. eva
+vargas solís, estudiante de personas ingeniera en agronegocios
+**** investigación innovadora ****
+según vargas, con este proyecto se han realizado búsquedas y análisis de la
+calidad de la información existente en el país, inicialmente en la agrocadena
+del arroz.
+una vez calculado el índice y sistematizada la experiencia, permitirá contar
+con las bases para generar el índice de pérdida en otras personas productos
+agroalimentarios.
+los resultados obtenidos serán puestos a disposición de los actores
+correspondientes, para la valoración de su uso como uno de los primeros
+ejercicios en el país en esta materia.
+cabe destacar que a la estudiante le apoyan las profesoras e cuerpo de investigación de
+la escuela de agronegocios del tec, ingeniera maría fernanda jiménez, y la
+máster laura brenes peralta; en alianza con profesionales de la secretaría
+ejecutiva_de_planificación_sectorial_agropecuaria_(sepsa), el programa_del
+estado_de_la_nación_(pen) y conarroz.
+brenes, quien además coordina la red costarricense para disminución de pérdida
+y desperdicio de alimentos, considera que este proyecto es un ejemplo de cómo
+el trabajo articulado y con un mismo objetivo es posible.
+      
+      “vemos a un actor académico aportando desde la investigación y formación
+de una profesional que ha resultado altamente sensibilizada y capacitada en
+materia de pérdida de alimentos, junto a entidades especializadas en política
+sectorial, evaluación del desempeño nacional y actividad productiva como serían
+sepsa, pen y conarroz. todos con miras a la reducción del desperdicio de
+alimentos y un desarrollo más sostenible e inclusivo”. máster laura brenes
+peralta, coordinadora de la red costarricense para disminución de pérdida y
+desperdicio de alimentos e investigadora del tec.
+jiménez, quien también es miembro de la red costarricense para disminución de
+pérdida y desperdicio de alimentos, señala que esta investigación es una
+excelente oportunidad para enlazar a los gremio estudiantil de la escuela con la
+realidad nacional y con las necesidades del sector agroalimentario, así como
+mantener el aporte del tec en materia de cuantificación, monitoreo y reducción
+de las pérdidas de alimento.
+      “la vinculación que esta investigación ha requerido permite elevar el
+nivel del estudio y, a su vez, le exige a la estudiante tener distintos estilos
+y personal técnico de abordaje del problema”. ingeniera maría fernanda jiménez,miembro
+de la red costarricense para disminución de pérdida y desperdicio de alimentos
+e investigadora del tec.
+además, acota jiménez, próximamente se realizará un taller de validación con
+personas expertas en la materia y se entregará la investigación a los quienes forman parte de la red
+costarricense para disminución de pérdida y desperdicio de alimentos, que están
+analizando el proceso de creación del índice de desperdicio para costa rica, de
+manera, que sean ofrecidos a los actores llamados a atender este tipo de
+indicadores de los ods, como un posible insumo que facilite el avance en esta
+materia.
+ “el saber que mi trabajo aporta al beneficio de muchas personas en un tema tan
+importante me motiva a seguir trabajando por esta causa”, concluyó jiménez.
+ 
+
+ arroz, escuela_de_agronegocios, pérdida_y_desperdicio_alimentos
+[noemy chinchilla bravo, comunicadora.]
+**** noemy_chinchilla_bravo ****
+nchinchilla@tec.ac.cr
+comunicadora
+licenciada en relaciones públicas y bachiller en periodismo, universidad
+autónoma de centro américa.
+view_the_discussion_thread.
+
+***** relacionado *****
+**** aportes_del_tec_se_ven_plasmados_en_política_pública_para_donación_de
+alimentos ****
+13 de mayo 2020 por: noemy_chinchilla_bravo
+ [diseño_de_cajas_con_víveres_adentro.]
+**** genfores_se_alía_con_empresa_privada_para_ampliar_infraestructura_de
+invernaderos_y_aumentar_capacidad_de_producción ****
+13 de abril 2021 por: noemy_chinchilla_bravo
+ [imagen_de_un_invernadero_en_donde_se_encuentran_dos_personas_junto_a_los
+sembradíos]
+**** gremio estudiantil_expusieron_sus_proyectos_de_investigación_en_congreso
+internacional_bajo_la_modalidad_virtual ****
+10 de septiembre 2020 por: noemy_chinchilla_bravo
+ [imagen_de_un_estudiante_en_el_laboratorio_de_química]
+**** pima,_tec_y_alimentalistas_impulsan_plan_de_acción_para_la_reducción_de
+pérdida_de_alimentos_en_cenada ****
+5 de mayo 2022 por: noemy_chinchilla_bravo
+
+
+oficina_de_comunicación_y_mercadeo
+teléfono: (506)_2550-2218 / (506)_2550-9194
+correo electrónico: comunicacionymercadeotec@tec.ac.cr
+    * quiénes_somos
+    * contacto
+    * secciones
+
+    * facebook
+    * twitter
+    * instagram
+    * youtube
+[logo tec]
+
+
+File name: C:\Users\valev\Documents\GitHub\TecuAvances\hoyeneltec\2020\estudiante-trabaja-herramienta-analizar-comportamiento-indice-perdida-arroz-costa-rica.html.txt
+Number of changes: 9
+Palabras reemplazadas: expertos, ingeniería, ingeniería, otros, investigadoras, estudiantes, técnicas, miembros, estudiantes

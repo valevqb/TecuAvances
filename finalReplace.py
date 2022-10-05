@@ -60,7 +60,7 @@ def runChanges (fileName):
     name = fileName.split('\\')
     name = name[-1]
 
-    texts = open ('nuevos\\' + name[0:len(name)-4] + 'Cambio' + '.txt', 'w', encoding="utf-8")
+    texts = open ('hoyeneltecnuevo\\' + '2022\\' + name[0:len(name)-4] + 'Cambio' + '.txt', 'w', encoding="utf-8");
 
     contents = contents + '\n\n' + 'File name: ' + fileName + '\nNumber of changes: ' + str(replacesNum) + '\n'
     contents = contents + "Palabras reemplazadas: " + ', '.join(changedWords)
@@ -128,7 +128,7 @@ def topDiez (listaDeArchivos, listaDeCambios):
 # Main o principal
 #---------------------------------------------------------------------------------------------------------
 #Prueba 1
-CARPETA = 'Actas'
+CARPETA = 'C:\\Users\\valev\\Documents\\GitHub\\TecuAvances\\hoyeneltec\\2022';
 
 listArc = os.listdir(CARPETA) #lee todos los archivos en la carpeta
 

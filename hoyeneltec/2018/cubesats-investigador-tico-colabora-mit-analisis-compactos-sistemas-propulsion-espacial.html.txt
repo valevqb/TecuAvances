@@ -1,0 +1,247 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   Pasar_al_contenido_principal
+****** Hoy_en_el_TEC ******
+
+Viernes 12 de Agosto, 2022
+  |  
+Quiénes_Somos   |   Buscar  
+
+***** Menú *****
+    * Investigación
+    * Desarrollo_Humano
+    * Vida_Estudiantil
+    * Acción_Institucional
+    * Medio_Ambiente
+    * Emprendimiento
+    * Cultura_y_Deporte
+    * Opinión
+    * Buscar
+
+
+ Laboratorio de Sistemas Espaciales del TEC
+****** CubeSats: investigador tico colabora con MIT en análisis de compactos
+sistemas de propulsión espacial ******
+    * Artículo científico indaga la utilidad de motores a base de electrospray
+      de iones para formar constelaciones de pequeños satélites.
+    * Desarrollar un sistema de impulso barato, pequeño y liviano es
+      fundamental para seguir avanzando en la exploración espacial de bajo
+      costo.
+8 de Agosto 2018 Por: Johan_Umaña_Venegas
+Investigación
+   Versión_para_imprimir    Descargar_PDF  Compartir por correo electrónico
+Comentarios
+ Compartir en Facebook  Compartir en Twitter        Compartir en WhatsApp
+[Ilustración_de_varios_satélites_alrededor_de_la_Tierra.]
+Los motores se pueden utilizar para controlar constelaciones de CubeSats en
+órbita. Imagen: MIT Lincoln Laboratory.
+
+CubeSat es un estándar de diseño de pequeños satélites que ha revolucionado el
+desarrollo de aplicaciones espaciales, sobre todo para países y organismos con
+limitaciones de presupuesto.
+Como su nombre lo indica, estos satélites tienen la forma de un cubo, de 10
+centímetros, y pueden ser agrupados en múltiples unidades.
+Si bien su tamaño y peso –por lo general inferior a 1 kilogramo– son ideales
+para ser enviados al espacio y conseguir tareas básicas de comunicación y
+monitoreo, su aplicación puede ser un poco limitada, ya que no cuentan con
+sistemas de propulsión y en poco tiempo caen de vuelta a la Tierra.
+[Satélite Irazú.]El CubeSat  del Proyecto Irazú es un ejemplo de cómo estos
+pequeños aparatos están abriendo las posibilidades de exploración espacial para
+más países y organismos. Foto: Ruth Garita.
+Un ejemplo: el CubeSat del Proyecto Irazú, el primer satélite de la historia de
+Costa Rica y Centroamérica, tendrá un tiempo de “vuelo” de alrededor de siete
+meses y después se quemará en su reingreso a la atmósfera.
+Dotar a estos pequeños satélites cúbicos de un sistema de propulsión, tan
+pequeño, ligero y práctico como el aparato principal, sería otro paso
+fundamental en abaratar y mejorar la investigación espacial.
+Ese próximo paso es lo que pretende lograr el Space_Propulsion_Laboratory_
+(SPL), del Instituto de Tecnología de Massachussets o MIT, por sus siglas en
+inglés, con el Ion Electrospray Propulsion System (iEPS).
+“El iEPS es un ejemplo de un sistema de propulsión para CubeSats que está
+permitiendo a estos pequeños satélites abrir la exploración espacial de bajo
+costo. Varias universidades alrededor del mundo están desarrollando esta
+tecnología, ya que tiene aplicaciones tales como control de la orientación del
+satélite, extensión de su vida útil y vuelos en formación de CubeSats”,
+argumentó Marco Gómez Jenkins, especialista costarricense en temas espaciales.
+Gómez fungió como Director de Proyectos para el Laboratorio_de_Sistemas
+Espaciales_(SETEC-Lab) del Tecnológico_de_Costa_Rica_(TEC).
+Para que los objetos se puedan mover en el espacio requieren de energía y de
+una sustancia que sirva de propulsor. La idea detrás del iEPS es utilizar
+matrices emisoras de iones muy compactas, que permitirán que con apenas unos
+gramos de propulsor el satélite se pueda impulsar por varios meses.
+Las utilidades no tienen límites, ya que con esta tecnología incluso se podrían
+enviar CubeSats a otros planetas.
+"La mayor desventaja que tienen los CubeSats ahora mismo es que cuando son
+posicionados en órbita, no tiene manera de controlar su posición. Una vez que
+el iEPS sea perfeccionado, vamos a tener CubeSats que puedan ir a la Luna,
+Marte y otros planetas en nuestro Sistema Solar", agrega Gómez.
+  [El_motor_es_del_tamaño_de_una_moneda._]
+Motor de propulsión espacial tipo iEPS. En la figura se observa que es del
+tamaño de una moneda. Imagen: MIT.
+
+**** Artículo en Acta Astronautica ****
+Gómez colaboró con los investigadores David Krejci y Paulo Lozano, del MIT, en
+la redacción de un_artículo_para_la_prestigiosa_revista_científica_Acta
+Astronautica, ranqueada entre los_mejores_cinco_journals_del_tema_aeroespacial
+en_el_mundo.
+En el ensayo, titulado CubeSat constellation management using Ionic Liquid
+Electrospray Propulsion(Manejo de una constelación de CubeSat utilizando
+Propulsión de Electrospray Líquido Iónico), los especialistas ahondan en el uso
+de modelos de computadora para analizar el alcance de estos sistemas de
+propulsión.
+La meta del estudio es confirmar la eficiencia energética del sistema iEPS para
+ayudar a ordenar y mantener una constelación de satélites flotando en órbita
+terrestre baja o Low Earth Orbit (LEO).
+“Los resultados del estudio demuestran que el iEPS puede ser utilizado para una
+variedad de aplicaciones en LEO, desde cambio de planos orbitales a
+compensación de resistencia atmosférica. Implementando este sistema en un
+CubeSat puede alargar su vida útil de meses a décadas”, cuenta Gómez.
+Esta colaboración se espera que sea la primera de una serie de trabajos
+conjuntos entre el Laboratorio de Sistemas Espaciales del TEC y el Space
+Propulsion Laboratory, particularmente en el tema de CubeSats.
+[Sistema de propulsión junto a una caja de un CubeSat.]Prototipo de sistema de
+propulsión iEPS entregado a la NASA para pruebas en satélites pequeños. Imagen:
+NASA.
+ 
+
+ [El_módulo_cilíndrico_es_metálico_y_tiene_varios_brazos_robóticos.]
+Histórico:_el_primer_satélite_costarricense_funciona_en_el_espacio_y_hace
+contacto
+
+
+Proyecto_Irazú_fortaleció_capacidades_del_TEC_para_desarrollar_misiones
+espaciales
+
+
+¿Por_qué_es_importante_desarrollar_satélites_en_Centroamérica?
+
+ CubeSats, Tecnología_espacial, SETEC-Lab, Satélites
+[Johan Umaña Venegas, Comunicador.]
+**** Johan_Umaña_Venegas ****
+johumana@tec.ac.cr
+Comunicador
+Licenciado en Comunicación Colectiva, con énfasis en Periodismo, Universidad de
+Costa Rica.
+View_the_discussion_thread.
+
+***** Relacionado *****
+**** ‘Se_siente_como_el_primer_hombre_en_la_luna’:_uno_de_los_jóvenes_que
+ensambló_el_primer_satélite_de_Centroamérica_cuenta_su_historia ****
+8 de Noviembre 2017 Por: Johan_Umaña_Venegas
+ [Esteban_Martínez_posa_junto_a_instrumentos_musicales.]
+**** #SatéliteCR:_Especialistas_quedan_a_la_expectativa_para_realizar_la
+primera_conexión_espacial ****
+5 de Abril 2018 Por: Johan_Umaña_Venegas
+ [Un_cohete_expulsando_fuego_y_humo_en_su_despegue._]
+**** Primer_satélite_tico_viaja_a_Japón_para_las_pruebas_finales ****
+23 de Octubre 2017 Por: Johan_Umaña_Venegas
+ [Tres_fotógrafos_frente_a_los_ingenieros,_separados_por_un_vidrio._Los
+investigadores_visten_de_bata_de_laboratorio.]
+**** Cartago_es_sede_de_la_más_reciente_antena_del_sistema_de_rastreo_de
+satélites_de_la_Agencia_Espacial_Europea ****
+29 de Junio 2022 Por: Johan_Umaña_Venegas
+ [La_antena_es_blanca_y_tiene_forma_de_cono_inverso.]
+
+Oficina_de_Comunicación_y_Mercadeo
+Teléfono: (506)_2550-2218 / (506)_2550-9194
+Correo electrónico: comunicacionymercadeotec@tec.ac.cr
+    * Quiénes_Somos
+    * Contacto
+    * Secciones
+
+    * Facebook
+    * Twitter
+    * Instagram
+    * YouTube
+[logo TEC]

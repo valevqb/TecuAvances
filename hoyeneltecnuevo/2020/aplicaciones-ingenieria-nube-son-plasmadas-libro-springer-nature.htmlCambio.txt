@@ -1,0 +1,221 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   pasar_al_contenido_principal
+****** hoy_en_el_tec ******
+
+viernes 12 de agosto, 2022
+  |  
+quiénes_somos   |   buscar  
+
+***** menú *****
+    * investigación
+    * desarrollo_humano
+    * vida_estudiantil
+    * acción_institucional
+    * medio_ambiente
+    * emprendimiento
+    * cultura_y_deporte
+    * opinión
+    * buscar
+
+
+ texto desarrollado por investigador del tec
+****** aplicaciones de personas ingeniera en la nube son plasmadas en libro de springer
+nature ******
+publicación impulsa investigación mediante el uso eficiente de herramientas
+especializadas utilizando capacidades avanzadas de computación en la nube.
+29 de mayo 2020 por: kenneth_mora_pérez
+acción_institucional
+investigación
+   versión_para_imprimir    descargar_pdf  compartir por correo electrónico
+comentarios
+ compartir en facebook  compartir en twitter        compartir en whatsapp
+[mano_con_celular_y_nube]
+imagen ilustrativa. pexels
+
+una búsqueda para optimizar las herramientas computacionales y aplicaciones en
+el contexto personas ingeniera fue el inicio de una propuesta de investigación aplicada
+que se refleja hoy en una publicación internacional.
+el texto “cloud_computing_for_engineering_applications” desarrollado por el
+ing. benito stradi granados recopila una serie de aplicaciones y procedimientos
+que son idóneos para el uso y aprendizaje de aplicaciones en la personas ingeniera
+mediante la computación en la nube.
+el libro publicado por la editorial_springer_nature con sede en nueva york,
+estados unidos, es el resultado de la implementación de estas aplicaciones que
+empezó, aproximadamente, una década atrás, por parte de stradi en el
+tecnológico_de_costa_rica_(tec), con el objetivo de optimizar el uso de
+recursos para la investigación, así como agilizar procesos el personal administrativo o de
+adquisición de equipo o licencias especializadas.
+para esto, el autor, con apoyo de la vicerrectoría_de_investigación_y_extensión
+(vie) y del departamento_de_tecnologías_de_información_y_comunicación_(datic),
+desarrolló herramientas que facilitan el uso de aplicaciones para dibujo,
+simulación y estadística.
+esto lo logró mediante la utilización de software como mathlab, sspss,
+solidworks, entre otras personas, que requieren muchas veces, capacidades de máquinas
+muy superiores a las que puede tener el usuario para su investigación.
+por eso, mediante una plataforma que utiliza facilidades como microsoft azure,
+se logra construir, probar, desplegar y administrar aplicaciones y servicios
+mediante el uso de sus centros de datos, con ventajas de resultados más
+rápidos, en la nube y sin necesidad de adquirir equipos o licencias adicionales
+para los fines propuestos.
+[benito stradi]ing. benito stradi granados, autor del libro.
+      
+     “con la iniciativa y la publicación realizada, buscamos romper el
+     molde tradicional mediante el establecimiento de colaboraciones
+     funcionales legítimas para la academia, que logren productos
+     investigativos o cuerpo docente que permitan cada día mejorar” destacó
+     stradi, investigador de la vie y de la escuela de ciencia e
+     personas ingeniera de los materiales.
+esta iniciativa ha logrado entrenar en el uso de estas herramientas y
+procedimientos a unos 50 cuerpo de investigación del tec, así como de la universidad de
+costa rica (ucr), quienes han utilizado estas facilidades para sus
+investigaciones, tanto de grado como de posgrado, a nivel no solo nacional,
+sino desde diversos puntos del orbe donde se encuentran los cuerpo de investigación.
+con 384 páginas, el libro se encuentra disponible para su adquisición mediante
+compra en línea a través de springer nature en la dirección: www.springer.com/
+us/book/9783030404444.
+[portada_de_libro] tomado de springer nature.
+
+**** vea también: ****
+
+ [imagen_de_una_tablet,_con_la_portada_de_un_libro.]
+investigaciones_del_tec_son_perpetuadas_en_libro_internacional_que_señala_los
+desafíos_de_la_bioenergía
+
+ [captura_de_pantalla_del_artículo_de_nature.]
+revista_‘nature’_destaca_investigación_de_ingenieros_del_tec_que_aplica
+inteligencia_artificial_a_la_botánica
+
+ investigación, libros, computación
+[kenneth mora pérez, comunicador.]
+**** kenneth_mora_pérez ****
+kmora@tec.ac.cr
+comunicador
+máster en periodismo digital, universidad de guadalajara, méxico. licenciado en
+comunicación, universidad federada de costa rica y bachiller en periodismo,
+universidad internacional de las américas.
+view_the_discussion_thread.
+
+***** relacionado *****
+**** tec_trabaja_en_la_creación_de_respiradores_artificiales ****
+25 de marzo 2020 por: kenneth_mora_pérez
+ [modelo_gráfico_de_respirado_artificial]
+**** science_disrupt_emite_podcast_con_investigación_del_tec ****
+5 de octubre 2017 por: kenneth_mora_pérez
+ [science_disrupt]
+**** obra_literaria_sobre_historia_del_tec,_primera_en_que_editorial
+tecnológica_incluye_formato_epub_3 ****
+24 de abril 2017 por: sofía_solano_gómez
+
+**** el_arte_de_reinventar_la_investigación_y_la_extensión_en_medio_de_la
+pandemia ****
+12 de octubre 2021 por: fernando_montero_bolaños
+ [imágenes_de_las_obras_que_representan__la_riqueza_arquitectónica_patrimonial
+del_centro_de_la_provincia.]
+
+oficina_de_comunicación_y_mercadeo
+teléfono: (506)_2550-2218 / (506)_2550-9194
+correo electrónico: comunicacionymercadeotec@tec.ac.cr
+    * quiénes_somos
+    * contacto
+    * secciones
+
+    * facebook
+    * twitter
+    * instagram
+    * youtube
+[logo tec]
+
+
+File name: C:\Users\valev\Documents\GitHub\TecuAvances\hoyeneltec\2020\aplicaciones-ingenieria-nube-son-plasmadas-libro-springer-nature.html.txt
+Number of changes: 9
+Palabras reemplazadas: ingeniería, ingenieril, ingeniería, administrativos, otros, docentes, ingeniería, investigadores, investigadores

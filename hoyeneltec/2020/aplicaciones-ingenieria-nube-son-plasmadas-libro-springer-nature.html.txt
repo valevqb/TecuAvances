@@ -1,0 +1,216 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   Pasar_al_contenido_principal
+****** Hoy_en_el_TEC ******
+
+Viernes 12 de Agosto, 2022
+  |  
+Quiénes_Somos   |   Buscar  
+
+***** Menú *****
+    * Investigación
+    * Desarrollo_Humano
+    * Vida_Estudiantil
+    * Acción_Institucional
+    * Medio_Ambiente
+    * Emprendimiento
+    * Cultura_y_Deporte
+    * Opinión
+    * Buscar
+
+
+ Texto desarrollado por investigador del TEC
+****** Aplicaciones de ingeniería en la nube son plasmadas en libro de Springer
+Nature ******
+Publicación impulsa investigación mediante el uso eficiente de herramientas
+especializadas utilizando capacidades avanzadas de computación en la nube.
+29 de Mayo 2020 Por: Kenneth_Mora_Pérez
+Acción_Institucional
+Investigación
+   Versión_para_imprimir    Descargar_PDF  Compartir por correo electrónico
+Comentarios
+ Compartir en Facebook  Compartir en Twitter        Compartir en WhatsApp
+[MANO_CON_CELULAR_Y_NUBE]
+Imagen ilustrativa. Pexels
+
+Una búsqueda para optimizar las herramientas computacionales y aplicaciones en
+el contexto ingenieril fue el inicio de una propuesta de investigación aplicada
+que se refleja hoy en una publicación internacional.
+El texto “Cloud_computing_for_Engineering_Applications” desarrollado por el
+Ing. Benito Stradi Granados recopila una serie de aplicaciones y procedimientos
+que son idóneos para el uso y aprendizaje de aplicaciones en la ingeniería
+mediante la computación en la nube.
+El libro publicado por la Editorial_Springer_Nature con sede en Nueva York,
+Estados Unidos, es el resultado de la implementación de estas aplicaciones que
+empezó, aproximadamente, una década atrás, por parte de Stradi en el
+Tecnológico_de_Costa_Rica_(TEC), con el objetivo de optimizar el uso de
+recursos para la investigación, así como agilizar procesos administrativos o de
+adquisición de equipo o licencias especializadas.
+Para esto, el autor, con apoyo de la Vicerrectoría_de_Investigación_y_Extensión
+(VIE) y del Departamento_de_Tecnologías_de_Información_y_Comunicación_(DATIC),
+desarrolló herramientas que facilitan el uso de aplicaciones para dibujo,
+simulación y estadística.
+Esto lo logró mediante la utilización de software como MathLab, SSPSS,
+SolidWorks, entre otros, que requieren muchas veces, capacidades de máquinas
+muy superiores a las que puede tener el usuario para su investigación.
+Por eso, mediante una plataforma que utiliza facilidades como Microsoft Azure,
+se logra construir, probar, desplegar y administrar aplicaciones y servicios
+mediante el uso de sus centros de datos, con ventajas de resultados más
+rápidos, en la nube y sin necesidad de adquirir equipos o licencias adicionales
+para los fines propuestos.
+[benito stradi]Ing. Benito Stradi Granados, autor del libro.
+      
+     “Con la iniciativa y la publicación realizada, buscamos romper el
+     molde tradicional mediante el establecimiento de colaboraciones
+     funcionales legítimas para la academia, que logren productos
+     investigativos o docentes que permitan cada día mejorar” destacó
+     Stradi, investigador de la VIE y de la Escuela de Ciencia e
+     Ingeniería de los Materiales.
+Esta iniciativa ha logrado entrenar en el uso de estas herramientas y
+procedimientos a unos 50 investigadores del TEC, así como de la Universidad de
+Costa Rica (UCR), quienes han utilizado estas facilidades para sus
+investigaciones, tanto de grado como de posgrado, a nivel no solo nacional,
+sino desde diversos puntos del orbe donde se encuentran los investigadores.
+Con 384 páginas, el libro se encuentra disponible para su adquisición mediante
+compra en línea a través de Springer Nature en la dirección: www.springer.com/
+us/book/9783030404444.
+[portada_de_libro] Tomado de Springer Nature.
+
+**** VEA TAMBIÉN: ****
+
+ [imagen_de_una_tablet,_con_la_portada_de_un_libro.]
+Investigaciones_del_TEC_son_perpetuadas_en_libro_internacional_que_señala_los
+desafíos_de_la_bioenergía
+
+ [Captura_de_pantalla_del_artículo_de_Nature.]
+Revista_‘Nature’_destaca_investigación_de_ingenieros_del_TEC_que_aplica
+inteligencia_artificial_a_la_botánica
+
+ Investigación, Libros, Computación
+[Kenneth Mora Pérez, Comunicador.]
+**** Kenneth_Mora_Pérez ****
+kmora@tec.ac.cr
+Comunicador
+Máster en Periodismo Digital, Universidad de Guadalajara, México. Licenciado en
+Comunicación, Universidad Federada de Costa Rica y Bachiller en Periodismo,
+Universidad Internacional de las Américas.
+View_the_discussion_thread.
+
+***** Relacionado *****
+**** TEC_trabaja_en_la_creación_de_respiradores_artificiales ****
+25 de Marzo 2020 Por: Kenneth_Mora_Pérez
+ [modelo_gráfico_de_respirado_artificial]
+**** Science_Disrupt_emite_podcast_con_investigación_del_TEC ****
+5 de Octubre 2017 Por: Kenneth_Mora_Pérez
+ [science_disrupt]
+**** Obra_literaria_sobre_historia_del_TEC,_primera_en_que_Editorial
+Tecnológica_incluye_formato_ePUB_3 ****
+24 de Abril 2017 Por: Sofía_Solano_Gómez
+
+**** El_arte_de_reinventar_la_investigación_y_la_extensión_en_medio_de_la
+pandemia ****
+12 de Octubre 2021 Por: Fernando_Montero_Bolaños
+ [imágenes_de_las_obras_que_representan__la_riqueza_arquitectónica_patrimonial
+del_centro_de_la_provincia.]
+
+Oficina_de_Comunicación_y_Mercadeo
+Teléfono: (506)_2550-2218 / (506)_2550-9194
+Correo electrónico: comunicacionymercadeotec@tec.ac.cr
+    * Quiénes_Somos
+    * Contacto
+    * Secciones
+
+    * Facebook
+    * Twitter
+    * Instagram
+    * YouTube
+[logo TEC]

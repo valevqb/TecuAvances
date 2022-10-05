@@ -1,0 +1,249 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   pasar_al_contenido_principal
+****** hoy_en_el_tec ******
+
+viernes 12 de agosto, 2022
+  |  
+quiénes_somos   |   buscar  
+
+***** menú *****
+    * investigación
+    * desarrollo_humano
+    * vida_estudiantil
+    * acción_institucional
+    * medio_ambiente
+    * emprendimiento
+    * cultura_y_deporte
+    * opinión
+    * buscar
+
+
+ investigación aplicada
+****** cuerpo de investigación visitan méxico para cimentar plan de desarrollo de drones
+para el servicio de guardacostas ******
+    * visita a la escuela naval militar de méxico sirvió para conocer el
+      avanzado programa de drones del país norteamericano
+13 de marzo 2018 por: johan_umaña_venegas
+desarrollo_humano
+investigación
+   versión_para_imprimir    descargar_pdf  compartir por correo electrónico
+comentarios
+ compartir en facebook  compartir en twitter        compartir en whatsapp
+[los_tres_cuerpo de investigación_costarricenses_posan_junto_a_nueve_militares
+mexicanos,_todos_con_uniforme_blanco.]
+sergio arriola, rebeca solís y juan luis crespo (derecha), los tres cuerpo docente e
+cuerpo de investigación del tec, visitaron méxico para conocer a fondo un
+moderno programa de drones. foto: cortesía inidetam.  
+
+desde el 2017, el tecnológico_de_costa_rica_(tec) se asoció con el servicio
+nacional de guardacostas para propiciar la creación de un programa de
+desarrollo de drones (aeronaves no tripuladas), que sirva para aumentar las
+capacidades operativas de vigilancia costera y dar apoyo en perseguir delitos
+como el narcotráfico y la pesca ilegal, entre otras personas.
+en la visión de este proyecto está que los sistemas de drones sean
+desarrollados por talento costarricense, de forma que se adapten a las
+necesidades específicas del país.para tal efecto, el tec participa como aliado
+tecnológico.
+en el marco de este plan, una delegación de cuerpo de investigación del tecnológico
+visitó –a inicios del mes pasado– las instalaciones del instituto de
+investigación y desarrollo tecnológico de la armada de méxico (inidetam) y el
+centro de capacitación en sistemas aéreos no tripulados (cencasant),ambos
+ubicados en la heroica escuela naval militar de méxico, en veracruz.
+el equipo interdisciplinario que realizó la visita estuvo compuesto por el_dr.
+juan_luis_crespo_mariño, del área académica de personas ingeniera mecatrónica; la
+máster rebeca solís ortega, de la escuela de matemática, y el ing. sergio
+arriola valverde, de la escuela de electrónica.
+“la visita fue de gran provecho para conocer cómo organizar, desde el
+principio, un sistema de desarrollo de drones. cuando uno requiere soluciones
+muy específicas, con necesidades muy específicas, tiene que desarrollar un
+proyecto altamente interdisciplinario, y eso es lo que vimos en méxico“,
+comentó el ingeniero crespo.
+
+solís y crespo atienen una de las reuniones con jerarcas de los programas de
+drones del ejercito mexicano. al fondo se aprecia un modelo de la aeronave no
+tripulada. foto: cortesía inidetam.
+
+**** provechosa visita ****
+en el inidetam la delegación tica se reunió con el contralmirante cuauhtémoc
+urrea urías, director del instituto, y otras personas altos cargos.
+mientras que en el cencasant, apreciaron las instalaciones donde se concentran
+las operaciones de capacitación de operadores de los sistemas de drones,
+diseñadores responsables de misiones y personal de mantenimiento técnico.
+“en méxico ya hay un avance considerable, con la creación de un instituto de
+capacitación y la preparación de profesionales en el área de drones. es
+muchísimo lo que abarca, ellos desarrollaron una estructura y están preparando
+a la gente necesaria para desarrollar las misiones, así como la fabricación de
+las naves“, recalcó crespo.
+además de los conocimientos personal técnico e ingenieriles –desde la electrónica,
+hasta la programación de software y ciencias de los materiales– para fabricar
+drones de gran tamaño, capaces de volar a más de 4.000 metros de altura y a una
+distancia de 100 kilómetros, las instituciones mexicanas han desarrollado un
+centro de capacitación para preparar los tres tipos de especialistas necesarios
+para utilizar las aeronaves:
+    * pilotos a distancia.
+    * personal técnico de mantenimiento y puesta en marcha del dron.
+    * diseñador de misión, quien determina la altura, alcance y protocolos más
+      adecuados para conseguir los objetivos planteados.
+según complementó crespo, durante los tres días de visita (7 al 9 de febrero)
+se mantuvo una serie de mesas de trabajo con los quienes forman parte del equipo
+responsable del proyecto spartaam –que lleva más de seis años especializado en
+el desarrollo de sistemas aéreos no tripulados–, encabezados por el director
+del proyecto, capitán julián ramos granados.
+en dichas sesiones, aseveró crespo, se analizó la experiencia a todos los
+niveles, desde aspectos relativos al diseño, control y administración del
+proyecto, hasta características personal técnico de los subsistemas electrónico,
+mecánico y aeronáutico de software de los drones.
+“la visita fue considerada un éxito por ambas partes, y abre la puerta no solo
+al desarrollo del proyecto de sistemas aéreos no tripulados, sino en general al
+intercambio de experiencias y conocimientos en el ámbito del desarrollo
+tecnológico y la investigación entre ambas instituciones”, comentó crespo.
+*** drones en las costas ***
+el siguiente paso, explica crespo, sería establecer un convenio marco entre el
+tecnológico y el servicios de guardacostas, adscrito al ministerio de
+seguridad, en el que se puedan dirimir la ruta para la creación del programa.
+“el propósito en un trabajo de este tipo no es la producción científica, sino
+que lo importante es el desarrollo de soluciones de tipo tecnológico y de
+carácter altamente innovador para resolver problemas que aquejan a la
+sociedad”, detalló crespo.
+según el especialista, a los mexicanos les tomó seis años el desarrollo de un
+dron completamente funcional, pero se dieron resultados durante el proceso,
+además de que paralelamente se construyeron los centros de capacitación y
+servicios personal técnico necesarios para la operación del programa.
+“el resultado final, que es las aeronaves completamente operativas les tomó
+seis años en méxico, pero tuvieron resultados antes. a los tres años ya tenían
+listo el primer prototipo y paralelamente desarrollaron toda la infraestructura
+necesaria”, ahonda crespo.
+
+ servicio_de_guardacostas, drones, investigación_aplicada
+[johan umaña venegas, comunicador.]
+**** johan_umaña_venegas ****
+johumana@tec.ac.cr
+comunicador
+licenciado en comunicación colectiva, con énfasis en periodismo, universidad de
+costa rica.
+view_the_discussion_thread.
+
+***** relacionado *****
+**** alumno_de_mecatrónica_se_encuentra_en_países_bajos_para_investigar_cómo
+perfeccionar_el_control_de_robots ****
+18 de mayo 2017 por: johan_umaña_venegas
+
+**** tec_presentó_sus_avances_en_aplicación_de_plasma_para_mejorar_implantes
+médicos_en_conferencia_internacional ****
+21 de julio 2017 por: johan_umaña_venegas
+ [laura_barillas_junto_al_póster_que_presentó_en_rumania._]
+**** el_plasma_también_sirve_para_la_agricultura ****
+29 de mayo 2017 por: johan_umaña_venegas
+ [grano_de_frijol_siendo_irradiado_por_una_llama_de_plasma.]
+**** estudiante_trabaja_en_herramienta_para_analizar_el_comportamiento_del
+índice_de_pérdida_del_arroz_en_costa_rica ****
+2 de julio 2020 por: noemy_chinchilla_bravo
+ [imagen_de_granos_de_arroz]
+
+oficina_de_comunicación_y_mercadeo
+teléfono: (506)_2550-2218 / (506)_2550-9194
+correo electrónico: comunicacionymercadeotec@tec.ac.cr
+    * quiénes_somos
+    * contacto
+    * secciones
+
+    * facebook
+    * twitter
+    * instagram
+    * youtube
+[logo tec]
+
+
+File name: C:\Users\valev\Documents\GitHub\TecuAvances\hoyeneltec\2018\investigadores-visitan-mexico-cimentar-plan-desarrollo-drones-servicio-guardacostas.html.txt
+Number of changes: 11
+Palabras reemplazadas: investigadores, docentes, otros, investigadores, ingeniería, otros, técnicos, técnicos, miembros, técnicas, técnicos

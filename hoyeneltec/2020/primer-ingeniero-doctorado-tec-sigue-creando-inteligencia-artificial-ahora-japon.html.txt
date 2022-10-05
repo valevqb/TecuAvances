@@ -1,0 +1,319 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   Pasar_al_contenido_principal
+****** Hoy_en_el_TEC ******
+
+Viernes 12 de Agosto, 2022
+  |  
+Quiénes_Somos   |   Buscar  
+
+***** Menú *****
+    * Investigación
+    * Desarrollo_Humano
+    * Vida_Estudiantil
+    * Acción_Institucional
+    * Medio_Ambiente
+    * Emprendimiento
+    * Cultura_y_Deporte
+    * Opinión
+    * Buscar
+
+
+ Doctorado Académico en Ingeniería
+****** El primer ingeniero doctorado por el TEC sigue creando Inteligencia
+Artificial, ahora en Japón ******
+José Mario Carranza trabaja en el Rakuten Institute of Technology, después de
+ser el primer egresado del Doctorado Académico en Ingeniería del TEC y la UCR
+ 
+Desde hace casi dos años vive en el país asiático junto a su esposa e hijo
+9 de Noviembre 2020 Por: Johan_Umaña_Venegas
+Investigación
+   Versión_para_imprimir    Descargar_PDF  Compartir por correo electrónico
+Comentarios
+ Compartir en Facebook  Compartir en Twitter        Compartir en WhatsApp
+[El_ingeniero_con_su_hijo,_en_coche,_a_la_par_de_un_venado.]
+José Mario Carranza con su hijo Santiago, en Nara, Japón. El ingeniero
+costarricense tiene dos años de vivir en el país asiático. Foto: Cortesía JM
+Carranza
+
+Jose Mario Carranza Rojas hizo algo que nunca se había hecho en el Tecnológico
+de_Costa_Rica_(TEC): fue el primer ingeniero en realizar toda su trayectoria
+académica en la Institución, de bachiller a doctor.  
+Como el primer graduado del Doctorado_Académico_en_Ingeniería –posgrado
+conjunto del TEC y la UCR–, Carranza demostró que para el talento costarricense
+ya no es obligatorio estudiar en el extranjero para generar investigación
+innovadora y de reconocimiento internacional.
+[Forma figurativa de un cerebro]Este artículo forma parte de una serie de
+publicaciones especiales con motivo del Boletín_Informativo_del_Doctorado
+Académico_en_Ingeniería..
+“Mucha gente cree que uno no puede codearse con personas del MIT, de Harvard,
+de Stanford, de ese tipo de lugares. Hay personas que se dan por menos. Pero en
+Costa Rica hay muy buenas universidades, no solamente el TEC (...). Una vez que
+uno está fuera, que uno se codea con gente de afuera, uno se da cuenta de que
+el nivel del TEC es muy bueno. 
+“Por dicha yo me di cuenta de eso muy joven, quizá por mi misma formación, a
+los 15 años ya estaba programando, entonces creo que tuve la dicha de poder
+notar esa calidad y al final decidí continuar todos mis estudios en el TEC“,
+comenta Carranza.
+Ese “afuera” al que se refiere el ingeniero es Japón, pues en 2018 se fue al
+país asiático para trabajar en el Rakuten_Institute_of_Technology_(RIT), la
+unidad dedicada a Desarrollo e Investigación de la empresa nipona. 
+Un poco entre risas, Carranza reconoce que en latinoamérica Rakuten solo es
+reconocido como la marca que lleva en la camiseta el equipo de fútbol del
+Barcelona. Pocos lo reconocen como el “Amazon de Japón”, un gigantesco mercado
+digital. Pero en Japón es uno de los conglomerados más grandes, tan posicionado
+en el comercio electrónico como en los servicios financieros y hasta de
+electricidad: “Ellos han montado toda una serie de servicios, tienen un sistema
+de puntos que enlaza todos los distintos servicios que dan, banco, teléfono
+Internet, luz...”, reseña Carranza.
+
+**** Un “mae” haciendo Inteligencia Artificial ****
+En el RIT la costumbre es que cada quien escoja un sobrenombre. José Mario se
+puso “mae”, que en japonés significa “adelante”, y así le dicen sus compañeros
+en el día a día, “como en Costa Rica”.
+Carranza enfoca sus investigaciones en la aplicación de Inteligencia Artificial
+para el procesamiento de imágenes. 
+“Trabajo con imágenes y modelos generativos. Puede hacer super resolución, el
+modelo aprende de que una imagen de poca resolución, limitada, aprende a hacer
+alta resolución y alucina las partes que faltan, usando conocimiento aprendido
+de un montón de otros datos. (...) A veces es impactante ver como una máquina
+que apenas ha visto unos cientos de imágenes, puede tomar esa imagen de baja
+resolución y genera los detalles, se ve realista, pero esa imagen en realidad
+no existe, es una aproximación de lo que la máquina piensa en la vida real cómo
+se vería”, cuenta Carranza.
+Carranza aplica el conocimiento adquirido en sus investigaciones de Maestría y
+Doctorado en el TEC, donde se enfocó_en_la_utilización_de_la_Inteligencia
+Artificial_para_reconocer_imágenes_de_plantas.
+“En el colegio le preguntaba al profe si se podría crear un programa que
+escribiera programas (...). Pues resulta que ahora, muchos años después, me
+dedico a eso, básicamente a hacer Inteligencia Artificial, Machine Learning,
+eshacer programas que aprenden y crean programas, están escritos diferente, no
+es un lenguaje de programación, si no que están escritos en el lenguaje de los
+pesos, de los modelos matemáticos”, argumenta Carranza.
+     “A mi mamá, en palabras simples, lo que he tratado de explicar es que
+     yo hago programas que aprenden por sí mismos patrones, patrones que
+     están en datos. Creo que con esa explicación es suficiente para mi
+     mamá, entender que al final tenemos cierto nivel de aprendizaje por
+     parte de la máquina, entonces ella lo que ha captado es que la
+     máquina por sí sola aprende cosas, y son cosas que yo no le tengo que
+     decir qué aprender, si no que la máquina empieza a ver patrones y
+     empieza a darle más importancia a ciertas cosas que otras y al final
+     de ahí saca conclusiones, y esas conclusiones son los resultados de
+     los clasificadores”.
+
+**** Japón, tierra de disciplina y Pikachus ****
+En noviembre de 2018 Carranza presentó su tesis de graduación para el Doctorado
+Académico en ingeniería. Lo hizo con prisa pues ya estaba contratado por
+Rakuten. 
+Poco después viajó con su esposa Adriana Zonta, y su primer hijo, Santiago, de
+apenas dos meses en aquel entonces, para establecerse en Japón. 
+“Vivir en Japón es una experiencia surreal, porque es una cultura totalmente
+distinta a lo que nosotros conocemos, desde la comida, la manera de ver el
+mundo”, cuenta Carranza.
+Un adagio resume lo que más le ha marcado a José Mario de la cultura japonesa:
+ “la disciplina tarde o temprano vencerá a la inteligencia”.
+     “Es un país sumamente disciplinado y admiro profundamente la
+     disciplina que ellos tienen; es un país donde todo funciona, donde
+     hay orden, limpieza, donde no hay sorpresas. Cualquier cosa que va a
+     pasar los japoneses siempre tienen un plan”.
+Carranza no era ajeno a la cultura nipona, pocos jóvenes afines a la tecnología
+lo son. La afición al animé y los videojuegos ya le había impulsado a estudiar
+japonés por un año, hace más de una década, cuando ni siquiera imaginaba que
+algún día viviría y trabajaría en aquel país asiático.  
+[Pikachus desfilando por la calle]El festival de Pikachu, en Yokohama, donde
+cientos de muñecos del famoso personaje desfilan por la calle. Foto tomada de:
+Yahoo.
+“Me ayudó mucho que cuando estaba en el TEC estudié japonés durante un año, por
+cuestión mía, y por dicha hice eso, porque cuando llegamos aquí, a pesar de que
+la empresa se mueve toda en inglés, la realidad de vivir aquí es que uno
+necesita saber japonés para vivir el día a día; cualquier documento oficial que
+uno tenga que hacer, cualquier vuelta que tenga que hacer es en japonés y es
+muy difícil que te entiendan otra cosa. Fue una salvada que yo hubiese
+estudiado japonés, tenía años de no practicar y cuando llegamos se me activó el
+chip y pude manejarlo”, narra el investigador costarricense.
+Cuando uno le pide que compare el Japón de la vida real con aquel que veía en
+los animés, dice que es totalmente distinto. Pero vacila, y pronto recuerda que
+Akihabara”es como un animé de la vida real”, que sí hay un Gundam (un robot) de
+tamaño real (20 metros de altura), y que en Yokohama el Pikachu Parade es
+incomparable con lo que se pueda experimentar en cualquier otra parte del
+mundo.
+
+ [Imagen_de_la_antena_y_el_transistor._]
+‘El_Doctorado_en_Ingeniería_brinda_un_espacio_a_nuestro_talento_humano_para_el
+desarrollo_de_proyectos_innovadores’
+
+**** Renunció a Intel para hacer el Doctorado ****
+Cuando Carranza empezó el Doctorado Académico en Ingeniería trabajaba para
+Intel. Mas las exigencias del postgrado y la imposibilidad de desarrollar su
+investigación en la trasnacional, le obligaron a decidir entre uno y otro:
+     “Yo intenté llevar el Doctorado trabajando para Intel, pero
+     lamentablemente en ese momento Intel no estaba interesado en mi
+     proyecto y tuve que renunciar; me dolió mucho haber renunciado a
+     Intel, pero yo sabía que el doctorado era más importante para
+     continuar con mi carrera como científico-investigador, y yo agradezco
+     profundamente al Doctorado haber terminado de formarme como
+     investigador”. 
+[José Mario Carranza con túnica de graduación]No lamenta haber tomado esa
+decisión pues, argumenta, el Doctorado le abrió las puertas para seguirse
+formando como investigador y sentirse “en las grandes ligas”.
+“El doctorado me terminó de catapultar, fue la mejor decisión que yo pude haber
+tomado”, aduce.
+Parte de la experiencia fue hacer una pasantía en Francia y una visita al
+Montreal Institute for Learning Algorithms (MILA), el “mejor laboratorio de
+Inteligencia Artificial del mundo”. También, publicaciones en revistas de
+renombre mundial, una de ellas reseñada_por_la_revista_Nature, en 2017.
+Además de haber estudiado bachillerato, maestría y doctorado en el TEC,
+Carranza fue profesor y ha dejado una huella importante tanto en el cuerpo
+docente como en los que fueron sus estudiantes. 
+“José es un estudiante fuera de serie, particularmente porque es muy
+inquisitivo, muy proactivo y porque tiene estándares de excelencia muy altos,
+él se autoexige bastante”, cuenta el Dr. Erick Mata, tutor de investigación de
+Carranza tanto en maestría como en doctorado.
+Según el Dr. Mata, la huella de Carranza se ve en otros estudiantes y el
+impulso que han tomado para seguir trabajando investigaciones en temas de
+Inteligencia Artificial. Así lo ve también Carranza, quien sigue intentando
+colaborar con la Escuela de Ingeniería en Computación del TEC, brindando
+charlas y buscando la manera de compartir su conocimiento.
+      “A mí me inspira mucho porque cuando un postgrado como el Doctorado
+Académico en Ingeniería está enfocado en la investigación y tiene un componente
+de investigación internacional, porque hace obligatorio hacer una pasantía en
+el extranjero; el estudiante aún estando en el país puede desarrollar
+investigaciones que son del calibre de las que se desarrollan en centros de
+investigación y universidades alrededor del mundo. Es una visión del mundo
+globalizado y de lo importante que es el networking con otras entidades”. Dr.
+Erick Mata, tutor de José Mario Carranza
+**** VEA TAMBIÉN: ****
+
+ [persona_con_tablet_tomando_datos_y_análisis_de_plantas_en_invernadero]
+Cultivos_hortícolas_podrán_ser_supervisados_remotamente_con_Internet_de_las
+Cosas
+
+ Doctorado_Académico_en_Ingeniería, José_Mario_Carranza, Inteligencia
+Artificial
+[Johan Umaña Venegas, Comunicador.]
+**** Johan_Umaña_Venegas ****
+johumana@tec.ac.cr
+Comunicador
+Licenciado en Comunicación Colectiva, con énfasis en Periodismo, Universidad de
+Costa Rica.
+View_the_discussion_thread.
+
+***** Relacionado *****
+**** Estudiantes_e_investigadores_del_TEC_trabajan_para_poner_a_punto_los
+sistemas_del_primer_satélite_costarricense ****
+24 de Agosto 2017 Por: Johan_Umaña_Venegas
+ [El_satélite_en_primer_plano,_con_otros_equipos_al_fondo._]
+**** ‘Se_siente_como_el_primer_hombre_en_la_luna’:_uno_de_los_jóvenes_que
+ensambló_el_primer_satélite_de_Centroamérica_cuenta_su_historia ****
+8 de Noviembre 2017 Por: Johan_Umaña_Venegas
+ [Esteban_Martínez_posa_junto_a_instrumentos_musicales.]
+**** Científicos_crean_la_versión_2.0_del_respirador_para_pacientes_con_Covid-
+19 ****
+23 de Febrero 2022 Por: Irina_Grajales_Navarrete
+ [Científicos_posan_para_la_fotografia_al_lado_del_respirador]
+**** Identificación_de_residuos_de_plaguicidas_y_liberación_de_medicamentos
+mediante_nuevos_polímeros_propone_investigación_doctoral ****
+17 de Enero 2022 Por: Kenneth_Mora_Pérez
+ [El_electrodo_tiene_forma_similar_a_un_espiral.]
+
+Oficina_de_Comunicación_y_Mercadeo
+Teléfono: (506)_2550-2218 / (506)_2550-9194
+Correo electrónico: comunicacionymercadeotec@tec.ac.cr
+    * Quiénes_Somos
+    * Contacto
+    * Secciones
+
+    * Facebook
+    * Twitter
+    * Instagram
+    * YouTube
+[logo TEC]
