@@ -1,0 +1,236 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   Pasar_al_contenido_principal
+****** Hoy_en_el_TEC ******
+
+Viernes 12 de Agosto, 2022
+  |  
+Quiénes_Somos   |   Buscar  
+
+***** Menú *****
+    * Investigación
+    * Desarrollo_Humano
+    * Vida_Estudiantil
+    * Acción_Institucional
+    * Medio_Ambiente
+    * Emprendimiento
+    * Cultura_y_Deporte
+    * Opinión
+    * Buscar
+
+
+ Laboratorio de Sistemas Espaciales
+****** Cartago es sede de la más reciente antena del sistema de rastreo de
+satélites de la Agencia Espacial Europea ******
+Convenio con ESA permitió colocar el dispositivo en la azotea del edificio de
+Electrónica, en el Campus Tecnológico Central
+ 
+Sirve tanto para investigaciones científicas como para correcciones de órbita
+de los satélites
+29 de Junio 2022 Por: Johan_Umaña_Venegas
+Investigación
+   Versión_para_imprimir    Descargar_PDF  Compartir por correo electrónico
+Comentarios
+ Compartir en Facebook  Compartir en Twitter        Compartir en WhatsApp
+[La_antena_es_blanca_y_tiene_forma_de_cono_inverso.]
+La antena de la red de rastreo de satélites de la Agencia Espacial Europea se
+ubica en la azotea del Edificio de Electrónica, en el Campus Central
+Tecnológico de Cartago. Foto: J. Carvajal.
+
+Este año Cartago se convirtió en sede de la estación número 25 de la red global
+de rastreo de satélites de la Agencia_Espacial_Europea (ESA, por las siglas en
+inglés).
+Denominada GNSS_Observation_Network,_o_EGON, esta conexión sirve para dar
+seguimiento a las constelaciones de satélites de la agencia europea y
+actividades cotidianas, como correcciones de órbita o investigaciones
+científicas, explicó el Dr. Johan Carvajal Godinez, del Laboratorio_de_Sistemas
+Espaciales_del_Tecnológico_de_Costa_Rica_(SETEC-Lab), quien se encargó de
+liderar el proyecto.
+“Las estaciones terrestres proporcionan el enlace entre los satélites de la ESA
+en órbita y el centro de control de operaciones en Tierra. Todas las estaciones
+proporcionan datos multi-GNSS y una transmisión en tiempo real”, destaca la ESA
+en su sitio web.
+La ESA envió al país los componentes del dispositivo y confió en los
+especialistas de la Escuela_de_Ingeniería_Electrónica del TEC para hacer la
+instalación y la configuración del equipo para su integración con el Centro
+Europeo de Operaciones Espaciales de la ESA (ESOC), en Alemania.
+Para Carvajal, la participación del TEC como socio de ESA en este proyecto –por
+medio de un acuerdo de cooperación– demuestra que cada vez es más seria la
+incursión de la Institución en el sector aeroespacial y que se siguen
+multiplicando las oportunidades de colaboración internacionales.
+     “Desde el SETEC-Lab siempre lo vislumbramos como una gran
+     oportunidad, porque da más relevancia al nombre de Costa Rica en el
+     mundo del desarrollo aeroespacial y nos abre más oportunidades a
+     investigadores y estudiantes del TEC”, comentó Carvajal.
+Las 25 estaciones de EGON están distribuidas por todo el mundo. En América se
+encuentran en Guyana Francesa (desde donde la ESA hace sus lanzamientos
+espaciales), Argentina, México y Brasil.
+La antena en Cartago es la única que se ubica en Centroamérica, por lo que
+cumple el objetivo ampliar la cobertura de la red EGON para mejorar su
+precisión.
+  [Mapa_mundi_con_los_puntos_donde_se_ubican_las_estaciones.]
+Este mapa de la Agencia Espacial Europea demuestra donde se ubican las
+estaciones de la red EGON. Imagen tomada del sitio_web_de_ESA.
+
+**** Utilización de datos para investigar ****
+ Este equipo recibe la señal de la antena y decodifica la información. Foto: J.
+Carvajal.
+Además del prestigio de que la ESA haya confiado en el TEC para colocar un
+dispositivo de este tipo y formar parte de la red EGON, la cooperación brindará
+al SETEC-Lab la posibilidad de utilizar los datos para complementar tareas de
+investigación.
+De acuerdo con Carvajal, el convenio estipula que los especialistas del TEC
+pueden utilizar la información de la red para investigaciones propias, siempre
+que los archivos no pasen a manos de terceros ni sean publicados sin
+consentimiento de la Agencia Espacial Europea.
+Asimismo, comenta el especialista, se pueden plantear iniciativas de
+investigación con otras organizaciones que manejan estaciones similares en el
+país, por ejemplo, el Instituto_Geográfico_Nacional.
+En 2018 fue lanzado al espacio el satélite Irazú, que fue el primer dispositivo
+de este tipo hecho en Costa Rica, en una iniciativa conjunta del Tecnológico de
+Costa Rica y la Asociación Centroamericana de Aeronáutica y del Espacio (ACAE).
+Desde entonces, se ha incrementado considerablemente los alcances y logros del
+programa espacial costarricense, con numerosos premios estudiantiles y
+participación en diferentes proyectos de investigación internacionales.
+Además, en 2017 el TEC se convirtió en la primera universidad de la región en
+formar parte de la Federación Internacional de Astronáutica (IAF, por sus
+siglas en inglés), algo que ha potenciado sustancialmente la participación de
+los costarricenses en ese espacio donde convergen las organizaciones y empresas
+más importantes detrás de la exploración humana del espacio.
+
+ [Se_observan_tres_mujeres_en_el_escenario,_en_un_panel_de_discusión.]
+Nuevamente_una_costarricense_es_elegida_como_Líder_Emergente_del_Espacio
+
+ [Dos_investigadores_del_TEC_muestran_el_certificado.]
+La_Federación_Internacional_de_Astronáutica_recibe_al_TEC_como_la_primera
+universidad_de_la_región_entre_sus_miembros
+
+ Agencia_Espacial_Europea, Espacio, SETEC-Lab, Sistemas_espaciales
+[Johan Umaña Venegas, Comunicador.]
+**** Johan_Umaña_Venegas ****
+johumana@tec.ac.cr
+Comunicador
+Licenciado en Comunicación Colectiva, con énfasis en Periodismo, Universidad de
+Costa Rica.
+View_the_discussion_thread.
+
+***** Relacionado *****
+**** TEC_hace_histórica_conexión_con_Estación_Espacial_Internacional ****
+27 de Mayo 2019 Por: Kenneth_Mora_Pérez
+ [international_space_station]
+**** Aceleradora_espacial_de_Singapur_elige_a_empresa_de_estudiantes
+costarricenses_como_primer_socio_en_Centroamérica ****
+29 de Julio 2021 Por: Johan_Umaña_Venegas
+ [Grupo_de_jóvenes,_en_un_amesa.]
+**** Costarricense_es_elegido_entre_los_Jóvenes_Líderes_del_Espacio_por_la
+Federación_Internacional_de_Astronáutica ****
+29 de Junio 2021 Por: Johan_Umaña_Venegas
+ [Marco_Gómez_en_el_escenario,_frente_a_una_proyección_que_dice_SpaceX.]
+**** Satélite_tico_será_lanzado_al_espacio_el_2_de_abril_a_bordo_de_un_Falcon_9
+de_SpaceX ****
+6 de Marzo 2018 Por: Johan_Umaña_Venegas
+ [Despegue_del_cohete_Falcon_9.]
+
+Oficina_de_Comunicación_y_Mercadeo
+Teléfono: (506)_2550-2218 / (506)_2550-9194
+Correo electrónico: comunicacionymercadeotec@tec.ac.cr
+    * Quiénes_Somos
+    * Contacto
+    * Secciones
+
+    * Facebook
+    * Twitter
+    * Instagram
+    * YouTube
+[logo TEC]
