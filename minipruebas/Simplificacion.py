@@ -19,43 +19,12 @@ def isLetter(word):
     return word
 
 #---------------------------------------------------------------------------------------------------------
-# Guarda las lineas de los documentos donde se aplicaron cambios
-#---------------------------------------------------------------------------------------------------------
-def getChangesByLine(fileName):
-    data = {}
-    dictionary = {} #diccionario de contenidos
-    with open('data.json',encoding="utf-8") as file: #abre el archivo json con tildes
-        data = json.load(file)
-
-        for neutral in data['datos']: #agrega los datos
-            for abc in neutral:
-                dictionary = dict (dictionary,**neutral[abc])
-    texts = open (fileName, encoding="utf-8")
-
-    contents = texts.readlines() #contenido del texto
-
-    linesXChangedWords = []
-    for line in contents:
-        if isChangedWord(line, dictionary):
-            linesXChangedWords.append(line)
-    return linesXChangedWords
-        
-#---------------------------------------------------------------------------------------------------------
-# Verifica si hay un cambio en alguna palabra en una linea de texto
-#---------------------------------------------------------------------------------------------------------
-def isChangedWord(line, dictionary):
-    for word in line.split(' '): #recorrer texto por palabras
-        word2 = isLetter(word)
-        for key in dictionary: #recorrer diccionario
-            if(word2[0:len(word2)-2] == key and word2[0:len(word2)-2] != ""): #si la palabra es igual a la llave
-                return True
-    return False
-#---------------------------------------------------------------------------------------------------------
 # Aplica los cambios a los archivos
 #---------------------------------------------------------------------------------------------------------
 def runChanges (fileName,directoryName):
     data = {}
     dictionary = {} #diccionario de contenidos
+    listaLineasNumeros = [] #Lista numeros
 
     with open('data.json',encoding="utf-8") as file: #abre el archivo json con tildes
         data = json.load(file)
@@ -64,41 +33,46 @@ def runChanges (fileName,directoryName):
             for abc in neutral:
                 dictionary = dict (dictionary,**neutral[abc])
 
-    #print("Write the file name:")
-    #fileName = input()
-
-    texts = open (fileName, encoding="utf-8")
-
-    contents = texts.read() #contenido del texto
-    contents = contents.lower()
-
-    changedWords = []
-    replacesNum = 0
-    for word in contents.split(' '): #recorrer texto por palabras
-        word2 = isLetter(word)
-        #print(word2)
-        for key in dictionary: #recorrer diccionario
-            if(word2[0:len(word2)-2] == key and word2[0:len(word2)-2] != ""): #si la palabra es igual a la llave
-                changedWords.append(word2)
-                lists = dictionary[key]
-                replacesNum += 1
-                contents = contents.replace(word2,lists[0])
-
-    texts.close
-
     name = fileName.split('\\')
     name = name[-1]
 
-    texts = open (directoryName + 'Nuevo' + '\\' + name[0:len(name)-4] + 'Cambio' + '.txt', 'w', encoding="utf-8");
+    newName = directoryName + 'Nuevo' + '\\' + name[0:len(name)-4] + 'Cambio' + '.txt'
 
-    contents = contents + '\n\n' + 'File name: ' + fileName + '\nNumber of changes: ' + str(replacesNum) + '\n'
-    contents = contents + "Palabras reemplazadas: " + ', '.join(changedWords)
+    texts = open (fileName, encoding="utf-8")
+    newTexts = open (newName, 'w', encoding="utf-8");
+    newTexts.write(texts.read())
+    texts.close
+    newTexts.close
+
+    newTexts = open (newName, 'r+', encoding="utf-8");
+    contents = newTexts.readlines() #contenido del texto
+
+    changedWords = []
+    replacesNum = 0
+    listaLineasConCambios = []  #Contendra todas las lineas que tuvieron cambios aplicados
+    for num,sentence in enumerate(contents): #recorrer texto por palabras
+        for word in sentence.split(' '):
+            word = word.lower();
+            word2 = isLetter(word)
+            for key in dictionary: #recorrer diccionario
+                if(word2[0:len(word2)-2] == key and word2[0:len(word2)-2] != ""): #si la palabra es igual a la llave
+                    changedWords.append(word2) #palabras cambiadas
+                    lists = dictionary[key]
+                    replacesNum += 1
+                    newTexts.write(sentence.replace(word2,lists[0])) #reemplazo del contenido
+                    listaLineasConCambios.append(str(sentence)) #guarda la linea con cambios
+                    listaLineasNumeros.append(num+1) #numeros
+
+    finalData = '\n\n' + 'File name: ' + fileName + '\nNumber of changes: ' + str(replacesNum) + '\n'
+    finalData = finalData + "Palabras reemplazadas: " + ', '.join(changedWords) + '\n'
+    finalData = finalData + "Numero lineas modificadas: " + str(listaLineasNumeros) + '\n'
+    finalData = finalData + "Lineas modificadas: " + str(listaLineasConCambios)
 
     #print(contentsCopy)
 
-    texts.write(contents)
+    newTexts.write(finalData)
 
-    texts.close
+    newTexts.close
     return replacesNum
 
 #---------------------------------------------------------------------------------------------------------
@@ -172,13 +146,8 @@ def main ():
 
     #######################################
 
-    listaDeCambios = []
-    listaLineasConCambios = []  #Contendra todas las lineas que tuvieron cambios aplicados
-
     listTxt = os.listdir(directoryName) #lee todos los archivos en la carpeta
     for file in listTxt: #recorre uno a uno los archivos de la carpeta
-        #print(file)
-        listaLineasConCambios.append(getChangesByLine(directoryName+'\\'+file))
         listaDeCambios.append(runChanges(directoryName+'\\'+file,directoryName))
 
     listaDeCambios.sort()
@@ -194,5 +163,10 @@ def main ():
     print("\n\nEl programa tarda: \t" + str(tiempoTranscurrido))
 
     generarGráfico (listaDeCambios)
+
+#---------------------------------------------------------------------------------------------------------
+# Globales y resto de funciones
+#---------------------------------------------------------------------------------------------------------
+listaDeCambios = []
 
 main();
